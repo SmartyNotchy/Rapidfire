@@ -5,13 +5,14 @@ body {
     color: white;
 
     font-family: 'Inclusive Sans', sans-serif;
-    font-display: swap;
+    font-display: block;
     text-align: center;
 }
 
 button {
     font-family: 'Inclusive Sans', sans-serif;
-    font-display: swap;
+    font-display: block;
+    cursor: pointer;
 }
 
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
@@ -129,7 +130,6 @@ button {
 
 #session_content_question_div {
     width: 600px;
-    height: 500px; /* TODO FIX */
 
     background-color: #111827;
 
@@ -154,7 +154,7 @@ button {
 }
 
 #scq_qspacer {
-    height: 50px;
+    height: 20px;
     width: 0px;
 }
 
@@ -163,6 +163,7 @@ button {
     font-size: 16px;
     margin-top: 30px;
 }
+
 #scq_sa_div {
     width: 100%;
     height: 45px;
@@ -182,7 +183,7 @@ button {
 
     color: white;
     font-family: 'Inclusive Sans', sans-serif;
-    font-display: swap;
+    font-display: block;
     font-size: 16px;
 
     padding-left: 10px;
@@ -221,6 +222,70 @@ button {
     background-color: #3366ff;
 }
 
+#scq_sa_btn_svg {
+    width: 25px;
+    height: 25px;
+    color: white;
+}
+
+#scq_mcq_div {
+    width: 100%;
+}
+
+.scq_mcq {
+    width: 100%;
+
+    box-sizing: border-box;
+
+    border: 1px solid gray;
+    border-radius: 10px;
+
+    background-color: #1f2937;
+
+    color: white;
+    font-family: 'Inclusive Sans', sans-serif;
+    font-size: 16px;
+
+    text-align: left;
+
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 10px;
+}
+
+.scq_mcq:last-child {
+    margin-bottom: 0px;
+}
+
+.scq_mcq_label {
+    width: 40px;
+    height: 40px;
+
+    border: 1px solid gray;
+    border-radius: 100px;
+
+    font-size: 20px;
+
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0 0 auto;
+}
+
+.scq_mcq_text {
+    font-size: 16px;
+    color: white;
+
+    margin-right: 5px;
+}
+
 #scq_qfeedback {
     display: flex;
     align-items: center;
@@ -239,4 +304,8 @@ button {
 .scq_qfeedback_svg {
     width: 25px;
     height: 25px;
+}
+
+#scq_qfeedback.correct {
+    color: #33cc33;
 }
