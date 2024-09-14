@@ -14,9 +14,60 @@
   </head>
   <body>
     <main>
-      
+      <div id="templates" style="display: none;">
+        <svg id="svg_x" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" d="m9.75 9.75 4.5 4.5m0-4.5-4.5 4.5M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+        </svg>
+
+        <svg id="svg_check" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+        </svg>
+      </div>
+
+
+      <div id="mainmenu_div">
+        <img id="mainmenu_logo" href="images/global/logo.png">
+
+        <p id="mainmenu_subtitle">An efficient flashcard-style review tool with an emphasis on retention.</p>
+
+        <div id="mainmenu_btn_div">
+          <button class="mainmenu_btn" id="mainmenu_btn_continue" disabled>Continue Session</button>
+          <button class="mainmenu_btn" id="mainmenu_btn_new">New Session</button>
+          <button class="mainmenu_btn" id="mainmenu_btn_settings">Settings</button>
+          <button class="mainmenu_btn" id="mainmenu_btn_about">About</button>
+          <button class="mainmenu_btn" id="mainmenu_btn_contribute">Contribute</button>
+        </div>
+      </div>
+
+      <div id="session_div">
+        <div id="session_content_div">
+          <div id="session_content_question_div">
+            <p id="scq_qnum">Question #1/999</p>
+            <p id="scq_qtype">Short Answer</p>
+            <p id="scq_desc">This is a sample question. What is 1+1?</p>
+
+            <div id="scq_qspacer"></div>
+
+            <div id="scq_sa_div">
+              <input id="scq_sa_input" placeholder="Enter your answer here...">
+              <button id="scq_sa_btn"></button>
+            </div>
+
+            <div id="scq_qfeedback">
+              <div id="scq_qfeedback_icons">
+                <svg class="scq_qfeedback_svg"><use href="#svg_check"></use></svg>
+              </div>
+              <p id="scq_qfeedback_text">Correct</p>
+            </div>
+          </div>
+          <div id="session_content_image_div">
+
+          </div>
+        </div>
+      </div>
     </main>
 
+    <script src="scripts/settings.js"></script>
     <script src="scripts/q_render.js"></script>
     <script src="scripts/q_session.js"></script>
     <script src="scripts/session_create.js"></script>
