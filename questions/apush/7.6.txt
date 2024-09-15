@@ -1,31 +1,31 @@
 [QUESTION TYPE] SAQ
-[QUESTION] The main challenge of US entry into WW1 was (mobilization/winning battles/combating blitzkrieg/developing nukes).]
+[QUESTION] The main challenge of US entry into WW1 was (mobilization/winning battles/combating blitzkrieg/developing nukes).
 [ANS] Mobilization
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Espionage & Sedition Acts (1917-18) were upheld by this court case.]
+[QUESTION] The Espionage & Sedition Acts (1917-18) were upheld by this court case.
 [ANS] Schenk v. United States
 [ANS] Schenk v. US
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] African Americans migrated in large numbers to the North in the \_\_\_\_ \_\_\_\_\_\_\_.]
+[QUESTION] African Americans migrated in large numbers to the North in the \_\_\_\_ \_\_\_\_\_\_\_.
 [ANS] Great Migration
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This refers to the fear of foreigners.]
+[QUESTION] This refers to the fear of foreigners.
 [ANS] Xenophobia
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_\_\_ \_\_\_\_ arrested more than 6k people during WW1 over suspicions of communism & radicalism.]
+[QUESTION] The \_\_\_\_\_\_ \_\_\_\_ arrested more than 6k people during WW1 over suspicions of communism & radicalism.
 [ANS] Palmer Raids
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Palmer Raids jailed thousands of people due to anti-\_\_\_\_\_\_\_ hysteria.]
+[QUESTION] The Palmer Raids jailed thousands of people due to anti-\_\_\_\_\_\_\_ hysteria.
 [ANS] Communist
 [ANS] Socialist
 [END]

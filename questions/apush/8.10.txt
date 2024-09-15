@@ -1,40 +1,40 @@
 [QUESTION TYPE] SAQ
-[QUESTION] MLK Jr led the \_\_\_\_\_ \_\_ \_\_\_\_\_\_\_\_\_\_, the most successful civil rights march in history.]
+[QUESTION] MLK Jr led the \_\_\_\_\_ \_\_ \_\_\_\_\_\_\_\_\_\_, the most successful civil rights march in history.
 [ANS] March on Washington
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the March on Washington, MLK Jr gave his famous "\_ \_\_\_ \_ \_\_\_\_" speech.]
+[QUESTION] In the March on Washington, MLK Jr gave his famous "\_ \_\_\_ \_ \_\_\_\_" speech.
 [ANS] I Have A Dream
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Civil Rights Act of 19\_\_ outlawed segregation in public facilities and formed the Equal Employment Opportunity Commission.]
+[QUESTION] The Civil Rights Act of 19\_\_ outlawed segregation in public facilities and formed the Equal Employment Opportunity Commission.
 [ANS] 64
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Amendment #\_\_ ended the use of poll taxes.]
+[QUESTION] Amendment #\_\_ ended the use of poll taxes.
 [ANS] 24
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Civil Rights Act of 19\_\_ ended the use of literacy tests to restrict voting.]
+[QUESTION] The Civil Rights Act of 19\_\_ ended the use of literacy tests to restrict voting.
 [ANS] 65
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_\_ \_\_\_\_\_\_ leaders preached Black nationalism, separatism, and self-improvement.]
+[QUESTION] \_\_\_\_\_ \_\_\_\_\_\_ leaders preached Black nationalism, separatism, and self-improvement.
 [ANS] Black Muslim
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_\_\_ \_ was the most controversial voice of the Black Muslim movement, advocating for violence against whites.]
+[QUESTION] \_\_\_\_\_\_ \_ was the most controversial voice of the Black Muslim movement, advocating for violence against whites.
 [ANS] Malcolm X
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_\_ \_\_\_\_\_\_\_, inspired by Malcolm X, advocated self-rule for blacks.]
+[QUESTION] \_\_\_\_\_ \_\_\_\_\_\_\_, inspired by Malcolm X, advocated self-rule for blacks.
 [ANS] Black Panthers
 [END]
 -------------------

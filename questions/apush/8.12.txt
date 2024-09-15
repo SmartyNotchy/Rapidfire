@@ -1,27 +1,27 @@
 [QUESTION TYPE] SAQ
-[QUESTION] By the 1960s, the \_\_\_\_\_\_ generation started to graduate high school and gain adulthood.]
+[QUESTION] By the 1960s, the \_\_\_\_\_\_ generation started to graduate high school and gain adulthood.
 [ANS] Baby Boom
 [ANS] Baby Boomers
 [ANS] Boomer
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Supporters of democracy in high school decisions & the SDS were called the "\_\_\_ \_\_\_\_".]
+[QUESTION] Supporters of democracy in high school decisions & the SDS were called the "\_\_\_ \_\_\_\_".
 [ANS] New Left
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] From Berkeley, students started the \_\_\_\_ \_\_\_\_\_ \_\_\_\_\_\_\_\_, focusing on opposition to the Vietnam War & draft.]
+[QUESTION] From Berkeley, students started the \_\_\_\_ \_\_\_\_\_ \_\_\_\_\_\_\_\_, focusing on opposition to the Vietnam War & draft.
 [ANS] Free Speech Movement
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ embraced violence & vandalism in protests, discrediting student protests.]
+[QUESTION] The \_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ embraced violence & vandalism in protests, discrediting student protests.
 [ANS] Weather Underground
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the new youth \_\_\_\_\_\_\_\_, teens wore rebellious dress, listening to rock & roll, and used more drugs & had increased sexual activity.]
+[QUESTION] In the new youth \_\_\_\_\_\_\_\_, teens wore rebellious dress, listening to rock & roll, and used more drugs & had increased sexual activity.
 [ANS] Counterculture
 [END]
 -------------------

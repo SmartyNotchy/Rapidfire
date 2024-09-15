@@ -1,23 +1,23 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Name a significant conflict between early British colonists & natives.]
+[QUESTION] Name a significant conflict between early British colonists & natives.
 [ANS] Metacom's War
 [ANS] King Philip's War
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This European group often traded & married with natives, maintaining decent relations.]
+[QUESTION] This European group often traded & married with natives, maintaining decent relations.
 [ANS] French
 [ANS] France
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This European group often conquered & enslaved natives with violence.]
+[QUESTION] This European group often conquered & enslaved natives with violence.
 [ANS] Spanish
 [ANS] Spain
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This European group often expelled natives from lands they wanted.]
+[QUESTION] This European group often expelled natives from lands they wanted.
 [ANS] British
 [ANS] Britain
 [ANS] English

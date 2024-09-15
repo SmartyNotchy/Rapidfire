@@ -1,40 +1,40 @@
 [QUESTION TYPE] SAQ
-[QUESTION] This system during the Gilded Age gave loyal party members jobs & favors, resulting in large voter turnout.]
+[QUESTION] This system during the Gilded Age gave loyal party members jobs & favors, resulting in large voter turnout.
 [ANS] Patronage
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Perhaps the most prominent political machine, located in NYC, was:]
+[QUESTION] Perhaps the most prominent political machine, located in NYC, was:
 [ANS] Tammany Hall
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Populist Party was also known as the \_\_\_\_\_ Platform.]
+[QUESTION] The Populist Party was also known as the \_\_\_\_\_ Platform.
 [ANS] Omaha
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] (Republicans/Democrats/Populists) criticized the laissez-faire system.]
+[QUESTION] (Republicans/Democrats/Populists) criticized the laissez-faire system.
 [ANS] Populists
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] (Republicans/Democrats/Populists) supported state rights & less government influence.]
+[QUESTION] (Republicans/Democrats/Populists) supported state rights & less government influence.
 [ANS] Democrats
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] (Republicans/Democrats/Populists) wanted high tariffs to help local producers.]
+[QUESTION] (Republicans/Democrats/Populists) wanted high tariffs to help local producers.
 [ANS] Republicans
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] (Republicans/Democrats/Populists) opposed the silver standard in favor of the gold standard.]
+[QUESTION] (Republicans/Democrats/Populists) opposed the silver standard in favor of the gold standard.
 [ANS] Republicans
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] (Republicans/Democrats/Populists) mainly represented farmers & factory workers.]
+[QUESTION] (Republicans/Democrats/Populists) mainly represented farmers & factory workers.
 [ANS] Populists
 [END]
 -------------------

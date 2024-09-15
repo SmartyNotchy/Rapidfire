@@ -1,40 +1,40 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Lyndon Johnson pledged to expand the New Deal, creating the "\_\_\_\_\_ \_\_\_\_\_\_\_".]
+[QUESTION] Lyndon Johnson pledged to expand the New Deal, creating the "\_\_\_\_\_ \_\_\_\_\_\_\_".
 [ANS] Great Society
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Due to the book *The Other America*, Johnson declared a \_\_\_ \_\_ \_\_\_\_\_\_\_.]
+[QUESTION] Due to the book *The Other America*, Johnson declared a \_\_\_ \_\_ \_\_\_\_\_\_\_.
 [ANS] War on Poverty
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This Great Society reform helped low-income people buy food.]
+[QUESTION] This Great Society reform helped low-income people buy food.
 [ANS] Food Stamp Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This Great Society reform provided health insurance for seniors.]
+[QUESTION] This Great Society reform provided health insurance for seniors.
 [ANS] Medicare
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This Great Society reform provided medical care for those in poverty.]
+[QUESTION] This Great Society reform provided medical care for those in poverty.
 [ANS] Medicaid
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This Great Society reform provided federal scholarships for postsecondary education.]
+[QUESTION] This Great Society reform provided federal scholarships for postsecondary education.
 [ANS] Higher Education Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This Great Society reform abolished discriminatory immigration quotas.]
+[QUESTION] This Great Society reform abolished discriminatory immigration quotas.
 [ANS] Immigration Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] By the 1980s, most immigrants came from two regions; name one.]
+[QUESTION] By the 1980s, most immigrants came from two regions; name one.
 [ANS] Latin America
 [ANS] Asia
 [END]

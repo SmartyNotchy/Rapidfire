@@ -1,66 +1,66 @@
 [QUESTION TYPE] SAQ
-[QUESTION] In WW1, Germany, Austria-Hungary, and the Ottoman Empire formed the:]
+[QUESTION] In WW1, Germany, Austria-Hungary, and the Ottoman Empire formed the:
 [ANS] Triple Alliance
 [ANS] Central Powers
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In WW1, Russia, France, and Great Britain formed the:]
+[QUESTION] In WW1, Russia, France, and Great Britain formed the:
 [ANS] Triple Entente
 [ANS] Allied Powers
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the outbreak of Ww1, Wilson declared a policy of US \_\_\_\_\_\_.]
+[QUESTION] In the outbreak of Ww1, Wilson declared a policy of US \_\_\_\_\_\_.
 [ANS] Neutrality
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The sinking of the Lusitania & the Sussex preceded US entry into this war.]
+[QUESTION] The sinking of the Lusitania & the Sussex preceded US entry into this war.
 [ANS] WW1
 [ANS] World War 1
 [ANS] The Great War
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The policy of "\_\_\_\_\_\_\_\_\_" preached for an armed forces buildup in peacetime, in case war broke out.]
+[QUESTION] The policy of "\_\_\_\_\_\_\_\_\_" preached for an armed forces buildup in peacetime, in case war broke out.
 [ANS] Preparedness
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This document leaked to the US stated that Germany would help Mexico reclaim lost land if they invaded the US.]
+[QUESTION] This document leaked to the US stated that Germany would help Mexico reclaim lost land if they invaded the US.
 [ANS] Zimmerman Telegram
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] WW1 claimed thousands of US lives, but the \_\_\_\_\_\_ \_\_\_ (which happened at the same time) claimed millions more.]
+[QUESTION] WW1 claimed thousands of US lives, but the \_\_\_\_\_\_ \_\_\_ (which happened at the same time) claimed millions more.
 [ANS] Spanish Flu
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] After WW1, Wilson proposed the \_\_ \_\_\_\_\_ to pave the way to world peace.]
+[QUESTION] After WW1, Wilson proposed the \_\_ \_\_\_\_\_ to pave the way to world peace.
 [ANS] 14 Points
 [ANS] Wilson's 14 Points
 [ANS] Fourteen Points
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Perhaps the most important part of Wilson's 14 Points was the creation of the \_\_\_\_\_ \_\_ \_\_\_\_\_\_.]
+[QUESTION] Perhaps the most important part of Wilson's 14 Points was the creation of the \_\_\_\_\_ \_\_ \_\_\_\_\_\_.
 [ANS] League of Nations
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Treaty of Versailles forced Germany to pay (no/minor/major) reparations.]
+[QUESTION] The Treaty of Versailles forced Germany to pay (no/minor/major) reparations.
 [ANS] Major
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This part of the League of Nations ensured that members would protect the independence of others.]
+[QUESTION] This part of the League of Nations ensured that members would protect the independence of others.
 [ANS] Article X
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Congress failed to ratify Wilson's 14 Points due to the:]
+[QUESTION] Congress failed to ratify Wilson's 14 Points due to the:
 [ANS] League of Nations
 [ANS] Article X
 [END]

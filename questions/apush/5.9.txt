@@ -1,55 +1,55 @@
 [QUESTION TYPE] SAQ
-[QUESTION] The Battle of Antietam allowed for Lincoln to release the:]
+[QUESTION] The Battle of Antietam allowed for Lincoln to release the:
 [ANS] Emancipation Proclamation
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Lincoln waited until this significant battle to release the Emancipation Proclamation.]
+[QUESTION] Lincoln waited until this significant battle to release the Emancipation Proclamation.
 [ANS] Battle of Antietam
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Emancipation Proclamation freed all slaves in (all/Confederate/border) states.]
+[QUESTION] The Emancipation Proclamation freed all slaves in (all/Confederate/border) states.
 [ANS] Confederate
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Democrats in the North who wanted peace during the Civil War were called:]
+[QUESTION] Democrats in the North who wanted peace during the Civil War were called:
 [ANS] Copperheads
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case ruled that arresting people without informing them of charges was unconstitutional.]
+[QUESTION] This court case ruled that arresting people without informing them of charges was unconstitutional.
 [ANS] Ex Parte Milligan
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Conscription Act of 1863 was one of the first times a \_\_\_\_\_ was used in a US War.]
+[QUESTION] The Conscription Act of 1863 was one of the first times a \_\_\_\_\_ was used in a US War.
 [ANS] Draft
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Conscription Act of 1863 caused controversy because people (didn't want to fight/could pay to opt out/couldn't leave after war)]
+[QUESTION] The Conscription Act of 1863 caused controversy because people (didn't want to fight/could pay to opt out/couldn't leave after war)
 [ANS] Could pay to opt out
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Conscription Act of 1863 caused outrage amongst the (lower/middle/upper) class.]
+[QUESTION] The Conscription Act of 1863 caused outrage amongst the (lower/middle/upper) class.
 [ANS] Lower
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Republican Party renamed to the \_\_\_\_\_ Party in 1864.]
+[QUESTION] The Republican Party renamed to the \_\_\_\_\_ Party in 1864.
 [ANS] Unionist
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] What party did Lincoln run for in 1864?]
+[QUESTION] What party did Lincoln run for in 1864?
 [ANS] Unionist
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Who assassinated Lincoln?]
+[QUESTION] Who assassinated Lincoln?
 [ANS] Booth
 [ANS] John Booth
 [ANS] John Wilkes Booth

@@ -1,177 +1,177 @@
 [QUESTION TYPE] SAQ
-[QUESTION] To solve the Great Depression, Democrats nominated:]
+[QUESTION] To solve the Great Depression, Democrats nominated:
 [ANS] FDR
 [ANS] Franklin Roosevelt
 [ANS] Franklin Delano Roosevelt
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Amendment #\_\_ shortened the period between election & inauguration to deal with a certain "lame-duck" president.]
+[QUESTION] Amendment #\_\_ shortened the period between election & inauguration to deal with a certain "lame-duck" president.
 [ANS] 20
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] FDR's New Deal Philosophy emphasized these three actions, referred to as the "\_\_\_\_ \_\_".]
+[QUESTION] FDR's New Deal Philosophy emphasized these three actions, referred to as the "\_\_\_\_ \_\_".
 [ANS] Three Rs
 [ANS] 3R
 [ANS] 3Rs
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] FDR used a "\_\_\_\_\_ \_\_\_\_\_" of university professors who gave him economic advice.]
+[QUESTION] FDR used a "\_\_\_\_\_ \_\_\_\_\_" of university professors who gave him economic advice.
 [ANS] Brain Trust
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This person was the first woman in a President's cabinet.]
+[QUESTION] This person was the first woman in a President's cabinet.
 [ANS] Francis Perkins
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This "first" session of Congress was used to help FDR pass laws to relieve the Great Depression.]
+[QUESTION] This "first" session of Congress was used to help FDR pass laws to relieve the Great Depression.
 [ANS] First Hundred Days
 [ANS] Hundred Days
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] FDR passed a \_\_\_\_ \_\_\_\_\_\_ to allow banks to re-open after the initial shock.]
+[QUESTION] FDR passed a \_\_\_\_ \_\_\_\_\_\_ to allow banks to re-open after the initial shock.
 [ANS] Bank Holiday
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] FDR used these radio messages to speak with the American public, informing & inspiring them.]
+[QUESTION] FDR used these radio messages to speak with the American public, informing & inspiring them.
 [ANS] Fireside Chats
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Directed by Harold Ickes, this 1930s program gave money to state governments to build public infrastructure.]
+[QUESTION] Directed by Harold Ickes, this 1930s program gave money to state governments to build public infrastructure.
 [ANS] Public Works Administration
 [ANS] PWA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s program both supported conservation & created jobs for young men.]
+[QUESTION] This 1930s program both supported conservation & created jobs for young men.
 [ANS] Civilian Conservation Corps
 [ANS] CCC
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s program provided support to the struggling people of a certain state valley.]
+[QUESTION] This 1930s program provided support to the struggling people of a certain state valley.
 [ANS] Tennessee Valley Authority
 [ANS] TVA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s law allowed the government to judge which banks were safe to re-open during the Bank Holiday.]
+[QUESTION] This 1930s law allowed the government to judge which banks were safe to re-open during the Bank Holiday.
 [ANS] Emergency Banking Relief Act
 [ANS] EBRA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s program insured the individual deposits of the public into banks, in case the bank failed.]
+[QUESTION] This 1930s program insured the individual deposits of the public into banks, in case the bank failed.
 [ANS] Federal Deposit Insurance Corporation
 [ANS] FDIC
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s program combined immediate relief with long-term reform by ensuring safe working conditions & legalizing unionizing.]
+[QUESTION] This 1930s program combined immediate relief with long-term reform by ensuring safe working conditions & legalizing unionizing.
 [ANS] National Recovery Administration
 [ANS] NRA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The NRA (National Recovery Administration) was declared unconstitutional by this court case.]
+[QUESTION] The NRA (National Recovery Administration) was declared unconstitutional by this court case.
 [ANS] Schechter v. US
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s program gave subsidies to farmers in order to reduce production & boost prices.]
+[QUESTION] This 1930s program gave subsidies to farmers in order to reduce production & boost prices.
 [ANS] Agricultural Adjustment Administration
 [ANS] AAA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s program regulated the stock market to prevent future crashes.]
+[QUESTION] This 1930s program regulated the stock market to prevent future crashes.
 [ANS] Security & Exchange Commission
 [ANS] SEC
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s program allowed the American public to purchase houses more easily.]
+[QUESTION] This 1930s program allowed the American public to purchase houses more easily.
 [ANS] Federal Housing Administration
 [ANS] FHA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s program in the Second New Deal employed thousands of construction workers and artists (writers, actors, etc.).]
+[QUESTION] This 1930s program in the Second New Deal employed thousands of construction workers and artists (writers, actors, etc.).
 [ANS] Works Progress Administration
 [ANS] WPA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s law replaced the NRA and gave workers the right to unionize.]
+[QUESTION] This 1930s law replaced the NRA and gave workers the right to unionize.
 [ANS] Wagner Act
 [ANS] National Labor Relations Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s law/program provided limited welfare to the retired & disabled.]
+[QUESTION] This 1930s law/program provided limited welfare to the retired & disabled.
 [ANS] Social Security Act
 [ANS] SSA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] (Socialists/Republicans) criticized the New Deal for helping big business instead of the public.]
+[QUESTION] (Socialists/Republicans) criticized the New Deal for helping big business instead of the public.
 [ANS] Socialists
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] (Socialists/Republicans) criticized the New Deal for giving the federal government too much power.]
+[QUESTION] (Socialists/Republicans) criticized the New Deal for giving the federal government too much power.
 [ANS] Republicans
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the Election of 1936, this group of people shifted from traditionally voting Republican to voting for FDR.]
+[QUESTION] In the Election of 1936, this group of people shifted from traditionally voting Republican to voting for FDR.
 [ANS] African-Americans
 [ANS] blacks
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Father Charles E. Coughlin, Dr. Francis E. Townsend, and Huey Long were examples of 1930s \_\_\_\_\_\_\_\_.]
+[QUESTION] Father Charles E. Coughlin, Dr. Francis E. Townsend, and Huey Long were examples of 1930s \_\_\_\_\_\_\_\_.
 [ANS] Demagogues
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] FDR, frusted with the Supreme Court, attempted to do this, bringing harsh criticism.]
+[QUESTION] FDR, frusted with the Supreme Court, attempted to do this, bringing harsh criticism.
 [ANS] Pack the Courts
 [ANS] Packing Courts
 [ANS] Court Packing
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This union of unskilled workers led by John H. Lewis was a rival to the AFL.]
+[QUESTION] This union of unskilled workers led by John H. Lewis was a rival to the AFL.
 [ANS] Congress of Industrial Organization
 [ANS] CIO
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s law regulated interstate commerce, established minimum wage, and added child labor restrictions.]
+[QUESTION] This 1930s law regulated interstate commerce, established minimum wage, and added child labor restrictions.
 [ANS] Fair Labor Standards Act
 [ANS] FLSA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Also known as deficit spending, FDR adopted \_\_\_\_\_\_\_\_\_ economics to increase investment & create jobs.]
+[QUESTION] Also known as deficit spending, FDR adopted \_\_\_\_\_\_\_\_\_ economics to increase investment & create jobs.
 [ANS] Keynesian
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the 1930s, many problems plagued the already struggling farmers as the Great Plains became a \_\_\_\_ \_\_\_\_.]
+[QUESTION] During the 1930s, many problems plagued the already struggling farmers as the Great Plains became a \_\_\_\_ \_\_\_\_.
 [ANS] Dust Bowl
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1930s law effectively repealed the Dawes Severalty Act.]
+[QUESTION] This 1930s law effectively repealed the Dawes Severalty Act.
 [ANS] Indian Reorganization Act
 [ANS] Wheeler-Howard Act
 [END]

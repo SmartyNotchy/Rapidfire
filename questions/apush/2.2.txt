@@ -1,15 +1,15 @@
 [QUESTION TYPE] SAQ
-[QUESTION] What was the first permanent French settlement in NA?]
+[QUESTION] What was the first permanent French settlement in NA?
 [ANS] Quebec
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Samuel de Champlain was famous for establishing what?]
+[QUESTION] Samuel de Champlain was famous for establishing what?
 [ANS] Quebec
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Rather than conquering natives, the French were more interested in:]
+[QUESTION] Rather than conquering natives, the French were more interested in:
 [ANS] trade
 [ANS] fish trade
 [ANS] fur trade
@@ -18,17 +18,17 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Henry Hudson, a Dutch explorer, claimed territory that later became:]
+[QUESTION] Henry Hudson, a Dutch explorer, claimed territory that later became:
 [ANS] New Amsterdam
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The goals of the Dutch in colonizing America were mainly (social/economic/political).]
+[QUESTION] The goals of the Dutch in colonizing America were mainly (social/economic/political).
 [ANS] economic
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Rather than enslaving or conquering natives, this group of explorers expelled them from native lands.]
+[QUESTION] Rather than enslaving or conquering natives, this group of explorers expelled them from native lands.
 [ANS] Britain
 [ANS] British
 [ANS] English

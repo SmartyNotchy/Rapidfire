@@ -1,62 +1,62 @@
 [QUESTION TYPE] SAQ
-[QUESTION] The Civil Rights Act of 19\_\_ prohibited gender-based discrimination in employment.]
+[QUESTION] The Civil Rights Act of 19\_\_ prohibited gender-based discrimination in employment.
 [ANS] 64
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_ \_\_\_ \_\_\_ of 1963 prohibited gender-based discrimination in employment.]
+[QUESTION] The \_\_\_\_ \_\_\_ \_\_\_ of 1963 prohibited gender-based discrimination in employment.
 [ANS] Equal Pay Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_ \_\_  ended gender discrimination in federally-funded schools.]
+[QUESTION] \_\_\_\_ \_\_  ended gender discrimination in federally-funded schools.
 [ANS] Title IX
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_ \_\_\_\_\_ \_\_\_\_\_\_\_\_ proposed full gender equality, passing Congress but missing ratification.]
+[QUESTION] The \_\_\_\_ \_\_\_\_\_ \_\_\_\_\_\_\_\_ proposed full gender equality, passing Congress but missing ratification.
 [ANS] ERA
 [ANS] Equal Rights Amendment
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] By the 1960s, this was the largest minority group in America.]
+[QUESTION] By the 1960s, this was the largest minority group in America.
 [ANS] Hispanics
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The police raid on Stonewall Inn sparked the \_\_\_ \_\_\_\_\_ movement.]
+[QUESTION] The police raid on Stonewall Inn sparked the \_\_\_ \_\_\_\_\_ movement.
 [ANS] Gay Rights
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This Chief Justice was like a modern "John Marshall", passing many landmark individual rights cases.]
+[QUESTION] This Chief Justice was like a modern "John Marshall", passing many landmark individual rights cases.
 [ANS] Warren
 [ANS] Earl Warren
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case ruled that evidence seized illegally could not be used in court.]
+[QUESTION] This court case ruled that evidence seized illegally could not be used in court.
 [ANS] Mapp v. Ohio
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case ruled that suspects be provided with a free attorney if they could not afford one.]
+[QUESTION] This court case ruled that suspects be provided with a free attorney if they could not afford one.
 [ANS] Gideon v. Wainwright
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case ruled that police must inform suspects of their right to remain silent.]
+[QUESTION] This court case ruled that police must inform suspects of their right to remain silent.
 [ANS] Miranda v. Arizona
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case ruled that state districts should provide equal representation for all citizens; "one man, one vote".]
+[QUESTION] This court case ruled that state districts should provide equal representation for all citizens; "one man, one vote".
 [ANS] Baker v. Carr
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case ruled that the 1st Amendment protected Communists as long as they did not pose an immediate danger.]
+[QUESTION] This court case ruled that the 1st Amendment protected Communists as long as they did not pose an immediate danger.
 [ANS] Yates v. US
 [ANS] Yates v. United States
 [END]

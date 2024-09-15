@@ -1,94 +1,94 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Presidents in the 1920s tried to promote peace by arranging treaties of \_\_\_\_\_\_.]
+[QUESTION] Presidents in the 1920s tried to promote peace by arranging treaties of \_\_\_\_\_\_.
 [ANS] Disarmament
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This agreement after WW1 renounced using force offensively, but was ineffective & didn't punish violators.]
+[QUESTION] This agreement after WW1 renounced using force offensively, but was ineffective & didn't punish violators.
 [ANS] Kellogg-Briand Pact
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] After WW1, European countries had difficulty paying \_\_\_ \_\_\_\_ to the US.]
+[QUESTION] After WW1, European countries had difficulty paying \_\_\_ \_\_\_\_ to the US.
 [ANS] War Debts
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This plan established a cycle of reparations: US Banks -> Germany -> Reparations to Britain & France -> US]
+[QUESTION] This plan established a cycle of reparations: US Banks -> Germany -> Reparations to Britain & France -> US
 [ANS] Dawes
 [ANS] Dawes Plan
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] When Japan invaded Manchuria (violating the Open Door Policy), the US issued this:]
+[QUESTION] When Japan invaded Manchuria (violating the Open Door Policy), the US issued this:
 [ANS] Stimson Doctrine
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Stimson Doctrine was issued due to the actions of this country.]
+[QUESTION] The Stimson Doctrine was issued due to the actions of this country.
 [ANS] Japan
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] FDR's foreign policy with Latin America was the "\_\_\_\_-\_\_\_\_\_\_\_ Policy".]
+[QUESTION] FDR's foreign policy with Latin America was the "\_\_\_\_-\_\_\_\_\_\_\_ Policy".
 [ANS] Good Neighbor
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During his presidency, FDR granted independence to this US-controlled territory.]
+[QUESTION] During his presidency, FDR granted independence to this US-controlled territory.
 [ANS] Philippines
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Benito Mussolini was the leader of Italy's \_\_\_\_\_\_ Party.]
+[QUESTION] Benito Mussolini was the leader of Italy's \_\_\_\_\_\_ Party.
 [ANS] Fascist
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Adolf Hitler was the leader of Germany's \_\_\_\_ Party.]
+[QUESTION] Adolf Hitler was the leader of Germany's \_\_\_\_ Party.
 [ANS] Nazi
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] After WW1, America passed the \_\_\_\_\_\_\_ Acts to avoid entry into another European War.]
+[QUESTION] After WW1, America passed the \_\_\_\_\_\_\_ Acts to avoid entry into another European War.
 [ANS] Neutrality
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Europe let Hitler get away with small aggressions, a policy called \_\_\_\_\_\_\_\_\_.]
+[QUESTION] Europe let Hitler get away with small aggressions, a policy called \_\_\_\_\_\_\_\_\_.
 [ANS] Appeasement
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Hitler made this agreement (which he later broke) promising not to invade any more territories.]
+[QUESTION] Hitler made this agreement (which he later broke) promising not to invade any more territories.
 [ANS] Munich
 [ANS] Munich Agreement
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This WW2 tactic helped the Germans score decisive early victories.]
+[QUESTION] This WW2 tactic helped the Germans score decisive early victories.
 [ANS] Blitzkrieg
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This policy during WW2 allowed the US to sell arms to those who paid in cash.]
+[QUESTION] This policy during WW2 allowed the US to sell arms to those who paid in cash.
 [ANS] Cash & Carry
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This policy during WW2 effectively replaced "Cash-and-carry".]
+[QUESTION] This policy during WW2 effectively replaced "Cash-and-carry".
 [ANS] Lend-Lease
 [ANS] Lend-Lease Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] What was the last US arms policy before its entry into WW2?]
+[QUESTION] What was the last US arms policy before its entry into WW2?
 [ANS] Lend-Lease
 [ANS] Lend-Lease Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] WW2 started when Hitler did this.]
+[QUESTION] WW2 started when Hitler did this.
 [ANS] Invaded Poland
 [ANS] Poland
 [END]

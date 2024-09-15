@@ -1,26 +1,26 @@
 [QUESTION TYPE] SAQ
-[QUESTION] *Silent Spring*, Commoner's study, and *The Population Bomb* were all origins of the \_\_\_\_\_\_\_\_\_\_\_\_ movement.]
+[QUESTION] *Silent Spring*, Commoner's study, and *The Population Bomb* were all origins of the \_\_\_\_\_\_\_\_\_\_\_\_ movement.
 [ANS] Environmental
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_\_ \_\_\_\_ \_\_\_\_\_\_ incident played a major role in turning public opinion against nuclear power.]
+[QUESTION] The \_\_\_\_\_ \_\_\_\_ \_\_\_\_\_\_ incident played a major role in turning public opinion against nuclear power.
 [ANS] Three Mile Island
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This agency regulated & enforced federal policies on environmental issues.]
+[QUESTION] This agency regulated & enforced federal policies on environmental issues.
 [ANS] Environmental Protection Agency
 [ANS] EPA
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This 1980s law cleaned up toxic waste from former industrial sites.]
+[QUESTION] This 1980s law cleaned up toxic waste from former industrial sites.
 [ANS] Superfund Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_\_\_\_\_\_\_\_ movement halted the construction of new (CENSORED) and strengthened regulations, especially after the Three Mile Island incident.]
+[QUESTION] The \_\_\_\_\_\_\_\_\_\_\_ movement halted the construction of new (CENSORED) and strengthened regulations, especially after the Three Mile Island incident.
 [ANS] Antinuclear
 [END]
 -------------------

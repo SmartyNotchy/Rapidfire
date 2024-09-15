@@ -1,37 +1,37 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Some whites organized secret societies to intimidate blacks during Reconstruction, the most prominent of these being the:]
+[QUESTION] Some whites organized secret societies to intimidate blacks during Reconstruction, the most prominent of these being the:
 [ANS] KKK
 [ANS] Ku Klux Klan
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] To stop KKK violence and other racial attacks, Congress passed the \_\_\_\_\_ \_\_\_\_ in 1870-1871.]
+[QUESTION] To stop KKK violence and other racial attacks, Congress passed the \_\_\_\_\_ \_\_\_\_ in 1870-1871.
 [ANS] Force Acts
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_\_ \_\_\_\_\_ referred to laws restricting the rights and movements of African Americans.]
+[QUESTION] \_\_\_\_\_ \_\_\_\_\_ referred to laws restricting the rights and movements of African Americans.
 [ANS] Black Codes
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Involuntary servitude, after being abolished, evolved into the technically legal \_\_\_\_\_\_ system in the South.]
+[QUESTION] Involuntary servitude, after being abolished, evolved into the technically legal \_\_\_\_\_\_ system in the South.
 [ANS] Sharecropping
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Compromise of 1877 led to the election of:]
+[QUESTION] The Compromise of 1877 led to the election of:
 [ANS] Hayes
 [ANS] Rutherford B. Hayes
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In return for winning the election in the Compromise of 1877, Hayes agreed to support (black codes/withdrawal of troops/planation rebu0ilding/reform movements) in the South.]
+[QUESTION] In return for winning the election in the Compromise of 1877, Hayes agreed to support (black codes/withdrawal of troops/planation rebu0ilding/reform movements) in the South.
 [ANS] Withdrawal of Troops
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The result of the Election of 1876 was determined by a special committee of (senators/representatives/party bosses/commoners).]
+[QUESTION] The result of the Election of 1876 was determined by a special committee of (senators/representatives/party bosses/commoners).
 [ANS] Party Bosses
 [END]
 -------------------

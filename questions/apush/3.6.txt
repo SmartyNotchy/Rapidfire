@@ -1,10 +1,10 @@
 [QUESTION TYPE] SAQ
-[QUESTION] This concept refers to the belief that women needed to be well-educated to raise sons with republican ideals.]
+[QUESTION] This concept refers to the belief that women needed to be well-educated to raise sons with republican ideals.
 [ANS] Republican Motherhood
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The American Revolution kickstarted many other revolutions in the world; name the one that immediately followed in 1789.]
+[QUESTION] The American Revolution kickstarted many other revolutions in the world; name the one that immediately followed in 1789.
 [ANS] France
 [ANS] French
 [ANS] French Revolution

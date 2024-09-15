@@ -1,121 +1,121 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Andrew Jackson won the popular vote but lost to John Quincy Adams in the Election of 1824. Adams won via what angry Jackson supporters called the:]
+[QUESTION] Andrew Jackson won the popular vote but lost to John Quincy Adams in the Election of 1824. Adams won via what angry Jackson supporters called the:
 [ANS] Corrupt Bargain
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During Quincy Adam's presidency, the highly controversial \_\_\_\_\_\_ passed, alienating Southern planters.]
+[QUESTION] During Quincy Adam's presidency, the highly controversial \_\_\_\_\_\_ passed, alienating Southern planters.
 [ANS] Tariff of 1828
 [ANS] Tariff of Abominations
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the Revolution of 1828, this president won a landslide victory.]
+[QUESTION] In the Revolution of 1828, this president won a landslide victory.
 [ANS] Andrew Jackson
 [ANS] Jackson
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Andrew Jackson campaigned as a representative of the:]
+[QUESTION] Andrew Jackson campaigned as a representative of the:
 [ANS] Common Man
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jackson interpreted the Constitution narrowly and used this Presidential power significantly.]
+[QUESTION] Jackson interpreted the Constitution narrowly and used this Presidential power significantly.
 [ANS] Veto
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] What best describes President Jackson's policy towards natives? (Diplomacy/Neutrality/Expulsion/War)]
+[QUESTION] What best describes President Jackson's policy towards natives? (Diplomacy/Neutrality/Expulsion/War)
 [ANS] Expulsion
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jackson forced the relocation of natives through this law:]
+[QUESTION] Jackson forced the relocation of natives through this law:
 [ANS] Indian Removal Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case ruled that the Cherokee nation was not subject to Georgia law, but was ultimately unenforced.]
+[QUESTION] This court case ruled that the Cherokee nation was not subject to Georgia law, but was ultimately unenforced.
 [ANS] Worcester v. Georgia
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] After Jackson left office, 15k+ Cherokees were forced to relocate through the:]
+[QUESTION] After Jackson left office, 15k+ Cherokees were forced to relocate through the:
 [ANS] Trail of Tears
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The nullification crisis in the 1820s-1830s were originally caused by:]
+[QUESTION] The nullification crisis in the 1820s-1830s were originally caused by:
 [ANS] The Tariff of 1828
 [ANS] The Tariff of Abominations
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Nullification theory was first advanced by this person, who was also Jackson's early VP.]
+[QUESTION] Nullification theory was first advanced by this person, who was also Jackson's early VP.
 [ANS] Calhoun
 [ANS] John C. Calhoun
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This theory says that states had the right to decide whether federal law was constitutional or not and whether to obey it.]
+[QUESTION] This theory says that states had the right to decide whether federal law was constitutional or not and whether to obey it.
 [ANS] Nullification
 [ANS] Nullification Theory
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jackson responded to the Nullification Crisis by persuading Congress to pass the:]
+[QUESTION] Jackson responded to the Nullification Crisis by persuading Congress to pass the:
 [ANS] Force Bill
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jackson (supported/was neutral on/opposed) the anti-slavery movement.]
+[QUESTION] Jackson (supported/was neutral on/opposed) the anti-slavery movement.
 [ANS] opposed
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jackson (supported/was neutral on/opposed) the National Bank.]
+[QUESTION] Jackson (supported/was neutral on/opposed) the National Bank.
 [ANS] opposed
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jackson vetoed the recharter of this institution, which was a major issue in the following election.]
+[QUESTION] Jackson vetoed the recharter of this institution, which was a major issue in the following election.
 [ANS] National Bank
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the two-party system after the Era of Good Feelings, supporters of Jackson were called:]
+[QUESTION] In the two-party system after the Era of Good Feelings, supporters of Jackson were called:
 [ANS] Democrats
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the two-party system after the Era of Good Feelings, supporters of Henry Clay were called:]
+[QUESTION] In the two-party system after the Era of Good Feelings, supporters of Henry Clay were called:
 [ANS] Whigs
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Democrats who supported Jackson were most similar to this older party.]
+[QUESTION] Democrats who supported Jackson were most similar to this older party.
 [ANS] Democratic-Republicans
 [ANS] Demo-Reps
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Whigs who supported Clay were most similar to this older party.]
+[QUESTION] Whigs who supported Clay were most similar to this older party.
 [ANS] Federalists
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In this executive order, Jackson forced the purchase of federal lands to be made with gold & silver.]
+[QUESTION] In this executive order, Jackson forced the purchase of federal lands to be made with gold & silver.
 [ANS] Specie Circular
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jackson's feud & ending of the National Bank led to this economic event.]
+[QUESTION] Jackson's feud & ending of the National Bank led to this economic event.
 [ANS] Panic of 1837
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This President favored Democrats despite having been elected under a Whig platform, leading to many clashes during the 1840s.]
+[QUESTION] This President favored Democrats despite having been elected under a Whig platform, leading to many clashes during the 1840s.
 [ANS] John Tyler
 [ANS] Tyler
 [END]

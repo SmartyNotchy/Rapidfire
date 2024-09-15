@@ -1,48 +1,48 @@
 [QUESTION TYPE] SAQ
-[QUESTION] This rebellion is significant in that it was led by a white man to aid slaves.]
+[QUESTION] This rebellion is significant in that it was led by a white man to aid slaves.
 [ANS] John Brown
 [ANS] Harpers Ferry
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This event directly caused the secession of the Southern States.]
+[QUESTION] This event directly caused the secession of the Southern States.
 [ANS] Election of 1860
 [ANS] Lincoln Election
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This party emerged in the Election of 1860 to try to combat a Republican sweep.]
+[QUESTION] This party emerged in the Election of 1860 to try to combat a Republican sweep.
 [ANS] Union Party
 [ANS] Constitutional Union Party
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] (True/False) Most Southerners supported secession.]
+[QUESTION] (True/False) Most Southerners supported secession.
 [ANS] False
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] After Lincoln's election, this act was a final attempt at compromise before secession.]
+[QUESTION] After Lincoln's election, this act was a final attempt at compromise before secession.
 [ANS] Crittenden Compromise
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Lincoln was a (radical/moderate) abolitionist.]
+[QUESTION] Lincoln was a (radical/moderate) abolitionist.
 [ANS] Moderate
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This battle marked the beginning of the Civil War.]
+[QUESTION] This battle marked the beginning of the Civil War.
 [ANS] Fort Sumter
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Where (what city) was the Confederate Capital in?]
+[QUESTION] Where (what city) was the Confederate Capital in?
 [ANS] Richmond
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Though slave-holding, this group of states remained loyal to the Union & held military & political importance.]
+[QUESTION] Though slave-holding, this group of states remained loyal to the Union & held military & political importance.
 [ANS] Border
 [ANS] Border States
 [END]

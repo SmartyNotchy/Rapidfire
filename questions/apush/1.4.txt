@@ -1,10 +1,10 @@
 [QUESTION TYPE] SAQ
-[QUESTION] This term describes the transfer of food, animals, and minerals between Africa, Europe, and the Americas.]
+[QUESTION] This term describes the transfer of food, animals, and minerals between Africa, Europe, and the Americas.
 [ANS] Columbian Exchange
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This part of the Columbian Exchange devastated native communities.]
+[QUESTION] This part of the Columbian Exchange devastated native communities.
 [ANS] Smallpox
 [ANS] Disease
 [ANS] Spread of Smallpox
@@ -12,7 +12,7 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] What part of the Columbian Exchange jumpstarted population growth in Europe?]
+[QUESTION] What part of the Columbian Exchange jumpstarted population growth in Europe?
 [ANS] Crops
 [ANS] New Crops
 [ANS] Maize
@@ -20,12 +20,12 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This part of the Columbian Exchange revolutionized native warfare.]
+[QUESTION] This part of the Columbian Exchange revolutionized native warfare.
 [ANS] Horses
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] What was a main commodity in the Americas that spurred further European exploration?]
+[QUESTION] What was a main commodity in the Americas that spurred further European exploration?
 [ANS] Minerals
 [ANS] Gold
 [ANS] Silver
@@ -33,12 +33,12 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In this system, peasants worked on the land of a noble in return for food, shelter, and protection.]
+[QUESTION] In this system, peasants worked on the land of a noble in return for food, shelter, and protection.
 [ANS] Feudalism
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This economic system was based on private ownership & free trade between property owners.]
+[QUESTION] This economic system was based on private ownership & free trade between property owners.
 [ANS] Capitalism
 [END]
 -------------------

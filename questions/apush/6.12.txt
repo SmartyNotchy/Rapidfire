@@ -1,10 +1,10 @@
 [QUESTION TYPE] SAQ
-[QUESTION] This concept justified laissez-faire.]
+[QUESTION] This concept justified laissez-faire.
 [ANS] Social Darwinism
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This concept justified extreme wealth during the Gilded Age.]
+[QUESTION] This concept justified extreme wealth during the Gilded Age.
 [ANS] Gospel of Wealth
 [END]
 -------------------

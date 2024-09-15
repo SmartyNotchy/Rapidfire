@@ -1,69 +1,69 @@
 [QUESTION TYPE] SAQ
-[QUESTION] The period after Monroe's election where the Demo-Reps were almost unchallenged is called:]
+[QUESTION] The period after Monroe's election where the Demo-Reps were almost unchallenged is called:
 [ANS] Era of Good Feelings
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the Era of Good Feelings, this party declined & failed to remain a national party.]
+[QUESTION] During the Era of Good Feelings, this party declined & failed to remain a national party.
 [ANS] Federalist
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] What was not a goal in Henry Clay's American System? (Protective tariffs/National Bank/Internal Improvements/Foreign Neutrality)]
+[QUESTION] What was not a goal in Henry Clay's American System? (Protective tariffs/National Bank/Internal Improvements/Foreign Neutrality)
 [ANS] Foreign Neutrality
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This plan during Monroe's presidency aimed to advance national economic growth via protective tariffs, a national bank, and internal improvements.]
+[QUESTION] This plan during Monroe's presidency aimed to advance national economic growth via protective tariffs, a national bank, and internal improvements.
 [ANS] Henry Clay's American System
 [ANS] American System
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Of the three goals outlined in Clay's American System, which was vetoed by both Madison & Monroe?]
+[QUESTION] Of the three goals outlined in Clay's American System, which was vetoed by both Madison & Monroe?
 [ANS] Internal Improvements
 [ANS] Roads
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This panic occurred after the Second National Bank tightened credit to attempt to control inflation.]
+[QUESTION] This panic occurred after the Second National Bank tightened credit to attempt to control inflation.
 [ANS] Panic of 1819
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Which region was hit hardest by the Panic of 1819? (North/South/East/West)]
+[QUESTION] Which region was hit hardest by the Panic of 1819? (North/South/East/West)
 [ANS] West
 [ANS] The West
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This party rapidly declined due to seeming out of touch, ceasing to be significant around the early 1800s.]
+[QUESTION] This party rapidly declined due to seeming out of touch, ceasing to be significant around the early 1800s.
 [ANS] Federalist
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the Era of Good Feelings, this party experienced significant internal strain.]
+[QUESTION] During the Era of Good Feelings, this party experienced significant internal strain.
 [ANS] Demo-Rep
 [ANS] Democratic-Republicans
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This state's bid for statehood in the early 1800s led to the first of several compromises on slavery.]
+[QUESTION] This state's bid for statehood in the early 1800s led to the first of several compromises on slavery.
 [ANS] Missouri
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Shortly before the Missouri Compromise, this ignited the debate of Missouri's status as a free/slave state.]
+[QUESTION] Shortly before the Missouri Compromise, this ignited the debate of Missouri's status as a free/slave state.
 [ANS] Tallmadge Amendment
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Henry Clay proposed this to solve thie issue of Missouri's addition to the Union.]
+[QUESTION] Henry Clay proposed this to solve thie issue of Missouri's addition to the Union.
 [ANS] Missouri Compromise
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This law passed in the 1810s-1830s set a nothern boundary line for slavery.]
+[QUESTION] This law passed in the 1810s-1830s set a nothern boundary line for slavery.
 [ANS] Missouri Compromise
 [END]
 -------------------

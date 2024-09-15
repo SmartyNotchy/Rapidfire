@@ -1,74 +1,74 @@
 [QUESTION TYPE] SAQ
-[QUESTION] In the Roaring 20s, \_\_\_\_\_\_\_ took a more critical view of Bible passages & tried to resolve religion with science.]
+[QUESTION] In the Roaring 20s, \_\_\_\_\_\_\_ took a more critical view of Bible passages & tried to resolve religion with science.
 [ANS] Modernists
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the Roaring 20s, \_\_\_\_\_\_\_ supported creationism & blamed (CENSORED) for a decline in morals.]
+[QUESTION] In the Roaring 20s, \_\_\_\_\_\_\_ supported creationism & blamed (CENSORED) for a decline in morals.
 [ANS] Fundamentalists
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_\_\_\_ were those who preached fundamentalism using radios.]
+[QUESTION] \_\_\_\_\_\_\_ were those who preached fundamentalism using radios.
 [ANS] Revivalists
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case in the 1920s symbolized the clash between modernists & fundamentalists.]
+[QUESTION] This court case in the 1920s symbolized the clash between modernists & fundamentalists.
 [ANS] Scopes Trial
 [ANS] Monkey Trial
 [ANS] Scopes Monkey Trial
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Amendment #\_\_ marked the start of Prohibition.]
+[QUESTION] Amendment #\_\_ marked the start of Prohibition.
 [ANS] 18
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Amendment #\_\_ marked the end of Prohibition.]
+[QUESTION] Amendment #\_\_ marked the end of Prohibition.
 [ANS] 21
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This movement was a failure due to an abundance of loopholes & a growth in organized crime.]
+[QUESTION] This movement was a failure due to an abundance of loopholes & a growth in organized crime.
 [ANS] Prohibition
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_ laws in the 1920s limited immigration, especially from Asia.]
+[QUESTION] \_\_\_\_ laws in the 1920s limited immigration, especially from Asia.
 [ANS] Quota
 [ANS] Quota Laws
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This film portrayed the KKK as heroes, leading to a growth in the group during the 1900s.]
+[QUESTION] This film portrayed the KKK as heroes, leading to a growth in the group during the 1900s.
 [ANS] Birth of a Nation
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Women developed a unique fashion style during the Roaring 20s, known as "\_\_\_\_\_\_".]
+[QUESTION] Women developed a unique fashion style during the Roaring 20s, known as "\_\_\_\_\_\_".
 [ANS] Flappers
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The growth of African-American culture in the Roaring 20s was known as the \_\_\_\_ \_\_\_\_\_\_\_\_.]
+[QUESTION] The growth of African-American culture in the Roaring 20s was known as the \_\_\_\_ \_\_\_\_\_\_\_\_.
 [ANS] Harlem Renaissance
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the 1920s, this party had complete control over the presidency & Congress.]
+[QUESTION] During the 1920s, this party had complete control over the presidency & Congress.
 [ANS] Republican
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This president was notable for pardoning Eugene V. Debs.]
+[QUESTION] This president was notable for pardoning Eugene V. Debs.
 [ANS] Warren Harding
 [ANS] Harding
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This president ironically won by promising to extend "Coolidge Prosperity".]
+[QUESTION] This president ironically won by promising to extend "Coolidge Prosperity".
 [ANS] Herbert Hoover
 [ANS] Hoover
 [END]

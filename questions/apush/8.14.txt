@@ -1,40 +1,40 @@
 [QUESTION TYPE] SAQ
-[QUESTION] By the 1970s, the fastest growing age group was \_\_\_\_\_.]
+[QUESTION] By the 1970s, the fastest growing age group was \_\_\_\_\_.
 [ANS] Seniors
 [ANS] Old People
 [ANS] Old
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Nixon attempted to appeal to conservative Americans, referred to as the "\_\_\_\_\_\_\_ \_\_\_\_\_\_\_", dissatisfied by the civil rights movement & youth counterculture.]
+[QUESTION] Nixon attempted to appeal to conservative Americans, referred to as the "\_\_\_\_\_\_\_ \_\_\_\_\_\_\_", dissatisfied by the civil rights movement & youth counterculture.
 [ANS] Silent Generation
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Nixon set a precedent for Republican political power in this region of the US.]
+[QUESTION] Nixon set a precedent for Republican political power in this region of the US.
 [ANS] South
 [ANS] rural
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This scandal in the 1970s led to a major loss in trust in the federal government.]
+[QUESTION] This scandal in the 1970s led to a major loss in trust in the federal government.
 [ANS] Watergate
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Gerald Ford lost the goodwill of many by taking this action as president.]
+[QUESTION] Gerald Ford lost the goodwill of many by taking this action as president.
 [ANS] Pardon
 [ANS] Pardoning Nixon
 [ANS] Nixon Pardon
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jimmy Carter attempted to end the \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ through his informal style.]
+[QUESTION] Jimmy Carter attempted to end the \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_ through his informal style.
 [ANS] Imperial Presidency
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The American public lost faith in Carter due to his inability to deal with this crisis.]
+[QUESTION] The American public lost faith in Carter due to his inability to deal with this crisis.
 [ANS] Iran
 [ANS] Iran Crisis
 [ANS] Iranian Hostage Crisis
@@ -42,39 +42,39 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Nixon appointed this Chief Justice, forming the (CENSORED) court which sometimes ruled against his wishes.]
+[QUESTION] Nixon appointed this Chief Justice, forming the (CENSORED) court which sometimes ruled against his wishes.
 [ANS] Burger
 [ANS] Warren E. Burger
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case ordered Nixon to turn over the White House tapes in the Watergate investigation.]
+[QUESTION] This court case ordered Nixon to turn over the White House tapes in the Watergate investigation.
 [ANS] US v. Nixon
 [ANS] United States v. Nixon
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This court case struck down many state laws prohibiting abortion.]
+[QUESTION] This court case struck down many state laws prohibiting abortion.
 [ANS] Roe v. Wade
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_\_\_ Court under the same-named Chief Justice passed US v. Nixon and Roe v. Wade.]
+[QUESTION] The \_\_\_\_\_\_ Court under the same-named Chief Justice passed US v. Nixon and Roe v. Wade.
 [ANS] Burger
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The fragmentation & stress caused by protest movements led to a \_\_\_\_\_\_\_\_\_\_ resurgence.]
+[QUESTION] The fragmentation & stress caused by protest movements led to a \_\_\_\_\_\_\_\_\_\_ resurgence.
 [ANS] Conservative
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] *Regents of the University of California v. Bakke (1978)* ended the use of \_\_\_\_\_\_ \_\_\_\_\_ in university decisions.]
+[QUESTION] *Regents of the University of California v. Bakke (1978)* ended the use of \_\_\_\_\_\_ \_\_\_\_\_ in university decisions.
 [ANS] Racial Quotas
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Taxpayers in California led the Taxpayer's Revolt by passing \_\_\_\_\_\_\_\_\_ \_\_.]
+[QUESTION] Taxpayers in California led the Taxpayer's Revolt by passing \_\_\_\_\_\_\_\_\_ \_\_.
 [ANS] Proposition 13
 [END]
 -------------------

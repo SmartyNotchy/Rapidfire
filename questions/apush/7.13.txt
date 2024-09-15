@@ -1,35 +1,35 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Germany's advance into the Soviet in WW2 ended mainly because of this battle.]
+[QUESTION] Germany's advance into the Soviet in WW2 ended mainly because of this battle.
 [ANS] Stalingrad
 [ANS] Battle of Stalingrad
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This decisive WW2 victory led to Germany's surrender.]
+[QUESTION] This decisive WW2 victory led to Germany's surrender.
 [ANS] D-Day
 [ANS] Invasion of Normandy
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This decisive WW2 victory ended Japan's Pacific expansion.]
+[QUESTION] This decisive WW2 victory ended Japan's Pacific expansion.
 [ANS] Midway
 [ANS] Battle of Midway
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This WW2 general conquered the Philippines is famous for pledging to "return".]
+[QUESTION] This WW2 general conquered the Philippines is famous for pledging to "return".
 [ANS] MacArthur
 [ANS] Douglas MacArthur
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This WW2 scientist was the leader in developing the atomic bomb.]
+[QUESTION] This WW2 scientist was the leader in developing the atomic bomb.
 [ANS] Oppenheimer
 [ANS] Robert Oppenheimer
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Atomic Bombs in WW2 were first used in this city:]
+[QUESTION] Atomic Bombs in WW2 were first used in this city:
 [ANS] Hiroshima
 [END]
 -------------------

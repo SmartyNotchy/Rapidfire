@@ -274,23 +274,124 @@ class MCQQuestion {
 
 var CURRENT_SESSION = undefined;
 
+function parse_qset_line(str) {
+    // Matches things in the pattern [IDENTIFIER] content
+    const regex = /^\[([^\]]+)\]\s*(.*)$/;
+    const match = str.match(regex);
+    
+    if (match) {
+        return [match[1], match[2]];
+    } else {
+        return [null, null];
+    }
+}
+
+function parse_qset(qSet) {
+    // Open & Read .txt File
+    const filePath = qSet[0];
+    const content = fetch(filePath).then(response => {
+        if (!response.ok) {
+            console.error("Fetch operation wasn't an OK Response: " + qSet[1]);
+            return "";
+        }
+        return response.text();
+    }).then(text => {
+        const lines = text.split("\n").map(line => line.trim());
+        return parse_qset_raw(lines, qSet[1]);
+    }).catch(error => {
+        console.error(`Error while fetching ${filePath}: ${error}`);
+        return [];
+    });
+
+    return content;
+}
+
+function parse_qset_raw(lines, topic) {
+    let questions = [];
+
+    let currentQType = undefined;
+    let currentQObj = undefined;
+    let currentlyParsingQ = false;
+
+    for (let line of lines) {
+        line = parse_qset_line(line);
+        if (line[0] == null) {
+            continue;
+        }
+
+        if (currentlyParsingQ) {
+            if (currentQType == "SAQ") {
+                if (line[0] == "QUESTION") {
+                    currentQObj.q = line[1];
+                } else if (line[0] == "ANS") {
+                    currentQObj.correctAnswers.push(line[1]);
+                } else if (line[0] == "END") {
+                    currentQType = undefined;
+                    currentlyParsingQ = false;
+                    questions.push(currentQObj);
+                    currentQObj = undefined;
+                }
+            }
+        } else {
+            if (line[0] == "QUESTION TYPE") {
+                currentQType = line[1];
+                currentlyParsingQ = true;
+                if (currentQType == "SAQ") {
+                    currentQObj = new SAQQuestion(undefined, topic, []);
+                } else {
+                    currentlyParsingQ = false;
+                    console.log(`Warning: Unrecognized Question Type ${line[1]}... ignoring...`);
+                }
+            }
+        }
+    }
+
+    return questions;
+}
+
 class TriviaSession {
     constructor(qSets, settings, seed, qNum) {
         //this.questions = [new MCQQuestion("What is 1 + 1?", ["2", "3", "4", "5"], 0)];
         //this.questions = [new SAQQuestion("What is 1 + 1?", "Debug Problems", ["2"]), new SAQQuestion("What is 1 + 2?", "Debug Problems", ["3"])]
         this.questions = [];
+        this.qSets = qSets;
         this.questionNum = qNum;
         this.seed = seed;
 
         this.settings = settings;
-        
-        // TODO: Generate Questions From Question Sets
+    }
+
+    load_qsets() {
+        // Generate Questions From Question Sets
+        this.qSetsLoaded = 0;
+        this.qSetsTotal = 0;
+        for (let qSet of this.qSets) {
+            this.qSetsTotal += 1;
+            parse_qset(qSet).then(result => {
+                CURRENT_SESSION.load_questions(result);
+            })
+        }       
+    }
+
+    load_questions(questions) {
+        this.questions = this.questions.concat(questions);
+        this.qSetsLoaded += 1;
+
+        if (this.qSetsLoaded == this.qSetsTotal) {
+            this.on_all_loaded();
+        }
+    }
+
+    on_all_loaded() {
+        // Called once this.questions has been fully constructed
 
         // Shuffle question order
         this.questionCount = this.questions.length;
-        this.questionOrder = shuffle_with_seed(Array.from({ length: this.questionCount }, (_, i) => i), seed);
+        this.questionOrder = shuffle_with_seed(Array.from({ length: this.questionCount }, (_, i) => i), this.seed);
 
         this.currentQuestion = this.questions[this.questionOrder[this.questionNum]];
+
+        this.render();
     }
 
     render() {
@@ -325,6 +426,5 @@ function process_input(event) {
 /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */
 /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */ /* DEBUG */
 
-CURRENT_SESSION = new TriviaSession(["../questions/apush/1.2", "APUSH 1.2"], undefined, 100, 0);
-hide_mcq_div();
-CURRENT_SESSION.render();
+CURRENT_SESSION = new TriviaSession([["../questions/apush/1.2.txt", "APUSH 1.2"]], undefined, Math.floor(Math.random() * 1000000), 0);
+CURRENT_SESSION.load_qsets();

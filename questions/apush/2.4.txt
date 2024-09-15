@@ -1,26 +1,26 @@
 [QUESTION TYPE] SAQ
-[QUESTION] This profitable trade route involved Africa, Europe, and the American colonies.]
+[QUESTION] This profitable trade route involved Africa, Europe, and the American colonies.
 [ANS] Triangular
 [ANS] The Triangular Trade
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This economic model assumed a fixed total amount of wealth & encouraged a balanced export/import ratio.]
+[QUESTION] This economic model assumed a fixed total amount of wealth & encouraged a balanced export/import ratio.
 [ANS] Mercantilism
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] To increase British wealth according to mercantilism, Parliament passed the:]
+[QUESTION] To increase British wealth according to mercantilism, Parliament passed the:
 [ANS] Navigation Acts
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Navigation Acts were based on this economic model.]
+[QUESTION] The Navigation Acts were based on this economic model.
 [ANS] Mercantilism
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the 1600s-1700s, wealthy families began buying more goods. This change is referred to as:]
+[QUESTION] In the 1600s-1700s, wealthy families began buying more goods. This change is referred to as:
 [ANS] The Consumer Revolution
 [END]
 -------------------

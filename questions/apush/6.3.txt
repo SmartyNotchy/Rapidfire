@@ -1,84 +1,84 @@
 [QUESTION TYPE] SAQ
-[QUESTION] This theory stated that the Western frontier would always be ripe with economic opportunities.]
+[QUESTION] This theory stated that the Western frontier would always be ripe with economic opportunities.
 [ANS] Safety Valve Theory
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] To support railroads, which of the following occurred? (Growth of coal industry/Interstate Commerce Act/Granger Laws/Homestead Act)]
+[QUESTION] To support railroads, which of the following occurred? (Growth of coal industry/Interstate Commerce Act/Granger Laws/Homestead Act)
 [ANS] Growth of coal industry
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This act in the late 1800s let the fed. gov. distribute land to states for agricultural colleges.]
+[QUESTION] This act in the late 1800s let the fed. gov. distribute land to states for agricultural colleges.
 [ANS] Morill Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This act in the late 1800s allowed for agricultural experimentation stations.]
+[QUESTION] This act in the late 1800s allowed for agricultural experimentation stations.
 [ANS] Hatch Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The gold & silver mining industry in the US was kickstarted by this event before spreading east:]
+[QUESTION] The gold & silver mining industry in the US was kickstarted by this event before spreading east:
 [ANS] Gold Rush
 [ANS] California Gold Rush
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Name this major example of a "gold rush" in the late 1800s (After the California Gold Rush).]
+[QUESTION] Name this major example of a "gold rush" in the late 1800s (After the California Gold Rush).
 [ANS] Comstock Lode
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Cities that emerged around locations with mineral resources, often with a quick rise & fall, were called:]
+[QUESTION] Cities that emerged around locations with mineral resources, often with a quick rise & fall, were called:
 [ANS] Boomtowns
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_\_\_ \_\_\_\_\_ was a major cattle route from Texas to Kansas.]
+[QUESTION] The \_\_\_\_\_\_ \_\_\_\_\_ was a major cattle route from Texas to Kansas.
 [ANS] Chisholm Trail
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Three major native conflicts occurred in the late 1800s; Name one.]
+[QUESTION] Three major native conflicts occurred in the late 1800s; Name one.
 [ANS] Sand Creek Massacre
 [ANS] Battle of Little Big Horn
 [ANS] Battle of Wounded Knee
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_\_ \_\_\_\_\_ movement gave natives hope that their land would be restored; this never came to be.]
+[QUESTION] The \_\_\_\_\_ \_\_\_\_\_ movement gave natives hope that their land would be restored; this never came to be.
 [ANS] Ghost Dance
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This battle marked the last major native conflict in the US, occurring in the late 1800s.]
+[QUESTION] This battle marked the last major native conflict in the US, occurring in the late 1800s.
 [ANS] Wounded Knee
 [ANS] Battle of Wounded Knee
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] As a result of westward expansion, the \_\_\_\_ population declined, hurting natives.]
+[QUESTION] As a result of westward expansion, the \_\_\_\_ population declined, hurting natives.
 [ANS] Bison
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This book written in the late 1800s documented the relationship between the US and natives, outlining the many broken promises & treaties.]
+[QUESTION] This book written in the late 1800s documented the relationship between the US and natives, outlining the many broken promises & treaties.
 [ANS] Century of Dishonor
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The \_\_\_\_\_ \_\_\_\_\_\_\_ \_\_\_ (Late 1800s) was the government's attempt at assimilating & helping natives.]
+[QUESTION] The \_\_\_\_\_ \_\_\_\_\_\_\_ \_\_\_ (Late 1800s) was the government's attempt at assimilating & helping natives.
 [ANS] Dawes Severalty Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] By the 1890s, the western frontier was (inhabitable/undocumented/indistinguishable/undesirable).]
+[QUESTION] By the 1890s, the western frontier was (inhabitable/undocumented/indistinguishable/undesirable).
 [ANS] Indistinguishable
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This "thesis" portrayed a romanticized memory of the frontier experience.]
+[QUESTION] This "thesis" portrayed a romanticized memory of the frontier experience.
 [ANS] Turner's Frontier Thesis
 [ANS] Turner
 [ANS] Frederick Turner

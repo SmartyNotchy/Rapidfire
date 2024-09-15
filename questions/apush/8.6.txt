@@ -1,5 +1,5 @@
 [QUESTION TYPE] SAQ
-[QUESTION] The decision in *Plessy v. Ferguson* was effectively overturned by this court case.]
+[QUESTION] The decision in *Plessy v. Ferguson* was effectively overturned by this court case.
 [ANS] Brown v. Board of Education
 [ANS] Brown v. Topeka
 [ANS] Brown v. Board
@@ -7,31 +7,31 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The decision in *Brown v. Board of Education* overturned this "separate but equal" case.]
+[QUESTION] The decision in *Brown v. Board of Education* overturned this "separate but equal" case.
 [ANS] Plessy v. Ferguson
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Southern members of Congress protested the *Brown v. Board* decision by signing the \_\_\_\_\_\_ \_\_\_\_\_\_.]
+[QUESTION] Southern members of Congress protested the *Brown v. Board* decision by signing the \_\_\_\_\_\_ \_\_\_\_\_\_.
 [ANS] Southern Manifesto
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Rosa Parks led this boycott.]
+[QUESTION] Rosa Parks led this boycott.
 [ANS] Bus Boycott
 [ANS] Montgomery Bus Boycott
 [ANS] Bus
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This person emerged as the leader of the nonviolent civil rights movement.]
+[QUESTION] This person emerged as the leader of the nonviolent civil rights movement.
 [ANS] MLK
 [ANS] MLK Jr.
 [ANS] Martin Luther King Jr.
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The "sit-in" civil rights movemenent originated in \_\_\_\_\_\_\_.]
+[QUESTION] The "sit-in" civil rights movemenent originated in \_\_\_\_\_\_\_.
 [ANS] Greensboro
 [END]
 -------------------

@@ -1,5 +1,5 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Name a push factor in immigration during the Gilded Age.]
+[QUESTION] Name a push factor in immigration during the Gilded Age.
 [ANS] Political conflict
 [ANS] Religious discrimination
 [ANS] Poverty
@@ -8,7 +8,7 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Name a pull factor in immigration during the Gilded Age.]
+[QUESTION] Name a pull factor in immigration during the Gilded Age.
 [ANS] Democracy
 [ANS] Jobs
 [ANS] Western Land
@@ -18,58 +18,58 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This process refers to the "Americanization" of new immigrants to adapt to American culture.]
+[QUESTION] This process refers to the "Americanization" of new immigrants to adapt to American culture.
 [ANS] Assimilation
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Immigrants during the Gilded Age mostly settled in \_\_\_\_\_ areas.]
+[QUESTION] Immigrants during the Gilded Age mostly settled in \_\_\_\_\_ areas.
 [ANS] Urban
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] These parts of cities provided a "comfort space" where immigrants could be surrounded by their home culture.]
+[QUESTION] These parts of cities provided a "comfort space" where immigrants could be surrounded by their home culture.
 [ANS] Ethnic Neighborhoods
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Two places were designated as immigration checkpoints during the Gilded Age; name them from west to east.]
+[QUESTION] Two places were designated as immigration checkpoints during the Gilded Age; name them from west to east.
 [ANS] Angel Island, Ellis Island
 [ANS] Angel & Ellis Island.
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This term refers to immigrants who arrived, worked a bit, then returned to their home country.]
+[QUESTION] This term refers to immigrants who arrived, worked a bit, then returned to their home country.
 [ANS] Birds of Passage
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the Gilded Age, (New/Old) immigrants were from Northern & Western Europe.]
+[QUESTION] During the Gilded Age, (New/Old) immigrants were from Northern & Western Europe.
 [ANS] Old
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the Gilded Age, (New/Old) immigrants were mainly Protestant.]
+[QUESTION] During the Gilded Age, (New/Old) immigrants were mainly Protestant.
 [ANS] Old
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the Gilded Age, (New/Old) immigrants were highly literate & skilled.]
+[QUESTION] During the Gilded Age, (New/Old) immigrants were highly literate & skilled.
 [ANS] Old
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the Gilded Age, (New/Old) immigrants were from Southern & Eastern Europe.]
+[QUESTION] During the Gilded Age, (New/Old) immigrants were from Southern & Eastern Europe.
 [ANS] New
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the Gilded Age, (New/Old) immigrants were mainly Catholic, Jewish, or Greek Orthodox.]
+[QUESTION] During the Gilded Age, (New/Old) immigrants were mainly Catholic, Jewish, or Greek Orthodox.
 [ANS] New
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] During the Gilded Age, (New/Old) immigrants were mostly illiterate & unskilled.]
+[QUESTION] During the Gilded Age, (New/Old) immigrants were mostly illiterate & unskilled.
 [ANS] New
 [END]
 -------------------

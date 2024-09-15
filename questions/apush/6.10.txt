@@ -1,20 +1,20 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Industrialization during the Gilded Age led to the development of a \_\_\_\_\_\_ class.]
+[QUESTION] Industrialization during the Gilded Age led to the development of a \_\_\_\_\_\_ class.
 [ANS] Middle
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Increased leisure time & consumer culture was a side effect of the development of a \_\_\_\_\_\_ \_\_\_\_\_.]
+[QUESTION] Increased leisure time & consumer culture was a side effect of the development of a \_\_\_\_\_\_ \_\_\_\_\_.
 [ANS] Middle Class
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This concept refers to the belief that the wealthy were morally obligated to give back to their communities.]
+[QUESTION] This concept refers to the belief that the wealthy were morally obligated to give back to their communities.
 [ANS] Gospel of Wealth
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The first "philanthropist" and preacher of the Gospel of Wealth was \_\_\_\_\_\_ \_\_\_\_\_\_\_\_.]
+[QUESTION] The first "philanthropist" and preacher of the Gospel of Wealth was \_\_\_\_\_\_ \_\_\_\_\_\_\_\_.
 [ANS] Andrew Carnegie
 [END]
 -------------------

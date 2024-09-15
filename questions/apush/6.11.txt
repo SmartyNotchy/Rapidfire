@@ -1,16 +1,16 @@
 [QUESTION TYPE] SAQ
-[QUESTION] During Industrialization, a major reform movement was that of \_\_\_\_\_\_ equality.]
+[QUESTION] During Industrialization, a major reform movement was that of \_\_\_\_\_\_ equality.
 [ANS] Gender
 [ANS] Female
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This concept refers to applying Christian values to promote better living conditions.]
+[QUESTION] This concept refers to applying Christian values to promote better living conditions.
 [ANS] Social Gospel
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The NAWSA, created during Industrialization, was created to solve the issue of:]
+[QUESTION] The NAWSA, created during Industrialization, was created to solve the issue of:
 [ANS] Female Equality
 [ANS] Suffrage
 [ANS] Gender Equality
@@ -19,7 +19,7 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] To deal with crowded immigrant neighborhoods, women created \_\_\_\_\_\_\_\_\_ \_\_\_\_\_.]
+[QUESTION] To deal with crowded immigrant neighborhoods, women created \_\_\_\_\_\_\_\_\_ \_\_\_\_\_.
 [ANS] Settlement Houses
 [END]
 -------------------

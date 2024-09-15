@@ -1,66 +1,66 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Under George Washington, the precedent of a \_\_\_\_\_ of secretaries of departments was established.]
+[QUESTION] Under George Washington, the precedent of a \_\_\_\_\_ of secretaries of departments was established.
 [ANS] Cabinet
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_\_\_\_ \_\_\_\_\_\_, Washington's Secretary of Treasury, established the first National Bank.]
+[QUESTION] \_\_\_\_\_\_\_ \_\_\_\_\_\_, Washington's Secretary of Treasury, established the first National Bank.
 [ANS] Alexander Hamilton
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The National Bank was contested by (large/small/high debt/little debt) states.]
+[QUESTION] The National Bank was contested by (large/small/high debt/little debt) states.
 [ANS] Little Debt
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Hamilton justified the creation of the Bank by the \_\_\_\_\_\_ clause.]
+[QUESTION] Hamilton justified the creation of the Bank by the \_\_\_\_\_\_ clause.
 [ANS] Elastic
 [ANS] Necessary & Proper
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Washington decided to (support/stay neutral/oppose) the French Revolution.]
+[QUESTION] Washington decided to (support/stay neutral/oppose) the French Revolution.
 [ANS] Stay Neutral
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Due to British impressment of sailors, Washington sent his chief justice to Britain, negotiating this treaty.]
+[QUESTION] Due to British impressment of sailors, Washington sent his chief justice to Britain, negotiating this treaty.
 [ANS] Jay's Treaty
 [ANS] Jay
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Under Washington, this treaty allowed the US to use the port of New Orleans.]
+[QUESTION] Under Washington, this treaty allowed the US to use the port of New Orleans.
 [ANS] Pinckney
 [ANS] Pinckney Treaty
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the aftermath of this battle, Indians surrended all land in the Ohio River Valley to the US.]
+[QUESTION] In the aftermath of this battle, Indians surrended all land in the Ohio River Valley to the US.
 [ANS] Fallen Timbers
 [ANS] Battle of Fallen Timbers
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The success in dealing with this incident proved the effectiveness of the Constitution.]
+[QUESTION] The success in dealing with this incident proved the effectiveness of the Constitution.
 [ANS] Whiskey Rebellion
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the first two-party system in the US, the two parties were the \_\_\_\_\_\_ and the \_\_\_ - \_\_\_\_\_.]
+[QUESTION] In the first two-party system in the US, the two parties were the \_\_\_\_\_\_ and the \_\_\_ - \_\_\_\_\_.
 [ANS] Federalists, Demo-Reps
 [ANS] Federalists, Democratic Republicans
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Who led the earliest Federalist party?]
+[QUESTION] Who led the earliest Federalist party?
 [ANS] Hamilton
 [ANS] Alexander Hamilton
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Who led the earliest Demo-Rep party?]
+[QUESTION] Who led the earliest Demo-Rep party?
 [ANS] Jefferson
 [ANS] Thomas Jefferson
 [ANS] Madison
@@ -68,48 +68,48 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The (Feds/Demo-Reps) supported a strong central government.]
+[QUESTION] The (Feds/Demo-Reps) supported a strong central government.
 [ANS] Feds
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The (Feds/Demo-Reps) favored the interests of the rich.]
+[QUESTION] The (Feds/Demo-Reps) favored the interests of the rich.
 [ANS] Feds
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The (Feds/Demo-Reps) supported strate government rights.]
+[QUESTION] The (Feds/Demo-Reps) supported strate government rights.
 [ANS] Demo-Reps
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The (Feds/Demo-Reps) favored the interests of yeomen farmers.]
+[QUESTION] The (Feds/Demo-Reps) favored the interests of yeomen farmers.
 [ANS] Demo-Reps
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Washington's Farewell Address covered all of the following topics EXCEPT (sectionalism/expansion/foreign policy/political parties).]
+[QUESTION] Washington's Farewell Address covered all of the following topics EXCEPT (sectionalism/expansion/foreign policy/political parties).
 [ANS] Expansion
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] When John Adams sent diplomats to France to stop the seizings of ships, French diplomats demanded a bribe, leading to this incident.]
+[QUESTION] When John Adams sent diplomats to France to stop the seizings of ships, French diplomats demanded a bribe, leading to this incident.
 [ANS] XYZ Affair
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Adams pushed for this piece of legislation, which made it illegal to criticize the government and allowed deportation of immigrants.]
+[QUESTION] Adams pushed for this piece of legislation, which made it illegal to criticize the government and allowed deportation of immigrants.
 [ANS] Alien & Sedition Acts
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] As a result of the Alien & Sedition Acts, these "resolutions" were issued.]
+[QUESTION] As a result of the Alien & Sedition Acts, these "resolutions" were issued.
 [ANS] Virginia & Kentucky
 [ANS] Virginia & Kentucky Resolutions
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Virginia & Kentucky Resolutions foreshadowed this crisis that would occur later on.]
+[QUESTION] The Virginia & Kentucky Resolutions foreshadowed this crisis that would occur later on.
 [ANS] Nullification
 [ANS] Nullification Crisis
 [END]

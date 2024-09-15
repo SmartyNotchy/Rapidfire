@@ -1,26 +1,26 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Article VI of the Constitution, known as the \_\_\_\_\_ \_\_\_\_\_, stated that national laws trumped state laws in event of a contradiction.]
+[QUESTION] Article VI of the Constitution, known as the \_\_\_\_\_ \_\_\_\_\_, stated that national laws trumped state laws in event of a contradiction.
 [ANS] Supremacy Clause
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The Supremacy Clause only applied to certain national laws, known as \_\_\_\_\_\_\_ \_\_\_\_\_ (Article I Section 8).]
+[QUESTION] The Supremacy Clause only applied to certain national laws, known as \_\_\_\_\_\_\_ \_\_\_\_\_ (Article I Section 8).
 [ANS] Enumerated Powers
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This amendment reserved non-enumerated powers to state governments.]
+[QUESTION] This amendment reserved non-enumerated powers to state governments.
 [ANS] 10
 [ANS] Tenth
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This concept refers to the sharing of power between national & state governments.]
+[QUESTION] This concept refers to the sharing of power between national & state governments.
 [ANS] Federalism
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] The system of \_\_\_\_\_\_\_ \_\_ \_\_\_\_\_\_ ensured no one branch of government had too much power. (i.e. overriding vetoes)]
+[QUESTION] The system of \_\_\_\_\_\_\_ \_\_ \_\_\_\_\_\_ ensured no one branch of government had too much power. (i.e. overriding vetoes)
 [ANS] Checks & Balances
 [END]
 -------------------

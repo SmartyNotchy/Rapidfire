@@ -1,36 +1,36 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Sympathizers to immigration during the Gilded Age set up \_\_\_\_\_\_\_\_ \_\_\_\_\_ to assist with assimilation.]
+[QUESTION] Sympathizers to immigration during the Gilded Age set up \_\_\_\_\_\_\_\_ \_\_\_\_\_ to assist with assimilation.
 [ANS] Settlement Houses
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Jane Addam's Hull House is an example of this solution to Gilded Age Immigration:]
+[QUESTION] Jane Addam's Hull House is an example of this solution to Gilded Age Immigration:
 [ANS] Settlement House
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] \_\_\_\_\_\_ \_\_\_\_\_\_ provided services for Gilded Age immigrants in return for receiving their vote.]
+[QUESTION] \_\_\_\_\_\_ \_\_\_\_\_\_ provided services for Gilded Age immigrants in return for receiving their vote.
 [ANS] Political Machines
 [ANS] Political Bosses
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Nativists used \_\_\_\_\_\_ \_\_\_\_\_\_ to justify the suffering of poor people during the Gilded Age.]
+[QUESTION] Nativists used \_\_\_\_\_\_ \_\_\_\_\_\_ to justify the suffering of poor people during the Gilded Age.
 [ANS] Social Darwinism
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Immigrants were often used as \_\_\_\_\_\_\_\_ by managament.]
+[QUESTION] Immigrants were often used as \_\_\_\_\_\_\_\_ by managament.
 [ANS] Strikebreakers
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This law banned (CENSORED) immigration from 1882 to 1943 in response to nativism.]
+[QUESTION] This law banned (CENSORED) immigration from 1882 to 1943 in response to nativism.
 [ANS] Chinese Exclusion Act
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This landmark case upheld birthright citizenship for immigrants, as outlined in the 14th Amendment.]
+[QUESTION] This landmark case upheld birthright citizenship for immigrants, as outlined in the 14th Amendment.
 [ANS] US v. Wong Kim Ark
 [END]
 -------------------

@@ -1,22 +1,22 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Black Thursday & Black Tuesday marked the start of the \_\_\_\_\_ \_\_\_\_\_\_\_\_.]
+[QUESTION] Black Thursday & Black Tuesday marked the start of the \_\_\_\_\_ \_\_\_\_\_\_\_\_.
 [ANS] Great Depression
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] One cause of the Great Depression was this investment technique, where people borrowed most of the cost of a stock.]
+[QUESTION] One cause of the Great Depression was this investment technique, where people borrowed most of the cost of a stock.
 [ANS] Margin
 [ANS] Buying on Margin
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Herbert Hoover attempted to solve the Great Depression through signing this (general term works too):]
+[QUESTION] Herbert Hoover attempted to solve the Great Depression through signing this (general term works too):
 [ANS] Hawley-Smoot Tariff
 [ANS] Tariff
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] This march by war veterans was the final nail in the coffin for the Republican domination of government in the 1920s.]
+[QUESTION] This march by war veterans was the final nail in the coffin for the Republican domination of government in the 1920s.
 [ANS] Bonus March
 [END]
 -------------------

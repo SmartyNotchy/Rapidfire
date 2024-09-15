@@ -1,20 +1,20 @@
 [QUESTION TYPE] SAQ
-[QUESTION] Europeans attempted to justify this by manipulating the Bible.]
+[QUESTION] Europeans attempted to justify this by manipulating the Bible.
 [ANS] slavery
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In this system, leading men were granted land and natives on the land became the labor source.]
+[QUESTION] In this system, leading men were granted land and natives on the land became the labor source.
 [ANS] Encomienda
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] What document issued by the monarchs of Spain & the pope justified the encomienda system on religious grounds?]
+[QUESTION] What document issued by the monarchs of Spain & the pope justified the encomienda system on religious grounds?
 [ANS] Requerimiento
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Due to the ineffectiveness of native slaves, Spaniards switched to this labor source.]
+[QUESTION] Due to the ineffectiveness of native slaves, Spaniards switched to this labor source.
 [ANS] Africans
 [ANS] African Slaves
 [ANS] Black Slaves
@@ -22,13 +22,13 @@
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] Due to the three main racial groups in the Americas, Spain developed this system to sort them out:]
+[QUESTION] Due to the three main racial groups in the Americas, Spain developed this system to sort them out:
 [ANS] Social Hierarchy
 [ANS] Caste
 [END]
 -------------------
 [QUESTION TYPE] SAQ
-[QUESTION] In the Spanish caste system, what was the lowest group?]
+[QUESTION] In the Spanish caste system, what was the lowest group?
 [ANS] Natives
 [END]
 -------------------
