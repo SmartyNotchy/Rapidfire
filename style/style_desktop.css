@@ -166,7 +166,7 @@ button {
 
 #scq_sa_div {
     width: 100%;
-    height: 45px;
+    height: 90px;
 
     position: relative;
 }
@@ -230,6 +230,8 @@ button {
 
 #scq_mcq_div {
     width: 100%;
+
+    position: relative;
 }
 
 .scq_mcq {
@@ -252,6 +254,18 @@ button {
     align-items: center;
 
     margin-bottom: 10px;
+
+    transition: border 0.2s, background-color 0.2s;
+}
+
+.scq_mcq:hover {
+    background-color: #373e4b;
+    transition: border 0.2s, background-color 0.2s;
+}
+
+.scq_mcq:active {
+    border: 1px solid white;
+    transition: border 0.2s, background-color 0.2s;
 }
 
 .scq_mcq:last-child {
@@ -286,7 +300,43 @@ button {
     margin-right: 5px;
 }
 
-#scq_qfeedback {
+#scq_mcq_bottom_div {
+    width: 100%;
+
+    text-align: left;
+
+    display: flex;
+    align-items: center;
+}
+
+#scq_mcq_btn {
+    width: 150px;
+    height: 45px;
+
+    border: none;
+    border-radius: 10px;
+
+    color: white;
+    text-align: left;
+    font-size: 16px;
+
+    background-color: #3366ff;
+
+    position: relative;
+    padding-left: 10px;
+}
+
+#scq_mcq_btn_svg {
+    width: 25px;
+    height: 25px;
+    color: white;
+
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.scq_feedback {
     display: flex;
     align-items: center;
     font-size: 16px;
@@ -295,17 +345,26 @@ button {
 
     margin-top: 10px;
 }
-  
-#scq_qfeedback_icons {
+
+#scq_sa_feedback {
+    position: absolute;
+    top: 45px;
+}
+
+#scq_mcq_feedback {
+    margin-left: 20px;
+}
+
+.scq_feedback_icons {
     height: 25px;
     margin-right: 5px;
 }
 
-.scq_qfeedback_svg {
+.scq_feedback_svg {
     width: 25px;
     height: 25px;
 }
 
-#scq_qfeedback.correct {
+.scq_feedback.correct {
     color: #33cc33;
 }
