@@ -1,0 +1,26 @@
+[QUESTION TYPE] SAQ
+[QUESTION] Name one of the members of the WW2 "Big Three".]
+[ANS] FDR
+[ANS] Franklin Delano Roosevelt
+[ANS] Churchill
+[ANS] Stalin
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This wartime conference decided on policies after the victory against Hitler.]
+[ANS] Yalta
+[ANS] Yalta Conference
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Yalta Conference provided for the creation of this international committee.]
+[ANS] United Nations
+[ANS] UN
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This wartime conference after the Yalta meeting displayed cracks between the Big Three.]
+[ANS] Potsdam
+[ANS] Potsdam Conference
+[END]
+-------------------

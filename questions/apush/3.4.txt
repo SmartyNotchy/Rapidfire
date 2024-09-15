@@ -1,0 +1,30 @@
+[QUESTION TYPE] SAQ
+[QUESTION] During the Continental Congress of 1774, colonists (supported/were conflicted on/opposed) revolution.]
+[ANS] Opposed
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Ideals from this movement had a large influence on the Continental Congress of 1774.]
+[ANS] Enlightenment
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This pamphlet used everyday language to swing public opinion to support revolution.]
+[ANS] Common Sense
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who wrote Common Sense?]
+[ANS] Thomas Paine
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which of these people would have opposed colonial revolution? (Thomas Paine/John Locke/Charles Townshend/Kirabo Payne)]
+[ANS] Charles Townshend
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Second Continental Congress resulted in this document.]
+[ANS] Declaration of Independence
+[END]
+-------------------

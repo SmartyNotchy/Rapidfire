@@ -1,0 +1,11 @@
+[QUESTION TYPE] SAQ
+[QUESTION] After the Market Revolution, a series of religious revivals occurred amongst the highly educated, leading to the:]
+[ANS] Second Great Awakening
+[ANS] 2nd Great Awakening
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Second Great Awakening led to the creation of several \_\_\_\_\_\_ \_\_\_\_\_\_, some of which persisted into the 1900s.]
+[ANS] Reform Movements
+[END]
+-------------------

@@ -158,7 +158,7 @@ button {
     width: 0px;
 }
 
-#scq_desc {
+#scq_qdesc {
     color: white;
     font-size: 16px;
     margin-top: 30px;
@@ -208,6 +208,27 @@ button {
     transition: border 0.2s;
 }
 
+#scq_sa_input:disabled {
+    background-color: #212836;
+    color: #8e9299;
+    cursor: not-allowed;
+}
+
+#scq_sa_input.correct {
+    border: 2px solid #33cc33;
+    transition: border 0.2s;
+}
+
+#scq_sa_input.skipped {
+    border: 2px solid #3366ff;
+    transition: border 0.2s;
+}
+
+#scq_sa_input.incorrect {
+    border: 2px solid #c10000;
+    transition: border 0.2s;
+}
+
 #scq_sa_btn {
     width: 45px;
     height: 45px;
@@ -220,13 +241,57 @@ button {
     border-radius: 10px;
 
     background-color: #3366ff;
+
+    transition: background-color 0.2s;
 }
 
 #scq_sa_btn_svg {
     width: 25px;
     height: 25px;
     color: white;
+
+    transition: background-color 0.2s;
 }
+
+#scq_sa_btn:disabled {
+    cursor: not-allowed; 
+    background-color: rgba(50, 57, 70, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+#scq_sa_btn:disabled #scq_sa_btn_svg {
+    color: rgba(255, 255, 255, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+#scq_sa_btn:focus {
+    background-color: #4c80ff;
+    outline: none;
+
+    transition: background-color 0.2s;
+}
+
+#scq_sa_btn:hover {
+    background-color: #4c80ff;
+    outline: none;
+
+    transition: background-color 0.2s;
+}
+
+#scq_sa_btn:disabled:focus {
+    background-color: rgba(50, 57, 70, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+#scq_sa_btn:disabled:hover {
+    background-color: rgba(50, 57, 70, 0.5);
+
+    transition: background-color 0.2s;
+}
+
 
 #scq_mcq_div {
     width: 100%;
@@ -355,16 +420,16 @@ button {
     margin-left: 20px;
 }
 
-.scq_feedback_icons {
+.scq_feedback_svg {
+    width: 25px;
     height: 25px;
     margin-right: 5px;
 }
 
-.scq_feedback_svg {
-    width: 25px;
-    height: 25px;
-}
-
 .scq_feedback.correct {
     color: #33cc33;
+}
+
+.scq_feedback.incorrect {
+    color: #c10000;
 }

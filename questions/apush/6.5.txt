@@ -1,0 +1,22 @@
+[QUESTION TYPE] SAQ
+[QUESTION] This invention allowed for near-instant long-distance communication and went hand-in-hand with the transcontinental railroad.]
+[ANS] Telephone
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This invention was serviced by General Electric and foreshadowed a switch of more products to using electricity.]
+[ANS] Lightbulb
+[ANS] Electric Lightbulb
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Assembly lines, taylorism, and interchangeable parts all led to the \_\_\_\_ \_\_\_\_\_\_\_\_ of goods.]
+[ANS] Mass production
+[ANS] Increased production
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This refers to the scientific management of workers in order to increase efficiency.]
+[ANS] Taylorism
+[END]
+-------------------

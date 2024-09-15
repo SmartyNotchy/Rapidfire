@@ -1,0 +1,10 @@
+[QUESTION TYPE] SAQ
+[QUESTION] The Roaring 20s burdened \_\_\_\_\_\_ with heavy debt due to a surplus of goods.]
+[ANS] Farmers
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ referred to the policy of giving employees higher wages to prevent unionizing.]
+[ANS] Welfare Capitalism
+[END]
+-------------------

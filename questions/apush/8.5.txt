@@ -1,0 +1,28 @@
+[QUESTION TYPE] SAQ
+[QUESTION] This method of communication became the center of family life after 1945.]
+[ANS] Television
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] \_\_\_\_\_\_\_\_ are groups of businesses with seemingly unrelated products governed by a parent company.]
+[ANS] Conglomerates
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Social critics in the late 1900s criticized the replacement of \_\_\_\_\_\_\_\_\_ with conformity.]
+[ANS] Individuality
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which president was assassinated during November 1963 in Texas?]
+[ANS] JFK
+[ANS] Kennedy
+[ANS] John F Kennedy
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This commission set out to investigate the assassination of JFK.]
+[ANS] Warren
+[ANS] Warren Commission
+[END]
+-------------------

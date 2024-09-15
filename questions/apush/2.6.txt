@@ -1,0 +1,30 @@
+[QUESTION TYPE] SAQ
+[QUESTION] The greatest portion of slaves in British colonies ended up in the:]
+[ANS] British West Indies
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In this British colonial region, slaves mostly worked as household servants or sailors.]
+[ANS] New England
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Britain justified slavery using the concept of:]
+[ANS] Chattel
+[ANS] Chattel Slavery
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Name a major slave uprising in the early 1700s.]
+[ANS] Stono Rebellion
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Name a way slaves covertly resisted their enslavement.]
+[ANS] Maintaining beliefs
+[ANS] Maintaining culture
+[ANS] Speaking native languages
+[ANS] Breaking Tools
+[ANS] Destroying Crops
+[END]
+-------------------

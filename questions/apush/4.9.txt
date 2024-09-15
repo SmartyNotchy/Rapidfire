@@ -1,0 +1,26 @@
+[QUESTION TYPE] SAQ
+[QUESTION] The shift away from Enlightenment ideals towards a focus on intuition, feelings, heroism, and the study of nature is known as:]
+[ANS] Romanticism
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] US writers, artists, and other thinkers who expressed romanticism in their works were known as:]
+[ANS] Transcendentalists
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Generally, transcendentalists (supported/were neutral on/opposed) reform movements such as the anti-slavery movement.]
+[ANS] Supported
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] During the antebellum period, many people tried to create "perfect societies", or \_\_\_\_\_.]
+[ANS] Utopias
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In the 1830s, American architects borrowed styles from \_\_\_\_\_ architecture.]
+[ANS] Greek
+[ANS] European
+[END]
+-------------------

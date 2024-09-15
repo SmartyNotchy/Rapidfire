@@ -1,0 +1,40 @@
+[QUESTION TYPE] SAQ
+[QUESTION] This Portuguese navigator found a water route to Asia by going around Africa.]
+[ANS] Prince Henry
+[ANS] Henry
+[ANS] Henry the Navigator
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This maritime technological development allowed faster water travel, compared to using ships of war.]
+[ANS] Caravel
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Isabella & Ferdinand married to unite the country of \_\_\_.]
+[ANS] Spain
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In addition to economic motives, Spain wanted to \_\_\_\_\_ in the Americas.]
+[ANS] Spread Christianity
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The first major voyager that Spain funded to find a water route to Asia:]
+[ANS] Columbus
+[ANS] Christopher Columbus
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Land routes to Asia in the 1400s & 1500s were blocked by the \_\_\_.]
+[ANS] Muslims
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Columbus first arrived in the Americas on the island of \_\_\_.]
+[ANS] San Salvador
+[ANS] Bahamas
+[ANS] West Indies
+[END]
+-------------------

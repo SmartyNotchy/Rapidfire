@@ -1,0 +1,53 @@
+[QUESTION TYPE] SAQ
+[QUESTION] In Europe during the 1600s and 1700s, rational thinking was emphasized over tradition, a change called]
+[ANS] The Enlightenment
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] During the Enlightenment, John Locke spread the idea of]
+[ANS] Natural Rights
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This idea stated that the government existed to protect the people's rights & that the power to govern was in the hands of the people.]
+[ANS] Social Contract
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This term refers to the religious revival in the colonies during & after the Enlightenment.]
+[ANS] The Great Awakening
+[ANS] First Great Awakening
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This preacher is well-known for "Sinners in the Hands of an Angry God."]
+[ANS] Jonathan Edwards
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] George Whitefield & Jonathan Edwards were two members of the:]
+[ANS] New Light
+[ANS] New Light Clergy
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In terms of politics, New Light preachers emphasized \_\_\_\_\_ in the Bible.]
+[ANS] Democracy
+[ANS] Democratic Tendencies
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This term refers to how the colonists became more "English"-like.]
+[ANS] Anglicanization
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This term refers to the policy of seizing sailors & forcing them to work in the navy.]
+[ANS] Impressment
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] One major conflict between the colonists & Britain during King George's War was because of]
+[ANS] Impressment
+[END]
+-------------------

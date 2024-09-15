@@ -1,0 +1,179 @@
+[QUESTION TYPE] SAQ
+[QUESTION] Like Gilded Age reformers, people in this political group advocated for moderate reforms & government intervention in big business.]
+[ANS] Progressives
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The urban middle class & Protestants were most likely to join this 1900s political group.]
+[ANS] Progressives
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Roosevelt, Taft, and Wilson were the three presidents of the \_\_\_\_\_\_\_ Era.]
+[ANS] Progressive
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Romantic Transcendentalism was challenged by this belief that "truth" should produce observable results in a democratic society.]
+[ANS] Pragmatism
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Charles Darwin, William James, and John Dewey were champions of \_\_\_\_\_\_\_.]
+[ANS] Pragmatism
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Writers who wrote about negative storiers & scandals in factories & big business were known as "\_\_\_\_\_\_\_\_".]
+[ANS] Muckrakers
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Amendment #\_\_ guaranteed direct primaries & direct senator elections.]
+[ANS] 17
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] True/False: Progressives were united on the topic of Prohibition.]
+[ANS] False
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The "Wisconsin Idea," 17th Amendment, Social Welfare, and state commission plans were all brought about by the \_\_\_\_\_\_ movement.]
+[ANS] Progressive
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This 1905 court case ruled against 10-hour workdays.]
+[ANS] Lochner v. New York
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case in 1908 effectively overruled *Lochner v. New York* (1905).]
+[ANS] Muller v. Oregon
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This 1911 disaster caused public outrage over unsafe working conditions for women & children.]
+[ANS] Triangle Shirtwaist Fire
+[ANS] Shirtwaist Fire
+[ANS] Triangle Fire
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This president proposed an equal, "square" deal for labor.]
+[ANS] Theodore Roosevelt
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Theodore Roosevelt responded to labor disputes by proposing a "\_\_\_\_\_ \_\_\_\_".]
+[ANS] Square Deal
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This strike during Roosevelt's presidency caused him to pressure the owners to accept a labor deal.]
+[ANS] Pennsylvania Coal Strike
+[ANS] Coal Strike
+[ANS] Coal
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This 1890 law was significantly boosted during Roosevelt's presidency.]
+[ANS] Sherman Antitrust Law
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Elkins Act & Hepburn Act increased regulation over \_\_\_\_\_\_.]
+[ANS] Railroads
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This book by Upton Sinclair led to the passage of the Pure Food & Drug Act, and the Meat Inspection Act.]
+[ANS] The Jungle
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Newlands Reclamation Act during Roosevelt's presidency helped to promote \_\_\_\_\_\_\_\_.]
+[ANS] Conservation
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Amendment #\_\_ allowed the government to collect an income tax.]
+[ANS] 16
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The 16th Amendment allowed the government to collect an \_\_\_\_\_\_ \_\_\_.]
+[ANS] Income Tax
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This event (name one) led to Progressives claiming that Taft had betrayed them.]
+[ANS] Firing of Pinchot
+[ANS] Pinchot's Firing
+[ANS] Payne-Aldrich Tariff
+[ANS] Supporting Conservatives
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Pinchot's firing and the Payne-Aldrich Tariff led to \_\_\_\_\_\_ believing that Taft had betrayed them.]
+[ANS] Progressives
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Republican Party in the 1900s split between Taft loyalists and the \_\_\_\_ \_\_\_\_\_ Party.]
+[ANS] Bull Moose
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The leader of the Bull Moose Party was:]
+[ANS] Roosevelt
+[ANS] Theodore Roosevelt
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This founder of the Socialist Party ran five times for president.]
+[ANS] Eugene V. Debs
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Roosevelt supported (New Nationalism/New Freedom), wanting more government regulation of business.]
+[ANS] New Nationalism
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Wilson supported (New Nationalism/New Freedom), wanting less limitations of government & business.]
+[ANS] New Freedom
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Wilson's program attacked the "triple wall of privilege": name one of these three problems.]
+[ANS] Tariffs
+[ANS] Banking
+[ANS] Trust
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Federal Reserve Act (1914) proposed a national banking system supervised by the \_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_.]
+[ANS] Federal Reserve Board
+[ANS] Federal Reserve
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This "commission", first instituted under Wilson, investigated "unfair trade practices".]
+[ANS] FTC
+[ANS] Federal Trade Commission
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This act prevented unions from being prosecuted as trusts.]
+[ANS] Clayton Antitrust Act
+[ANS] Clayton Antitrust
+[ANS] Clayton
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The dedicated war effort in WW1 by women led to the passage of Amendment #\_\_.]
+[ANS] 19
+[END]
+-------------------

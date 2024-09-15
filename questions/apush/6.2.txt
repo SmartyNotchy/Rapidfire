@@ -1,0 +1,89 @@
+[QUESTION TYPE] SAQ
+[QUESTION] This new development in the mid-to-late 1800s connected the coasts & allowed for easy transportation of goods.]
+[ANS] Transcontinental Railroad
+[ANS] Iron Horse
+[ANS] Central Pacific
+[ANS] Union Pacific
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This railroad company built west-to-east and mostly hired Chinese immigrants.]
+[ANS] Central Pacific
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This railroad company built east-to-west and mostly hired German & Irish immigrants.]
+[ANS] Union Pacific
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This act in the 1860s granted free land in the West to those who "improved" it.]
+[ANS] Homestead Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The (CENSORED) Acts in the 1860s gave bonds & land grants to companies building the \_\_\_\_\_\_ \_\_\_\_.]
+[ANS] Transcontinental Railroad
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] These people were African Americans who moved west to escape segregated South.]
+[ANS] Exodusters
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Technological developments such as steel plows & barbed wires led to (higher/stable/lower/a crash in) food prices.]
+[ANS] Lower
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Natural disasters, conflicts with natives, and inequal land quality were issues with the \_\_\_\_\_\_\_\_ Act in the 1860s.]
+[ANS] Homestead
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This refers to the repeated process of borrowing money to buy new equipment, and paying portions of that debt off with the harvest.]
+[ANS] Cycle of Debt
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In response to the difficulty of farming in the West, the \_\_\_\_\_\_ \_\_\_\_\_\_ was formed in the late 1800s. (Two Possible Answers; Name One)]
+[ANS] Granger Movement
+[ANS] Farmers Alliance
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] These laws were passed in the late 1800s to regulate farming-related costs.]
+[ANS] Granger Laws
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] *Munn v. Illinois (1877)* upheld \_\_\_\_\_\_ \_\_\_ as constitutional. (The answer is a set of laws)]
+[ANS] Granger Laws
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case in the late 1800s upheld Granger Laws as constitutional.]
+[ANS] Munn v. Illinois
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case in the late 1800s allowed states to regulate industries for the "common good".]
+[ANS] Munn v. Illinois
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case in the late 1800s ultimately overruled *Munn v. Illinois (1877)*.]
+[ANS] Wabash v. Illinois
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case in the late 1800s disallowed states from setting rates on railroads.]
+[ANS] Wabash v. Illinois
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This law was passed by Congress to directly combat Wabash v. Illinois.]
+[ANS] Interstate Commerce Act
+[END]
+-------------------

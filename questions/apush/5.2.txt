@@ -1,0 +1,110 @@
+[QUESTION TYPE] SAQ
+[QUESTION] This phrase referred to the belief that the US was destined by God to extend from coast to coast.]
+[ANS] Manifest Destiny
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Opponents of Manifest Destiny mainly believed that it was secretly meant to expand \_\_\_\_\_.]
+[ANS] Slavery
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Tensions between Texas & American settlers rose in the 1830s due to two reasons, name one **system** the two disagreed on:]
+[ANS] Slavery
+[ANS] Religion
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who led the Americans in the Texan revolt?]
+[ANS] Sam Houston
+[ANS] Houston
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Of these three presidents, which pushed for the annexation of Texas? (Jackson/Buren/Tyler)]
+[ANS] Tyler
+[ANS] John Tyler
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This treaty set the disputed Maine-Canada border in the 1840s.]
+[ANS] Webster-Ashburton Treaty
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Webster-Ashburton Treaty resolved the northern border of this state.]
+[ANS] Maine
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This disputed region was claimed by the British due to the Hudson Bay Company.]
+[ANS] Oregon
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Texas's annexation temporarily "split" this political party in the 1840s.]
+[ANS] Democratic
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who was the Democratic candidate in the election of 1844?]
+[ANS] James K Polk
+[ANS] Polk
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Democratic slogan "Fifty-Four or Fight" in the 1800s referred to this disputed territory.]
+[ANS] Oregon
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who was the Whig nominee in the election of 1844?]
+[ANS] Henry Clay
+[ANS] Clay
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The region between the Mississippi Valley & the Pacific Coast was known as:]
+[ANS] Great American Desert
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The first non-native settlers in the Far West, known as \_\_\_\_ \_\_\_, opened up the territory and acted as trail guides.]
+[ANS] Mountain Men
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This event convinced John Tyler to push the annexation of Texas through Congress.]
+[ANS] Polk's Election
+[ANS] Polk's Victory
+[ANS] Election of 1844
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This event in the 1840s triggered mass settlement in California.]
+[ANS] California Gold Rush
+[ANS] Gold Rush
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] On the frontier, small families moved onto parcels of lands called:]
+[ANS] Homestands
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] During the 1800s, the US sent Matthew C. Perry to establish trading with:]
+[ANS] Asia
+[ANS] Japan
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] During the 1800s, the US sent this official to Asia to sign a trading agreement with Japan.]
+[ANS] Matthew C. Perry
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This treaty with Japan in the mid-1800s led to a trade agreement between the US & Asia.]
+[ANS] Kanawaga
+[ANS] Kanawaga Treaty
+[END]
+-------------------

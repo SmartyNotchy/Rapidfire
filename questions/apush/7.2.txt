@@ -1,0 +1,24 @@
+[QUESTION TYPE] SAQ
+[QUESTION] This Secretary of State was made fun of in their time for organizing the purchase of Alaska.]
+[ANS] Seward
+[ANS] William Seward
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] William H. Seward most notably arranged the purchase of this territory.]
+[ANS] Alaska
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This first conference in Washington established a permanent trade organization amongst countries in the Americas.]
+[ANS] Pan-American
+[ANS] Pan-American Conference
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This dispute in the Americas established the US & British as allies rather than rivals from 1895 onwards.]
+[ANS] Venezuela
+[ANS] Venezuela Boundary
+[ANS] Venezuela Boundary Dispute
+[END]
+-------------------

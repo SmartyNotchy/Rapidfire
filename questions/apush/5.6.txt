@@ -1,0 +1,92 @@
+[QUESTION TYPE] SAQ
+[QUESTION] Who (person OR party) won the Election of 1852?]
+[ANS] Franklin Pierce
+[ANS] Democrat
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Election of 1852 spelled the end for the:]
+[ANS] Whigs
+[ANS] Whig Party
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This act divided the Nebraska Territory into ??? and ???, subjecting both to popular sovereignty.]
+[ANS] Kansas-Nebraska Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Both territories in the Kansas & Nebraska Act were above the \_\_\_\_\_\_\_\_\_, angering Northern Democrats.]
+[ANS] MO Compromise Line
+[ANS] Missouri Compromise Line
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Due to popular soverignty, fighting broke out in ??? in the 1850s; this became known as "\_\_\_\_\_\_".]
+[ANS] Bleeding Kansas
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Caning of Senator Sumner, at its root cause, was caused by issues over:]
+[ANS] Slavery
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] When the Whig Party broke apart, pro-slavery Ex-Whigs joined/founded this party:]
+[ANS] Democrat
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] When the Whig Party broke apart, anit-slavery Ex-Whigs joined/founded this party:]
+[ANS] Republican
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] What was the first year in which the Republican Party ran? 18\_\_]
+[ANS] 56
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who won the Election of 1856?]
+[ANS] Buchanan
+[ANS] James Buchanan
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This was a pro-slavery Kansas Constitution supported by Buchanan.]
+[ANS] Lecompton
+[ANS] Lecompton Constitution
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Lecompton Constitution for Kansas was (pro/anti)-slavery.]
+[ANS] Pro
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case established that blacks were not citizens and could not sue.]
+[ANS] Dred Scott v. Sandford
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case established that Congress could not exclude slavery from any federal territory.]
+[ANS] Dred Scott v. Sandford
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Dred Scott v. Sandford declared this law unconstitutional.]
+[ANS] MO Compromise
+[ANS] Missouri Compromise
+[ANS] Compromise of 1820
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case declared the Missouri Compromise unconstitutional.]
+[ANS] Dred Scott v. Sandford
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In the Lincoln-Douglass Debates, Douglass stated that slavery could not exist in states if laws did not maintain it. This stance was known as the:]
+[ANS] Freeport Doctrine
+[END]
+-------------------

@@ -1,0 +1,49 @@
+[QUESTION TYPE] SAQ
+[QUESTION] During the Red Scare, this board investigated federal employees for Communism.]
+[ANS] Loyalty Review Board
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This 1940 law outlawed advocating for overthrowing the government by force.]
+[ANS] Smith Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This court case upheld the Smith Law of 1940.]
+[ANS] Dennis et al. v. United States
+[ANS] Dennis v. US
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This 1950 law restricted supporting Communism and created detention camps for those who did.]
+[ANS] McCarran Internal Security Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This committee, originally for finding Nazis, was rebooted to locate Communist representatives during the Red Scare.]
+[ANS] HUAC
+[ANS] House Un-American Activities Committee
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This state department official, who assisted Roosevelt at Yalta, was tried & convicted of being a Communist spy.]
+[ANS] Alger Hiss
+[ANS] Hiss
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] These two people (answer w/ last name) were executed for giving the Soviet Union atomic bomb secrets.]
+[ANS] Rosenbergs
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This senator was a star during the Red Scare, capturing the media & damaging thousands of people.]
+[ANS] Joseph McCarthy
+[ANS] McCarthy
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This movement during the Red Scare referred to the "witch hunt" for Communists, named after a senator.]
+[ANS] McCarthyism
+[END]
+-------------------

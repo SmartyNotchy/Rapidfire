@@ -1,0 +1,69 @@
+[QUESTION TYPE] SAQ
+[QUESTION] The French & Indian War was between the French & the \_\_\_\_\_\_.]
+[ANS] British
+[ANS] English
+[ANS] Britain
+[ANS] England
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The French & Indian War was a small part of this larger war.]
+[ANS] Seven Year's War
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The French & Indian War was caused by territorial disputes in this location.]
+[ANS] Ohio
+[ANS] Ohio River
+[ANS] Ohio River Valley
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This convention of colonists during the French & Indian War was a precursor to the Revolutionary Congress.]
+[ANS] Albany Congress
+[ANS] Albany Convention
+[ANS] Albany
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This treaty ended the French & Indian War.]
+[ANS] Peace of Paris
+[ANS] Treaty of Paris
+[ANS] Treaty of 1763
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which side benefited the most from the French & Indian War?]
+[ANS] England
+[ANS] Britain
+[ANS] Great Britain
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] As a result of the French & Indian War, this area was opened up to the colonists.]
+[ANS] Ohio
+[ANS] Ohio River
+[ANS] Ohio River Valley
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] To protect colonists from native violence in the mid-1700s, Parliament passed the:]
+[ANS] Proclamation of 1763
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This law outraged colonists because they felt they had a right to explore the land they'd won.]
+[ANS] Proclamation of 1763
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] How did the colonists react to the Proclamation of 1763? (Supportive/indifferent/conflicted/outraged)]
+[ANS] Outraged
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This event directly led to Parliament passing the first of various tax acts.]
+[ANS] French & Indian War
+[ANS] Seven Years' War
+[END]
+-------------------

@@ -1,0 +1,124 @@
+[QUESTION TYPE] SAQ
+[QUESTION] Jefferson's foreign policy was one of:]
+[ANS] Neutrality
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This conflict dominated European politics during Jefferson's Presidency.]
+[ANS] Napoleonic Wars
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] During the Napoleonic Wars, this regular British & French action outraged Americans.]
+[ANS] Impressment
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Jefferson's alternative to war with Britain due to impressment was this:]
+[ANS] Embargo Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which best describes the success of the Embargo Act? (Worked well/No effect/Hurt the US/Rejected by Congress)]
+[ANS] Hurt the US
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which best describes Madison's foreign policy? (Remained neutral/Unwillingly declared war/Willingly declared war/Ignored the issue)]
+[ANS] Unwillingly Declared War
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This successor to the Embargo Act re-enabled trade with European nations respecting neutrality.]
+[ANS] Nonintercourse Act
+[ANS] Nonintercourse Act of 1809
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Madison passed this bill that embargoed either Britain or France if the other respected American neutrality.]
+[ANS] Macon's Bill
+[ANS] Macon's Bill No. 2
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Apart from British impressment, conflicts with Britain on \_\_\_\_\_ led to the War of 1812.]
+[ANS] the frontier
+[ANS] the western frontier
+[ANS] the west
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Of the two belligerents in the Napoleonic Wars, this side was more hated by the Americans.]
+[ANS] Britain
+[ANS] British
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Democratic-Republicans, mainly from frontier states, who supported the War of 1812 were known as:]
+[ANS] War Hawks
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This group of people strongly opposed the War of 1812. (Either a region or party is fine.)]
+[ANS] New England
+[ANS] Federalist
+[ANS] Quid
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Quids (supported/opposed/didn't care about) the War of 1812.]
+[ANS] opposed
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Treaty of Ghent resolved this conflict.]
+[ANS] War of 1812
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The War of 1812 was ended by this treaty:]
+[ANS] The Treaty of Ghent
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The outcome of the War of 1812 for the Americans was a: (victory/stalemate/loss)]
+[ANS] stalemate
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This local event regarding the War of 1812 was significant in the decline of the Federalists.]
+[ANS] Hartford Convention
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Despite it being a stalemate, the War of 1812 led to increased \_\_\_\_ in the US.]
+[ANS] nationalism
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which best describes Monroe's foreign policy? (Nationalistic/Neutrality/Declaring Wars/Allying with France)]
+[ANS] Nationalistic
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] What did the Rush-Bagot Treaty under Monroe settle?]
+[ANS] Canadian Border
+[ANS] US Northern Border
+[ANS] US-Canada Border
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Monroe sent Andrew Jackson to conquer this territory in the Americas.]
+[ANS] Florida
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In the Adams-Onis Treaty, Spain handed over \_\_\_\_\_ and possessions in the Oregon territory to the US.]
+[ANS] Florida
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This "statement" issued in the early 1800s declared that the US would handle all affairs in the Americas and told Europe to stay out.]
+[ANS] Monroe Doctrine
+[END]
+-------------------

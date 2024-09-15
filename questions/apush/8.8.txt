@@ -1,0 +1,102 @@
+[QUESTION TYPE] SAQ
+[QUESTION] When Vietnam was divided, the North portion was led by communist \_\_ \_\_\_ \_\_\_\_.]
+[ANS] Ho Chi Minh
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] When Vietnam was divided, the South portion was led by anti-communist \_\_\_ \_\_\_\_ \_\_\_\_.]
+[ANS] Ngo Dinh Diem
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Eisenhower's \_\_\_\_\_\_ \_\_\_\_\_\_ stated that one country falling to communism would lead to more and more.]
+[ANS] Domino Theory
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] To protect South Vietnam and its neighbors, Dulles created the \_\_\_\_\_.]
+[ANS] SEATO
+[ANS] Southeast Asia Treaty Organization
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The \_\_\_\_\_\_ \_\_\_\_ \_\_\_\_\_\_\_\_ allowed Johnson to take "all necessary measures" in Vietnam.]
+[ANS] Tonkin Gulf Resolution
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Johnson's reluctance to be transparent about the Vietnam War led to a \_\_\_\_\_\_\_\_\_\_ \_\_\_ with the public.]
+[ANS] Credibility Gap
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] \_\_\_\_\_ supported the war in Vietnam, believing it was part of the Soviet's plan in Asia.]
+[ANS] Hawks
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] \_\_\_\_\_ opposed the war in Vietnam, believing it cost money & supplies better spent on other things.]
+[ANS] Doves
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The main (age) group that opposed the Vietnam War were \_\_\_\_\_\_ \_\_\_\_\_\_\_\_.]
+[ANS] College Students
+[ANS] Young
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The \_\_\_ \_\_\_\_\_\_\_\_ was a military loss but massive political gain for the Vietcong.]
+[ANS] Tet Offensive
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The \_\_\_ \_\_\_\_\_\_\_\_ was perhaps the final tipping point before Johnson started negotiating peace in the Vietnam War.]
+[ANS] Tet Offensive
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Public frustration with the \_\_\_\_\_\_\_ \_\_\_ was a major part in Nixon's election in 1968.]
+[ANS] Vietnam War
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This national security adviser under Nixon used a foreign policy that reduced Cold War tensions.]
+[ANS] Henry Kissingner
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Nixon used "\_\_\_\_\_\_\_\_\_\_\_\_" to leave the Vietnam War by withdrawing troops & giving South Vietnam enough supplies to continue.]
+[ANS] Vietnamization
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The \_\_\_\_\_ \_\_\_\_\_\_\_\_ was the policy of supporting allies in Asia by giving supplies to resist communism, without using ground troops.]
+[ANS] Nixon Doctrine
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The US-caused massacre at \_\_ \_\_\_ shocked the public and led to even more opposition against the Vietnam War.]
+[ANS] My Lai
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Published by the New York Times, the \_\_\_\_\_\_\_\_ \_\_\_\_\_ listed government mistakes & coverups with Vietnam.]
+[ANS] Pentagon Papers
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The \_\_\_\_\_ \_\_\_\_\_\_ was the path to US leaving the Vietnam War.]
+[ANS] Paris Accords
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The \_\_\_ \_\_\_\_\_ \_\_\_ (1973) required the President to report to Congress quickly after taking military action.]
+[ANS] War Power Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The War Power Act of 1973 was passed in response to Nixon's bombing of \_\_\_\_\_\_\_.]
+[ANS] Cambodia
+[END]
+-------------------

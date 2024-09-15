@@ -1,0 +1,218 @@
+[QUESTION TYPE] SAQ
+[QUESTION] This conflict dominated international relations from the 1940s to the late 1900s.]
+[ANS] Cold War
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In the Cold War, the US "fought" against the:]
+[ANS] Soviet
+[ANS] Soviet Union
+[ANS] USSR
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This international organization created after WW2 tried to prevent further global conflicts.]
+[ANS] UN
+[ANS] United Nations
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Russia attempted to gain \_\_\_\_\_\_\_\_ in Europe in order to provide a "buffer" for protection.]
+[ANS] Satellites
+[ANS] Satellite States
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Russia controlled (east/west) Germany after WW2.]
+[ANS] East
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] US & Britain controlled (east/west) Germany after WW2.]
+[ANS] West
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] (Russia/US) demanded heavy reparations from Germany after WW2.]
+[ANS] Russia
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] (Russia/US) refused reparations from Germany after WW2.]
+[ANS] US
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The "\_\_\_\_ \_\_\_\_\_\_\_" referred to the division in Europe between the capitalist West & communist East.]
+[ANS] Iron Curtain
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Truman adopted a policy of \_\_\_\_\_\_\_\_\_ to prevent Communist expansion.]
+[ANS] Containment
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] WW2 showed that a policy of \_\_\_\_\_\_\_\_\_ against aggressors didn't work.]
+[ANS] Appeasement
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The \_\_\_\_\_ \_\_\_\_\_ was a policy to send economic aid to countries resisting totalitarian regimes.]
+[ANS] Truman Doctrine
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Truman sent a European Economic Recovery Plan to strengthen non-Communist European countries, known as the \_\_\_\_\_ \_\_\_.]
+[ANS] Marshall Plan
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This 1940s plan revived the West European economy and ended the threat of Communist political successes in the region.]
+[ANS] Marshall Plan
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] When the Soviets blocked off land access to Berlin in 1948, Truman responded with the \_\_\_\_\_\_ \_\_\_\_\_\_\_.]
+[ANS] Berlin Airlift
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Truman joined this international alliance to defend against outside (likely Communist) attacks.]
+[ANS] NATO
+[ANS] North Atlantic Treaty Organization
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Soviets responded to NATO by forming the \_\_\_\_\_\_ \_\_\_\_.]
+[ANS] Warsaw Pact
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] One aspect of the Cold War was the race to develop better & more \_\_\_\_\_\_ \_\_\_\_.]
+[ANS] Nuclear Bombs
+[ANS] Atomic Bombs
+[ANS] H-Bombs
+[ANS] Nukes
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Civil War in China (1940s) was fought between these two political parties.]
+[ANS] Nationalists, Communists
+[ANS] Communists, Nationalists
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who led the communists in China during the 1940s Civil War?]
+[ANS] Mao Zedong
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] At the end of the Chinese Civil War, Chiang & the nationalists fled to \_\_\_\_\_\_.]
+[ANS] Taiwan
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This Cold War conflict eventually led to a stalemate & the division of the relevant country along the 38th parallel.]
+[ANS] Korean War
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Dwight D. Eisenhower used a policy of \_\_\_\_\_\_\_\_\_ to combat Communist expansion.]
+[ANS] Brinkmanship
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Eisenhower's policy of \_\_\_\_\_\_\_ \_\_\_\_\_\_\_ encouraged spending on nuclear weapons & airplanes rather than traditional military.]
+[ANS] Massive Retaliation
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Eisenhower called for an \_\_\_\_-\_\_\_ Policy, allowing aerial photography of any nation.]
+[ANS] Open-Skies
+[ANS] Open-Sky
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] What was the first satellite launched into orbit?]
+[ANS] Sputnik
+[ANS] Sputnik I
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which side launched the first satellite? (US/Soviet)]
+[ANS] Soviet
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] To compete in the space race after Sputnik, this program was created.]
+[ANS] NASA
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] In the \_\_\_ Incident, a US spy plane was shot down by the Russians before a planned meeting, causing diplomatic tension.]
+[ANS] U-2
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who became the communist leader of Cuba during Eisenhower's presidency?]
+[ANS] Castro
+[ANS] Fidel Castro
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This invasion planned to overthrow Castro's dictatorship but failed.]
+[ANS] Bay of Pigs
+[ANS] Bay of Pigs Invasion
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] When Kennedy refused to withdraw troops from Berlin, the Soviets responded with the \_\_\_\_\_\_ \_\_\_\_ to separate the two "Germany"s.]
+[ANS] Berlin Wall
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Kennedy is best known for resolving this crisis.]
+[ANS] Cuban Missile Crisis
+[ANS] Cuban Missile
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] When the US discovered underground nuclear missile sites in a nearby country, this crisis ensued.]
+[ANS] Cuban Missile Crisis
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Kennedy used a \_\_\_\_\_\_-\_\_\_\_\_\_ military policy, investing in both conventional arms & mobile military forces.]
+[ANS] Flexible-Response
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Lyndon B. Johnson continued a \_\_\_\_\_\_\_ policy against Communists.]
+[ANS] Containment
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Lyndon B. Johnson negotiated the \_\_\_-\_\_\_\_\_\_\_ Treaty, where countries pledged not to give nuclear bombs to others.]
+[ANS] Non-Proliferation
+[ANS] Non-Proliferation Treaty
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Richard Nixon brought about \_\_\_\_\_\_, de-escalating Cold War tensions.]
+[ANS] Detente
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] To reduce the number of nuclear weapons, Nixon arranged these meetings, or "talks".]
+[ANS] SALT
+[ANS] SALT 1
+[ANS] Strategic Arms Limitation Talks
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] After this scandal, public trust in government was lost.]
+[ANS] Watergate
+[ANS] Watergate Scandal
+[END]
+-------------------

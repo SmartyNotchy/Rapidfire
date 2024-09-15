@@ -1,0 +1,40 @@
+[QUESTION TYPE] SAQ
+[QUESTION] The Virginia & New Jersey Plans referred to the debate on (representation/slavery/federal power).]
+[ANS] Representation
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Under the (Virginia/New Jersey) Plan, each state got a single vote.]
+[ANS] New Jersey
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Under the (Virginia/New Jersey) Plan, states got votes based on population.]
+[ANS] Virginia
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Three-Fifths Compromise referred to the debate on (representation/slavery/federal power).]
+[ANS] Slavery
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Constitution (advocated for/didn't mention/delayed/opposed) the status of slavery.]
+[ANS] Delayed
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Bill of Rights appeased the (Federalists/Anti-Feds).]
+[ANS] Federalists
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Anti-Federalists claimed the Constitution gave the fed. gov. (too much/too little) power.]
+[ANS] Too Much
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which of the following people would NOT support the Constitution? (Alexander Hamilton/James Madison/John Jay/Patrick Henry)]
+[ANS] Patrick Henry
+[END]
+-------------------

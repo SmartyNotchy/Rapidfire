@@ -1,0 +1,75 @@
+[QUESTION TYPE] SAQ
+[QUESTION] Most immigrants from Europe in the 1840s were:]
+[ANS] Irish
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Other than the Irish, this group also immigrated in large numbers to the US in the 1840s:]
+[ANS] German
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This term refers to hostility towards immigrants.]
+[ANS] Nativism
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This political party was created in the 1800s based on nativism:]
+[ANS] Know-Nothing Party
+[ANS] American Party
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Know-Nothing Party was created to oppose:]
+[ANS] Immigration
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] What party in the 1800s can be described as a "nativist party?"]
+[ANS] Know-Nothing Party
+[ANS] American Party
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Know-Nothing Party was also referred to as the:]
+[ANS] American Party
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Nativism declined in the mid-1800s due to this more pressing issue:]
+[ANS] Slavery
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This method of transportation gave the Union an advantage during the Civil War.]
+[ANS] Railroads
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This law forced runaway slaves in the North to be returned to Southern owners & punished Northerners who tried to help them.]
+[ANS] Fugitive Slave Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This part of the Compromise of 1850 was heavily despised by Northerners.]
+[ANS] Fugitive Slave Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Harriet Tubman is most famous for the:]
+[ANS] Underground Railroad
+[ANS] Underground Network
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This novel in the 1800s had a significant impact on how Northerners viewed Slavery.]
+[ANS] Uncle Tom's Cabin
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who wrote *Uncle Tom's Cabin*?]
+[ANS] Harriet Beecher Stowe
+[ANS] Harriet Stowe
+[ANS] Stowe
+[END]
+-------------------

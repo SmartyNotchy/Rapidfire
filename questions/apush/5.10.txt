@@ -1,0 +1,110 @@
+[QUESTION TYPE] SAQ
+[QUESTION] Lincoln's plan to give newly freed slaves "40 acres and a mule" was cancelled by:]
+[ANS] Johnson
+[ANS] Andrew Johnson
+[ANS] President Johnson
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The (Lincoln/Johnson/Radical) plan gave full presidential pardons to those who took an oath of allegiance.]
+[ANS] Lincoln
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The (Lincoln/Johnson/Radical) plan allowed Confederate states to rejoin the Union once 10% of the population took an oath.]
+[ANS] Lincoln
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This bill raised the 10% oath rate for a Confederate state to rejoin the union up to a 50% rate.]
+[ANS] Wade-Davis Bill
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This welfare agency helped newly freed blacks get a formal education and settle down after the Civil War.]
+[ANS] Freedmen's Bureau
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The (Lincoln/Johnson/Radical) disenfranchised former Confederate leaders and rich Southerners, but allowed presidential pardons for them.]
+[ANS] Johnson
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This event marked the end of the first round of Reconstruction.]
+[ANS] Andrew Johnson
+[ANS] Johnson
+[ANS] Johnson's Election
+[ANS] Johnson's Vetoes
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] \_\_\_\_ \_\_\_\_\_\_\_\_ championed civil rights for black citizens after the Civil War.]
+[ANS] Radical Republicans
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This amendment outlawed slavery or involuntary servitude in the US, except as a punishment for crime.]
+[ANS] 13th Amendment
+[ANS] 13
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The 13th Amendment abolished what?]
+[ANS] Slavery
+[ANS] Involuntary Servitude
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This amendment declared all people born in the US as citizens.]
+[ANS] 14th Amendment
+[ANS] 14
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This law was a major factor in the impeachment of Andrew Johnson.]
+[ANS] Tenure of Office Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This played a major factor in the Republican victory in the Election of 1868.]
+[ANS] Blacks
+[ANS] Freedmen
+[ANS] Black vote
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Who won the Election of 1868?]
+[ANS] Ulysses S. Grant
+[ANS] Grant
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This amendment prohibited open racial discrimination in voting laws.]
+[ANS] 15th Amendment
+[ANS] 15
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Despite the 15th Amendment, southern states employed methods such as \_\_\_\_\_ (name one) to prevent blacks from voting.]
+[ANS] Grandfather Clause
+[ANS] Poll Taxes
+[ANS] Literacy Tests
+[ANS] Property Requirements
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This derisive term described Southern Republicans during Reconstruction.]
+[ANS] Scalawags
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Northern Republican newcomers to the South during Reconstruction were derisively called:]
+[ANS] Carpetbaggers
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This term refers to the practice of giving jobs & favors to political supporters.]
+[ANS] Patronage
+[END]
+-------------------

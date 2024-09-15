@@ -1,0 +1,65 @@
+[QUESTION TYPE] SAQ
+[QUESTION] This refers to Parliament's indifferent behavior to the colonies prior to the French & Indian War.]
+[ANS] Salutary Neglect
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] What event directly led to the end of salutary neglect?]
+[ANS] French & Indian War
+[ANS] Seven Years' War
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This act kept British soldiers stationed in the colonies, and made the colonists feed & house them.]
+[ANS] Quartering Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] To regain control of the colonies, the British prime minster suggested a three-part plan; who was he?]
+[ANS] George Grenville
+[ANS] Grenville
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Which tax act came significantly after the others? (Sugar Act/Tea Act/Stamp Act)]
+[ANS] Tea Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] This act prevented colonists from making the money to pay the various tax acts.]
+[ANS] Currency Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The argument of no "\_\_\_\_\_\_ \_\_\_\_\_\_ \_\_\_\_\_\_" was based on the lack of colonists in Parliament.]
+[ANS] Taxation Without Representation
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Britain responded to "no taxation without representation" by saying the colonists were \_\_\_\_ \_\_\_\_\_\_\_.]
+[ANS] Virtually Represented
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] Colonial groups were organized to protest the various tax acts (mainly Stamp Act); name one.]
+[ANS] Sons of Liberty
+[ANS] Daughters of Liberty
+[ANS] Stamp Act Congress
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] During the Stamp Act Congress, colonists wanted (revolution/repeal of Stamp Act/nullification of Stamp Act).]
+[ANS] Repeal of Stamp Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] When Parliament repealed the Stamp Act & Sugar Act in 1766, they also passed this act to assert dominance.]
+[ANS] Declaratory Act
+[END]
+-------------------
+[QUESTION TYPE] SAQ
+[QUESTION] The Boston Tea Party led to the passage of these acts:]
+[ANS] Coercive Acts
+[ANS] Intolerable Acts
+[END]
+-------------------
