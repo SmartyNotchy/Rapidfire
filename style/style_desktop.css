@@ -31,11 +31,6 @@ button {
     align-items: center;
 }
 
-/* TODO: FIX */
-#mainmenu_div {
-    display: none;
-}
-
 #mainmenu_logo {
     width: 450px;
     height: 300px;
@@ -99,11 +94,176 @@ button {
     transition: background-color 0.2s, border 0.2s;
 }
 
-
 .mainmenu_btn:last-child {
     margin-right: 0px !important;
 }
 
+#mainmenu_newsession_wrapper {
+    background-color: #00000044;
+
+    position: fixed;
+    /* display: flex; */
+    display: none;
+    justify-content: center;
+    align-items: center;
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100vh;
+    width: 100vw;
+    border: none;
+
+    z-index: 1002;
+}
+
+#mainmenu_newsession_div {
+    width: 60vw;
+    height: 80vh;
+
+    background-color: #111827;
+
+    border: gray 1px solid;
+    border-radius: 20px;
+
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    overflow: scroll;
+
+    position: relative;
+}
+
+#mmns_title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#mmns_topic_div {
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+}
+
+#mmns_topic_text {
+    font-size: 20px;
+}
+
+#mmns_topic_dropdown {
+    margin-left: 10px;
+    
+    width: 300px;
+    height: 40px;
+
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: #1f2937;
+    color: white;
+    padding-left: 10px;
+
+    font-size: 16px;
+}
+
+#mmns_preset_div {
+    display: flex;
+    align-items: center;
+
+    margin-top: -10px;
+}
+
+#mmns_preset_text {
+    font-size: 20px;
+}
+
+#mmns_preset_dropdown {
+    margin-left: 10px;
+
+    width: 300px;
+    height: 40px;
+
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: #1f2937;
+    color: white;
+    padding-left: 10px;
+
+    font-size: 16px;
+}
+
+#mmns_preset_dropdown:disabled {
+    color: gray;
+}
+
+#mmns_custom_div {
+    color: gray;
+}
+
+#mmns_cancel_btn {
+    width: 220px;
+    height: 40px;
+
+    border: none;
+    border-radius: 10px;
+    background-color: #ff5050;
+
+    color: white;
+    font-size: 20px;
+
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+    transition: background-color 0.2s;
+}
+
+#mmns_cancel_btn:hover {
+    background-color: #ff6969;
+    transition: background-color 0.2s;
+}
+
+#mmns_cancel_btn:disabled {
+    background-color: #ff6969;
+    transition: background-color 0.2s;
+}
+
+#mmns_cancel_btn:disabled {
+    cursor: not-allowed;
+    background-color: rgba(50, 57, 70, 0.5);
+    color: rgba(255, 255, 255, 0.5);
+    transition: background-color 0.2s;
+}
+
+#mmns_create_btn {
+    width: 220px;
+    height: 40px;
+
+    border: none;
+    border-radius: 10px;
+    background-color: #3366ff;
+
+    color: white;
+    font-size: 20px;
+
+    position: absolute;
+    top: 70px;
+    right: 20px;
+
+    transition: background-color 0.2s;
+}
+
+#mmns_create_btn:hover {
+    background-color: #4c80ff;
+    transition: background-color 0.2s;
+}
+
+#mmns_create_btn:disabled {
+    cursor: not-allowed;
+    background-color: rgba(50, 57, 70, 0.5);
+    color: rgba(255, 255, 255, 0.5);
+    transition: background-color 0.2s;
+}
 
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
@@ -115,7 +275,8 @@ button {
     width: 100vw;
     height: 100vh;
 
-    display: flex;
+    /* display: flex; */
+    display: none;
     flex-direction: column;
     justify-content: center;
     align-items: center;

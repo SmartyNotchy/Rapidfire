@@ -51,6 +51,43 @@
         </div>
       </div>
 
+      <div id="mainmenu_newsession_wrapper">
+        <div id="mainmenu_newsession_div">
+          <p id="mmns_title">Create New Session</p>
+
+          <div id="mmns_topic_div">
+            <p id="mmns_topic_text">Session Subject: </p>
+            <select id="mmns_topic_dropdown" name="dropdown">
+              <option value="1">----------</option>
+              <option value="2">Debug 2</option>
+              <option value="3">Debug 3</option>
+              <option value="4">Debug 4</option>
+              <option value="1">Debug 1</option>
+              <option value="2">Debug 2</option>
+            </select>
+          </div>
+
+          <div id="mmns_preset_div">
+            <p id="mmns_preset_text">Use Preset: </p>
+            <select id="mmns_preset_dropdown" name="dropdown" disabled>
+              <option value="1">Debug 1</option>
+              <option value="2">Debug 2</option>
+              <option value="3">Debug 3</option>
+              <option value="4">Debug 4</option>
+            </select>
+          </div>
+
+          <hr>
+
+          <div id="mmns_custom_div">
+            <em>Custom Session Topics possibly coming in the future!</em>
+          </div>
+
+          <button id="mmns_cancel_btn">Cancel</button>
+          <button id="mmns_create_btn" disabled>Create New Session</button>
+        </div>
+      </div>
+
       <div id="session_div">
         <div id="session_content_div">
           <div id="session_content_question_div">
@@ -107,7 +144,7 @@
                   <svg id="scq_mcq_btn_svg"><use id="scq_mcq_btn_svg_src" href="#svg_submit"></use></svg>
                 </button>
 
-                <div id="scq_mcq_feedback" class="scq_feedback"></div>
+                <div id="scq_mcq_feedback" class="scq_feedback">
                   <div id="scq_mcq_feedback_icons" class="scq_feedback_icons">
                     <svg class="scq_feedback_svg"><use href="#svg_x"></use></svg>
                   </div>
@@ -125,8 +162,7 @@
       </div>
     </main>
 
-    <script src="scripts/settings.js"></script>
-    <script src="scripts/sessions.js"></script>
+    <script src="scripts/presets.js"></script>
     <script src="scripts/main.js"></script>
   </body>
 </html>
