@@ -1,0 +1,1068 @@
+[PRESET] Unit 8 (1945-1980)
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] This conflict dominated international relations from the 1940s to the late 1900s.
+[ANS] Cold War
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] In the Cold War, the US "fought" against the:
+[ANS] Soviet
+[ANS] Soviet Union
+[ANS] USSR
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] This international organization created after WW2 tried to prevent further global conflicts.
+[ANS] UN
+[ANS] United Nations
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Russia attempted to gain ________ in Europe in order to provide a "buffer" for protection.
+[ANS] Satellites
+[ANS] Satellite States
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Russia controlled (east/west) Germany after WW2.
+[ANS] East
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] US & Britain controlled (east/west) Germany after WW2.
+[ANS] West
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] (Russia/US) demanded heavy reparations from Germany after WW2.
+[ANS] Russia
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] (Russia/US) refused reparations from Germany after WW2.
+[ANS] US
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] The "____ _______" referred to the division in Europe between the capitalist West & communist East.
+[ANS] Iron Curtain
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Truman adopted a policy of _________ to prevent Communist expansion.
+[ANS] Containment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] WW2 showed that a policy of _________ against aggressors didn't work.
+[ANS] Appeasement
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] The _____ _____ was a policy to send economic aid to countries resisting totalitarian regimes.
+[ANS] Truman Doctrine
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Truman sent a European Economic Recovery Plan to strengthen non-Communist European countries, known as the _____ ___.
+[ANS] Marshall Plan
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] This 1940s plan revived the West European economy and ended the threat of Communist political successes in the region.
+[ANS] Marshall Plan
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] When the Soviets blocked off land access to Berlin in 1948, Truman responded with the ______ _______.
+[ANS] Berlin Airlift
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Truman joined this international alliance to defend against outside (likely Communist) attacks.
+[ANS] NATO
+[ANS] North Atlantic Treaty Organization
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Soviets responded to NATO by forming the ______ ____.
+[ANS] Warsaw Pact
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] One aspect of the Cold War was the race to develop better & more ______ ____.
+[ANS] Nuclear Bombs
+[ANS] Atomic Bombs
+[ANS] H-Bombs
+[ANS] Nukes
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] The Civil War in China (1940s) was fought between these two political parties.
+[ANS] Nationalists, Communists
+[ANS] Communists, Nationalists
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Who led the communists in China during the 1940s Civil War?
+[ANS] Mao Zedong
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] At the end of the Chinese Civil War, Chiang & the nationalists fled to ______.
+[ANS] Taiwan
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] This Cold War conflict eventually led to a stalemate & the division of the relevant country along the 38th parallel.
+[ANS] Korean War
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Dwight D. Eisenhower used a policy of _________ to combat Communist expansion.
+[ANS] Brinkmanship
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Eisenhower's policy of _______ _______ encouraged spending on nuclear weapons & airplanes rather than traditional military.
+[ANS] Massive Retaliation
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Eisenhower called for an ____-___ Policy, allowing aerial photography of any nation.
+[ANS] Open-Skies
+[ANS] Open-Sky
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] What was the first satellite launched into orbit?
+[ANS] Sputnik
+[ANS] Sputnik I
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Which side launched the first satellite? (US/Soviet)
+[ANS] Soviet
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] To compete in the space race after Sputnik, this program was created.
+[ANS] NASA
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] In the ___ Incident, a US spy plane was shot down by the Russians before a planned meeting, causing diplomatic tension.
+[ANS] U-2
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Who became the communist leader of Cuba during Eisenhower's presidency?
+[ANS] Castro
+[ANS] Fidel Castro
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] This invasion planned to overthrow Castro's dictatorship but failed.
+[ANS] Bay of Pigs
+[ANS] Bay of Pigs Invasion
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] When Kennedy refused to withdraw troops from Berlin, the Soviets responded with the ______ ____ to separate the two "Germany"s.
+[ANS] Berlin Wall
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Kennedy is best known for resolving this crisis.
+[ANS] Cuban Missile Crisis
+[ANS] Cuban Missile
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] When the US discovered underground nuclear missile sites in a nearby country, this crisis ensued.
+[ANS] Cuban Missile Crisis
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Kennedy used a ______-______ military policy, investing in both conventional arms & mobile military forces.
+[ANS] Flexible-Response
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Lyndon B. Johnson continued a _______ policy against Communists.
+[ANS] Containment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Lyndon B. Johnson negotiated the ___-_______ Treaty, where countries pledged not to give nuclear bombs to others.
+[ANS] Non-Proliferation
+[ANS] Non-Proliferation Treaty
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] Richard Nixon brought about ______, de-escalating Cold War tensions.
+[ANS] Detente
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] To reduce the number of nuclear weapons, Nixon arranged these meetings, or "talks".
+[ANS] SALT
+[ANS] SALT 1
+[ANS] Strategic Arms Limitation Talks
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.2
+[QUESTION] After this scandal, public trust in government was lost.
+[ANS] Watergate
+[ANS] Watergate Scandal
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] During the Red Scare, this board investigated federal employees for Communism.
+[ANS] Loyalty Review Board
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] This 1940 law outlawed advocating for overthrowing the government by force.
+[ANS] Smith Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] This court case upheld the Smith Law of 1940.
+[ANS] Dennis et al. v. United States
+[ANS] Dennis v. US
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] This 1950 law restricted supporting Communism and created detention camps for those who did.
+[ANS] McCarran Internal Security Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] This committee, originally for finding Nazis, was rebooted to locate Communist representatives during the Red Scare.
+[ANS] HUAC
+[ANS] House Un-American Activities Committee
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] This state department official, who assisted Roosevelt at Yalta, was tried & convicted of being a Communist spy.
+[ANS] Alger Hiss
+[ANS] Hiss
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] These two people (answer w/ last name) were executed for giving the Soviet Union atomic bomb secrets.
+[ANS] Rosenbergs
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] This senator was a star during the Red Scare, capturing the media & damaging thousands of people.
+[ANS] Joseph McCarthy
+[ANS] McCarthy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.3
+[QUESTION] This movement during the Red Scare referred to the "witch hunt" for Communists, named after a senator.
+[ANS] McCarthyism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] Who succeeded FDR after his death?
+[ANS] Harry Truman
+[ANS] Truman
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] This act in 1946 created the Council of Economic Advisers to advise the president on economic welfare.
+[ANS] Employment Act of 1946
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] This bill after WW2 helped veterans receive educations, employment, and compensations to get up & running.
+[ANS] GI Bill
+[ANS] GI Bill of Rights
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] This refers to the explosion in marriages and births in the period after WW2.
+[ANS] Baby Boom
+[ANS] Boomer
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] After WW2, most middle-class American families lived in the ______.
+[ANS] Suburbs
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] Amendment #__ limited presidents to a maximum of 2 terms in Congress.
+[ANS] 22
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] This 1947 law checked the growing power of unions, and was a major split between the Republicans & Democrats.
+[ANS] Taft-Hartley Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] Truman proposed an ambitious reform program called the ____ ____, which was mostly blocked by Congress.
+[ANS] Fair Deal
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] Eisenhower was a (liberal/moderate/conservative) in regards to domestic issues & the New Deal programs.
+[ANS] Moderate
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] This 1950s law created thousands of miles of a certain national transportation method.
+[ANS] Highway Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] Eisenhower's approach to domestic issues was self-described as "______ ________."
+[ANS] Modern Republicanism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] When JFK succeeded Eisenhower, he pledged to lead the country into a "___ ______."
+[ANS] New Frontier
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] Nixon checked federal power through "___ _____", giving state governments grants to address local issues.
+[ANS] Revenue Sharing
+[ANS] New Federalism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] This term refers to simultaneous economic slowdown & high inflation.
+[ANS] Stagflation
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] _______ ______ referred to the belief that deficit spending would boost the economy.
+[ANS] Keynesian Economics
+[ANS] Keynesian
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.4
+[QUESTION] During Ford & Carter's presidencies, the most pressing issue at home was ______.
+[ANS] Inflation
+[ANS] Stagflation
+[ANS] Economy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.5
+[QUESTION] This method of communication became the center of family life after 1945.
+[ANS] Television
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.5
+[QUESTION] ________ are groups of businesses with seemingly unrelated products governed by a parent company.
+[ANS] Conglomerates
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.5
+[QUESTION] Social critics in the late 1900s criticized the replacement of _________ with conformity.
+[ANS] Individuality
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.5
+[QUESTION] Which president was assassinated during November 1963 in Texas?
+[ANS] JFK
+[ANS] Kennedy
+[ANS] John F Kennedy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.5
+[QUESTION] This commission set out to investigate the assassination of JFK.
+[ANS] Warren
+[ANS] Warren Commission
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.6
+[QUESTION] The decision in *Plessy v. Ferguson* was effectively overturned by this court case.
+[ANS] Brown v. Board of Education
+[ANS] Brown v. Topeka
+[ANS] Brown v. Board
+[ANS] Brown v. Board of Education of Topeka
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.6
+[QUESTION] The decision in *Brown v. Board of Education* overturned this "separate but equal" case.
+[ANS] Plessy v. Ferguson
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.6
+[QUESTION] Southern members of Congress protested the *Brown v. Board* decision by signing the ______ ______.
+[ANS] Southern Manifesto
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.6
+[QUESTION] Rosa Parks led this boycott.
+[ANS] Bus Boycott
+[ANS] Montgomery Bus Boycott
+[ANS] Bus
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.6
+[QUESTION] This person emerged as the leader of the nonviolent civil rights movement.
+[ANS] MLK
+[ANS] MLK Jr.
+[ANS] Martin Luther King Jr.
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.6
+[QUESTION] The "sit-in" civil rights movemenent originated in _______.
+[ANS] Greensboro
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] ____________ referred to the collapse of colonial empires.
+[ANS] Decolonization
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] New nations emerging from colonies in Africa, Asia, and the Middle East formed the "____ _____" developing countries.
+[ANS] Third World
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] Eisenhower's foreign policy with new colonise-turned-countries was one of _____ action.
+[ANS] Covert
+[ANS] Undercover
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] Colonies in the Third World often refused to choose sides, following a policy of "_________".
+[ANS] Nonalignment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] In this crisis, English seized a critical canal and threatened oil access.
+[ANS] Suez Crisis
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] When Britain & France launched a surprise attack on the Suez Canal, how did Eisenhower respond? (Supportive/Neutral/Outraged)
+[ANS] Outraged
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] The ________ _____ referred to the policy of pledging economic & military aid to Middle Eastern countries resisting communism.
+[ANS] Eisenhower Doctrine
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] The Eisenhower Doctrine specifically referred to countries in the ______ ____.
+[ANS] Middle East
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] Middle Eastern countries gained political power by consolidating into this organization.
+[ANS] OPEC
+[ANS] Organization of Petroleum Exporting Countries
+[ANS] Petroleum Exporting Countries
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] This war involving Israel in the Middle East led to massive oil embargos & shortages.
+[ANS] Yom Kippur
+[ANS] Yom Kippur War
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] As a result of US involvement in the Yom Kippur War, a worldwide ___ ______ occurred.
+[ANS] Oil Shortage
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] In the Camp David Accords, Eisenhower helped negotiate a peace settlement between these two countries. (Answer in format ______, _____)
+[ANS] Egypt, Israel
+[ANS] Israel, Egypt
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] In the ____ _____ _______, Eisenhower negotiated a peace settlement between Egypt & Israel.
+[ANS] Camp David Accords
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] The ____ _______ ______ occurred when fundamentalists in a certain country overthrew the shah, halted oil exports, and captured the US embassy.
+[ANS] Iran Hostage Crisis
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] Kennedy set up two organizations to deal with Latin American affairs; name one.
+[ANS] Peace Corps
+[ANS] Alliance of Progress
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] Johnson's Doctrine towards Latin America closely resembled the "___ _____" in the past.
+[ANS] Big Stick
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] Johnson's policy in Latin America became increasingly ___________.
+[ANS] Interventionist
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] Carter negotiated a new treaty regarding control of the _____ _____ in Latin America.
+[ANS] Panama Canal
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.7
+[QUESTION] After this president left office, Congress stopped funding for covert actions in Africa.
+[ANS] Nixon
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] When Vietnam was divided, the North portion was led by communist __ ___ ____.
+[ANS] Ho Chi Minh
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] When Vietnam was divided, the South portion was led by anti-communist ___ ____ ____.
+[ANS] Ngo Dinh Diem
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] Eisenhower's ______ ______ stated that one country falling to communism would lead to more and more.
+[ANS] Domino Theory
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] To protect South Vietnam and its neighbors, Dulles created the _____.
+[ANS] SEATO
+[ANS] Southeast Asia Treaty Organization
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The ______ ____ ________ allowed Johnson to take "all necessary measures" in Vietnam.
+[ANS] Tonkin Gulf Resolution
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] Johnson's reluctance to be transparent about the Vietnam War led to a __________ ___ with the public.
+[ANS] Credibility Gap
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] _____ supported the war in Vietnam, believing it was part of the Soviet's plan in Asia.
+[ANS] Hawks
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] _____ opposed the war in Vietnam, believing it cost money & supplies better spent on other things.
+[ANS] Doves
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The main (age) group that opposed the Vietnam War were ______ ________.
+[ANS] College Students
+[ANS] Young
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The ___ ________ was a military loss but massive political gain for the Vietcong.
+[ANS] Tet Offensive
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The ___ ________ was perhaps the final tipping point before Johnson started negotiating peace in the Vietnam War.
+[ANS] Tet Offensive
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] Public frustration with the _______ ___ was a major part in Nixon's election in 1968.
+[ANS] Vietnam War
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] This national security adviser under Nixon used a foreign policy that reduced Cold War tensions.
+[ANS] Henry Kissingner
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] Nixon used "____________" to leave the Vietnam War by withdrawing troops & giving South Vietnam enough supplies to continue.
+[ANS] Vietnamization
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The _____ ________ was the policy of supporting allies in Asia by giving supplies to resist communism, without using ground troops.
+[ANS] Nixon Doctrine
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The US-caused massacre at __ ___ shocked the public and led to even more opposition against the Vietnam War.
+[ANS] My Lai
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] Published by the New York Times, the ________ _____ listed government mistakes & coverups with Vietnam.
+[ANS] Pentagon Papers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The _____ ______ was the path to US leaving the Vietnam War.
+[ANS] Paris Accords
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The ___ _____ ___ (1973) required the President to report to Congress quickly after taking military action.
+[ANS] War Power Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.8
+[QUESTION] The War Power Act of 1973 was passed in response to Nixon's bombing of _______.
+[ANS] Cambodia
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.9
+[QUESTION] Lyndon Johnson pledged to expand the New Deal, creating the "_____ _______".
+[ANS] Great Society
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.9
+[QUESTION] Due to the book *The Other America*, Johnson declared a ___ __ _______.
+[ANS] War on Poverty
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.9
+[QUESTION] This Great Society reform helped low-income people buy food.
+[ANS] Food Stamp Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.9
+[QUESTION] This Great Society reform provided health insurance for seniors.
+[ANS] Medicare
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.9
+[QUESTION] This Great Society reform provided medical care for those in poverty.
+[ANS] Medicaid
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.9
+[QUESTION] This Great Society reform provided federal scholarships for postsecondary education.
+[ANS] Higher Education Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.9
+[QUESTION] This Great Society reform abolished discriminatory immigration quotas.
+[ANS] Immigration Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.9
+[QUESTION] By the 1980s, most immigrants came from two regions; name one.
+[ANS] Latin America
+[ANS] Asia
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.10
+[QUESTION] MLK Jr led the _____ __ __________, the most successful civil rights march in history.
+[ANS] March on Washington
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.10
+[QUESTION] In the March on Washington, MLK Jr gave his famous "_ ___ _ ____" speech.
+[ANS] I Have A Dream
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.10
+[QUESTION] The Civil Rights Act of 19__ outlawed segregation in public facilities and formed the Equal Employment Opportunity Commission.
+[ANS] 64
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.10
+[QUESTION] Amendment #__ ended the use of poll taxes.
+[ANS] 24
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.10
+[QUESTION] The Civil Rights Act of 19__ ended the use of literacy tests to restrict voting.
+[ANS] 65
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.10
+[QUESTION] _____ ______ leaders preached Black nationalism, separatism, and self-improvement.
+[ANS] Black Muslim
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.10
+[QUESTION] ______ _ was the most controversial voice of the Black Muslim movement, advocating for violence against whites.
+[ANS] Malcolm X
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.10
+[QUESTION] _____ _______, inspired by Malcolm X, advocated self-rule for blacks.
+[ANS] Black Panthers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] The Civil Rights Act of 19__ prohibited gender-based discrimination in employment.
+[ANS] 64
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] The ____ ___ ___ of 1963 prohibited gender-based discrimination in employment.
+[ANS] Equal Pay Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] ____ __  ended gender discrimination in federally-funded schools.
+[ANS] Title IX
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] The ____ _____ ________ proposed full gender equality, passing Congress but missing ratification.
+[ANS] ERA
+[ANS] Equal Rights Amendment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] By the 1960s, this was the largest minority group in America.
+[ANS] Hispanics
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] The police raid on Stonewall Inn sparked the ___ _____ movement.
+[ANS] Gay Rights
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] This Chief Justice was like a modern "John Marshall", passing many landmark individual rights cases.
+[ANS] Warren
+[ANS] Earl Warren
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] This court case ruled that evidence seized illegally could not be used in court.
+[ANS] Mapp v. Ohio
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] This court case ruled that suspects be provided with a free attorney if they could not afford one.
+[ANS] Gideon v. Wainwright
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] This court case ruled that police must inform suspects of their right to remain silent.
+[ANS] Miranda v. Arizona
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] This court case ruled that state districts should provide equal representation for all citizens; "one man, one vote".
+[ANS] Baker v. Carr
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.11
+[QUESTION] This court case ruled that the 1st Amendment protected Communists as long as they did not pose an immediate danger.
+[ANS] Yates v. US
+[ANS] Yates v. United States
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.12
+[QUESTION] By the 1960s, the ______ generation started to graduate high school and gain adulthood.
+[ANS] Baby Boom
+[ANS] Baby Boomers
+[ANS] Boomer
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.12
+[QUESTION] Supporters of democracy in high school decisions & the SDS were called the "___ ____".
+[ANS] New Left
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.12
+[QUESTION] From Berkeley, students started the ____ _____ ________, focusing on opposition to the Vietnam War & draft.
+[ANS] Free Speech Movement
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.12
+[QUESTION] The _______ ________ embraced violence & vandalism in protests, discrediting student protests.
+[ANS] Weather Underground
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.12
+[QUESTION] In the new youth ________, teens wore rebellious dress, listening to rock & roll, and used more drugs & had increased sexual activity.
+[ANS] Counterculture
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.13
+[QUESTION] *Silent Spring*, Commoner's study, and *The Population Bomb* were all origins of the ____________ movement.
+[ANS] Environmental
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.13
+[QUESTION] The _____ ____ ______ incident played a major role in turning public opinion against nuclear power.
+[ANS] Three Mile Island
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.13
+[QUESTION] This agency regulated & enforced federal policies on environmental issues.
+[ANS] Environmental Protection Agency
+[ANS] EPA
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.13
+[QUESTION] This 1980s law cleaned up toxic waste from former industrial sites.
+[ANS] Superfund Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.13
+[QUESTION] The ___________ movement halted the construction of new (CENSORED) and strengthened regulations, especially after the Three Mile Island incident.
+[ANS] Antinuclear
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] By the 1970s, the fastest growing age group was _____.
+[ANS] Seniors
+[ANS] Old People
+[ANS] Old
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] Nixon attempted to appeal to conservative Americans, referred to as the "_______ _______", dissatisfied by the civil rights movement & youth counterculture.
+[ANS] Silent Generation
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] Nixon set a precedent for Republican political power in this region of the US.
+[ANS] South
+[ANS] rural
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] This scandal in the 1970s led to a major loss in trust in the federal government.
+[ANS] Watergate
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] Gerald Ford lost the goodwill of many by taking this action as president.
+[ANS] Pardon
+[ANS] Pardoning Nixon
+[ANS] Nixon Pardon
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] Jimmy Carter attempted to end the _________ ________ through his informal style.
+[ANS] Imperial Presidency
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] The American public lost faith in Carter due to his inability to deal with this crisis.
+[ANS] Iran
+[ANS] Iran Crisis
+[ANS] Iranian Hostage Crisis
+[ANS] Iranian Hostage
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] Nixon appointed this Chief Justice, forming the (CENSORED) court which sometimes ruled against his wishes.
+[ANS] Burger
+[ANS] Warren E. Burger
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] This court case ordered Nixon to turn over the White House tapes in the Watergate investigation.
+[ANS] US v. Nixon
+[ANS] United States v. Nixon
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] This court case struck down many state laws prohibiting abortion.
+[ANS] Roe v. Wade
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] The ______ Court under the same-named Chief Justice passed US v. Nixon and Roe v. Wade.
+[ANS] Burger
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] The fragmentation & stress caused by protest movements led to a __________ resurgence.
+[ANS] Conservative
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] *Regents of the University of California v. Bakke (1978)* ended the use of ______ _____ in university decisions.
+[ANS] Racial Quotas
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 8.14
+[QUESTION] Taxpayers in California led the Taxpayer's Revolt by passing _________ __.
+[ANS] Proposition 13
+[END]
+-------------------------------------------

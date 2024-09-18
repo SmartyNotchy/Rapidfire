@@ -1,5 +1,0 @@
-[QUESTION TYPE] SAQ
-[QUESTION] In the South, slaves were treated as \_\_\_\_\_ rather than humans.
-[ANS] property
-[END]
--------------------

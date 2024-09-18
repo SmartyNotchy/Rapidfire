@@ -1,0 +1,285 @@
+[PRESET] Unit 2 (1607-1754)
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.2
+[QUESTION] What was the first permanent French settlement in NA?
+[ANS] Quebec
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.2
+[QUESTION] Samuel de Champlain was famous for establishing what?
+[ANS] Quebec
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.2
+[QUESTION] Rather than conquering natives, the French were more interested in:
+[ANS] trade
+[ANS] fish trade
+[ANS] fur trade
+[ANS] fish and fur trade
+[ANS] fur and fish trade
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.2
+[QUESTION] Henry Hudson, a Dutch explorer, claimed territory that later became:
+[ANS] New Amsterdam
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.2
+[QUESTION] The goals of the Dutch in colonizing America were mainly (social/economic/political).
+[ANS] economic
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.2
+[QUESTION] Rather than enslaving or conquering natives, this group of explorers expelled them from native lands.
+[ANS] Britain
+[ANS] British
+[ANS] English
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] What was the first British colony in North America?
+[ANS] Jamestown
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] Jamestown was funded by this economic model.
+[ANS] Joint-Stock
+[ANS] Joint-Stock Companies
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] In this economic model, a private group of investors pooled money together & shared financial risks.
+[ANS] Joint-Stock
+[ANS] Joint-Stock Companies
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] The cultivation of this crop saved Jamestown from being a financial disaster.
+[ANS] Tobacco
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] These people signed work contracts to gain free passage to the Americas.
+[ANS] Indentured Servants
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] This event caused elite planters to switch from indentured servants to African slaves.
+[ANS] Bacon's Rebellion
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] New England colonies served as a haven for _____ settlers who were unhappy with the Church of England.
+[ANS] Puritan
+[ANS] Protestant
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] This lucrative crop replaced tobacco in colonies towards the South/equator.
+[ANS] Sugarcane
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] To combat the growing population of blacks, elite planters passed:
+[ANS] Slave Codes
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] Another term for property, usually used to refer to slaves.
+[ANS] Chattel
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] This region of British colonies developed an export-based economy due to abundant rivers & streams.
+[ANS] Middle
+[ANS] Middle Colonies
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] This British NA colony promised religion freedom for all, was founded by a Quaker, and usually negotiated with natives for land.
+[ANS] Pennsylvania
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.3
+[QUESTION] Name one significant example of democracy in the early Middle & New England colonies.
+[ANS] House of Burgesses
+[ANS] Mayflower Compact
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.4
+[QUESTION] This profitable trade route involved Africa, Europe, and the American colonies.
+[ANS] Triangular
+[ANS] The Triangular Trade
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.4
+[QUESTION] This economic model assumed a fixed total amount of wealth & encouraged a balanced export/import ratio.
+[ANS] Mercantilism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.4
+[QUESTION] To increase British wealth according to mercantilism, Parliament passed the:
+[ANS] Navigation Acts
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.4
+[QUESTION] The Navigation Acts were based on this economic model.
+[ANS] Mercantilism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.4
+[QUESTION] In the 1600s-1700s, wealthy families began buying more goods. This change is referred to as:
+[ANS] The Consumer Revolution
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.5
+[QUESTION] Name a significant conflict between early British colonists & natives.
+[ANS] Metacom's War
+[ANS] King Philip's War
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.5
+[QUESTION] This European group often traded & married with natives, maintaining decent relations.
+[ANS] French
+[ANS] France
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.5
+[QUESTION] This European group often conquered & enslaved natives with violence.
+[ANS] Spanish
+[ANS] Spain
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.5
+[QUESTION] This European group often expelled natives from lands they wanted.
+[ANS] British
+[ANS] Britain
+[ANS] English
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.6
+[QUESTION] The greatest portion of slaves in British colonies ended up in the:
+[ANS] British West Indies
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.6
+[QUESTION] In this British colonial region, slaves mostly worked as household servants or sailors.
+[ANS] New England
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.6
+[QUESTION] Britain justified slavery using the concept of:
+[ANS] Chattel
+[ANS] Chattel Slavery
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.6
+[QUESTION] Name a major slave uprising in the early 1700s.
+[ANS] Stono Rebellion
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.6
+[QUESTION] Name a way slaves covertly resisted their enslavement.
+[ANS] Maintaining beliefs
+[ANS] Maintaining culture
+[ANS] Speaking native languages
+[ANS] Breaking Tools
+[ANS] Destroying Crops
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] In Europe during the 1600s and 1700s, rational thinking was emphasized over tradition, a change called
+[ANS] The Enlightenment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] During the Enlightenment, John Locke spread the idea of
+[ANS] Natural Rights
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] This idea stated that the government existed to protect the people's rights & that the power to govern was in the hands of the people.
+[ANS] Social Contract
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] This term refers to the religious revival in the colonies during & after the Enlightenment.
+[ANS] The Great Awakening
+[ANS] First Great Awakening
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] This preacher is well-known for "Sinners in the Hands of an Angry God."
+[ANS] Jonathan Edwards
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] George Whitefield & Jonathan Edwards were two members of the:
+[ANS] New Light
+[ANS] New Light Clergy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] In terms of politics, New Light preachers emphasized _____ in the Bible.
+[ANS] Democracy
+[ANS] Democratic Tendencies
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] This term refers to how the colonists became more "English"-like.
+[ANS] Anglicanization
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] This term refers to the policy of seizing sailors & forcing them to work in the navy.
+[ANS] Impressment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 2.7
+[QUESTION] One major conflict between the colonists & Britain during King George's War was because of
+[ANS] Impressment
+[END]
+-------------------------------------------

@@ -1,0 +1,706 @@
+[PRESET] Unit 6 (1865-1898)
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This new development in the mid-to-late 1800s connected the coasts & allowed for easy transportation of goods.
+[ANS] Transcontinental Railroad
+[ANS] Iron Horse
+[ANS] Central Pacific
+[ANS] Union Pacific
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This railroad company built west-to-east and mostly hired Chinese immigrants.
+[ANS] Central Pacific
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This railroad company built east-to-west and mostly hired German & Irish immigrants.
+[ANS] Union Pacific
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This act in the 1860s granted free land in the West to those who "improved" it.
+[ANS] Homestead Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] The (CENSORED) Acts in the 1860s gave bonds & land grants to companies building the ______ ____.
+[ANS] Transcontinental Railroad
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] These people were African Americans who moved west to escape segregated South.
+[ANS] Exodusters
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] Technological developments such as steel plows & barbed wires led to (higher/stable/lower/a crash in) food prices.
+[ANS] Lower
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] Natural disasters, conflicts with natives, and inequal land quality were issues with the ________ Act in the 1860s.
+[ANS] Homestead
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This refers to the repeated process of borrowing money to buy new equipment, and paying portions of that debt off with the harvest.
+[ANS] Cycle of Debt
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] In response to the difficulty of farming in the West, the ______ ______ was formed in the late 1800s. (Two Possible Answers; Name One)
+[ANS] Granger Movement
+[ANS] Farmers Alliance
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] These laws were passed in the late 1800s to regulate farming-related costs.
+[ANS] Granger Laws
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] *Munn v. Illinois (1877)* upheld ______ ___ as constitutional. (The answer is a set of laws)
+[ANS] Granger Laws
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This court case in the late 1800s upheld Granger Laws as constitutional.
+[ANS] Munn v. Illinois
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This court case in the late 1800s allowed states to regulate industries for the "common good".
+[ANS] Munn v. Illinois
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This court case in the late 1800s ultimately overruled *Munn v. Illinois (1877)*.
+[ANS] Wabash v. Illinois
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This court case in the late 1800s disallowed states from setting rates on railroads.
+[ANS] Wabash v. Illinois
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.2
+[QUESTION] This law was passed by Congress to directly combat Wabash v. Illinois.
+[ANS] Interstate Commerce Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] This theory stated that the Western frontier would always be ripe with economic opportunities.
+[ANS] Safety Valve Theory
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] To support railroads, which of the following occurred? (Growth of coal industry/Interstate Commerce Act/Granger Laws/Homestead Act)
+[ANS] Growth of coal industry
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] This act in the late 1800s let the fed. gov. distribute land to states for agricultural colleges.
+[ANS] Morill Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] This act in the late 1800s allowed for agricultural experimentation stations.
+[ANS] Hatch Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] The gold & silver mining industry in the US was kickstarted by this event before spreading east:
+[ANS] Gold Rush
+[ANS] California Gold Rush
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] Name this major example of a "gold rush" in the late 1800s (After the California Gold Rush).
+[ANS] Comstock Lode
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] Cities that emerged around locations with mineral resources, often with a quick rise & fall, were called:
+[ANS] Boomtowns
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] The ______ _____ was a major cattle route from Texas to Kansas.
+[ANS] Chisholm Trail
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] Three major native conflicts occurred in the late 1800s; Name one.
+[ANS] Sand Creek Massacre
+[ANS] Battle of Little Big Horn
+[ANS] Battle of Wounded Knee
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] The _____ _____ movement gave natives hope that their land would be restored; this never came to be.
+[ANS] Ghost Dance
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] This battle marked the last major native conflict in the US, occurring in the late 1800s.
+[ANS] Wounded Knee
+[ANS] Battle of Wounded Knee
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] As a result of westward expansion, the ____ population declined, hurting natives.
+[ANS] Bison
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] This book written in the late 1800s documented the relationship between the US and natives, outlining the many broken promises & treaties.
+[ANS] Century of Dishonor
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] The _____ _______ ___ (Late 1800s) was the government's attempt at assimilating & helping natives.
+[ANS] Dawes Severalty Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] By the 1890s, the western frontier was (inhabitable/undocumented/indistinguishable/undesirable).
+[ANS] Indistinguishable
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.3
+[QUESTION] This "thesis" portrayed a romanticized memory of the frontier experience.
+[ANS] Turner's Frontier Thesis
+[ANS] Turner
+[ANS] Frederick Turner
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] Henry Grady's vision of a "___ ____" claimed that the South was done apologizing for the Civil War.
+[ANS] New South
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] Who proposed the idea of a "New South" in the late 1800s?
+[ANS] Henry Grady
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] Proponents of a "New South" wanted the South to ________ to catch up with the North.
+[ANS] Industrialize
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] Taxes, Literacy Tests, and Grandfather Clauses were used by the South to control the ____.
+[ANS] Vote
+[ANS] Elections
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] These laws were used in the South to segregate blacks & whites.
+[ANS] Jim Crow
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] This landmark court case in the late 1800s upheld Jim Crow Laws.
+[ANS] Plessy v. Ferguson
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] Plessy v. Ferguson upheld these laws as constitutional.
+[ANS] Jim Crow
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] (Booker T Washington/WEB Du Bois) promoted gradual equality by earning things that garnered respect.
+[ANS] Booker T Washington
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] (Booker T Washington/WEB Du Bois) founded the Tuskegee Institute, educating for vocations based on community needs.
+[ANS] Booker T Washington
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] (Booker T Washington/WEB Du Bois) promoted immediate equality through politics & law.
+[ANS] WEB Du Bois
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.4
+[QUESTION] (Booker T Washington/WEB Du Bois) founded the NAACP for legal & political support.
+[ANS] WEB Du Bois
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.5
+[QUESTION] This invention allowed for near-instant long-distance communication and went hand-in-hand with the transcontinental railroad.
+[ANS] Telephone
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.5
+[QUESTION] This invention was serviced by General Electric and foreshadowed a switch of more products to using electricity.
+[ANS] Lightbulb
+[ANS] Electric Lightbulb
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.5
+[QUESTION] Assembly lines, taylorism, and interchangeable parts all led to the ____ ________ of goods.
+[ANS] Mass production
+[ANS] Increased production
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.5
+[QUESTION] This refers to the scientific management of workers in order to increase efficiency.
+[ANS] Taylorism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This economic principle is based on competition & private ownership.
+[ANS] Capitalism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This principle, based on natural selection, justified the social classes and gap between them.
+[ANS] Social Darwinism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] _____ _______ (the economic principle) thrived under laissez-faire conditions.
+[ANS] Social Darwinism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This term describes a condition where the government has minimal interference in the economy.
+[ANS] Laissez-Faire
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] One drawback of capitalism was that companies had (unequal appeals/too many workers/not enough influence/unequal resources).
+[ANS] Unequal Resources
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This term refers to a business that dominates & controls all aspects of a market.
+[ANS] Monopoly
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This term refers to a group of business that work together to control an entire market.
+[ANS] Trust
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This industrialist gained a steel monopoly through vertical integration.
+[ANS] Andrew Carnegie
+[ANS] Carnegie
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This refers to the process of buying out all companies that produce raw materials for a certain product.
+[ANS] Vertical Integration
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] Andrew Carnegie dominated this industry.
+[ANS] Steel
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This industrialist gained an oil monopoly through horizontal integration.
+[ANS] John D Rockefeller
+[ANS] Rockefeller
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] Rockefeller dominated this industry.
+[ANS] Oil
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This refers to the process of buying out all companies that produce similar products to yours.
+[ANS] Horizontal Integration
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.6
+[QUESTION] This industrialist became rich through shipping & railroads.
+[ANS] Vanderbilt
+[ANS] Cornelius Vanderbilt
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] This concept of "people get what they deserve" justified profit at the expense of workers.
+[ANS] Social Darwinism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] Industrialization attracted immigrants from three locations; name one.
+[ANS] South Europe
+[ANS] East Europe
+[ANS] Asia
+[ANS] China
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] Which of the following was NOT caused by industrialization? (Increased Immigration/More Leisure Time/Smaller gap between Rich & Poor/Expansion of Public & Higher Education)
+[ANS] Smalelr gap between Rich & Poor
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] The period roughly around the late 1800s was called the _____ ___ due to its superficially-luxurious nature.
+[ANS] Gilded Age
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] Industrialization led to a spike in the hiring of 1) women and 2) this labor source.
+[ANS] Children
+[ANS] Child Labor
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] This is an example of a workplace disaster during the Gilded Age, where are fire combined with poor emergency exits led to >100 deaths.
+[ANS] Triangle Shirtwaist Fire
+[ANS] Triangle Fire
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] To bring about change in the workplace, laborers formed ____ ______.
+[ANS] Labor Unions
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] This labor union founded in the late 1800s was inclusive of all and wanted to pass pro-labor laws.
+[ANS] Knights of Labor
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] This labor union founded in the late 1800s was exclusive (only skilled whites) and wanted economic change.
+[ANS] American Federation of Labor
+[ANS] AFL
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] Who founded the AFL (labor union)?
+[ANS] Samuel Gompers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.7
+[QUESTION] Towards the end of the 1800s, public opinion shifted (pro/neutral/anti)-labor unions.
+[ANS] Anti
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] Name a push factor in immigration during the Gilded Age.
+[ANS] Political conflict
+[ANS] Religious discrimination
+[ANS] Poverty
+[ANS] War
+[ANS] Famine
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] Name a pull factor in immigration during the Gilded Age.
+[ANS] Democracy
+[ANS] Jobs
+[ANS] Western Land
+[ANS] Western Opportunity
+[ANS] Cultural Ties
+[ANS] Easier Transportation
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] This process refers to the "Americanization" of new immigrants to adapt to American culture.
+[ANS] Assimilation
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] Immigrants during the Gilded Age mostly settled in _____ areas.
+[ANS] Urban
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] These parts of cities provided a "comfort space" where immigrants could be surrounded by their home culture.
+[ANS] Ethnic Neighborhoods
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] Two places were designated as immigration checkpoints during the Gilded Age; name them from west to east.
+[ANS] Angel Island, Ellis Island
+[ANS] Angel & Ellis Island.
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] This term refers to immigrants who arrived, worked a bit, then returned to their home country.
+[ANS] Birds of Passage
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] During the Gilded Age, (New/Old) immigrants were from Northern & Western Europe.
+[ANS] Old
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] During the Gilded Age, (New/Old) immigrants were mainly Protestant.
+[ANS] Old
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] During the Gilded Age, (New/Old) immigrants were highly literate & skilled.
+[ANS] Old
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] During the Gilded Age, (New/Old) immigrants were from Southern & Eastern Europe.
+[ANS] New
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] During the Gilded Age, (New/Old) immigrants were mainly Catholic, Jewish, or Greek Orthodox.
+[ANS] New
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.8
+[QUESTION] During the Gilded Age, (New/Old) immigrants were mostly illiterate & unskilled.
+[ANS] New
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.9
+[QUESTION] Sympathizers to immigration during the Gilded Age set up ________ _____ to assist with assimilation.
+[ANS] Settlement Houses
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.9
+[QUESTION] Jane Addam's Hull House is an example of this solution to Gilded Age Immigration:
+[ANS] Settlement House
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.9
+[QUESTION] ______ ______ provided services for Gilded Age immigrants in return for receiving their vote.
+[ANS] Political Machines
+[ANS] Political Bosses
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.9
+[QUESTION] Nativists used ______ ______ to justify the suffering of poor people during the Gilded Age.
+[ANS] Social Darwinism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.9
+[QUESTION] Immigrants were often used as ________ by managament.
+[ANS] Strikebreakers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.9
+[QUESTION] This law banned (CENSORED) immigration from 1882 to 1943 in response to nativism.
+[ANS] Chinese Exclusion Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.9
+[QUESTION] This landmark case upheld birthright citizenship for immigrants, as outlined in the 14th Amendment.
+[ANS] US v. Wong Kim Ark
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.10
+[QUESTION] Industrialization during the Gilded Age led to the development of a ______ class.
+[ANS] Middle
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.10
+[QUESTION] Increased leisure time & consumer culture was a side effect of the development of a ______ _____.
+[ANS] Middle Class
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.10
+[QUESTION] This concept refers to the belief that the wealthy were morally obligated to give back to their communities.
+[ANS] Gospel of Wealth
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.10
+[QUESTION] The first "philanthropist" and preacher of the Gospel of Wealth was ______ ________.
+[ANS] Andrew Carnegie
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.11
+[QUESTION] During Industrialization, a major reform movement was that of ______ equality.
+[ANS] Gender
+[ANS] Female
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.11
+[QUESTION] This concept refers to applying Christian values to promote better living conditions.
+[ANS] Social Gospel
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.11
+[QUESTION] The NAWSA, created during Industrialization, was created to solve the issue of:
+[ANS] Female Equality
+[ANS] Suffrage
+[ANS] Gender Equality
+[ANS] Female Suffrage
+[ANS] Female Vote
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.11
+[QUESTION] To deal with crowded immigrant neighborhoods, women created _________ _____.
+[ANS] Settlement Houses
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.12
+[QUESTION] This concept justified laissez-faire.
+[ANS] Social Darwinism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.12
+[QUESTION] This concept justified extreme wealth during the Gilded Age.
+[ANS] Gospel of Wealth
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.13
+[QUESTION] This system during the Gilded Age gave loyal party members jobs & favors, resulting in large voter turnout.
+[ANS] Patronage
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.13
+[QUESTION] Perhaps the most prominent political machine, located in NYC, was:
+[ANS] Tammany Hall
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.13
+[QUESTION] The Populist Party was also known as the _____ Platform.
+[ANS] Omaha
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.13
+[QUESTION] (Republicans/Democrats/Populists) criticized the laissez-faire system.
+[ANS] Populists
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.13
+[QUESTION] (Republicans/Democrats/Populists) supported state rights & less government influence.
+[ANS] Democrats
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.13
+[QUESTION] (Republicans/Democrats/Populists) wanted high tariffs to help local producers.
+[ANS] Republicans
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.13
+[QUESTION] (Republicans/Democrats/Populists) opposed the silver standard in favor of the gold standard.
+[ANS] Republicans
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 6.13
+[QUESTION] (Republicans/Democrats/Populists) mainly represented farmers & factory workers.
+[ANS] Populists
+[END]
+-------------------------------------------

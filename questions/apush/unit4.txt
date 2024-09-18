@@ -1,0 +1,711 @@
+[PRESET] Unit 4 (1800-1848)
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] Federalists lost popularity in the Election of 1800 due to the:
+[ANS] Alien & Sedition Acts
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] During the Election of 1800, this party leaned more towards Great Britain.
+[ANS] Federalist
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] During the Election of 1800, this party leaned more towards France.
+[ANS] Demo-Rep
+[ANS] Democratic-Republican
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] Who won the Election of 1800?
+[ANS] Thomas Jefferson
+[ANS] Jefferson
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] Thomas Jefferson supported this political party.
+[ANS] Demo-Rep
+[ANS] Democratic-Republican
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] During the early 1800s, (Northerners/Southerners) supported higher tariffs.
+[ANS] Northerners
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] During the early 1800s, (Northerners/Southerners) supported lower tariffs.
+[ANS] Southerners
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] Power between two political parties was transferred peacefully in this event, a rare occurrence at the time.
+[ANS] Revolution of 1800
+[ANS] Election of 1800
+[ANS] Jefferson's Election
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] Which of the following was not one of Jefferson's actions as president? (Reducing military/Higher taxes for war/Eliminating federal jobs/Lowering national debt)
+[ANS] Higher taxes for war
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] This is considered the most significant event during Jefferson's administration.
+[ANS] Louisiana Purchase
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] Jefferson was conflicted about the ____ as it violated his Demo-Rep ideals.
+[ANS] Louisiana Purchase
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] This important location was the main American goal in the negotiations that led to the Louisiana Purchase.
+[ANS] New Orleans
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] This chief justice strongly increased the power of the Supreme Court & federal government.
+[ANS] John Marshall
+[ANS] Marshall
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] This court case established the policy of judicial review.
+[ANS] Marbury v. Madison
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] This law was the main point in the court ruling that led to the establishment of judicial review.
+[ANS] Judiciary Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] This court case ruled that federal laws trump state laws in the event of contradiction.
+[ANS] McCulloch v. Maryland
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.2
+[QUESTION] Marbury v. Madison was important for establishing:
+[ANS] Judicial Review
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] The period after Monroe's election where the Demo-Reps were almost unchallenged is called:
+[ANS] Era of Good Feelings
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] During the Era of Good Feelings, this party declined & failed to remain a national party.
+[ANS] Federalist
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] What was not a goal in Henry Clay's American System? (Protective tariffs/National Bank/Internal Improvements/Foreign Neutrality)
+[ANS] Foreign Neutrality
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] This plan during Monroe's presidency aimed to advance national economic growth via protective tariffs, a national bank, and internal improvements.
+[ANS] Henry Clay's American System
+[ANS] American System
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] Of the three goals outlined in Clay's American System, which was vetoed by both Madison & Monroe?
+[ANS] Internal Improvements
+[ANS] Roads
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] This panic occurred after the Second National Bank tightened credit to attempt to control inflation.
+[ANS] Panic of 1819
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] Which region was hit hardest by the Panic of 1819? (North/South/East/West)
+[ANS] West
+[ANS] The West
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] This party rapidly declined due to seeming out of touch, ceasing to be significant around the early 1800s.
+[ANS] Federalist
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] During the Era of Good Feelings, this party experienced significant internal strain.
+[ANS] Demo-Rep
+[ANS] Democratic-Republicans
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] This state's bid for statehood in the early 1800s led to the first of several compromises on slavery.
+[ANS] Missouri
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] Shortly before the Missouri Compromise, this ignited the debate of Missouri's status as a free/slave state.
+[ANS] Tallmadge Amendment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] Henry Clay proposed this to solve thie issue of Missouri's addition to the Union.
+[ANS] Missouri Compromise
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.3
+[QUESTION] This law passed in the 1810s-1830s set a nothern boundary line for slavery.
+[ANS] Missouri Compromise
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Jefferson's foreign policy was one of:
+[ANS] Neutrality
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] This conflict dominated European politics during Jefferson's Presidency.
+[ANS] Napoleonic Wars
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] During the Napoleonic Wars, this regular British & French action outraged Americans.
+[ANS] Impressment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Jefferson's alternative to war with Britain due to impressment was this:
+[ANS] Embargo Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Which best describes the success of the Embargo Act? (Worked well/No effect/Hurt the US/Rejected by Congress)
+[ANS] Hurt the US
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Which best describes Madison's foreign policy? (Remained neutral/Unwillingly declared war/Willingly declared war/Ignored the issue)
+[ANS] Unwillingly Declared War
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] This successor to the Embargo Act re-enabled trade with European nations respecting neutrality.
+[ANS] Nonintercourse Act
+[ANS] Nonintercourse Act of 1809
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Madison passed this bill that embargoed either Britain or France if the other respected American neutrality.
+[ANS] Macon's Bill
+[ANS] Macon's Bill No. 2
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Apart from British impressment, conflicts with Britain on _____ led to the War of 1812.
+[ANS] the frontier
+[ANS] the western frontier
+[ANS] the west
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Of the two belligerents in the Napoleonic Wars, this side was more hated by the Americans.
+[ANS] Britain
+[ANS] British
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] The Democratic-Republicans, mainly from frontier states, who supported the War of 1812 were known as:
+[ANS] War Hawks
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] This group of people strongly opposed the War of 1812. (Either a region or party is fine.)
+[ANS] New England
+[ANS] Federalist
+[ANS] Quid
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] The Quids (supported/opposed/didn't care about) the War of 1812.
+[ANS] opposed
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] The Treaty of Ghent resolved this conflict.
+[ANS] War of 1812
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] The War of 1812 was ended by this treaty:
+[ANS] The Treaty of Ghent
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] The outcome of the War of 1812 for the Americans was a: (victory/stalemate/loss)
+[ANS] stalemate
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] This local event regarding the War of 1812 was significant in the decline of the Federalists.
+[ANS] Hartford Convention
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Despite it being a stalemate, the War of 1812 led to increased ____ in the US.
+[ANS] nationalism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Which best describes Monroe's foreign policy? (Nationalistic/Neutrality/Declaring Wars/Allying with France)
+[ANS] Nationalistic
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] What did the Rush-Bagot Treaty under Monroe settle?
+[ANS] Canadian Border
+[ANS] US Northern Border
+[ANS] US-Canada Border
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] Monroe sent Andrew Jackson to conquer this territory in the Americas.
+[ANS] Florida
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] In the Adams-Onis Treaty, Spain handed over _____ and possessions in the Oregon territory to the US.
+[ANS] Florida
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.4
+[QUESTION] This "statement" issued in the early 1800s declared that the US would handle all affairs in the Americas and told Europe to stay out.
+[ANS] Monroe Doctrine
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] The states in the Old Northwest gained statehood via a process outlined in the:
+[ANS] Northwest Ordinance
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] Transportation developments in the late 1700s & early 1800s were vital to the economy. Name one of them.
+[ANS] Lancaster Turnpike
+[ANS] National Road
+[ANS] Cumberland Road
+[ANS] Erie Canal
+[ANS] Steamboats
+[ANS] Railroads
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] Eli Whitney developed two important things in the Market Revolution; name one.
+[ANS] Cotton Gin
+[ANS] Interchangeable Parts
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] The development of this system in the Market Revolution allowed for mass production of goods.
+[ANS] Interchangeable Parts
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] In the 1820s, this region was the leading economic manufacturer in the US.
+[ANS] New England
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] This system (named after its factory) utilized young women & children as a labor source during the Market Revolution.
+[ANS] Lowell
+[ANS] Lowell System
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] During the Market Revolution, farming in the South switched from subsistence farming to growing:
+[ANS] Cash Crops
+[ANS] Cotton
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] In the 1800s, this crop was the South's main export.
+[ANS] Cotton
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.5
+[QUESTION] This technological development in the 1800s led to increased Southern dependence on slavery.
+[ANS] Cotton Gin
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.6
+[QUESTION] Most immigration in the early 1800s came from Great Britain and _____.
+[ANS] Germany
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.6
+[QUESTION] Most immigrants in the early 1880s settled in the (North/South/West).
+[ANS] North
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.6
+[QUESTION] The Market Revolution & growth of factories hurt _____ the most.
+[ANS] Skilled workers
+[ANS] Artisans
+[ANS] Specialized workers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.6
+[QUESTION] *Commonwealth v. Hunt* was a win for _____ _____.
+[ANS] Labor Unions
+[ANS] Work Unions
+[ANS] Unions
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.7
+[QUESTION] During the early 1800s, campaigns for presidency needed to be conducted on a ______ scale.
+[ANS] national
+[ANS] large
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.7
+[QUESTION] What were the two major political parties in the 1830s?
+[ANS] Democrats, Whigs
+[ANS] Whigs, Democrats
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.7
+[QUESTION] In this system supported by Jackson, people are appointed to federal jobs based on whether they had campaigned for the President.
+[ANS] spoils
+[ANS] spoils system
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Andrew Jackson won the popular vote but lost to John Quincy Adams in the Election of 1824. Adams won via what angry Jackson supporters called the:
+[ANS] Corrupt Bargain
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] During Quincy Adam's presidency, the highly controversial ______ passed, alienating Southern planters.
+[ANS] Tariff of 1828
+[ANS] Tariff of Abominations
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] In the Revolution of 1828, this president won a landslide victory.
+[ANS] Andrew Jackson
+[ANS] Jackson
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Andrew Jackson campaigned as a representative of the:
+[ANS] Common Man
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Jackson interpreted the Constitution narrowly and used this Presidential power significantly.
+[ANS] Veto
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] What best describes President Jackson's policy towards natives? (Diplomacy/Neutrality/Expulsion/War)
+[ANS] Expulsion
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Jackson forced the relocation of natives through this law:
+[ANS] Indian Removal Act
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] This court case ruled that the Cherokee nation was not subject to Georgia law, but was ultimately unenforced.
+[ANS] Worcester v. Georgia
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] After Jackson left office, 15k+ Cherokees were forced to relocate through the:
+[ANS] Trail of Tears
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] The nullification crisis in the 1820s-1830s were originally caused by:
+[ANS] The Tariff of 1828
+[ANS] The Tariff of Abominations
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Nullification theory was first advanced by this person, who was also Jackson's early VP.
+[ANS] Calhoun
+[ANS] John C. Calhoun
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] This theory says that states had the right to decide whether federal law was constitutional or not and whether to obey it.
+[ANS] Nullification
+[ANS] Nullification Theory
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Jackson responded to the Nullification Crisis by persuading Congress to pass the:
+[ANS] Force Bill
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Jackson (supported/was neutral on/opposed) the anti-slavery movement.
+[ANS] opposed
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Jackson (supported/was neutral on/opposed) the National Bank.
+[ANS] opposed
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Jackson vetoed the recharter of this institution, which was a major issue in the following election.
+[ANS] National Bank
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] In the two-party system after the Era of Good Feelings, supporters of Jackson were called:
+[ANS] Democrats
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] In the two-party system after the Era of Good Feelings, supporters of Henry Clay were called:
+[ANS] Whigs
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Democrats who supported Jackson were most similar to this older party.
+[ANS] Democratic-Republicans
+[ANS] Demo-Reps
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Whigs who supported Clay were most similar to this older party.
+[ANS] Federalists
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] In this executive order, Jackson forced the purchase of federal lands to be made with gold & silver.
+[ANS] Specie Circular
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] Jackson's feud & ending of the National Bank led to this economic event.
+[ANS] Panic of 1837
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.8
+[QUESTION] This President favored Democrats despite having been elected under a Whig platform, leading to many clashes during the 1840s.
+[ANS] John Tyler
+[ANS] Tyler
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.9
+[QUESTION] The shift away from Enlightenment ideals towards a focus on intuition, feelings, heroism, and the study of nature is known as:
+[ANS] Romanticism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.9
+[QUESTION] US writers, artists, and other thinkers who expressed romanticism in their works were known as:
+[ANS] Transcendentalists
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.9
+[QUESTION] Generally, transcendentalists (supported/were neutral on/opposed) reform movements such as the anti-slavery movement.
+[ANS] Supported
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.9
+[QUESTION] During the antebellum period, many people tried to create "perfect societies", or _____.
+[ANS] Utopias
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.9
+[QUESTION] In the 1830s, American architects borrowed styles from _____ architecture.
+[ANS] Greek
+[ANS] European
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.10
+[QUESTION] After the Market Revolution, a series of religious revivals occurred amongst the highly educated, leading to the:
+[ANS] Second Great Awakening
+[ANS] 2nd Great Awakening
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.10
+[QUESTION] The Second Great Awakening led to the creation of several ______ ______, some of which persisted into the 1900s.
+[ANS] Reform Movements
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] The period before the Civil War in 1861 is referred to as the:
+[ANS] Antebellum Period
+[ANS] Antebellum
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] This reform movement focused on the banning of alcohol.
+[ANS] Temperance
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] Dorothea Dix was a leader in this reform movement.
+[ANS] Asylums
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] Horace Mann & McGuffey were leaders in this reform movement.
+[ANS] Education
+[ANS] Public Education
+[ANS] Public School
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] The idealized view of women as moral leaders in the home was known as the:
+[ANS] Cult of Domesticity
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] This convention in 1848 was the first womens' rights conventions in the US.
+[ANS] Seneca Falls
+[ANS] Seneca Falls Convention
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] Elizabeth Stanton & Susan B. Anthony were champions in this reform movement.
+[ANS] Women's rights
+[ANS] Women's suffrage
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] William Lloyd Garrison & Frederick Douglass were examples of _____ abolitionists.
+[ANS] Radical
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.11
+[QUESTION] Those who supported gradual abolition rather than immediate emancipation were probably _____ abolitionists.
+[ANS] Moderate
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.12
+[QUESTION] This famous uprising was led by an enslaved black and let to the death of 50+ white males, women, and children.
+[ANS] Nat Turner
+[ANS] Nat Turner's Rebellion
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] 4.13
+[QUESTION] In the South, slaves were treated as _____ rather than humans.
+[ANS] property
+[END]
+-------------------------------------------

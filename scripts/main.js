@@ -274,117 +274,16 @@ class MCQQuestion {
 
 var CURRENT_SESSION = undefined;
 
-function parse_qset_line(str) {
-    // Matches things in the pattern [IDENTIFIER] content
-    const regex = /^\[([^\]]+)\]\s*(.*)$/;
-    const match = str.match(regex);
-    
-    if (match) {
-        return [match[1], match[2]];
-    } else {
-        return [null, null];
-    }
-}
-
-function parse_qset(filePath) {
-    // Open & Read .txt File
-    const content = fetch(filePath).then(response => {
-        if (!response.ok) {
-            console.error("Fetch operation wasn't an OK Response: " + filePath);
-            return "";
-        }
-        return response.text();
-    }).then(text => {
-        const lines = text.split("\n").map(line => line.trim());
-        return parse_qset_raw(lines);
-    }).catch(error => {
-        console.error(`Error while fetching ${filePath}: ${error}`);
-        return [];
-    });
-
-    return content;
-}
-
-function parse_qset_raw(lines) {
-    let questions = [];
-    let topic = "Debug Topic";
-
-    let currentQType = undefined;
-    let currentQObj = undefined;
-    let currentlyParsingQ = false;
-
-    for (let line of lines) {
-        line = parse_qset_line(line);
-        if (line[0] == null) {
-            continue;
-        }
-
-        if (currentlyParsingQ) {
-            if (currentQType == "SAQ") {
-                if (line[0] == "QUESTION") {
-                    currentQObj.q = line[1];
-                } else if (line[0] == "ANS") {
-                    currentQObj.correctAnswers.push(line[1]);
-                } else if (line[0] == "END") {
-                    currentQType = undefined;
-                    currentlyParsingQ = false;
-                    questions.push(currentQObj);
-                    currentQObj = undefined;
-                }
-            }
-        } else {
-            if (line[0] == "QUESTION TYPE") {
-                currentQType = line[1];
-                currentlyParsingQ = true;
-                if (currentQType == "SAQ") {
-                    currentQObj = new SAQQuestion(undefined, topic, []);
-                } else {
-                    currentlyParsingQ = false;
-                    console.log(`Warning: Unrecognized Question Type ${line[1]}... ignoring...`);
-                }
-            }
-        }
-    }
-
-    return questions;
-}
-
 class TriviaSession {
-    constructor(qSets, settings, seed, qNum) {
+    constructor(questions, qNum, seed, settings) {
         //this.questions = [new MCQQuestion("What is 1 + 1?", ["2", "3", "4", "5"], 0)];
         //this.questions = [new SAQQuestion("What is 1 + 1?", "Debug Problems", ["2"]), new SAQQuestion("What is 1 + 2?", "Debug Problems", ["3"])]
-        this.questions = [];
-        this.qSets = qSets;
+        this.questions = questions
         this.questionNum = qNum;
         this.seed = seed;
 
         this.settings = settings;
-    }
 
-    load_qsets() {
-        // Generate Questions From Question Sets
-        this.qSetsLoaded = 0;
-        this.qSetsTotal = this.qSets.length;
-        for (let qSet of this.qSets) {
-            parse_qset(qSet).then(result => {
-                CURRENT_SESSION.load_questions(result);
-            })
-        }
-    }
-
-    load_questions(questions) {
-        this.questions = this.questions.concat(questions);
-        this.qSetsLoaded += 1;
-
-        if (this.qSetsLoaded == this.qSetsTotal) {
-            this.on_all_loaded();
-        }
-    }
-
-    on_all_loaded() {
-        // Called once this.questions has been fully constructed
-
-        // Shuffle question order
         this.questionCount = this.questions.length;
         this.questionOrder = shuffle_with_seed(Array.from({ length: this.questionCount }, (_, i) => i), this.seed);
 
@@ -440,25 +339,145 @@ function show_sd() {
     SESSION_DIV.style.display = "flex";
 }
 
-/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
-/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
-/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
+/* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */
+/* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */
+/* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */
 
-const TOPICS = {
-    "None": "--------------------------------------",
-    "APUSH": "APUSH",
-    "NSL": "AP NSL/AP Gov", 
-    "ESS": "Earth & Space Systems"
-};
+// Reads DIRECTORY from directory.js
 
-/*
-const PRESETS = { ... };
-Defined in presets.js
-*/
+var SUBJECTS = {"None": "-----------------------"}; // Used for dropdown
+var PRESETS = {"None": "-----------------------"}; // Used for dropdown
+var QUESTION_BANK = {}; // Subject: {Topic: [Question, Question, ...]}
+
+
+function get_qset_lines(filePath) {
+    // Open & Read .txt File
+    const content = fetch(filePath).then(response => {
+        if (!response.ok) {
+            console.error("Fetch operation wasn't an OK Response: " + filePath);
+            throw new Error(`[NETWORK] Error while fetching file`);
+        }
+        return response.text();
+    }).then(text => {
+        const lines = text.split("\n").map(line => line.trim());
+        return lines;
+    }).catch(error => {
+        console.error(`Error while fetching ${filePath}: ${error}`);
+        throw new Error(`[NETWORK] Error while parsing file`)
+    });
+
+    return content;
+}
+
+function parse_qset_line(str) {
+    // Matches things in the pattern [IDENTIFIER] content
+    const regex = /^\[([^\]]+)\]\s*(.*)$/;
+    const match = str.match(regex);
+    
+    if (match) {
+        return [match[1], match[2]];
+    } else {
+        return [null, null];
+    }
+}
+
+function parse_qset_lines(lines) {
+    let PRESET_NAME = undefined;
+    let PRESET_TOPICS = [];
+    let TOPICS = {};
+
+    let currentQType = undefined;
+    let currentQTopic = undefined;
+    let currentQObj = undefined;
+    let currentlyParsingQ = false;
+
+    for (let line of lines) {
+        line = parse_qset_line(line);
+        if (line[0] == null) {
+            continue;
+        }
+
+        if (currentlyParsingQ) {
+            if (currentQType == "SAQ") {
+                if (line[0] == "QUESTION") {
+                    currentQObj.q = line[1];
+                } else if (line[0] == "TOPIC") {
+                    currentQTopic = line[1];
+                    currentQObj.topic = currentQTopic;
+                } else if (line[0] == "ANS" || line[0] == "EXANS") { // TODO FIX
+                    currentQObj.correctAnswers.push(line[1]);
+                } else if (line[0] == "END") {
+                    if (!PRESET_TOPICS.includes(currentQTopic)) {
+                        PRESET_TOPICS.push(currentQTopic);
+                        TOPICS[currentQTopic] = [];
+                    }
+                    TOPICS[currentQTopic].push(currentQObj);
+                    
+                    currentQType = undefined;
+                    currentQTopic = undefined;
+                    currentQObj = undefined;
+
+                    currentlyParsingQ = false;
+                } else {
+                    throw new Error(`[PARSE] Unrecognized identifier "${line[0]}"`);
+                }
+            }
+        } else {
+            if (line[0] == "PRESET") {
+                if (PRESET_NAME != undefined) {
+                    throw new Error(`[PARSE] Preset name already defined (${PRESET_NAME})`);
+                }
+                PRESET_NAME = line[1];
+            } else if (line[0] == "QUESTION-TYPE") {
+                currentQType = line[1];
+                currentlyParsingQ = true;
+                if (currentQType == "SAQ") {
+                    currentQObj = new SAQQuestion(undefined, undefined, []);
+                } else {
+                    throw new Error(`[PARSE] Unrecognized question type "${line[1]}"`);
+                }
+            } else {
+                throw new Error(`[PARSE] Unrecognized identifier "${line[0]}"`);
+            }
+        }
+    }
+
+    return [PRESET_NAME, PRESET_TOPICS, TOPICS];
+}
+
+async function load_directory() {
+    for (let subj of Object.entries(DIRECTORY)) {
+        SUBJECTS[subj[0]] = subj[1]["plaintext"];
+
+        let subjPresets = {};
+        let subjTopics = {};
+        let filepath = subj[1]["path"];
+
+        for (let filename of subj[1]["files"]) {
+            try {
+                let lines = await get_qset_lines(`${filepath}${filename}.txt`);
+                let res = parse_qset_lines(lines);
+
+                subjPresets[res[0]] = res[1]
+                subjTopics = { ...subjTopics, ...res[2] };
+            } catch (error) {
+                console.error(error);
+            }
+        }
+
+        PRESETS[subj[0]] = subjPresets;
+        QUESTION_BANK[subj[0]] = subjTopics;
+    }
+}
+
+
+/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
+/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
+/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
 
 const MMNS_MENU_BTN = document.getElementById("mainmenu_btn_new");
 const MMNS_WRAPPER_DIV = document.getElementById("mainmenu_newsession_wrapper");
-const MMNS_TOPIC_DROPDOWN = document.getElementById("mmns_topic_dropdown");
+const MMNS_SUBJECT_DROPDOWN = document.getElementById("mmns_subject_dropdown");
 const MMNS_PRESET_DROPDOWN = document.getElementById("mmns_preset_dropdown");
 const MMNS_CANCEL_BTN = document.getElementById("mmns_cancel_btn");
 const MMNS_CREATE_BTN = document.getElementById("mmns_create_btn");
@@ -470,17 +489,13 @@ function set_dropdown(dropdown, options) {
     options.forEach(option => {
         let newOption = document.createElement('option');
         newOption.value = option[0];
-        if (Array.isArray(option[1])) {
-            newOption.text = option[1][0];
-        } else {
-            newOption.text = option[1];
-        }
+        newOption.text = option[1];
         dropdown.appendChild(newOption);
     });
 }
 
 function reset_mmns() {
-    set_dropdown(MMNS_TOPIC_DROPDOWN, Object.entries(TOPICS));
+    set_dropdown(MMNS_SUBJECT_DROPDOWN, Object.entries(SUBJECTS));
     set_dropdown(MMNS_PRESET_DROPDOWN, []);
     MMNS_PRESET_DROPDOWN.setAttribute("disabled", "");
     MMNS_CANCEL_BTN.removeAttribute("disabled");
@@ -488,31 +503,25 @@ function reset_mmns() {
     MMNS_CREATE_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.onclick = create_new_session;
 
-    MMNS_TOPIC_DROPDOWN.addEventListener("change", function() { mmns_render(true) });
+    MMNS_SUBJECT_DROPDOWN.addEventListener("change", function() { mmns_render(true) });
     MMNS_PRESET_DROPDOWN.addEventListener("change", function() { mmns_render(false) });
 
     mmns_render(true);
 }
 
 function mmns_render(changedTopic) {
-    let topic = MMNS_TOPIC_DROPDOWN.value;
+    let subject = MMNS_SUBJECT_DROPDOWN.value;
     let preset = MMNS_PRESET_DROPDOWN.value;
 
-    if (topic == "None") {
+    if (subject == "None") {
         MMNS_PRESET_DROPDOWN.setAttribute("disabled", "");
         set_dropdown(MMNS_PRESET_DROPDOWN, []);
         MMNS_CREATE_BTN.setAttribute("disabled", "");
     } else {
         if (changedTopic) {
-            set_dropdown(MMNS_PRESET_DROPDOWN, Object.entries(PRESETS[topic]));
+            set_dropdown(MMNS_PRESET_DROPDOWN, Object.entries(PRESETS[subject]).map(a => [a[0], a[0]]));
             MMNS_PRESET_DROPDOWN.removeAttribute("disabled");
-            MMNS_CREATE_BTN.setAttribute("disabled", "");
-        } else {
-            if (preset != "None") {
-                MMNS_CREATE_BTN.removeAttribute("disabled", "");
-            } else {
-                MMNS_CREATE_BTN.setAttribute("disabled", "");
-            }
+            MMNS_CREATE_BTN.removeAttribute("disabled", "");
         }
     }
 }
@@ -528,10 +537,10 @@ function show_mmns() {
 }
 
 function create_new_session() {
-    let topic = MMNS_TOPIC_DROPDOWN.value;
+    let subject = MMNS_SUBJECT_DROPDOWN.value;
     let preset = MMNS_PRESET_DROPDOWN.value;
 
-    if (topic == "None" || preset == "None") {
+    if (subject == "None" || preset == "None") {
         return;
     }
 
@@ -541,11 +550,15 @@ function create_new_session() {
     hide_mm();
 
     // Load Presets
-    let qSets = PRESETS[topic][preset][1]; // TODO: SETTINGS
-    CURRENT_SESSION = new TriviaSession(qSets, undefined, Math.floor(Math.random() * 1000000000000), 0);
+    let topics = PRESETS[subject][preset];
+    let questions = [];
+    for (let t of topics) {
+        questions = questions.concat(QUESTION_BANK[subject][t]);
+    }
+
+    CURRENT_SESSION = new TriviaSession(questions, 0, Math.floor(Math.random() * 1000000000000), undefined);
 
     reset_sd();
-    CURRENT_SESSION.load_qsets();
     show_sd();
 
     hide_mmns();
@@ -570,6 +583,9 @@ function show_mm() {
 }
 
 window.onload = function() {
+    load_directory();
+    console.log("Loaded!", SUBJECTS);
+
     // Set Visibilities
     reset_mm();
     show_mm();
@@ -579,7 +595,6 @@ window.onload = function() {
 
     reset_sd();
     hide_sd();
-
     // Set Main Menu Onclicks
     MMNS_MENU_BTN.onclick = show_mmns;
 }

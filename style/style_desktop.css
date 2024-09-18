@@ -141,17 +141,17 @@ button {
     font-weight: bold;
 }
 
-#mmns_topic_div {
+#mmns_subject_div {
     display: flex;
     align-items: center;
     margin-top: -20px;
 }
 
-#mmns_topic_text {
+#mmns_subject_text {
     font-size: 20px;
 }
 
-#mmns_topic_dropdown {
+#mmns_subject_dropdown {
     margin-left: 10px;
     
     width: 300px;
