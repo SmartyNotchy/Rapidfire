@@ -462,12 +462,15 @@ async function load_directory() {
                 subjTopics = { ...subjTopics, ...res[2] };
             } catch (error) {
                 console.error(error);
+                // TODO: DISPLAY ERRORS
             }
         }
 
         PRESETS[subj[0]] = subjPresets;
         QUESTION_BANK[subj[0]] = subjTopics;
     }
+    console.log("Finished!");
+    return true;
 }
 
 
@@ -582,9 +585,8 @@ function show_mm() {
     MAINMENU_DIV.style.display = "flex";
 }
 
-window.onload = function() {
-    load_directory();
-    console.log("Loaded!", SUBJECTS);
+window.onload = async function() {
+    let res = await load_directory();
 
     // Set Visibilities
     reset_mm();

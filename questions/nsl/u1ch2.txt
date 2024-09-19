@@ -1,0 +1,389 @@
+[PRESET] Chapter 2 (The Constitution)
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] Name the quickly-drafted government plan for the US while the Revolution was underway.
+[ANS] Articles of Confederation
+[ANS] The Articles
+[ANS] Articles
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] The Articles of Confederation provided for a (strong/weak) central govt.
+[ANS] Weak
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] How did the Articles of Confederation apportion state representation?<br>A: One vote per state<br>B: Votes based on relative state population<br>C: Bicameral System (both A & B)
+[EXANS] A
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] National legislation under the Articles of Confederation required how many states to approve?<br>A: 7 (majority)<br>B: 9 (supermajority)<br>C: 13 (unanimous)
+[EXANS] B
+[EXANS] 9
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] Amendments to the Articles of Confederation required how many states to approve?<br>A: 7 (majority)<br>B: 9 (supermajority)<br>C: 13 (unanimous)
+[EXANS] C
+[EXANS] 13
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] Which of the following was a weakness of Congress under the Articles of Confederation?<br>A: Inability to mediate interstate disputes<br>B: Couldn't levy taxes/raise funds<br>C: Couldn't declare war<br>D: Failed to protect individual rights (religion & speech)
+[EXANS] B
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] Which of the following was a weakness of Congress under the Articles of Confederation?<br>A: Unreasonable requirements to pass laws/make amendments<br>B: Couldn't acquire territory<br>C: Inability to mediate interstate disputes<br>D: Couldn't negotiate international treaties
+[EXANS] A
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] Which of the following was a weakness of Congress under the Articles of Confederation?<br>A: Failed to protect individual rights (religion & speech)<br>B: Inequal state representation in Congress<br>C: Inability to mediate interstate disputes<br>D: Inability to manage interstate commerce
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.4
+[QUESTION] What major event directly highlighted the ineffectiveness of the Articles of Confederation?
+[ANS] Shay's Rebellion
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] To replace the Articles of Confederation, this meeting of 55 delegates was organized.
+[ANS] Constitutional Convention
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] The (Virginia/New Jersey) Plan argued for population-based representation of states in the national govt.
+[ANS] Virginia
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] The (Virginia/New Jersey) Plan argued for equal representation of states in the national govt.
+[ANS] New Jersey
+[ANS] NJ
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] The (Virginia/New Jersey) Plan argued for a supreme national govt. over the states.
+[ANS] Virginia
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] The (Virginia/New Jersey) Plan argued for a limited & defined national govt.
+[ANS] New Jersey
+[ANS] NJ
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] This plan established a bicameral Congress and compromised between the Virginia and NJ plans.
+[ANS] Connecticut
+[ANS] Connecticut Compromise
+[ANS] Great Compromise
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Under the Great Compromise, a two-house (aka ________) Congress was established.
+[ANS] bicameral
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] What two things did the Constitution say about slavery?<br>(*Answer with both letters: i.e. AB*)<br>A: Slaves didn't contribute to population (for representation)<br>B: Slaves were fully counted to population<br>C: Slaves counted as 3/5ths of a person for population<br>D: Immediately ended the international slave trade<br>E: International slave trade couldn't be ended for at least 20 years<br>F: International slave trade could only be ended with a 2/3 supermajority in Congress
+[EXANS] CE
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] The Electoral College for electing the president is an example of this representative democracy in the Constitution.
+[ANS] Elite
+[ANS] Elite Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Article _ of the Constitution goes over the basic setup of Congress.
+[EXANS] I
+[EXANS] 1
+[ANS] One
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Article _ of the Constitution goes over the basic setup of the Presidency.
+[EXANS] II
+[EXANS] 2
+[ANS] Two
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Article _ of the Constitution goes over the judiciary branch & its interactions with the other branches.
+[EXANS] III
+[EXANS] 3
+[ANS] Three
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Article _ of the Constitution goes over interstate relations ("faith and credit" clause).
+[EXANS] IV
+[EXANS] 4
+[ANS] Four
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Article _ of the Constitution goes over the Amendment process.
+[EXANS] V
+[EXANS] 5
+[ANS] Five
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Article _ of the Constitution establishes national supremacy (the "supremacy clause").
+[EXANS] VI
+[EXANS] 6
+[ANS] Six
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Article _ of the Constitution outlines the ratification process of the Constitution itself.
+[EXANS] VII
+[EXANS] 7
+[ANS] Seven
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Under Article V, how much support is needed for a Constitutional amendment to pass?<br>A: 1/2 Congress, 1/2 States<br>B: 1/2 Congress, 2/3 States<br>C: 1/2 Congress, 3/4 States<br>D: 2/3 Congress, 1/2 States<br>E: 2/3 Congress, 2/3 States<br>F: 2/3 Congress, 3/4 States
+[EXANS] F
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] What was one argument that some Federalists (notably James Madison) used to push against a Bill of Rights?<br>A: Listing all protected rights might lead to others being overlooked & potentially taken away<br>B: They would add unnecessary legal red tape, weakening the judicial branch & making enforcement difficult<br>C: All rights were already addressed & protected in Article II, so a Bill of Rights would be redundant<br>D: It would hurt the ratification chances of the Constitution
+[EXANS] A
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendments 1-10 of the Constitution are commonly referred to as the ____ _ _____.
+[EXANS] Bill of Rights
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution protects the freedom of religion, speech, press, assembly, and petition.
+[EXANS] I
+[EXANS] 1
+[ANS] One
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution protects the right to bear arms.
+[EXANS] II
+[EXANS] 2
+[ANS] Two
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution restricts forced quartering of troops.
+[EXANS] III
+[EXANS] 3
+[ANS] Three
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution protects against unreasonable searches & seizures.
+[EXANS] IV
+[EXANS] 4
+[ANS] Four
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution states the rights of individuals in legal proceedings.
+[EXANS] V
+[EXANS] 5
+[ANS] Five
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution states the rights of individuals in criminal prosecutions.
+[EXANS] VI
+[EXANS] 6
+[ANS] Six
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution outlines rights regarding lawsuits & juries.
+[EXANS] VII
+[EXANS] 7
+[ANS] Seven
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution protects against cruel & unusual punishments.
+[EXANS] VIII
+[EXANS] 8
+[ANS] Eight
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution explicitly states that listing rights in the Constitution doesn't deny others.
+[EXANS] IX
+[EXANS] 9
+[ANS] Nine
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.5
+[QUESTION] Amendment _ of the Constitution covers delegated & reserved powers (concerning the federal & state govt.).
+[EXANS] X
+[EXANS] 10
+[ANS] Ten
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] Both houses of Congress have _________, groups of 10-40 members that oversee certain topics of law or policy.
+[ANS] Committees
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] Stakeholders exert influence on Congress via special _______ _____.
+[ANS] Interest Groups
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] (T/F) Citizens can help influence lawmaking and governmental decisions in all three branches of federal govt.
+[EXANS] T
+[EXANS] True
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] Citizens can file complaints through _______ to assure enforcement/fairness in law, and can even report some federal crimes to these.<br>(Hint: Examples of these are the ||Equal Employment Opportunity Commission, the FBI, and the Drug Enforcement Administration||)
+[ANS] Agencies
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] _________ ______ is used by the judicial branch as its main way to check the legislative & executive branches.<br>(Hint: ||Marbury v. Madison||)
+[ANS] Judicial Review
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] Which of the following is **NOT** a way for citizens to interact with the judicial branch?<br>A: Challenging unfair government action<br>B: Appealing wrongful convictions<br>C: Questioning the constitutionality of certain policies<br>D: Initiating impeachment trials for members in Congress
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] (T/F) A Senate Supermajority (2/3) is enough to override a House decision, allowing for a law to pass.
+[EXANS] F
+[EXANS] False
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] (T/F) Only the legislative branch can establish law & policy.
+[EXANS] F
+[EXANS] False
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] This branch of national govt. makes public will become public policy.
+[ANS] legislative
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] This branch of national govt. enforces & carries out Congress's policies.
+[ANS] executive
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] This branch of national govt. hears disputes & interprets laws
+[ANS] judicial
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] *Federalist No. __* argues for separation of powers as a guard against tyranny.
+[EXANS] 51
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] *Federalist No. 51* goes over which of the following Constitutional aspects?<br>A: Handling the "Mischief of Factions"<br>B: Separation of Powers<br>C: Drawbacks of a Bill of Rights<br>D: Federalism
+[EXANS] B
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] Each branch of national govt. can limit the others with _____ __ _________.
+[ANS] Checks and Balances
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] The President can reject laws from Congress with a ____.
+[ANS] Veto
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] When the President refuses to sign laws at the end of a legislative session, it is called a ______ ____.
+[ANS] Pocket Veto
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] How can Congress override vetos?<br>A: 1/2 Senate<br>B: 2/3 Senate<br>C: 1/2 House, 1/2 Senate<br>D: 2/3 House, 2/3 Senate
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] The Senate has the power of "______ __ ______", allowing it to question and approve/reject appointees nominated by the President.
+[ANS] Advice and Consent
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.6
+[QUESTION] Which part of national govt. has the power of impeachment?<br>A: President<br>B: House of Reps<br>C: Senate<br>D: Congress (Both Houses)<br>E: Supreme Court
+[EXANS] B
+[END]
+-------------------------------------------

@@ -1,0 +1,263 @@
+[PRESET] Chapter 1 (Founding Principles)
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] What message did Hobbes & *The Leviathan* send?<br>A: Everyone gives up rights so a leader can run for the good of society<br>B: No one can be subjected to political rule without consent<br>C: Power rests with the people, government officials carry out laws<br>D: The government has defined & limited powers (checks & balances, branches)
+[EXANS] A
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] Which Enlightenment author believed that everybody gave up rights so leaders could run society?<br>A: Hobbes (*The Leviathan*)<br>B: John Locke (Natural Law)<br>C: Rosseau (*The Social Contract*)<br>D: Montesquieu (*The Spirit of the Laws*)
+[EXANS] A
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] What message did John Locke and Natural Law send?<br>A: Everyone gives up rights so a leader can run for the good of society<br>B: No one can be subjected to political rule without consent<br>C: Power rests with the people, government officials carry out laws<br>D: The government has defined & limited powers (checks & balances, branches)
+[EXANS] B
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] Which Enlightenment author believed that nobody should be subjected to political rule without their consent?<br>A: Hobbes (*The Leviathan*)<br>B: John Locke (Natural Law)<br>C: Rosseau (*The Social Contract*)<br>D: Montesquieu (*The Spirit of the Laws*)
+[EXANS] B
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] What message did Rosseau & *The Social Contract* send?<br>A: Everyone gives up rights so a leader can run for the good of society<br>B: No one can be subjected to political rule without consent<br>C: Power rests with the people, government officials carry out laws<br>D: The government has defined & limited powers (checks & balances, branches)
+[EXANS] C
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] Which Enlightenment author believed that power rested with the people?<br>A: Hobbes (*The Leviathan*)<br>B: John Locke (Natural Law)<br>C: Rosseau (*The Social Contract*)<br>D: Montesquieu (*The Spirit of the Laws*)
+[EXANS] C
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] What message did Montesquieu and *The Spirit of the Laws* send?<br>A: Everyone gives up rights so a leader can run for the good of society<br>B: No one can be subjected to political rule without consent<br>C: Power rests with the people, government officials carry out laws<br>D: The government has defined & limited powers (checks & balances, branches)
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] Which Enlightenment author believed in checks & balances in branches across the government?<br>A: Hobbes (*The Leviathan*)<br>B: John Locke (Natural Law)<br>C: Rosseau (*The Social Contract*)<br>D: Montesquieu (*The Spirit of the Laws*)
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] This document was written to provide a moral & legal justification for the Revolution.
+[ANS] Declaration of Independence
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] This document was written to replace the ineffective Articles of Confederation.
+[ANS] Constitution
+[ANS] US Constitution
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.1
+[QUESTION] A _____ _____ is a collection of sovereign states gathered for national interests.
+[ANS] Representative Republic
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Emphasizes broad involvement of citizens in politics*
+[ANS] Participatory
+[ANS] Participatory Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Citizens vote directly on laws and matters instead of electing representatives*
+[ANS] Participatory
+[ANS] Participatory Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Unwieldy with large populations*
+[ANS] Participatory
+[ANS] Participatory Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*The US Constitution allows this at local & state levels*
+[ANS] Participatory
+[ANS] Participatory Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*People organize into interest groups to influence politics*
+[ANS] Pluralist
+[ANS] Pluralist Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Changing policy is slow due to competition among various interests*
+[ANS] Pluralist
+[ANS] Pluralist Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Allows many people, regardless of class, to voice interests*
+[ANS] Pluralist
+[ANS] Pluralist Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Elected representatives make decisions for the people who elect them*
+[ANS] Elite
+[ANS] Elite Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Prevents popular but unwise decisions from being rushed to policy*
+[ANS] Elite
+[ANS] Elite Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Found in the Senate & House of Representatives*
+[ANS] Elite
+[ANS] Elite Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*Reflected by a strong central government*
+[ANS] Elite
+[ANS] Elite Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*States are given the freedom to make local decisions*
+[ANS] Participatory
+[ANS] Participatory Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Name the representative democracy that best fits the following description:<br>*The lawmaking __process__ in Congress (by Reps & Senators)*
+[ANS] Pluralist
+[ANS] Pluralist Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] This political group supported the full ratification of the Constitution.
+[ANS] Federalists
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] The Federalists supported a (strong/weak) federal government.
+[ANS] strong
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] *Federalist No. __* argued about the effectiveness of representatives and the division of national & local issues.
+[EXANS] 10
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] *Federalist No. 10* argued that:<br>A: Seperate state govts. should be loosely tied together by a weak federal govt. to handle national issues.<br>B: All issues should be handled by the federal govt; state governments should only enforce national decisions.<br>C: Electors per state were ineffective; instead, state govts. should unanimously agree on national issues.<br>D: National issues should be left to the federal govt., and state issues to state govt.
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] This political group opposed the full ratification of the Constitution.
+[ANS] Anti-Federalists
+[ANS] Anti-Feds
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] *Brutus No. __* argued that the federal government should be weak & loosely tie together state govts.
+[EXANS] 1
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] *Brutus No. 1* argued that:<br>A: Seperate state govts. should be loosely tied together by a weak federal govt. to handle national issues.<br>B: All issues should be handled by the federal govt; state governments should only enforce national decisions.<br>C: Electors per state were ineffective; instead, state govts. should unanimously agree on national issues.<br>D: National issues should be left to the federal govt., and state issues to state govt.
+[EXANS] A
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Initiatives and referendums are both ways examples of this type of representative democracy today.
+[ANS] Participatory
+[ANS] Participatory Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.2
+[QUESTION] Pluralist Democracy is used today through the influence of _______ ______.<br>(Hint: Examples of these are the ||NAACP, NOW, and NRA||)
+[ANS] Interest Groups
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.3
+[QUESTION] Under the Articles of Confederation, the (state/federal) govt. was more powerful.
+[ANS] State
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.3
+[QUESTION] *Federalist No. __* addressed the "mischiefs of faction" handled by the Constitution.
+[EXANS] 10
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.3
+[QUESTION] *Federalist No. 10* addressed the danger of a few elite uniting into a ______ (interest group).
+[ANS] faction
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.3
+[QUESTION] What did *Federalist No. 10* say about the Constitution in regard to factions?<br>A: Factions are inevitable, and no form of government can stop them, so no need to do anything<br>B: Factions will inevitably rise and fight against each other, preventing laws benefiting the common good under a large central govt.<br>C: Factions would be stalled and frustrated under the Constitution, preventing them from overtaking multiple states.<br>D: Factions would never form, due to constituents being able to vote them out and disband them.
+[EXANS] C
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.3
+[QUESTION] Congress's power to take any "_________ ___ ______" actions was suspicious to Anti-Feds.
+[ANS] Necessary And Proper
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.3
+[QUESTION] *Brutus No. __* argued that the "necessary and proper" and supremacy clauses gave the federal govt. unlimited power.
+[EXANS] 1
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.3
+[QUESTION] What did *Brutus No. 1* say about "necessary and proper" and supremacy clauses?<br>A: They were unnecessary & ineffective<br>B: They gave the federal govt. too much power<br>C: They would slow down lawmaking, making Congress ineffective in emergencies<br>D: They were appropriate ways to allow Congress to pass critical legislation
+[EXANS] B
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.3
+[QUESTION] What did *Brutus No. 1* say about the Constitution in regard to factions?<br>A: Factions are inevitable, and no form of government can stop them, so no need to do anything<br>B: Factions will inevitably rise and fight against each other, preventing laws benefiting the common good under a large central govt.<br>C: Factions would be stalled and frustrated under the Constitution, preventing them from overtaking multiple states.<br>D: Factions would never form, due to constituents being able to vote them out and disband them.
+[EXANS] B
+[END]
+-------------------------------------------

@@ -1,0 +1,297 @@
+[PRESET] Chapter 3 (Federalism)
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] ___________ refers to the sharing of power between national & state governments.
+[ANS] Federalism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] Article _ of the Constitution defines the ________ _____, an important part of federalism.<br>(Hint: ||National Law > State Law||)
+[ANS] Supremacy Clause
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] When can states disregard federal policy?<br>A: When it violates pre-existing state policy<br>B: With a state government supermajority decision<br>C: When it violates the Constitution<br>D: Never, due to the supremacy clause
+[EXANS] C
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] "____ ____ _ ______" requires states to be transparent about their laws & proceedings.
+[ANS] Full Faith & Credit
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] "_______ _ __________" requires states to give the same rights to all citizens (regardless of home state).
+[ANS] Privileges & Immunities
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] "___________" requires states to return fugitives back to their home state.
+[ANS] Extradition
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] "Full Faith & Credit," "Privileges & Immunities," and "Extradition" all concern _____ govts.
+[ANS] State
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] Under Article 4 of the Constitution, which is not a state obligation?<br>A: Transparency regarding laws & proceedings<br>B: Following federal tax standard rates<br>C: Giving the same rights to all citizens, regardless of home state<br>D: Delivering fugitives back to their home state
+[EXANS] B
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] Amendment _ reserves powers to the states that aren't delegated to the national govt.
+[EXANS] X
+[EXANS] 10
+[ANS] Ten
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] What happens to powers not delegated to the national govt.?<br>A: Reserved to the States<br>B: Implied for the Federal Govt.<br>C: Shared by State & Federal Govt.<br>D: Disallowed for both Govts.
+[EXANS] A
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] ___________ _____ are delegated only to the federal govt.
+[ANS] Exclusive Powers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] States have ______ _____ - powers on health, safety, and morals.<br>(Hint: Examples include ||speed limits, seat belt policies, & the age of consent||)
+[ANS] Police Powers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] ___________ _____ are shared by both the federal & state govts.
+[ANS] Concurrent Powers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] With ___________ _____, Congress collects & distributes federal taxes to the states to "incentivize" the addressal of certain issues.
+[ANS] Federal Grants
+[ANS] Revenue Sharing
+[ANS] Fiscal Federalism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] Why are Categorical Grants used by the federal govt.?<br>A: To boost local state economies<br>B: To balance out federal & state tax rates<br>C: To avoid a large national deficit<br>D: To incentivize legislation on state-reserved topics
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] Grants with congressional guidelines/requirements are called ___________ _____.
+[ANS] Categorical Grants
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] Categorical Grants are often given with ______ attached (conditions of aid).
+[ANS] Strings
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] The Morill Land-Grant Act and the Civil Rights Act of 1964 are both examples where ______ were used to enact policy.<br>(Hint: ||In both cases, the topics were outside of national jurisdiction and reserved to the states||)
+[ANS] Grants
+[ANS] Categorical Grants
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] _____ ______ served as a replacement for Categorical Grants in the Nixon era, giving larger sums of money with less strings.
+[ANS] Block Grants
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] This Court Case affirmed Congress's ability to restrict grants to states for general public welfare with nonambiguous requirements.
+[ANS] South Dakota v. Dole
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] Compared to grants, ______ are passed by Congress to force states to comply with a certain policy.
+[ANS] Mandates
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.7
+[QUESTION] Under Reagan, _________ (the return of power to states) occured.
+[ANS] Devolution
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Article 1 Section _ covers the enumerated powers of Congress.
+[EXANS] 8
+[EXANS] VIII
+[ANS] Eight
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Article 1 Section 8 covers the _________ _____ of Congress.
+[ANS] Enumerated Powers
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] The _________ ______ allows Congress to regulate all interstate & international commerce.
+[ANS] Commerce Clause
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] This clause gives Congress implied powers that are necessary to execute its explicitly given powers.
+[ANS] Elastic
+[ANS] Elastic Clause
+[ANS] Necessary and Proper
+[ANS] "Necessary and Proper" Clause
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] The Elastic Clause gives Congress _______ powers that are necessary to execute its explicitly given powers.
+[ANS] Implied
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Article 1 Section _ covers the things that Congress CANNOT do.
+[EXANS] 9
+[EXANS] IX
+[ANS] Nine
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Article 1 Section _ covers the things that state govts. CANNOT do.
+[EXANS] 10
+[EXANS] X
+[ANS] Ten
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Amendment _ prevents states from denying citizens equal protection of the laws.
+[EXANS] XIV
+[EXANS] 14
+[ANS] Fourteen
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] This court case gave the federal govt. implied powers under the elastic clause.
+[ANS] McCulloch v. Maryland
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] *McCulloch v. Maryland* gave the federal govt. implied powers under the ________ ______.
+[ANS] Elastic Clause
+[ANS] "Necessary and Proper" Clause
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Under *McCulloch v. Maryland*, was Congress allowed to create a bank, and why?<br>A: Yes - it was an explicit power under Article I Section 8<br>B: Yes - the power was implied under the elastic clause<br>C: No - the power to create a bank was never explicitly mentioned in the Constitution<br>D: No - the power to create a bank was implied to be reserved to the states
+[EXANS] B
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Under *McCulloch v. Maryland*, were states allowed to tax federal institutions, and why?<br>A: Yes - federal institutions are still under state jurisdiction<br>B: Yes - states have the reserved power to tax any body or organization<br>C: No - states do not have the power to tax any bodies, let alone federal institutions<br>D: No - taxing would destroy said institutions, which were under federal jurisdiction
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Which of the following was NOT broadened under *McCulloch v. Maryland*?<br>A: Commerce Clause<br>B: Implied Powers<br>C: Supremacy Clause<br>D: Elastic Clause
+[EXANS] A
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Under *McCulloch v. Maryland*, were states allowed to tax federal institutions, and why?<br>A: Yes - federal institutions are still under state jurisdiction<br>B: Yes - states have the reserved power to tax any body or organization<br>C: No - states do not have the power to tax any bodies, let alone federal institutions<br>D: No - taxing would destroy said institutions, which were under federal jurisdiction
+[EXANS] D
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] This court case built upon *McCulloch v. Maryland* by extending the commerce clause.
+[ANS] Gibbons v. Ogden
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] *Gibbons v. Ogden* built upon *McCulloch v. Maryland* by extending the ________ ______.
+[ANS] Commerce Clause
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Under ____ ___________, both the federal & state govts. are equally supreme in their own spheres.
+[ANS] Dual Federalism
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] _________ ___________ only lets Congress regulate if a national uniform rule is required.
+[ANS] Selective Exclusiveness
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] This court case somewhat countered the precedent *Gibbons v. Ogden*.
+[ANS] US v. Lopez
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] *US v. Lopez* somewhat countered the precedent set by this court case.
+[ANS] Gibbons v. Ogden
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.8
+[QUESTION] Both *US v. Lopez* and *Gibbons v. Ogden* concerned the usage of this clause, although in opposite ways.
+[ANS] Commerce
+[ANS] Commerce Clause
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.9
+[QUESTION] Despite Trump withdrawing from the Paris Agreement (an international environmental agreement), many states decided to follow the guidelines anyways. This is an example of:
+[ANS] Checks and Balances
+[ANS] Tenth Amendment
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.9
+[QUESTION] Some states start to legalize medical marijuana by using ballot initiatives. This is an example of:<br>(Hint: ||A type of representative democracy||)
+[ANS] Participatory
+[ANS] Participatory Democracy
+[END]
+-------------------------------------------
+[QUESTION-TYPE] SAQ
+[TOPIC] NSL 1.9
+[QUESTION] If marijuana is illegal nationally but legal in a state, which law wins and why?<br>A: State - Marijuana is a topic reserved to the states<br>B: State - State law trumps federal law in a conflict<br>C: Federal - Marijuana is a topic reserved to the national govt.<br>D: Federal - Federal law trumps state law in a conflict
+[EXANS] D
+[END]
+-------------------------------------------
