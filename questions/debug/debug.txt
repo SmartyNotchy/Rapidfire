@@ -1,0 +1,9 @@
+[PRESET] Debug Question Sets
+[QUESTION-TYPE] MCQ
+[TOPIC] NSL 1.1
+[QUESTION] What is 1 + 1?
+[CA] 2
+[WA] 3
+[WA] 4
+[WA] 5
+[END]

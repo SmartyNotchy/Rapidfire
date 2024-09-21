@@ -325,6 +325,100 @@ button {
     margin-top: 30px;
 }
 
+.scq_feedback {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+
+    height: 25px;
+
+    margin-top: 10px;
+}
+
+.scq_feedback_svg {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.scq_feedback.correct {
+    color: #33cc33;
+}
+
+.scq_feedback.incorrect {
+    color: #c10000;
+}
+
+.scq_submit_btn {
+    width: 45px;
+    height: 45px;
+
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
+    border: none;
+    border-radius: 10px;
+
+    background-color: #3366ff;
+
+    transition: background-color 0.2s;
+}
+
+.scq_submit_btn_svg {
+    width: 25px;
+    height: 25px;
+    color: white;
+
+    transition: background-color 0.2s;
+}
+
+.scq_submit_btn:disabled {
+    cursor: not-allowed; 
+    color:rgba(255, 255, 255, 0.5);
+    background-color: rgba(50, 57, 70, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+.scq_submit_btn:disabled .scq_submit_btn_svg {
+    color: rgba(255, 255, 255, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+.scq_submit_btn:focus {
+    background-color: #4c80ff;
+    outline: none;
+
+    transition: background-color 0.2s;
+}
+
+.scq_submit_btn:hover {
+    background-color: #4c80ff;
+    outline: none;
+
+    transition: background-color 0.2s;
+}
+
+.scq_submit_btn:disabled:focus {
+    background-color: rgba(50, 57, 70, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+.scq_submit_btn:disabled:hover {
+    background-color: rgba(50, 57, 70, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+/* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */
+/* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */
+/* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */
+/* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */
+/* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */
+
 #scq_sa_div {
     width: 100%;
     height: 90px;
@@ -337,7 +431,8 @@ button {
     height: 45px;
     box-sizing: border-box;
 
-    border: 1px solid gray;
+    outline: 1px solid gray;
+    border: none;
     border-radius: 10px;
 
     background-color: #1f2937;
@@ -357,16 +452,15 @@ button {
     top: 0px;
     left: 0px;
 
-    transition: border 0.2s;
+    transition: outline 0.2s;
 }
 
 #scq_sa_input:focus {
-    border: 1px solid white;
-    outline: none;
+    outline: 1px solid white;
     box-shadow: none;
 
     padding-left: 10px;
-    transition: border 0.2s;
+    transition: outline 0.2s;
 }
 
 #scq_sa_input:disabled {
@@ -376,83 +470,30 @@ button {
 }
 
 #scq_sa_input.correct {
-    border: 2px solid #33cc33;
-    transition: border 0.2s;
+    outline: 2px solid #33cc33;
+    transition: outline 0.2s;
 }
 
 #scq_sa_input.skipped {
-    border: 2px solid #3366ff;
-    transition: border 0.2s;
+    outline: 2px solid #3366ff;
+    transition: outline 0.2s;
 }
 
 #scq_sa_input.incorrect {
-    border: 2px solid #c10000;
-    transition: border 0.2s;
+    outline: 2px solid #c10000;
+    transition: outline 0.2s;
 }
 
-#scq_sa_btn {
-    width: 45px;
-    height: 45px;
-
+#scq_sa_feedback {
     position: absolute;
-    top: 0px;
-    right: 0px;
-
-    border: none;
-    border-radius: 10px;
-
-    background-color: #3366ff;
-
-    transition: background-color 0.2s;
+    top: 45px;
 }
 
-#scq_sa_btn_svg {
-    width: 25px;
-    height: 25px;
-    color: white;
-
-    transition: background-color 0.2s;
-}
-
-#scq_sa_btn:disabled {
-    cursor: not-allowed; 
-    background-color: rgba(50, 57, 70, 0.5);
-
-    transition: background-color 0.2s;
-}
-
-#scq_sa_btn:disabled #scq_sa_btn_svg {
-    color: rgba(255, 255, 255, 0.5);
-
-    transition: background-color 0.2s;
-}
-
-#scq_sa_btn:focus {
-    background-color: #4c80ff;
-    outline: none;
-
-    transition: background-color 0.2s;
-}
-
-#scq_sa_btn:hover {
-    background-color: #4c80ff;
-    outline: none;
-
-    transition: background-color 0.2s;
-}
-
-#scq_sa_btn:disabled:focus {
-    background-color: rgba(50, 57, 70, 0.5);
-
-    transition: background-color 0.2s;
-}
-
-#scq_sa_btn:disabled:hover {
-    background-color: rgba(50, 57, 70, 0.5);
-
-    transition: background-color 0.2s;
-}
-
+/* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */
+/* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */
+/* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */
+/* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */
+/* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */ /* MULTIPLE-CHOICE */
 
 #scq_mcq_div {
     width: 100%;
@@ -460,12 +501,17 @@ button {
     position: relative;
 }
 
+#scq_mcq_options {
+    margin-bottom: 10px;
+}
+
 .scq_mcq {
     width: 100%;
 
     box-sizing: border-box;
 
-    border: 1px solid gray;
+    outline: 1px solid gray;
+    border: none;
     border-radius: 10px;
 
     background-color: #1f2937;
@@ -481,17 +527,17 @@ button {
 
     margin-bottom: 10px;
 
-    transition: border 0.2s, background-color 0.2s;
+    transition: outline 0.2s, background-color 0.2s;
 }
 
 .scq_mcq:hover {
     background-color: #373e4b;
-    transition: border 0.2s, background-color 0.2s;
+    transition: outline 0.2s, background-color 0.2s;
 }
 
 .scq_mcq:active {
-    border: 1px solid white;
-    transition: border 0.2s, background-color 0.2s;
+    outline: 1px solid white;
+    transition: outline 0.2s, background-color 0.2s;
 }
 
 .scq_mcq:last-child {
@@ -502,10 +548,12 @@ button {
     width: 40px;
     height: 40px;
 
-    border: 1px solid gray;
+    outline: 1px solid gray;
+    border: none;
     border-radius: 100px;
 
     font-size: 20px;
+    font-weight: bold;
 
     text-align: center;
     margin-left: 5px;
@@ -517,6 +565,8 @@ button {
     justify-content: center;
     align-items: center;
     flex: 0 0 auto;
+
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
 }
 
 .scq_mcq_text {
@@ -524,6 +574,56 @@ button {
     color: white;
 
     margin-right: 5px;
+
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq:disabled {
+    outline: 1px solid #1f2937;
+    background-color: rgba(33, 40, 54, 0.5);
+    cursor: not-allowed;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq:disabled .scq_mcq_text {
+    color: #8e9299;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq:disabled .scq_mcq_label {
+    color: #8e9299;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq.blue .scq_mcq_label {
+    color: white !important;
+    outline: 1px solid #3366ff;
+    background-color: #3366ff;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq.red .scq_mcq_label {
+    color: white !important;
+    outline: 1px solid #ff5050;
+    background-color: #ff5050;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq.green .scq_mcq_label {
+    color: white !important;
+    outline: 1px solid #33cc33;
+    background-color: #33cc33;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq.green .scq_mcq_text {
+    color: white !important;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq.green:disabled {
+    outline: 1px solid white;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
 }
 
 #scq_mcq_bottom_div {
@@ -562,35 +662,46 @@ button {
     right: 10px;
 }
 
-.scq_feedback {
-    display: flex;
-    align-items: center;
-    font-size: 16px;
+#scq_mcq_btn:disabled {
+    cursor: not-allowed; 
+    color:rgba(255, 255, 255, 0.5);
+    background-color: rgba(50, 57, 70, 0.5);
 
-    height: 25px;
-
-    margin-top: 10px;
+    transition: background-color 0.2s;
 }
 
-#scq_sa_feedback {
-    position: absolute;
-    top: 45px;
+#scq_mcq_btn:disabled #scq_mcq_btn_svg {
+    color: rgba(255, 255, 255, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+#scq_mcq_btn:focus {
+    background-color: #4c80ff;
+    outline: none;
+
+    transition: background-color 0.2s;
+}
+
+#scq_mcq_btn:hover {
+    background-color: #4c80ff;
+    outline: none;
+
+    transition: background-color 0.2s;
+}
+
+#scq_mcq_btn:disabled:focus {
+    background-color: rgba(50, 57, 70, 0.5);
+
+    transition: background-color 0.2s;
+}
+
+#scq_mcq_btn:disabled:hover {
+    background-color: rgba(50, 57, 70, 0.5);
+
+    transition: background-color 0.2s;
 }
 
 #scq_mcq_feedback {
     margin-left: 20px;
-}
-
-.scq_feedback_svg {
-    width: 25px;
-    height: 25px;
-    margin-right: 5px;
-}
-
-.scq_feedback.correct {
-    color: #33cc33;
-}
-
-.scq_feedback.incorrect {
-    color: #c10000;
 }

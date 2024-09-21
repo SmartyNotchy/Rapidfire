@@ -12,5 +12,10 @@ const DIRECTORY = {
         "files": [
             "u1ch1", "u1ch2", "u1ch3"
         ]
-    }
+    },
+    /*"DEBUG": {
+        "plaintext": "Debug Question Sets",
+        "path": "../questions/debug/",
+        "files": ["debug"]
+    }*/
 }
