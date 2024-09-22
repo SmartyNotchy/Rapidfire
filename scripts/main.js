@@ -104,6 +104,7 @@ const SCQ_QNUM = document.getElementById("scq_qnum");
 const SCQ_QTYPE = document.getElementById("scq_qtype");
 const SCQ_QDESC = document.getElementById("scq_qdesc");
 
+const SCQ_SKIP_BTN = document.getElementById("scq_skip_btn");
 
 function reset_saq_div() {
     // Clear SAQ Input Div
@@ -168,6 +169,7 @@ class MCQOption {
         this.button.appendChild(this.answerText);
 
         this.idx = idx;
+        this.letter = letter;
         this.button.onclick = function() { process_input(["OPTION_SELECT", idx]) };
     }
 
@@ -235,11 +237,26 @@ class SAQQuestion {
     }
 
     process_input(event, session) {
-        if (event[0] == "SUBMIT") {
-            if (this.processingSubmit) {
-                return;
-            }
-            
+        if (this.processingSubmit) { return; }
+
+        if (event[0] == "SKIP") {
+            this.processingSubmit = true;
+            SCQ_SKIP_BTN.setAttribute("disabled", "");
+            SAQ_INPUT_BOX.setAttribute("disabled", "");
+            SAQ_INPUT_BTN.setAttribute("disabled", "");
+
+            SAQ_INPUT_BOX.classList.add("skipped");
+            SAQ_INPUT_BTN.onclick = function() { process_input(["NEXT", ""]) }
+            SAQ_INPUT_BTN_SVG.setAttribute("href", "#svg_next");
+            SAQ_INPUT_BTN.removeAttribute("disabled", "");
+            SAQ_INPUT_BTN.focus();
+
+            // TODO: FEEDBACK DIV
+            SAQ_FEEDBACK_SVG.setAttribute("href", "#svg_mincirc");
+            SAQ_FEEDBACK_DIV.className = "scq_feedback skipped";
+            SAQ_FEEDBACK_TEXT.innerText = `Skipped! Accepted Answers: ${this.correctAnswers.join(", ")}`;
+            SAQ_FEEDBACK_DIV.style.display = "flex";
+        } if (event[0] == "SUBMIT") {
             let ans = trim_lower(event[1]);
             if (ans != "") {
                 this.processingSubmit = true;
@@ -255,6 +272,7 @@ class SAQQuestion {
                 }
 
                 if (isCorrect) {
+                    SCQ_SKIP_BTN.setAttribute("disabled", "");
                     SAQ_INPUT_BOX.setAttribute("disabled", "");
                     SAQ_INPUT_BOX.classList.add("correct");
 
@@ -279,7 +297,7 @@ class SAQQuestion {
                     SAQ_FEEDBACK_TEXT.innerText = "Incorrect";
                     SAQ_FEEDBACK_DIV.style.display = "flex";
                 }
-            }            
+            }      
         } else if (event[0] == "TYPED_KEY") {
             if (trim_lower(SAQ_INPUT_BOX.value) == "") {
                 SAQ_INPUT_BTN.setAttribute("disabled", "");
@@ -338,11 +356,33 @@ class MCQQuestion {
     }
 
     process_input(event, session) {
-        if (event[0] == "SUBMIT") {
-            if (this.processingSubmit) { return; }
-            
+        if (this.processingSubmit) { return; }
+
+        if (event[0] == "SKIP") {
+            this.processingSubmit = true;
+            SCQ_SKIP_BTN.setAttribute("disabled", "");
+            MCQ_INPUT_BTN.setAttribute("disabled", "");
+
+            for (let idx in this.buttons) {
+                this.buttons[idx].render(true, idx == this.correctIdx ? "greendashed" : "")
+                remove_letter_keybind("abcdefghijklmnopqrstuvwxyz"[idx]);
+            }
+
+            MCQ_INPUT_BTN.onclick = function() { process_input(["NEXT", ""]) }
+            MCQ_INPUT_BTN_SVG.setAttribute("href", "#svg_next");
+            MCQ_INPUT_BTN_TEXT.innerText = "Next";
+            MCQ_INPUT_BTN.removeAttribute("disabled", "");
+            MCQ_INPUT_BTN.focus();
+
+            // TODO: FEEDBACK DIV
+            MCQ_FEEDBACK_SVG.setAttribute("href", "#svg_mincirc");
+            MCQ_FEEDBACK_DIV.className = "scq_feedback skipped";
+            MCQ_FEEDBACK_TEXT.innerText = `Skipped! Correct Answer: ${this.buttons[this.correctIdx].letter}`;
+            MCQ_FEEDBACK_DIV.style.display = "flex";
+        } else if (event[0] == "SUBMIT") {
             if (this.selected != undefined) {
                 this.processingSubmit = true;
+                SCQ_SKIP_BTN.setAttribute("disabled", "");
                 MCQ_INPUT_BTN.setAttribute("disabled", "");
                 let isCorrect = (this.selected == this.correctIdx);
 
@@ -423,7 +463,9 @@ class TriviaSession {
 
     render() {
         SCQ_QNUM.innerText = `Question #${this.questionNum+1}/${this.questionCount}`;
-        
+        SCQ_SKIP_BTN.onclick = function() { process_input(["SKIP", ""]) };
+        SCQ_SKIP_BTN.removeAttribute("disabled");
+
         this.currentQuestion.render(this.settings);
     }
 

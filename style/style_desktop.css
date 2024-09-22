@@ -299,6 +299,8 @@ button {
 
     text-align: left;
     padding: 40px;
+
+    position: relative;
 }
 
 #scq_qnum {
@@ -345,6 +347,10 @@ button {
     color: #33cc33;
 }
 
+.scq_feedback.skipped {
+    color: #4c80ff;
+}
+
 .scq_feedback.incorrect {
     color: #c10000;
 }
@@ -384,7 +390,7 @@ button {
 .scq_submit_btn:disabled .scq_submit_btn_svg {
     color: rgba(255, 255, 255, 0.5);
 
-    transition: background-color 0.2s;
+    transition: color 0.2s, background-color 0.2s;
 }
 
 .scq_submit_btn:focus {
@@ -411,6 +417,49 @@ button {
     background-color: rgba(50, 57, 70, 0.5);
 
     transition: background-color 0.2s;
+}
+
+#scq_skip_btn {
+    width: 50px;
+    height: 50px;
+
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+    border: none;
+    border-radius: 10px;
+
+    background-color: #111827;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#scq_skip_btn:hover {
+    background-color: #373e4b;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#scq_skip_btn:disabled {
+    background-color: #242B39;
+    cursor: not-allowed;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#scq_skip_btn_svg {
+    width: 35px;
+    height: 35px;
+    color: white;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#scq_skip_btn:disabled #scq_skip_btn_svg {
+    color: rgba(255, 255, 255, 0.5);
+
+    transition: color 0.2s, background-color 0.2s;
 }
 
 /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */ /* SHORT-ANSWER */
@@ -626,6 +675,18 @@ button {
     transition: outline 0.2s, background-color 0.2s, color 0.2s;
 }
 
+.scq_mcq.greendashed .scq_mcq_label {
+    color: white !important;
+    outline: 1px dashed #33cc33;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+.scq_mcq.greendashed .scq_mcq_text {
+    color: white !important;
+    transition: outline 0.2s, background-color 0.2s, color 0.2s;
+}
+
+
 #scq_mcq_bottom_div {
     width: 100%;
 
@@ -704,4 +765,10 @@ button {
 
 #scq_mcq_feedback {
     margin-left: 20px;
+    margin-top: 0px;
+    height: 45px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
