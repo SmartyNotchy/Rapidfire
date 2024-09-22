@@ -141,6 +141,7 @@ function reset_mcq_div() {
     MCQ_INPUT_BTN.setAttribute("disabled", "");
     MCQ_INPUT_BTN.className = "scq_submit_btn";
     MCQ_INPUT_BTN_SVG.setAttribute("href", "#svg_submit");
+    MCQ_INPUT_BTN_TEXT.innerText = "Submit";
     MCQ_INPUT_BTN.onclick = function() { process_input(["SUBMIT", undefined]) };
 }
 
@@ -189,7 +190,20 @@ class MCQOption {
     }
 }
 
+/* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
+/* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
+/* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
 
+KEYS_LISTENING = {}
+function add_letter_keybind(letter) { KEYS_LISTENING[letter] = true; }
+function remove_letter_keybind(letter) { KEYS_LISTENING[letter] = false; }
+
+function handle_keypress(event) {
+    const key = event.key.toLowerCase();
+    if (KEYS_LISTENING[key]) {
+        process_input(["OPTION_SELECT", "abcdefghijklmnopqrstuvwxyz".indexOf(key)]);
+    }
+}
 
 /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */
 /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */
@@ -307,6 +321,7 @@ class MCQQuestion {
             this.buttons.push(new MCQOption(i, alphabet[i], options[i], i == this.correctIdx));
             this.buttons[i].render(false, "");
             this.buttons[i].add_to_div();
+            add_letter_keybind(alphabet[i].toLowerCase()); // TODO SETTINGS
         }
 
         hide_saq_div();
@@ -317,7 +332,9 @@ class MCQQuestion {
     }
 
     rerender(settings) {
+        let letterListener = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[this.correctIdx];
 
+        document.addEventListener('keydown', handleKeyPress);
     }
 
     process_input(event, session) {
@@ -332,6 +349,7 @@ class MCQQuestion {
                 if (isCorrect) {
                     for (let idx in this.buttons) {
                         this.buttons[idx].render(true, idx == this.correctIdx ? "green" : "")
+                        remove_letter_keybind("abcdefghijklmnopqrstuvwxyz"[idx]);
                     }
                     MCQ_INPUT_BTN.onclick = function() { process_input(["NEXT", ""]) }
                     MCQ_INPUT_BTN_SVG.setAttribute("href", "#svg_next");
@@ -343,9 +361,10 @@ class MCQQuestion {
                     MCQ_FEEDBACK_SVG.setAttribute("href", "#svg_check");
                     MCQ_FEEDBACK_DIV.className = "scq_feedback correct";
                     MCQ_FEEDBACK_TEXT.innerText = `Correct!`;
-                    MCQ_FEEDBACK_DIV.style.display = "flex";                    
+                    MCQ_FEEDBACK_DIV.style.display = "flex";            
                 } else {
                     this.buttons[this.selected].render(false, "red");
+                    this.buttons[this.selected].button.focus();
                     MCQ_INPUT_BTN.removeAttribute("disabled");
                     this.processingSubmit = false;
 
@@ -374,6 +393,7 @@ class MCQQuestion {
 
                 this.selected = newSelected;
                 MCQ_INPUT_BTN.removeAttribute("disabled");
+                MCQ_INPUT_BTN.focus();
             }
         }
     }
@@ -718,8 +738,11 @@ window.onload = async function() {
 
     reset_sd();
     hide_sd();
+
     // Set Main Menu Onclicks
     MMNS_MENU_BTN.onclick = show_mmns;
 
+    // Set Event Listeners
+    document.addEventListener("keydown", handle_keypress);
     show_sd();
 }
