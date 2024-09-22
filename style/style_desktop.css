@@ -772,3 +772,74 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+/* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */
+/* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */
+/* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */
+/* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */
+/* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */ /* SESSION END */
+
+#session_content_end_div {
+    width: 600px;
+    height: 250px;
+
+    background-color: #111827;
+
+    border: gray 1px solid;
+    border-radius: 20px;
+
+    text-align: left;
+    padding: 20px;
+
+    position: relative;
+
+    /* display: block; */
+    display: none;
+}
+
+#sce_title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+#sce_placeholder {
+    font-style: italic;
+}
+
+#sce_backtomm_btn {
+    width: calc(100% - 40px);
+    height: 40px;
+
+    outline: 1px solid #3366ff;
+    border: none;
+    border-radius: 10px;
+    background-color: #3366ff;
+
+    color: white;
+    font-size: 20px;
+
+    position: absolute;
+    bottom: 25px;
+
+    transition: outline 0.2s, background-color 0.2s;
+}
+
+#sce_backtomm_btn:hover {
+    outline: 1px solid #4c80ff;
+    background-color: #4c80ff;
+    transition: outline 0.2s, background-color 0.2s;
+}
+
+#sce_backtomm_btn:active {
+    outline: 1px solid white;
+    transition: outline 0.2s, background-color 0.2s;
+}
+
+#sce_backtomm_btn:disabled {
+    background-color: #242B39;
+    color: rgba(255, 255, 255, 0.5);
+    cursor: not-allowed;
+
+    transition: color 0.2s, background-color 0.2s;
+}

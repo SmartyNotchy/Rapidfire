@@ -2,7 +2,7 @@
 /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */
 /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */
 
-// Seeded Shuffler written by ChatGPT
+// Written by ChatGPT
 
 // Seeded pseudo-random number generator using xorshift
 function seeded_random(seed) {
@@ -38,7 +38,7 @@ function shuffle_seedless(array) {
     return array;
 }
 
-// Levenshtein Distance Algorithm written by ChatGPT
+// Levenshtein Distance Algorithm
 function compare_strings(str1, str2) {
     const len1 = str1.length;
     const len2 = str2.length;
@@ -74,14 +74,23 @@ function compare_strings(str1, str2) {
     return 1 - distance / maxLength;
 }
 
-// What it sounds like
-function trim_lower(str) {
-    return str.trim().toLowerCase();
+// Sets options for a dropdown HTML element
+function set_dropdown(dropdown, options) {
+    dropdown.innerHTML = '';
+
+    options.forEach(option => {
+        let newOption = document.createElement('option');
+        newOption.value = option[0];
+        newOption.text = option[1];
+        dropdown.appendChild(newOption);
+    });
 }
 
-/* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */
-/* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */
-/* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */ /* HTML HELPER FUNCTIONS */
+/* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */
+/* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */
+/* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */
+/* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */
+/* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */
 
 const SAQ_DIV = document.getElementById("scq_sa_div");
 const SAQ_INPUT_BOX = document.getElementById("scq_sa_input");
@@ -90,21 +99,6 @@ const SAQ_INPUT_BTN_SVG = document.getElementById("scq_sa_btn_svg_src");
 const SAQ_FEEDBACK_DIV = document.getElementById("scq_sa_feedback");
 const SAQ_FEEDBACK_SVG = document.getElementById("scq_sa_feedback_svg");
 const SAQ_FEEDBACK_TEXT = document.getElementById("scq_sa_feedback_text");
-
-const MCQ_DIV = document.getElementById("scq_mcq_div");
-const MCQ_OPTIONS_DIV = document.getElementById("scq_mcq_options");
-const MCQ_INPUT_BTN = document.getElementById("scq_mcq_btn");
-const MCQ_INPUT_BTN_TEXT = document.getElementById("scq_mcq_btn_text");
-const MCQ_INPUT_BTN_SVG = document.getElementById("scq_mcq_btn_svg_src");
-const MCQ_FEEDBACK_DIV = document.getElementById("scq_mcq_feedback");
-const MCQ_FEEDBACK_SVG = document.getElementById("scq_mcq_feedback_svg");
-const MCQ_FEEDBACK_TEXT = document.getElementById("scq_mcq_feedback_text");
-
-const SCQ_QNUM = document.getElementById("scq_qnum");
-const SCQ_QTYPE = document.getElementById("scq_qtype");
-const SCQ_QDESC = document.getElementById("scq_qdesc");
-
-const SCQ_SKIP_BTN = document.getElementById("scq_skip_btn");
 
 function reset_saq_div() {
     // Clear SAQ Input Div
@@ -134,6 +128,15 @@ function reset_saq_div() {
 function hide_saq_div() { SAQ_DIV.style.display = "none"; }
 function show_saq_div() { SAQ_DIV.style.display = "block"; }
 
+const MCQ_DIV = document.getElementById("scq_mcq_div");
+const MCQ_OPTIONS_DIV = document.getElementById("scq_mcq_options");
+const MCQ_INPUT_BTN = document.getElementById("scq_mcq_btn");
+const MCQ_INPUT_BTN_TEXT = document.getElementById("scq_mcq_btn_text");
+const MCQ_INPUT_BTN_SVG = document.getElementById("scq_mcq_btn_svg_src");
+const MCQ_FEEDBACK_DIV = document.getElementById("scq_mcq_feedback");
+const MCQ_FEEDBACK_SVG = document.getElementById("scq_mcq_feedback_svg");
+const MCQ_FEEDBACK_TEXT = document.getElementById("scq_mcq_feedback_text");
+
 function reset_mcq_div() {
     MCQ_OPTIONS_DIV.innerText = "";
     MCQ_OPTIONS_DIV.style.display = "block";
@@ -149,48 +152,44 @@ function reset_mcq_div() {
 function hide_mcq_div() { MCQ_DIV.style.display = "none"; }
 function show_mcq_div() { MCQ_DIV.style.display = "block"; }
 
-class MCQOption {
-    constructor(idx, letter, desc, isCorrect) {
-        // Create Button
-        this.button = document.createElement('button');
-        this.button.classList.add('scq_mcq');
+const SCQ_QNUM = document.getElementById("scq_qnum");
+const SCQ_QTYPE = document.getElementById("scq_qtype");
+const SCQ_QDESC = document.getElementById("scq_qdesc");
+const SCQ_SKIP_BTN = document.getElementById("scq_skip_btn");
+const SCQ_DIV = document.getElementById("session_content_question_div");
 
-        // Button's "Letter" Label
-        this.buttonLetter = document.createElement('div');
-        this.buttonLetter.classList.add('scq_mcq_label');
-        this.buttonLetter.textContent = letter;
-
-        // Option Answer Text
-        this.answerText = document.createElement('p');
-        this.answerText.classList.add('scq_mcq_text');
-        this.answerText.textContent = desc;
-
-        this.button.appendChild(this.buttonLetter);
-        this.button.appendChild(this.answerText);
-
-        this.idx = idx;
-        this.letter = letter;
-        this.button.onclick = function() { process_input(["OPTION_SELECT", idx]) };
-    }
-
-    add_to_div() {
-        // Adds the button to MCQ_DIV.
-        // Probably call .render() before this.
-        MCQ_OPTIONS_DIV.appendChild(this.button);
-    }
-
-    render(disabled, button_class) {
-        // Style the button (by modifying classlist & disabled attribute.)
-        // Depends on the state vars (see constructor).
-        if (disabled) {
-            this.button.setAttribute("disabled", "");
-        } else {
-            this.button.removeAttribute("disabled");
-        }
-
-        this.button.className = "scq_mcq " + button_class;
-    }
+function reset_scq_div() {
+    reset_saq_div();
+    reset_mcq_div();
 }
+
+function hide_scq_div() { SCQ_DIV.style.display = "none"; }
+function show_scq_div() { SCQ_DIV.style.display = "block"; }
+function hide_scq_div_except(toShow) {
+    if (toShow == "saq") { show_saq_div(); } else { hide_saq_div(); }
+    if (toShow == "mcq") { show_mcq_div(); } else { hide_mcq_div(); }
+}
+
+const SCE_DIV = document.getElementById("session_content_end_div");
+const SCE_BACK_BTN = document.getElementById("sce_backtomm_btn");
+
+function reset_sce_div() {
+    SCE_BACK_BTN.removeAttribute("disabled");
+    SCE_BACK_BTN.onclick = function() { CURRENT_SESSION.close_session() }
+}
+
+function hide_sce_div() { SCE_DIV.style.display = "none"; }
+function show_sce_div() { SCE_DIV.style.display = "block"; }
+
+const SESSION_DIV = document.getElementById("session_div");
+
+function reset_session_div() {
+    reset_scq_div();
+    reset_sce_div();
+}
+
+function hide_session_div() { SESSION_DIV.style.display = "none"; }
+function show_session_div() { SESSION_DIV.style.display = "flex"; }
 
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
@@ -224,8 +223,7 @@ class SAQQuestion {
         this.processingSubmit = false;
 
         reset_saq_div();
-        hide_mcq_div();
-        show_saq_div();
+        hide_scq_div_except("saq");
 
         SCQ_QTYPE.innerText = `Short Answer | ${this.topic}`;
         SCQ_QDESC.innerHTML = this.q;
@@ -309,6 +307,49 @@ class SAQQuestion {
     }
 }
 
+class MCQOption {
+    constructor(idx, letter, desc, isCorrect) {
+        // Create Button
+        this.button = document.createElement('button');
+        this.button.classList.add('scq_mcq');
+
+        // Button's "Letter" Label
+        this.buttonLetter = document.createElement('div');
+        this.buttonLetter.classList.add('scq_mcq_label');
+        this.buttonLetter.textContent = letter;
+
+        // Option Answer Text
+        this.answerText = document.createElement('p');
+        this.answerText.classList.add('scq_mcq_text');
+        this.answerText.textContent = desc;
+
+        this.button.appendChild(this.buttonLetter);
+        this.button.appendChild(this.answerText);
+
+        this.idx = idx;
+        this.letter = letter;
+        this.button.onclick = function() { process_input(["OPTION_SELECT", idx]) };
+    }
+
+    add_to_div() {
+        // Adds the button to MCQ_DIV.
+        // Probably call .render() before this.
+        MCQ_OPTIONS_DIV.appendChild(this.button);
+    }
+
+    render(disabled, button_class) {
+        // Style the button (by modifying classlist & disabled attribute.)
+        // Depends on the state vars (see constructor).
+        if (disabled) {
+            this.button.setAttribute("disabled", "");
+        } else {
+            this.button.removeAttribute("disabled");
+        }
+
+        this.button.className = "scq_mcq " + button_class;
+    }
+}
+
 class MCQQuestion {
     constructor(q, topic, correct, wrongAnswers) {
         this.q = q;
@@ -342,8 +383,7 @@ class MCQQuestion {
             add_letter_keybind(alphabet[i].toLowerCase()); // TODO SETTINGS
         }
 
-        hide_saq_div();
-        show_mcq_div();
+        hide_scq_div_except("mcq");
 
         SCQ_QTYPE.innerText = `Multiple Choice | ${this.topic}`;
         SCQ_QDESC.innerHTML = this.q;
@@ -461,12 +501,34 @@ class TriviaSession {
         this.currentQuestion = this.questions[this.questionOrder[this.questionNum]];
     }
 
-    render() {
-        SCQ_QNUM.innerText = `Question #${this.questionNum+1}/${this.questionCount}`;
-        SCQ_SKIP_BTN.onclick = function() { process_input(["SKIP", ""]) };
-        SCQ_SKIP_BTN.removeAttribute("disabled");
+    firstrender() {
+        reset_session_div();
+        hide_sce_div();
+        show_scq_div();
+        show_session_div();
+        this.render();
+    }
 
-        this.currentQuestion.render(this.settings);
+    render() {
+        if (this.questionNum >= this.questionCount) {
+            hide_scq_div();
+            show_sce_div();
+        } else {
+            SCQ_QNUM.innerText = `Question #${this.questionNum+1}/${this.questionCount}`;
+            SCQ_SKIP_BTN.onclick = function() { process_input(["SKIP", ""]) };
+            SCQ_SKIP_BTN.removeAttribute("disabled");
+
+            this.currentQuestion.render(this.settings);
+        }
+    }
+
+    close_session() {
+        // TODO: SAVING LOGIC
+
+        SCE_BACK_BTN.setAttribute("disabled", "");
+        hide_sce_div();
+        reset_mm_div();
+        show_mm_div();
     }
 
     save_progress() {
@@ -477,9 +539,13 @@ class TriviaSession {
         if (event[0] == "NEXT") {
             this.questionNum += 1;
             this.save_progress();
-            this.currentQuestion = this.questions[this.questionOrder[this.questionNum]];
-            this.render();
 
+            if (this.questionNum >= this.questionCount) {
+                this.currentQuestion = undefined;
+            } else {
+                this.currentQuestion = this.questions[this.questionOrder[this.questionNum]];
+            }
+            this.render();
             // TODO: SESSION END
         } else {
             this.currentQuestion.process_input(event, CURRENT_SESSION);
@@ -489,302 +555,4 @@ class TriviaSession {
 
 function process_input(event) {
     CURRENT_SESSION.process_input(event);
-}
-
-/* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */
-/* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */
-/* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */ /* SESSION DIV LOADING */
-
-SESSION_DIV = document.getElementById("session_div");
-
-function reset_sd() {
-    reset_saq_div();
-    reset_mcq_div();
-}
-
-function hide_sd() {
-    SESSION_DIV.style.display = "none";
-}
-
-function show_sd() {
-    SESSION_DIV.style.display = "flex";
-}
-
-/* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */
-/* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */
-/* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */ /* QUESTION LOADING */
-
-// Reads DIRECTORY from directory.js
-
-var SUBJECTS = {"None": "-----------------------"}; // Used for dropdown
-var PRESETS = {"None": "-----------------------"}; // Used for dropdown
-var QUESTION_BANK = {}; // Subject: {Topic: [Question, Question, ...]}
-
-
-function get_qset_lines(filePath) {
-    // Open & Read .txt File
-    const content = fetch(filePath).then(response => {
-        if (!response.ok) {
-            console.error("Fetch operation wasn't an OK Response: " + filePath);
-            throw new Error(`[NETWORK] Error while fetching file`);
-        }
-        return response.text();
-    }).then(text => {
-        const lines = text.split("\n").map(line => line.trim());
-        return lines;
-    }).catch(error => {
-        console.error(`Error while fetching ${filePath}: ${error}`);
-        throw new Error(`[NETWORK] Error while parsing file`)
-    });
-
-    return content;
-}
-
-function parse_qset_line(str) {
-    // Matches things in the pattern [IDENTIFIER] content
-    const regex = /^\[([^\]]+)\]\s*(.*)$/;
-    const match = str.match(regex);
-    
-    if (match) {
-        return [match[1], match[2]];
-    } else {
-        return [null, null];
-    }
-}
-
-function parse_qset_lines(lines) {
-    let PRESET_NAME = undefined;
-    let PRESET_TOPICS = [];
-    let TOPICS = {};
-
-    let currentQType = undefined;
-    let currentQTopic = undefined;
-    let currentQObj = undefined;
-    let currentlyParsingQ = false;
-
-    for (let line of lines) {
-        line = parse_qset_line(line);
-        if (line[0] == null) {
-            continue;
-        }
-
-        if (currentlyParsingQ) {
-            if (line[0] == "Q") {
-                currentQObj.q = line[1];
-            } else if (line[0] == "T") {
-                currentQTopic = line[1];
-                currentQObj.topic = currentQTopic;
-            } else if (line[0] == "END") {
-                if (!PRESET_TOPICS.includes(currentQTopic)) {
-                    PRESET_TOPICS.push(currentQTopic);
-                    TOPICS[currentQTopic] = [];
-                }
-                TOPICS[currentQTopic].push(currentQObj);
-                
-                currentQType = undefined;
-                currentQTopic = undefined;
-                currentQObj = undefined;
-
-                currentlyParsingQ = false;
-            } else {
-                if (currentQType == "SAQ") {
-                    if (line[0] == "A" || line[0] == "EXA") { // TODO FIX
-                        currentQObj.correctAnswers.push(line[1]);
-                    } else  {
-                        throw new Error(`[PARSE] Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
-                    }
-                } else if (currentQType == "MCQ") {
-                    if (line[0] == "CA") {
-                        currentQObj.correctAnswer = line[1];
-                    } else if (line[0] == "WA") {
-                        currentQObj.wrongAnswers.push(line[1]);
-                    } else if (line[0] == "NS") {
-                        // TODO
-                    }
-                }
-            }           
-        } else {
-            if (line[0] == "PRESET") {
-                if (PRESET_NAME != undefined) {
-                    throw new Error(`[PARSE] Preset name already defined (${PRESET_NAME})`);
-                }
-                PRESET_NAME = line[1];
-            } else if (line[0] == "QT") {
-                currentQType = line[1];
-                currentlyParsingQ = true;
-                if (currentQType == "SAQ") {
-                    currentQObj = new SAQQuestion(undefined, undefined, []);
-                } else if (currentQType == "MCQ") {
-                    currentQObj = new MCQQuestion(undefined, undefined, [], []);
-                } else {
-                    throw new Error(`[PARSE] Unrecognized question type "${line[1]}"`);
-                }
-            } else {
-                throw new Error(`[PARSE] Unrecognized identifier "${line[0]} (with arg "${line[1]}")"`);
-            }
-        }
-    }
-
-    return [PRESET_NAME, PRESET_TOPICS, TOPICS];
-}
-
-async function load_directory() {
-    for (let subj of Object.entries(DIRECTORY)) {
-        SUBJECTS[subj[0]] = subj[1]["plaintext"];
-
-        let subjPresets = {};
-        let subjTopics = {};
-        let filepath = subj[1]["path"];
-
-        for (let filename of subj[1]["files"]) {
-            try {
-                let lines = await get_qset_lines(`${filepath}${filename}.txt`);
-                let res = parse_qset_lines(lines);
-
-                subjPresets[res[0]] = res[1]
-                subjTopics = { ...subjTopics, ...res[2] };
-            } catch (error) {
-                console.error(error);
-                // TODO: DISPLAY ERRORS
-            }
-        }
-
-        PRESETS[subj[0]] = subjPresets;
-        QUESTION_BANK[subj[0]] = subjTopics;
-    }
-    console.log("Finished!");
-    return true;
-}
-
-
-/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
-/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
-/* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
-
-const MMNS_MENU_BTN = document.getElementById("mainmenu_btn_new");
-const MMNS_WRAPPER_DIV = document.getElementById("mainmenu_newsession_wrapper");
-const MMNS_SUBJECT_DROPDOWN = document.getElementById("mmns_subject_dropdown");
-const MMNS_PRESET_DROPDOWN = document.getElementById("mmns_preset_dropdown");
-const MMNS_CANCEL_BTN = document.getElementById("mmns_cancel_btn");
-const MMNS_CREATE_BTN = document.getElementById("mmns_create_btn");
-
-// Function to clear the dropdown and add new options
-function set_dropdown(dropdown, options) {
-    dropdown.innerHTML = '';
-
-    options.forEach(option => {
-        let newOption = document.createElement('option');
-        newOption.value = option[0];
-        newOption.text = option[1];
-        dropdown.appendChild(newOption);
-    });
-}
-
-function reset_mmns() {
-    set_dropdown(MMNS_SUBJECT_DROPDOWN, Object.entries(SUBJECTS));
-    set_dropdown(MMNS_PRESET_DROPDOWN, []);
-    MMNS_PRESET_DROPDOWN.setAttribute("disabled", "");
-    MMNS_CANCEL_BTN.removeAttribute("disabled");
-    MMNS_CANCEL_BTN.onclick = hide_mmns;
-    MMNS_CREATE_BTN.setAttribute("disabled", "");
-    MMNS_CREATE_BTN.onclick = create_new_session;
-
-    MMNS_SUBJECT_DROPDOWN.addEventListener("change", function() { mmns_render(true) });
-    MMNS_PRESET_DROPDOWN.addEventListener("change", function() { mmns_render(false) });
-
-    mmns_render(true);
-}
-
-function mmns_render(changedTopic) {
-    let subject = MMNS_SUBJECT_DROPDOWN.value;
-    let preset = MMNS_PRESET_DROPDOWN.value;
-
-    if (subject == "None") {
-        MMNS_PRESET_DROPDOWN.setAttribute("disabled", "");
-        set_dropdown(MMNS_PRESET_DROPDOWN, []);
-        MMNS_CREATE_BTN.setAttribute("disabled", "");
-    } else {
-        if (changedTopic) {
-            set_dropdown(MMNS_PRESET_DROPDOWN, Object.entries(PRESETS[subject]).map(a => [a[0], a[0]]));
-            MMNS_PRESET_DROPDOWN.removeAttribute("disabled");
-            MMNS_CREATE_BTN.removeAttribute("disabled", "");
-        }
-    }
-}
-
-function hide_mmns() {
-    MMNS_WRAPPER_DIV.style.display = "none";
-    // TODO: Fade?
-}
-
-function show_mmns() {
-    MMNS_WRAPPER_DIV.style.display = "flex";
-    // TODO: Fade?
-}
-
-function create_new_session() {
-    let subject = MMNS_SUBJECT_DROPDOWN.value;
-    let preset = MMNS_PRESET_DROPDOWN.value;
-
-    if (subject == "None" || preset == "None") {
-        return;
-    }
-
-    MMNS_CANCEL_BTN.setAttribute("disabled", "");
-    MMNS_CREATE_BTN.setAttribute("disabled", "");
-
-    hide_mm();
-
-    // Load Presets
-    let topics = PRESETS[subject][preset];
-    let questions = [];
-    for (let t of topics) {
-        questions = questions.concat(QUESTION_BANK[subject][t]);
-    }
-
-    CURRENT_SESSION = new TriviaSession(questions, 0, Math.floor(Math.random() * 1000000000000), undefined);
-    
-    reset_sd();
-    CURRENT_SESSION.render();
-    show_sd();
-    hide_mmns();
-}
-
-/* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
-/* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
-/* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
-
-MAINMENU_DIV = document.getElementById("mainmenu_div");
-
-function reset_mm() {
-    // TODO
-}
-
-function hide_mm() {
-    MAINMENU_DIV.style.display = "none";
-}
-
-function show_mm() {
-    MAINMENU_DIV.style.display = "flex";
-}
-
-window.onload = async function() {
-    let res = await load_directory();
-
-    // Set Visibilities
-    reset_mm();
-    show_mm();
-
-    reset_mmns();
-    hide_mmns();
-
-    reset_sd();
-    hide_sd();
-
-    // Set Main Menu Onclicks
-    MMNS_MENU_BTN.onclick = show_mmns;
-
-    // Set Event Listeners
-    document.addEventListener("keydown", handle_keypress);
-    show_sd();
 }
