@@ -1,14 +1,29 @@
+function resume_session() {
+    let inSession = getCookie("inSession");
+    if (inSession) {
+        CURRENT_SESSION = undefined;
+        try {
+            CURRENT_SESSION = new TriviaSession(getCookie("subject"), getCookie("topics"), getCookie("questionNum"), getCookie("seed"), undefined);
+        } catch (error) {
+            alert("Oops! If you're reading this, something went horribly wrong while trying to load your session. Please report this on the Github!\n\n" + error);
+            return
+        }
+
+        MENU_BTN_RESUME.setAttribute("disabled", "");
+        hide_mm_div();
+        CURRENT_SESSION.firstrender();
+    }
+}
+
 /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
 /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
 /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
 
-const MMNS_MENU_BTN = document.getElementById("mainmenu_btn_new");
 const MMNS_WRAPPER_DIV = document.getElementById("mainmenu_newsession_wrapper");
 const MMNS_SUBJECT_DROPDOWN = document.getElementById("mmns_subject_dropdown");
 const MMNS_PRESET_DROPDOWN = document.getElementById("mmns_preset_dropdown");
 const MMNS_CANCEL_BTN = document.getElementById("mmns_cancel_btn");
 const MMNS_CREATE_BTN = document.getElementById("mmns_create_btn");
-
 
 function reset_mmns_div() {
     set_dropdown(MMNS_SUBJECT_DROPDOWN, Object.entries(SUBJECTS));
@@ -62,17 +77,10 @@ function create_new_session() {
 
     MMNS_CANCEL_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.setAttribute("disabled", "");
-
     hide_mm_div();
 
-    // Load Presets
-    let topics = PRESETS[subject][preset];
-    let questions = [];
-    for (let t of topics) {
-        questions = questions.concat(QUESTION_BANK[subject][t]);
-    }
-
-    CURRENT_SESSION = new TriviaSession(questions, 0, Math.floor(Math.random() * 1000000000000), undefined);
+    let topics = PRESETS[subject][preset]; // TODO CUSTOMS
+    CURRENT_SESSION = new TriviaSession(subject, topics, 0, Math.floor(Math.random() * 1000000000000), undefined);
     CURRENT_SESSION.firstrender();
     hide_mmns_div();
 }
@@ -81,19 +89,28 @@ function create_new_session() {
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
 
-MAINMENU_DIV = document.getElementById("mainmenu_div");
+const MENU_BTN_RESUME = document.getElementById("mainmenu_btn_continue");
+const MENU_BTN_NS = document.getElementById("mainmenu_btn_new");
+const MENU_BTN_SETTINGS = document.getElementById("mainmenu_btn_settings");
+const MENU_BTN_ABOUT = document.getElementById("mainmenu_btn_about");
+const MENU_BTN_CONTRIBUTE = document.getElementById("mainmenu_btn_contribute");
+
+const MAINMENU_DIV = document.getElementById("mainmenu_div");
 
 function reset_mm_div() {
-    MMNS_MENU_BTN.onclick = show_mmns_div;
+    reset_mmns_div();
+
+    if (getCookie("inSession")) {
+        MENU_BTN_RESUME.removeAttribute("disabled");
+    } else {
+        MENU_BTN_RESUME.setAttribute("disabled", "");
+    }
+    MENU_BTN_RESUME.onclick = resume_session;
+    MENU_BTN_NS.onclick = show_mmns_div;
 }
 
-function hide_mm_div() {
-    MAINMENU_DIV.style.display = "none";
-}
-
-function show_mm_div() {
-    MAINMENU_DIV.style.display = "flex";
-}
+function hide_mm_div() { MAINMENU_DIV.style.display = "none"; }
+function show_mm_div() { MAINMENU_DIV.style.display = "flex"; }
 
 window.onload = async function() {
     let res = await load_directory();

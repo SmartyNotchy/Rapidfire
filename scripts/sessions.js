@@ -86,6 +86,30 @@ function set_dropdown(dropdown, options) {
     });
 }
 
+// Cookie Helpers
+function setCookie(name, value) {
+    var expires = "";
+    var date = new Date();
+    date.setTime(date.getTime() + (365 * 24 * 60 * 60 * 1000));
+    expires = "; expires=" + date.toUTCString();
+    document.cookie = name + "=" + JSON.stringify(value) + expires + "; path=/";
+}
+
+function getCookie(name) {
+    var nameEQ = name + "=";
+    var cookies = document.cookie.split(';');
+    for (var i = 0; i < cookies.length; i++) {
+        var cookie = cookies[i];
+        while (cookie.charAt(0) == ' ') {
+            cookie = cookie.substring(1, cookie.length);
+        }
+        if (cookie.indexOf(nameEQ) == 0) {
+            return JSON.parse(cookie.substring(nameEQ.length, cookie.length));
+        }
+    }
+    return undefined;
+}
+
 /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */
 /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */
 /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */ /* TRIVIA SESSION HTML */
@@ -486,10 +510,16 @@ class MCQQuestion {
 var CURRENT_SESSION = undefined;
 
 class TriviaSession {
-    constructor(questions, qNum, seed, settings) {
+    constructor(subject, topics, qNum, seed, settings) {
         //this.questions = [new MCQQuestion("What is 1 + 1? Debug", "Debug Problems", ["2"], ["3", "4", "5"])];
         //this.questions = [new SAQQuestion("What is 1 + 1?", "Debug Problems", ["2"]), new SAQQuestion("What is 1 + 2?", "Debug Problems", ["3"])]
-        this.questions = questions
+        this.subject = subject;
+        this.topics = topics;
+        this.questions = [];
+        for (let t of topics) {
+            this.questions = this.questions.concat(QUESTION_BANK[subject][t]);
+        }
+
         this.questionNum = qNum;
         this.seed = seed;
 
@@ -507,6 +537,7 @@ class TriviaSession {
         show_scq_div();
         show_session_div();
         this.render();
+        this.save_progress();
     }
 
     render() {
@@ -533,6 +564,15 @@ class TriviaSession {
 
     save_progress() {
         // TODO
+        if (this.questionNum >= this.questionCount) {
+            setCookie("inSession", false);
+        } else {
+            setCookie("inSession", true);
+            setCookie("subject", this.subject);
+            setCookie("topics", this.topics);
+            setCookie("questionNum", this.questionNum);
+            setCookie("seed", this.seed);
+        }
     }
 
     process_input(event) {
@@ -545,8 +585,8 @@ class TriviaSession {
             } else {
                 this.currentQuestion = this.questions[this.questionOrder[this.questionNum]];
             }
+
             this.render();
-            // TODO: SESSION END
         } else {
             this.currentQuestion.process_input(event, CURRENT_SESSION);
         }

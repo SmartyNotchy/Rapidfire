@@ -581,13 +581,13 @@ button {
     transition: outline 0.2s;
 }
 
-#scq_sa_input.skipped {
-    outline: 2px solid #3366ff;
+#scq_sa_input.incorrect {
+    outline: 2px solid #c10000;
     transition: outline 0.2s;
 }
 
-#scq_sa_input.incorrect {
-    outline: 2px solid #c10000;
+#scq_sa_input.skipped {
+    outline: 2px solid #3366ff;
     transition: outline 0.2s;
 }
 
