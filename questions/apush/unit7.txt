@@ -1,1121 +1,1121 @@
 [PRESET] Unit 7 (1890-1945)
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.2
-[QUESTION] This Secretary of State was made fun of in their time for organizing the purchase of Alaska.
-[ANS] Seward
-[ANS] William Seward
+[QT] SAQ
+[T] 7.2
+[Q] This Secretary of State was made fun of in their time for organizing the purchase of Alaska.
+[A] Seward
+[A] William Seward
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.2
-[QUESTION] William H. Seward most notably arranged the purchase of this territory.
-[ANS] Alaska
+[QT] SAQ
+[T] 7.2
+[Q] William H. Seward most notably arranged the purchase of this territory.
+[A] Alaska
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.2
-[QUESTION] This first conference in Washington established a permanent trade organization amongst countries in the Americas.
-[ANS] Pan-American
-[ANS] Pan-American Conference
+[QT] SAQ
+[T] 7.2
+[Q] This first conference in Washington established a permanent trade organization amongst countries in the Americas.
+[A] Pan-American
+[A] Pan-American Conference
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.2
-[QUESTION] This dispute in the Americas established the US & British as allies rather than rivals from 1895 onwards.
-[ANS] Venezuela
-[ANS] Venezuela Boundary
-[ANS] Venezuela Boundary Dispute
+[QT] SAQ
+[T] 7.2
+[Q] This dispute in the Americas established the US & British as allies rather than rivals from 1895 onwards.
+[A] Venezuela
+[A] Venezuela Boundary
+[A] Venezuela Boundary Dispute
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This term describes the intense form of nationalism that encouraged aggressive American foreign policy.
-[ANS] Jingoism
+[QT] SAQ
+[T] 7.3
+[Q] This term describes the intense form of nationalism that encouraged aggressive American foreign policy.
+[A] Jingoism
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This revolt preceded US entry into the Spanish-American War.
-[ANS] Cuban
-[ANS] Cuban Revolt
+[QT] SAQ
+[T] 7.3
+[Q] This revolt preceded US entry into the Spanish-American War.
+[A] Cuban
+[A] Cuban Revolt
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] The Mexican War happened roughly in the (1840s/1900s).
-[ANS] 1840s
+[QT] SAQ
+[T] 7.3
+[Q] The Mexican War happened roughly in the (1840s/1900s).
+[A] 1840s
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] The Spanish-American War happened roughly in the (1840s/1900s).
-[ANS] 1900s
+[QT] SAQ
+[T] 7.3
+[Q] The Spanish-American War happened roughly in the (1840s/1900s).
+[A] 1900s
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] Pulitzer's *New York World* and Heart's *New York Journal* were two examples of ______ _________.
-[ANS] Yellow Journalism
+[QT] SAQ
+[T] 7.3
+[Q] Pulitzer's *New York World* and Heart's *New York Journal* were two examples of ______ _________.
+[A] Yellow Journalism
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This letter, written by a Spanish Minister, criticized McKinley and turned public opinion against the Spanish.
-[ANS] De Lome Letter
+[QT] SAQ
+[T] 7.3
+[Q] This letter, written by a Spanish Minister, criticized McKinley and turned public opinion against the Spanish.
+[A] De Lome Letter
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This event was the "final straw" before US entry into the Spanish-American War.
-[ANS] USS Maine
-[ANS] USS Maine Sinking
-[ANS] Sinking of the USS Maine
+[QT] SAQ
+[T] 7.3
+[Q] This event was the "final straw" before US entry into the Spanish-American War.
+[A] USS Maine
+[A] USS Maine Sinking
+[A] Sinking of the USS Maine
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] When Congress declared war on Cuba, this was issued promising Cubans control of the government afterwards.
-[ANS] Teller Amendment
-[ANS] Teller
+[QT] SAQ
+[T] 7.3
+[Q] When Congress declared war on Cuba, this was issued promising Cubans control of the government afterwards.
+[A] Teller Amendment
+[A] Teller
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] The Teller Amendment promised Cuba (independence/free trade/controlled elections/statehood) after the war.
-[ANS] Independence
+[QT] SAQ
+[T] 7.3
+[Q] The Teller Amendment promised Cuba (independence/free trade/controlled elections/statehood) after the war.
+[A] Independence
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] In the treaty after the Spanish-American War, name a territory that the US acquired.
-[ANS] Puerto Rico
-[ANS] Guam
-[ANS] Philippines
+[QT] SAQ
+[T] 7.3
+[Q] In the treaty after the Spanish-American War, name a territory that the US acquired.
+[A] Puerto Rico
+[A] Guam
+[A] Philippines
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] Anti-imperialists opposed the Treaty of Paris due to the acquisition of this territory.
-[ANS] Philippines
+[QT] SAQ
+[T] 7.3
+[Q] Anti-imperialists opposed the Treaty of Paris due to the acquisition of this territory.
+[A] Philippines
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] After the Spanish-American War, what issue caused most of the difficulty in ratifying the treaty?
-[ANS] Philippines
-[ANS] Philippines Acquisition
+[QT] SAQ
+[T] 7.3
+[Q] After the Spanish-American War, what issue caused most of the difficulty in ratifying the treaty?
+[A] Philippines
+[A] Philippines Acquisition
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] To oppose the acquisition of the Philippines in the Treaty of Paris, this "league" was formed.
-[ANS] Anti-Imperialist League
+[QT] SAQ
+[T] 7.3
+[Q] To oppose the acquisition of the Philippines in the Treaty of Paris, this "league" was formed.
+[A] Anti-Imperialist League
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] These cases concluded that the Constitution did not follow the flag.
-[ANS] Insular Cases
+[QT] SAQ
+[T] 7.3
+[Q] These cases concluded that the Constitution did not follow the flag.
+[A] Insular Cases
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This effectively overrode the Teller Amendment.
-[ANS] Platt Amendment
-[ANS] Platt
+[QT] SAQ
+[T] 7.3
+[Q] This effectively overrode the Teller Amendment.
+[A] Platt Amendment
+[A] Platt
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] The Platt Amendment effectively overrode this previous announcement.
-[ANS] Teller Amendment
-[ANS] Teller
+[QT] SAQ
+[T] 7.3
+[Q] The Platt Amendment effectively overrode this previous announcement.
+[A] Teller Amendment
+[A] Teller
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] John Hay's "Open Door Policy" mainly concerned free trade to this country.
-[ANS] China
+[QT] SAQ
+[T] 7.3
+[Q] John Hay's "Open Door Policy" mainly concerned free trade to this country.
+[A] China
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] To protect free & equal trade to China, John Hay established the ____ ____ Policy.
-[ANS] Open Door
+[QT] SAQ
+[T] 7.3
+[Q] To protect free & equal trade to China, John Hay established the ____ ____ Policy.
+[A] Open Door
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This event resulted due to xenophobia **in** China.
-[ANS] Boxer Rebellion
+[QT] SAQ
+[T] 7.3
+[Q] This event resulted due to xenophobia **in** China.
+[A] Boxer Rebellion
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] The Boxer Rebellion was instigated by a group of _____ nationalists.
-[ANS] Chinese
+[QT] SAQ
+[T] 7.3
+[Q] The Boxer Rebellion was instigated by a group of _____ nationalists.
+[A] Chinese
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This president was famous for his "Big Stick" policy.
-[ANS] Theodore Roosevelt
+[QT] SAQ
+[T] 7.3
+[Q] This president was famous for his "Big Stick" policy.
+[A] Theodore Roosevelt
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This foreign policy supported the use of military force in Latin-American affairs where appropriate.
-[ANS] Big Stick
-[ANS] Big Stick Policy
+[QT] SAQ
+[T] 7.3
+[Q] This foreign policy supported the use of military force in Latin-American affairs where appropriate.
+[A] Big Stick
+[A] Big Stick Policy
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] Roosevelt brought about the Hay-Bunau-Varilla Treaty, which led to the construction of the:
-[ANS] Panama Canal
+[QT] SAQ
+[T] 7.3
+[Q] Roosevelt brought about the Hay-Bunau-Varilla Treaty, which led to the construction of the:
+[A] Panama Canal
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] The ______ ______ to the Monroe Doctrine stated that the US could intervene in Latin American affairs on behalf of Europe.
-[ANS] Roosevelt Corollary
+[QT] SAQ
+[T] 7.3
+[Q] The ______ ______ to the Monroe Doctrine stated that the US could intervene in Latin American affairs on behalf of Europe.
+[A] Roosevelt Corollary
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This president was the most prominent advocate for "Dollar Diplomacy".
-[ANS] Taft
-[ANS] William Taft
-[ANS] William Howard Taft
+[QT] SAQ
+[T] 7.3
+[Q] This president was the most prominent advocate for "Dollar Diplomacy".
+[A] Taft
+[A] William Taft
+[A] William Howard Taft
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] Taft's Dollar Diplomacy was ultimately a (success/short-term solution/failure).
-[ANS] Failure
+[QT] SAQ
+[T] 7.3
+[Q] Taft's Dollar Diplomacy was ultimately a (success/short-term solution/failure).
+[A] Failure
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] William Howard Taft's foreign policy was that of "_____ ______".
-[ANS] Dollar Diplomacy
+[QT] SAQ
+[T] 7.3
+[Q] William Howard Taft's foreign policy was that of "_____ ______".
+[A] Dollar Diplomacy
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This foreign policy supported expansionism by promoting US enterprises abroad.
-[ANS] Dollar Diplomacy
+[QT] SAQ
+[T] 7.3
+[Q] This foreign policy supported expansionism by promoting US enterprises abroad.
+[A] Dollar Diplomacy
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] Woodrow Wilson (supported/was neutral to/opposed) imperialism.
-[ANS] Opposed
+[QT] SAQ
+[T] 7.3
+[Q] Woodrow Wilson (supported/was neutral to/opposed) imperialism.
+[A] Opposed
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] This act under Woodrow Wilson promised independence to the Philippines.
-[ANS] Jones Act
+[QT] SAQ
+[T] 7.3
+[Q] This act under Woodrow Wilson promised independence to the Philippines.
+[A] Jones Act
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] Woodrow Wilson's Jones Act promised independence to this territory:
-[ANS] Philippines
+[QT] SAQ
+[T] 7.3
+[Q] Woodrow Wilson's Jones Act promised independence to this territory:
+[A] Philippines
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.3
-[QUESTION] Woodrow Wilson resolved international disputes by negotiating many ________ _____.
-[ANS] Conciliatory Treaties
+[QT] SAQ
+[T] 7.3
+[Q] Woodrow Wilson resolved international disputes by negotiating many ________ _____.
+[A] Conciliatory Treaties
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Like Gilded Age reformers, people in this political group advocated for moderate reforms & government intervention in big business.
-[ANS] Progressives
+[QT] SAQ
+[T] 7.4
+[Q] Like Gilded Age reformers, people in this political group advocated for moderate reforms & government intervention in big business.
+[A] Progressives
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The urban middle class & Protestants were most likely to join this 1900s political group.
-[ANS] Progressives
+[QT] SAQ
+[T] 7.4
+[Q] The urban middle class & Protestants were most likely to join this 1900s political group.
+[A] Progressives
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Roosevelt, Taft, and Wilson were the three presidents of the _______ Era.
-[ANS] Progressive
+[QT] SAQ
+[T] 7.4
+[Q] Roosevelt, Taft, and Wilson were the three presidents of the _______ Era.
+[A] Progressive
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Romantic Transcendentalism was challenged by this belief that "truth" should produce observable results in a democratic society.
-[ANS] Pragmatism
+[QT] SAQ
+[T] 7.4
+[Q] Romantic Transcendentalism was challenged by this belief that "truth" should produce observable results in a democratic society.
+[A] Pragmatism
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Charles Darwin, William James, and John Dewey were champions of _______.
-[ANS] Pragmatism
+[QT] SAQ
+[T] 7.4
+[Q] Charles Darwin, William James, and John Dewey were champions of _______.
+[A] Pragmatism
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Writers who wrote about negative storiers & scandals in factories & big business were known as "________".
-[ANS] Muckrakers
+[QT] SAQ
+[T] 7.4
+[Q] Writers who wrote about negative storiers & scandals in factories & big business were known as "________".
+[A] Muckrakers
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Amendment #__ guaranteed direct primaries & direct senator elections.
-[ANS] 17
+[QT] SAQ
+[T] 7.4
+[Q] Amendment #__ guaranteed direct primaries & direct senator elections.
+[A] 17
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] True/False: Progressives were united on the topic of Prohibition.
-[ANS] False
+[QT] SAQ
+[T] 7.4
+[Q] True/False: Progressives were united on the topic of Prohibition.
+[A] False
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The "Wisconsin Idea," 17th Amendment, Social Welfare, and state commission plans were all brought about by the ______ movement.
-[ANS] Progressive
+[QT] SAQ
+[T] 7.4
+[Q] The "Wisconsin Idea," 17th Amendment, Social Welfare, and state commission plans were all brought about by the ______ movement.
+[A] Progressive
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This 1905 court case ruled against 10-hour workdays.
-[ANS] Lochner v. New York
+[QT] SAQ
+[T] 7.4
+[Q] This 1905 court case ruled against 10-hour workdays.
+[A] Lochner v. New York
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This court case in 1908 effectively overruled *Lochner v. New York* (1905).
-[ANS] Muller v. Oregon
+[QT] SAQ
+[T] 7.4
+[Q] This court case in 1908 effectively overruled *Lochner v. New York* (1905).
+[A] Muller v. Oregon
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This 1911 disaster caused public outrage over unsafe working conditions for women & children.
-[ANS] Triangle Shirtwaist Fire
-[ANS] Shirtwaist Fire
-[ANS] Triangle Fire
+[QT] SAQ
+[T] 7.4
+[Q] This 1911 disaster caused public outrage over unsafe working conditions for women & children.
+[A] Triangle Shirtwaist Fire
+[A] Shirtwaist Fire
+[A] Triangle Fire
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This president proposed an equal, "square" deal for labor.
-[ANS] Theodore Roosevelt
+[QT] SAQ
+[T] 7.4
+[Q] This president proposed an equal, "square" deal for labor.
+[A] Theodore Roosevelt
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Theodore Roosevelt responded to labor disputes by proposing a "_____ ____".
-[ANS] Square Deal
+[QT] SAQ
+[T] 7.4
+[Q] Theodore Roosevelt responded to labor disputes by proposing a "_____ ____".
+[A] Square Deal
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This strike during Roosevelt's presidency caused him to pressure the owners to accept a labor deal.
-[ANS] Pennsylvania Coal Strike
-[ANS] Coal Strike
-[ANS] Coal
+[QT] SAQ
+[T] 7.4
+[Q] This strike during Roosevelt's presidency caused him to pressure the owners to accept a labor deal.
+[A] Pennsylvania Coal Strike
+[A] Coal Strike
+[A] Coal
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This 1890 law was significantly boosted during Roosevelt's presidency.
-[ANS] Sherman Antitrust Law
+[QT] SAQ
+[T] 7.4
+[Q] This 1890 law was significantly boosted during Roosevelt's presidency.
+[A] Sherman Antitrust Law
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The Elkins Act & Hepburn Act increased regulation over ______.
-[ANS] Railroads
+[QT] SAQ
+[T] 7.4
+[Q] The Elkins Act & Hepburn Act increased regulation over ______.
+[A] Railroads
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This book by Upton Sinclair led to the passage of the Pure Food & Drug Act, and the Meat Inspection Act.
-[ANS] The Jungle
+[QT] SAQ
+[T] 7.4
+[Q] This book by Upton Sinclair led to the passage of the Pure Food & Drug Act, and the Meat Inspection Act.
+[A] The Jungle
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The Newlands Reclamation Act during Roosevelt's presidency helped to promote ________.
-[ANS] Conservation
+[QT] SAQ
+[T] 7.4
+[Q] The Newlands Reclamation Act during Roosevelt's presidency helped to promote ________.
+[A] Conservation
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Amendment #__ allowed the government to collect an income tax.
-[ANS] 16
+[QT] SAQ
+[T] 7.4
+[Q] Amendment #__ allowed the government to collect an income tax.
+[A] 16
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The 16th Amendment allowed the government to collect an ______ ___.
-[ANS] Income Tax
+[QT] SAQ
+[T] 7.4
+[Q] The 16th Amendment allowed the government to collect an ______ ___.
+[A] Income Tax
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This event (name one) led to Progressives claiming that Taft had betrayed them.
-[ANS] Firing of Pinchot
-[ANS] Pinchot's Firing
-[ANS] Payne-Aldrich Tariff
-[ANS] Supporting Conservatives
+[QT] SAQ
+[T] 7.4
+[Q] This event (name one) led to Progressives claiming that Taft had betrayed them.
+[A] Firing of Pinchot
+[A] Pinchot's Firing
+[A] Payne-Aldrich Tariff
+[A] Supporting Conservatives
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Pinchot's firing and the Payne-Aldrich Tariff led to ______ believing that Taft had betrayed them.
-[ANS] Progressives
+[QT] SAQ
+[T] 7.4
+[Q] Pinchot's firing and the Payne-Aldrich Tariff led to ______ believing that Taft had betrayed them.
+[A] Progressives
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The Republican Party in the 1900s split between Taft loyalists and the ____ _____ Party.
-[ANS] Bull Moose
+[QT] SAQ
+[T] 7.4
+[Q] The Republican Party in the 1900s split between Taft loyalists and the ____ _____ Party.
+[A] Bull Moose
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The leader of the Bull Moose Party was:
-[ANS] Roosevelt
-[ANS] Theodore Roosevelt
+[QT] SAQ
+[T] 7.4
+[Q] The leader of the Bull Moose Party was:
+[A] Roosevelt
+[A] Theodore Roosevelt
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This founder of the Socialist Party ran five times for president.
-[ANS] Eugene V. Debs
+[QT] SAQ
+[T] 7.4
+[Q] This founder of the Socialist Party ran five times for president.
+[A] Eugene V. Debs
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Roosevelt supported (New Nationalism/New Freedom), wanting more government regulation of business.
-[ANS] New Nationalism
+[QT] SAQ
+[T] 7.4
+[Q] Roosevelt supported (New Nationalism/New Freedom), wanting more government regulation of business.
+[A] New Nationalism
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Wilson supported (New Nationalism/New Freedom), wanting less limitations of government & business.
-[ANS] New Freedom
+[QT] SAQ
+[T] 7.4
+[Q] Wilson supported (New Nationalism/New Freedom), wanting less limitations of government & business.
+[A] New Freedom
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] Wilson's program attacked the "triple wall of privilege": name one of these three problems.
-[ANS] Tariffs
-[ANS] Banking
-[ANS] Trust
+[QT] SAQ
+[T] 7.4
+[Q] Wilson's program attacked the "triple wall of privilege": name one of these three problems.
+[A] Tariffs
+[A] Banking
+[A] Trust
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The Federal Reserve Act (1914) proposed a national banking system supervised by the ______ ______ ____.
-[ANS] Federal Reserve Board
-[ANS] Federal Reserve
+[QT] SAQ
+[T] 7.4
+[Q] The Federal Reserve Act (1914) proposed a national banking system supervised by the ______ ______ ____.
+[A] Federal Reserve Board
+[A] Federal Reserve
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This "commission", first instituted under Wilson, investigated "unfair trade practices".
-[ANS] FTC
-[ANS] Federal Trade Commission
+[QT] SAQ
+[T] 7.4
+[Q] This "commission", first instituted under Wilson, investigated "unfair trade practices".
+[A] FTC
+[A] Federal Trade Commission
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] This act prevented unions from being prosecuted as trusts.
-[ANS] Clayton Antitrust Act
-[ANS] Clayton Antitrust
-[ANS] Clayton
+[QT] SAQ
+[T] 7.4
+[Q] This act prevented unions from being prosecuted as trusts.
+[A] Clayton Antitrust Act
+[A] Clayton Antitrust
+[A] Clayton
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.4
-[QUESTION] The dedicated war effort in WW1 by women led to the passage of Amendment #__.
-[ANS] 19
+[QT] SAQ
+[T] 7.4
+[Q] The dedicated war effort in WW1 by women led to the passage of Amendment #__.
+[A] 19
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] In WW1, Germany, Austria-Hungary, and the Ottoman Empire formed the:
-[ANS] Triple Alliance
-[ANS] Central Powers
+[QT] SAQ
+[T] 7.5
+[Q] In WW1, Germany, Austria-Hungary, and the Ottoman Empire formed the:
+[A] Triple Alliance
+[A] Central Powers
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] In WW1, Russia, France, and Great Britain formed the:
-[ANS] Triple Entente
-[ANS] Allied Powers
+[QT] SAQ
+[T] 7.5
+[Q] In WW1, Russia, France, and Great Britain formed the:
+[A] Triple Entente
+[A] Allied Powers
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] In the outbreak of Ww1, Wilson declared a policy of US ______.
-[ANS] Neutrality
+[QT] SAQ
+[T] 7.5
+[Q] In the outbreak of Ww1, Wilson declared a policy of US ______.
+[A] Neutrality
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] The sinking of the Lusitania & the Sussex preceded US entry into this war.
-[ANS] WW1
-[ANS] World War 1
-[ANS] The Great War
+[QT] SAQ
+[T] 7.5
+[Q] The sinking of the Lusitania & the Sussex preceded US entry into this war.
+[A] WW1
+[A] World War 1
+[A] The Great War
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] The policy of "_________" preached for an armed forces buildup in peacetime, in case war broke out.
-[ANS] Preparedness
+[QT] SAQ
+[T] 7.5
+[Q] The policy of "_________" preached for an armed forces buildup in peacetime, in case war broke out.
+[A] Preparedness
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] This document leaked to the US stated that Germany would help Mexico reclaim lost land if they invaded the US.
-[ANS] Zimmerman Telegram
+[QT] SAQ
+[T] 7.5
+[Q] This document leaked to the US stated that Germany would help Mexico reclaim lost land if they invaded the US.
+[A] Zimmerman Telegram
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] WW1 claimed thousands of US lives, but the ______ ___ (which happened at the same time) claimed millions more.
-[ANS] Spanish Flu
+[QT] SAQ
+[T] 7.5
+[Q] WW1 claimed thousands of US lives, but the ______ ___ (which happened at the same time) claimed millions more.
+[A] Spanish Flu
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] After WW1, Wilson proposed the __ _____ to pave the way to world peace.
-[ANS] 14 Points
-[ANS] Wilson's 14 Points
-[ANS] Fourteen Points
+[QT] SAQ
+[T] 7.5
+[Q] After WW1, Wilson proposed the __ _____ to pave the way to world peace.
+[A] 14 Points
+[A] Wilson's 14 Points
+[A] Fourteen Points
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] Perhaps the most important part of Wilson's 14 Points was the creation of the _____ __ ______.
-[ANS] League of Nations
+[QT] SAQ
+[T] 7.5
+[Q] Perhaps the most important part of Wilson's 14 Points was the creation of the _____ __ ______.
+[A] League of Nations
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] The Treaty of Versailles forced Germany to pay (no/minor/major) reparations.
-[ANS] Major
+[QT] SAQ
+[T] 7.5
+[Q] The Treaty of Versailles forced Germany to pay (no/minor/major) reparations.
+[A] Major
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] This part of the League of Nations ensured that members would protect the independence of others.
-[ANS] Article X
+[QT] SAQ
+[T] 7.5
+[Q] This part of the League of Nations ensured that members would protect the independence of others.
+[A] Article X
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.5
-[QUESTION] Congress failed to ratify Wilson's 14 Points due to the:
-[ANS] League of Nations
-[ANS] Article X
+[QT] SAQ
+[T] 7.5
+[Q] Congress failed to ratify Wilson's 14 Points due to the:
+[A] League of Nations
+[A] Article X
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.6
-[QUESTION] The main challenge of US entry into WW1 was (mobilization/winning battles/combating blitzkrieg/developing nukes).
-[ANS] Mobilization
+[QT] SAQ
+[T] 7.6
+[Q] The main challenge of US entry into WW1 was (mobilization/winning battles/combating blitzkrieg/developing nukes).
+[A] Mobilization
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.6
-[QUESTION] The Espionage & Sedition Acts (1917-18) were upheld by this court case.
-[ANS] Schenk v. United States
-[ANS] Schenk v. US
+[QT] SAQ
+[T] 7.6
+[Q] The Espionage & Sedition Acts (1917-18) were upheld by this court case.
+[A] Schenk v. United States
+[A] Schenk v. US
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.6
-[QUESTION] African Americans migrated in large numbers to the North in the ____ _______.
-[ANS] Great Migration
+[QT] SAQ
+[T] 7.6
+[Q] African Americans migrated in large numbers to the North in the ____ _______.
+[A] Great Migration
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.6
-[QUESTION] This refers to the fear of foreigners.
-[ANS] Xenophobia
+[QT] SAQ
+[T] 7.6
+[Q] This refers to the fear of foreigners.
+[A] Xenophobia
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.6
-[QUESTION] The ______ ____ arrested more than 6k people during WW1 over suspicions of communism & radicalism.
-[ANS] Palmer Raids
+[QT] SAQ
+[T] 7.6
+[Q] The ______ ____ arrested more than 6k people during WW1 over suspicions of communism & radicalism.
+[A] Palmer Raids
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.6
-[QUESTION] The Palmer Raids jailed thousands of people due to anti-_______ hysteria.
-[ANS] Communist
-[ANS] Socialist
+[QT] SAQ
+[T] 7.6
+[Q] The Palmer Raids jailed thousands of people due to anti-_______ hysteria.
+[A] Communist
+[A] Socialist
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.7
-[QUESTION] The Roaring 20s burdened ______ with heavy debt due to a surplus of goods.
-[ANS] Farmers
+[QT] SAQ
+[T] 7.7
+[Q] The Roaring 20s burdened ______ with heavy debt due to a surplus of goods.
+[A] Farmers
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.7
-[QUESTION] _________ __________ referred to the policy of giving employees higher wages to prevent unionizing.
-[ANS] Welfare Capitalism
+[QT] SAQ
+[T] 7.7
+[Q] _________ __________ referred to the policy of giving employees higher wages to prevent unionizing.
+[A] Welfare Capitalism
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] In the Roaring 20s, _______ took a more critical view of Bible passages & tried to resolve religion with science.
-[ANS] Modernists
+[QT] SAQ
+[T] 7.8
+[Q] In the Roaring 20s, _______ took a more critical view of Bible passages & tried to resolve religion with science.
+[A] Modernists
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] In the Roaring 20s, _______ supported creationism & blamed (CENSORED) for a decline in morals.
-[ANS] Fundamentalists
+[QT] SAQ
+[T] 7.8
+[Q] In the Roaring 20s, _______ supported creationism & blamed (CENSORED) for a decline in morals.
+[A] Fundamentalists
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] _______ were those who preached fundamentalism using radios.
-[ANS] Revivalists
+[QT] SAQ
+[T] 7.8
+[Q] _______ were those who preached fundamentalism using radios.
+[A] Revivalists
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] This court case in the 1920s symbolized the clash between modernists & fundamentalists.
-[ANS] Scopes Trial
-[ANS] Monkey Trial
-[ANS] Scopes Monkey Trial
+[QT] SAQ
+[T] 7.8
+[Q] This court case in the 1920s symbolized the clash between modernists & fundamentalists.
+[A] Scopes Trial
+[A] Monkey Trial
+[A] Scopes Monkey Trial
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] Amendment #__ marked the start of Prohibition.
-[ANS] 18
+[QT] SAQ
+[T] 7.8
+[Q] Amendment #__ marked the start of Prohibition.
+[A] 18
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] Amendment #__ marked the end of Prohibition.
-[ANS] 21
+[QT] SAQ
+[T] 7.8
+[Q] Amendment #__ marked the end of Prohibition.
+[A] 21
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] This movement was a failure due to an abundance of loopholes & a growth in organized crime.
-[ANS] Prohibition
+[QT] SAQ
+[T] 7.8
+[Q] This movement was a failure due to an abundance of loopholes & a growth in organized crime.
+[A] Prohibition
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] ____ laws in the 1920s limited immigration, especially from Asia.
-[ANS] Quota
-[ANS] Quota Laws
+[QT] SAQ
+[T] 7.8
+[Q] ____ laws in the 1920s limited immigration, especially from Asia.
+[A] Quota
+[A] Quota Laws
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] This film portrayed the KKK as heroes, leading to a growth in the group during the 1900s.
-[ANS] Birth of a Nation
+[QT] SAQ
+[T] 7.8
+[Q] This film portrayed the KKK as heroes, leading to a growth in the group during the 1900s.
+[A] Birth of a Nation
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] Women developed a unique fashion style during the Roaring 20s, known as "______".
-[ANS] Flappers
+[QT] SAQ
+[T] 7.8
+[Q] Women developed a unique fashion style during the Roaring 20s, known as "______".
+[A] Flappers
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] The growth of African-American culture in the Roaring 20s was known as the ____ ________.
-[ANS] Harlem Renaissance
+[QT] SAQ
+[T] 7.8
+[Q] The growth of African-American culture in the Roaring 20s was known as the ____ ________.
+[A] Harlem Renaissance
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] During the 1920s, this party had complete control over the presidency & Congress.
-[ANS] Republican
+[QT] SAQ
+[T] 7.8
+[Q] During the 1920s, this party had complete control over the presidency & Congress.
+[A] Republican
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] This president was notable for pardoning Eugene V. Debs.
-[ANS] Warren Harding
-[ANS] Harding
+[QT] SAQ
+[T] 7.8
+[Q] This president was notable for pardoning Eugene V. Debs.
+[A] Warren Harding
+[A] Harding
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.8
-[QUESTION] This president ironically won by promising to extend "Coolidge Prosperity".
-[ANS] Herbert Hoover
-[ANS] Hoover
+[QT] SAQ
+[T] 7.8
+[Q] This president ironically won by promising to extend "Coolidge Prosperity".
+[A] Herbert Hoover
+[A] Hoover
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.9
-[QUESTION] Black Thursday & Black Tuesday marked the start of the _____ ________.
-[ANS] Great Depression
+[QT] SAQ
+[T] 7.9
+[Q] Black Thursday & Black Tuesday marked the start of the _____ ________.
+[A] Great Depression
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.9
-[QUESTION] One cause of the Great Depression was this investment technique, where people borrowed most of the cost of a stock.
-[ANS] Margin
-[ANS] Buying on Margin
+[QT] SAQ
+[T] 7.9
+[Q] One cause of the Great Depression was this investment technique, where people borrowed most of the cost of a stock.
+[A] Margin
+[A] Buying on Margin
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.9
-[QUESTION] Herbert Hoover attempted to solve the Great Depression through signing this (general term works too):
-[ANS] Hawley-Smoot Tariff
-[ANS] Tariff
+[QT] SAQ
+[T] 7.9
+[Q] Herbert Hoover attempted to solve the Great Depression through signing this (general term works too):
+[A] Hawley-Smoot Tariff
+[A] Tariff
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.9
-[QUESTION] This march by war veterans was the final nail in the coffin for the Republican domination of government in the 1920s.
-[ANS] Bonus March
+[QT] SAQ
+[T] 7.9
+[Q] This march by war veterans was the final nail in the coffin for the Republican domination of government in the 1920s.
+[A] Bonus March
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] To solve the Great Depression, Democrats nominated:
-[ANS] FDR
-[ANS] Franklin Roosevelt
-[ANS] Franklin Delano Roosevelt
+[QT] SAQ
+[T] 7.10
+[Q] To solve the Great Depression, Democrats nominated:
+[A] FDR
+[A] Franklin Roosevelt
+[A] Franklin Delano Roosevelt
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] Amendment #__ shortened the period between election & inauguration to deal with a certain "lame-duck" president.
-[ANS] 20
+[QT] SAQ
+[T] 7.10
+[Q] Amendment #__ shortened the period between election & inauguration to deal with a certain "lame-duck" president.
+[A] 20
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] FDR's New Deal Philosophy emphasized these three actions, referred to as the "____ __".
-[ANS] Three Rs
-[ANS] 3R
-[ANS] 3Rs
+[QT] SAQ
+[T] 7.10
+[Q] FDR's New Deal Philosophy emphasized these three actions, referred to as the "____ __".
+[A] Three Rs
+[A] 3R
+[A] 3Rs
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] FDR used a "_____ _____" of university professors who gave him economic advice.
-[ANS] Brain Trust
+[QT] SAQ
+[T] 7.10
+[Q] FDR used a "_____ _____" of university professors who gave him economic advice.
+[A] Brain Trust
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This person was the first woman in a President's cabinet.
-[ANS] Francis Perkins
+[QT] SAQ
+[T] 7.10
+[Q] This person was the first woman in a President's cabinet.
+[A] Francis Perkins
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This "first" session of Congress was used to help FDR pass laws to relieve the Great Depression.
-[ANS] First Hundred Days
-[ANS] Hundred Days
+[QT] SAQ
+[T] 7.10
+[Q] This "first" session of Congress was used to help FDR pass laws to relieve the Great Depression.
+[A] First Hundred Days
+[A] Hundred Days
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] FDR passed a ____ ______ to allow banks to re-open after the initial shock.
-[ANS] Bank Holiday
+[QT] SAQ
+[T] 7.10
+[Q] FDR passed a ____ ______ to allow banks to re-open after the initial shock.
+[A] Bank Holiday
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] FDR used these radio messages to speak with the American public, informing & inspiring them.
-[ANS] Fireside Chats
+[QT] SAQ
+[T] 7.10
+[Q] FDR used these radio messages to speak with the American public, informing & inspiring them.
+[A] Fireside Chats
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] Directed by Harold Ickes, this 1930s program gave money to state governments to build public infrastructure.
-[ANS] Public Works Administration
-[ANS] PWA
+[QT] SAQ
+[T] 7.10
+[Q] Directed by Harold Ickes, this 1930s program gave money to state governments to build public infrastructure.
+[A] Public Works Administration
+[A] PWA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s program both supported conservation & created jobs for young men.
-[ANS] Civilian Conservation Corps
-[ANS] CCC
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s program both supported conservation & created jobs for young men.
+[A] Civilian Conservation Corps
+[A] CCC
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s program provided support to the struggling people of a certain state valley.
-[ANS] Tennessee Valley Authority
-[ANS] TVA
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s program provided support to the struggling people of a certain state valley.
+[A] Tennessee Valley Authority
+[A] TVA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s law allowed the government to judge which banks were safe to re-open during the Bank Holiday.
-[ANS] Emergency Banking Relief Act
-[ANS] EBRA
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s law allowed the government to judge which banks were safe to re-open during the Bank Holiday.
+[A] Emergency Banking Relief Act
+[A] EBRA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s program insured the individual deposits of the public into banks, in case the bank failed.
-[ANS] Federal Deposit Insurance Corporation
-[ANS] FDIC
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s program insured the individual deposits of the public into banks, in case the bank failed.
+[A] Federal Deposit Insurance Corporation
+[A] FDIC
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s program combined immediate relief with long-term reform by ensuring safe working conditions & legalizing unionizing.
-[ANS] National Recovery Administration
-[ANS] NRA
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s program combined immediate relief with long-term reform by ensuring safe working conditions & legalizing unionizing.
+[A] National Recovery Administration
+[A] NRA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] The NRA (National Recovery Administration) was declared unconstitutional by this court case.
-[ANS] Schechter v. US
+[QT] SAQ
+[T] 7.10
+[Q] The NRA (National Recovery Administration) was declared unconstitutional by this court case.
+[A] Schechter v. US
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s program gave subsidies to farmers in order to reduce production & boost prices.
-[ANS] Agricultural Adjustment Administration
-[ANS] AAA
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s program gave subsidies to farmers in order to reduce production & boost prices.
+[A] Agricultural Adjustment Administration
+[A] AAA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s program regulated the stock market to prevent future crashes.
-[ANS] Security & Exchange Commission
-[ANS] SEC
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s program regulated the stock market to prevent future crashes.
+[A] Security & Exchange Commission
+[A] SEC
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s program allowed the American public to purchase houses more easily.
-[ANS] Federal Housing Administration
-[ANS] FHA
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s program allowed the American public to purchase houses more easily.
+[A] Federal Housing Administration
+[A] FHA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s program in the Second New Deal employed thousands of construction workers and artists (writers, actors, etc.).
-[ANS] Works Progress Administration
-[ANS] WPA
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s program in the Second New Deal employed thousands of construction workers and artists (writers, actors, etc.).
+[A] Works Progress Administration
+[A] WPA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s law replaced the NRA and gave workers the right to unionize.
-[ANS] Wagner Act
-[ANS] National Labor Relations Act
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s law replaced the NRA and gave workers the right to unionize.
+[A] Wagner Act
+[A] National Labor Relations Act
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s law/program provided limited welfare to the retired & disabled.
-[ANS] Social Security Act
-[ANS] SSA
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s law/program provided limited welfare to the retired & disabled.
+[A] Social Security Act
+[A] SSA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] (Socialists/Republicans) criticized the New Deal for helping big business instead of the public.
-[ANS] Socialists
+[QT] SAQ
+[T] 7.10
+[Q] (Socialists/Republicans) criticized the New Deal for helping big business instead of the public.
+[A] Socialists
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] (Socialists/Republicans) criticized the New Deal for giving the federal government too much power.
-[ANS] Republicans
+[QT] SAQ
+[T] 7.10
+[Q] (Socialists/Republicans) criticized the New Deal for giving the federal government too much power.
+[A] Republicans
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] In the Election of 1936, this group of people shifted from traditionally voting Republican to voting for FDR.
-[ANS] African-Americans
-[ANS] blacks
+[QT] SAQ
+[T] 7.10
+[Q] In the Election of 1936, this group of people shifted from traditionally voting Republican to voting for FDR.
+[A] African-Americans
+[A] blacks
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] Father Charles E. Coughlin, Dr. Francis E. Townsend, and Huey Long were examples of 1930s ________.
-[ANS] Demagogues
+[QT] SAQ
+[T] 7.10
+[Q] Father Charles E. Coughlin, Dr. Francis E. Townsend, and Huey Long were examples of 1930s ________.
+[A] Demagogues
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] FDR, frusted with the Supreme Court, attempted to do this, bringing harsh criticism.
-[ANS] Pack the Courts
-[ANS] Packing Courts
-[ANS] Court Packing
+[QT] SAQ
+[T] 7.10
+[Q] FDR, frusted with the Supreme Court, attempted to do this, bringing harsh criticism.
+[A] Pack the Courts
+[A] Packing Courts
+[A] Court Packing
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This union of unskilled workers led by John H. Lewis was a rival to the AFL.
-[ANS] Congress of Industrial Organization
-[ANS] CIO
+[QT] SAQ
+[T] 7.10
+[Q] This union of unskilled workers led by John H. Lewis was a rival to the AFL.
+[A] Congress of Industrial Organization
+[A] CIO
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s law regulated interstate commerce, established minimum wage, and added child labor restrictions.
-[ANS] Fair Labor Standards Act
-[ANS] FLSA
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s law regulated interstate commerce, established minimum wage, and added child labor restrictions.
+[A] Fair Labor Standards Act
+[A] FLSA
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] Also known as deficit spending, FDR adopted _________ economics to increase investment & create jobs.
-[ANS] Keynesian
+[QT] SAQ
+[T] 7.10
+[Q] Also known as deficit spending, FDR adopted _________ economics to increase investment & create jobs.
+[A] Keynesian
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] During the 1930s, many problems plagued the already struggling farmers as the Great Plains became a ____ ____.
-[ANS] Dust Bowl
+[QT] SAQ
+[T] 7.10
+[Q] During the 1930s, many problems plagued the already struggling farmers as the Great Plains became a ____ ____.
+[A] Dust Bowl
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.10
-[QUESTION] This 1930s law effectively repealed the Dawes Severalty Act.
-[ANS] Indian Reorganization Act
-[ANS] Wheeler-Howard Act
+[QT] SAQ
+[T] 7.10
+[Q] This 1930s law effectively repealed the Dawes Severalty Act.
+[A] Indian Reorganization Act
+[A] Wheeler-Howard Act
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] Presidents in the 1920s tried to promote peace by arranging treaties of ______.
-[ANS] Disarmament
+[QT] SAQ
+[T] 7.11
+[Q] Presidents in the 1920s tried to promote peace by arranging treaties of ______.
+[A] Disarmament
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] This agreement after WW1 renounced using force offensively, but was ineffective & didn't punish violators.
-[ANS] Kellogg-Briand Pact
+[QT] SAQ
+[T] 7.11
+[Q] This agreement after WW1 renounced using force offensively, but was ineffective & didn't punish violators.
+[A] Kellogg-Briand Pact
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] After WW1, European countries had difficulty paying ___ ____ to the US.
-[ANS] War Debts
+[QT] SAQ
+[T] 7.11
+[Q] After WW1, European countries had difficulty paying ___ ____ to the US.
+[A] War Debts
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] This plan established a cycle of reparations: US Banks -> Germany -> Reparations to Britain & France -> US
-[ANS] Dawes
-[ANS] Dawes Plan
+[QT] SAQ
+[T] 7.11
+[Q] This plan established a cycle of reparations: US Banks -> Germany -> Reparations to Britain & France -> US
+[A] Dawes
+[A] Dawes Plan
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] When Japan invaded Manchuria (violating the Open Door Policy), the US issued this:
-[ANS] Stimson Doctrine
+[QT] SAQ
+[T] 7.11
+[Q] When Japan invaded Manchuria (violating the Open Door Policy), the US issued this:
+[A] Stimson Doctrine
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] The Stimson Doctrine was issued due to the actions of this country.
-[ANS] Japan
+[QT] SAQ
+[T] 7.11
+[Q] The Stimson Doctrine was issued due to the actions of this country.
+[A] Japan
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] FDR's foreign policy with Latin America was the "____-_______ Policy".
-[ANS] Good Neighbor
+[QT] SAQ
+[T] 7.11
+[Q] FDR's foreign policy with Latin America was the "____-_______ Policy".
+[A] Good Neighbor
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] During his presidency, FDR granted independence to this US-controlled territory.
-[ANS] Philippines
+[QT] SAQ
+[T] 7.11
+[Q] During his presidency, FDR granted independence to this US-controlled territory.
+[A] Philippines
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] Benito Mussolini was the leader of Italy's ______ Party.
-[ANS] Fascist
+[QT] SAQ
+[T] 7.11
+[Q] Benito Mussolini was the leader of Italy's ______ Party.
+[A] Fascist
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] Adolf Hitler was the leader of Germany's ____ Party.
-[ANS] Nazi
+[QT] SAQ
+[T] 7.11
+[Q] Adolf Hitler was the leader of Germany's ____ Party.
+[A] Nazi
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] After WW1, America passed the _______ Acts to avoid entry into another European War.
-[ANS] Neutrality
+[QT] SAQ
+[T] 7.11
+[Q] After WW1, America passed the _______ Acts to avoid entry into another European War.
+[A] Neutrality
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] Europe let Hitler get away with small aggressions, a policy called _________.
-[ANS] Appeasement
+[QT] SAQ
+[T] 7.11
+[Q] Europe let Hitler get away with small aggressions, a policy called _________.
+[A] Appeasement
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] Hitler made this agreement (which he later broke) promising not to invade any more territories.
-[ANS] Munich
-[ANS] Munich Agreement
+[QT] SAQ
+[T] 7.11
+[Q] Hitler made this agreement (which he later broke) promising not to invade any more territories.
+[A] Munich
+[A] Munich Agreement
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] This WW2 tactic helped the Germans score decisive early victories.
-[ANS] Blitzkrieg
+[QT] SAQ
+[T] 7.11
+[Q] This WW2 tactic helped the Germans score decisive early victories.
+[A] Blitzkrieg
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] This policy during WW2 allowed the US to sell arms to those who paid in cash.
-[ANS] Cash & Carry
+[QT] SAQ
+[T] 7.11
+[Q] This policy during WW2 allowed the US to sell arms to those who paid in cash.
+[A] Cash & Carry
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] This policy during WW2 effectively replaced "Cash-and-carry".
-[ANS] Lend-Lease
-[ANS] Lend-Lease Act
+[QT] SAQ
+[T] 7.11
+[Q] This policy during WW2 effectively replaced "Cash-and-carry".
+[A] Lend-Lease
+[A] Lend-Lease Act
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] What was the last US arms policy before its entry into WW2?
-[ANS] Lend-Lease
-[ANS] Lend-Lease Act
+[QT] SAQ
+[T] 7.11
+[Q] What was the last US arms policy before its entry into WW2?
+[A] Lend-Lease
+[A] Lend-Lease Act
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.11
-[QUESTION] WW2 started when Hitler did this.
-[ANS] Invaded Poland
-[ANS] Poland
+[QT] SAQ
+[T] 7.11
+[Q] WW2 started when Hitler did this.
+[A] Invaded Poland
+[A] Poland
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.12
-[QUESTION] Just like in WW1, this was main challenge of the US entering WW2.
-[ANS] Mobilization
+[QT] SAQ
+[T] 7.12
+[Q] Just like in WW1, this was main challenge of the US entering WW2.
+[A] Mobilization
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.12
-[QUESTION] Popular opinion for the WW2 was (supportive/indifferent/mixed/negative).
-[ANS] Supportive
+[QT] SAQ
+[T] 7.12
+[Q] Popular opinion for the WW2 was (supportive/indifferent/mixed/negative).
+[A] Supportive
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.12
-[QUESTION] This attack caused the US to join WW2.
-[ANS] Pearl Harbor
+[QT] SAQ
+[T] 7.12
+[Q] This attack caused the US to join WW2.
+[A] Pearl Harbor
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.12
-[QUESTION] This racial group was heavily discriminated against during WW2.
-[ANS] Japan
-[ANS] Japanese
-[ANS] Japanese-American
+[QT] SAQ
+[T] 7.12
+[Q] This racial group was heavily discriminated against during WW2.
+[A] Japan
+[A] Japanese
+[A] Japanese-American
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.12
-[QUESTION] This court case upheld sending a certain racial group to internment camps in WW2.
-[ANS] Korematsu v. US
+[QT] SAQ
+[T] 7.12
+[Q] This court case upheld sending a certain racial group to internment camps in WW2.
+[A] Korematsu v. US
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.12
-[QUESTION] This court case in the 1940s made it illegal to deny party membership to exclude racial groups from primaries.
-[ANS] Smith v. Allwright
+[QT] SAQ
+[T] 7.12
+[Q] This court case in the 1940s made it illegal to deny party membership to exclude racial groups from primaries.
+[A] Smith v. Allwright
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.13
-[QUESTION] Germany's advance into the Soviet in WW2 ended mainly because of this battle.
-[ANS] Stalingrad
-[ANS] Battle of Stalingrad
+[QT] SAQ
+[T] 7.13
+[Q] Germany's advance into the Soviet in WW2 ended mainly because of this battle.
+[A] Stalingrad
+[A] Battle of Stalingrad
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.13
-[QUESTION] This decisive WW2 victory led to Germany's surrender.
-[ANS] D-Day
-[ANS] Invasion of Normandy
+[QT] SAQ
+[T] 7.13
+[Q] This decisive WW2 victory led to Germany's surrender.
+[A] D-Day
+[A] Invasion of Normandy
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.13
-[QUESTION] This decisive WW2 victory ended Japan's Pacific expansion.
-[ANS] Midway
-[ANS] Battle of Midway
+[QT] SAQ
+[T] 7.13
+[Q] This decisive WW2 victory ended Japan's Pacific expansion.
+[A] Midway
+[A] Battle of Midway
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.13
-[QUESTION] This WW2 general conquered the Philippines is famous for pledging to "return".
-[ANS] MacArthur
-[ANS] Douglas MacArthur
+[QT] SAQ
+[T] 7.13
+[Q] This WW2 general conquered the Philippines is famous for pledging to "return".
+[A] MacArthur
+[A] Douglas MacArthur
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.13
-[QUESTION] This WW2 scientist was the leader in developing the atomic bomb.
-[ANS] Oppenheimer
-[ANS] Robert Oppenheimer
+[QT] SAQ
+[T] 7.13
+[Q] This WW2 scientist was the leader in developing the atomic bomb.
+[A] Oppenheimer
+[A] Robert Oppenheimer
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.13
-[QUESTION] Atomic Bombs in WW2 were first used in this city:
-[ANS] Hiroshima
+[QT] SAQ
+[T] 7.13
+[Q] Atomic Bombs in WW2 were first used in this city:
+[A] Hiroshima
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.14
-[QUESTION] Name one of the members of the WW2 "Big Three".
-[ANS] FDR
-[ANS] Franklin Delano Roosevelt
-[ANS] Churchill
-[ANS] Stalin
+[QT] SAQ
+[T] 7.14
+[Q] Name one of the members of the WW2 "Big Three".
+[A] FDR
+[A] Franklin Delano Roosevelt
+[A] Churchill
+[A] Stalin
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.14
-[QUESTION] This wartime conference decided on policies after the victory against Hitler.
-[ANS] Yalta
-[ANS] Yalta Conference
+[QT] SAQ
+[T] 7.14
+[Q] This wartime conference decided on policies after the victory against Hitler.
+[A] Yalta
+[A] Yalta Conference
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.14
-[QUESTION] The Yalta Conference provided for the creation of this international committee.
-[ANS] United Nations
-[ANS] UN
+[QT] SAQ
+[T] 7.14
+[Q] The Yalta Conference provided for the creation of this international committee.
+[A] United Nations
+[A] UN
 [END]
 -------------------------------------------
-[QUESTION-TYPE] SAQ
-[TOPIC] 7.14
-[QUESTION] This wartime conference after the Yalta meeting displayed cracks between the Big Three.
-[ANS] Potsdam
-[ANS] Potsdam Conference
+[QT] SAQ
+[T] 7.14
+[Q] This wartime conference after the Yalta meeting displayed cracks between the Big Three.
+[A] Potsdam
+[A] Potsdam Conference
 [END]
 -------------------------------------------

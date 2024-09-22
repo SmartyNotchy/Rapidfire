@@ -507,9 +507,9 @@ function parse_qset_lines(lines) {
         }
 
         if (currentlyParsingQ) {
-            if (line[0] == "QUESTION") {
+            if (line[0] == "Q") {
                 currentQObj.q = line[1];
-            } else if (line[0] == "TOPIC") {
+            } else if (line[0] == "T") {
                 currentQTopic = line[1];
                 currentQObj.topic = currentQTopic;
             } else if (line[0] == "END") {
@@ -526,16 +526,18 @@ function parse_qset_lines(lines) {
                 currentlyParsingQ = false;
             } else {
                 if (currentQType == "SAQ") {
-                    if (line[0] == "ANS" || line[0] == "EXANS") {
+                    if (line[0] == "A" || line[0] == "EXA") { // TODO FIX
                         currentQObj.correctAnswers.push(line[1]);
                     } else  {
-                        throw new Error(`[PARSE] Unrecognized identifier "${line[0]}"`);
+                        throw new Error(`[PARSE] Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
                     }
                 } else if (currentQType == "MCQ") {
                     if (line[0] == "CA") {
                         currentQObj.correctAnswer = line[1];
                     } else if (line[0] == "WA") {
                         currentQObj.wrongAnswers.push(line[1]);
+                    } else if (line[0] == "NS") {
+                        // TODO
                     }
                 }
             }           
@@ -545,7 +547,7 @@ function parse_qset_lines(lines) {
                     throw new Error(`[PARSE] Preset name already defined (${PRESET_NAME})`);
                 }
                 PRESET_NAME = line[1];
-            } else if (line[0] == "QUESTION-TYPE") {
+            } else if (line[0] == "QT") {
                 currentQType = line[1];
                 currentlyParsingQ = true;
                 if (currentQType == "SAQ") {
@@ -556,7 +558,7 @@ function parse_qset_lines(lines) {
                     throw new Error(`[PARSE] Unrecognized question type "${line[1]}"`);
                 }
             } else {
-                throw new Error(`[PARSE] Unrecognized identifier "${line[0]}"`);
+                throw new Error(`[PARSE] Unrecognized identifier "${line[0]} (with arg "${line[1]}")"`);
             }
         }
     }
