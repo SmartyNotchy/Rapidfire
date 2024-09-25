@@ -2,7 +2,7 @@
 /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */
 /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */ /* HELPER FUNCTIONS */
 
-// Written by ChatGPT
+// Helper Functions Written by ChatGPT
 
 // Seeded pseudo-random number generator using xorshift
 function seeded_random(seed) {
@@ -345,7 +345,7 @@ class MCQOption {
         // Option Answer Text
         this.answerText = document.createElement('p');
         this.answerText.classList.add('scq_mcq_text');
-        this.answerText.textContent = desc;
+        this.answerText.innerHTML = desc;
 
         this.button.appendChild(this.buttonLetter);
         this.button.appendChild(this.answerText);

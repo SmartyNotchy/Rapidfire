@@ -323,7 +323,7 @@
 -------------------------------------------
 [QT] MCQ
 [T] NSL 1.6
-[Q] Which of the following is **NOT** a way for citizens to interact with the judicial branch?
+[Q] Which of the following is NOT a way for citizens to interact with the judicial branch?
 [CA] Challenging unfair government action
 [WA] Appealing wrongful convictions
 [WA] Questioning the constitutionality of certain policies

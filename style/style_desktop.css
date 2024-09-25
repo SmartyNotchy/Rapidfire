@@ -15,6 +15,23 @@ button {
     cursor: pointer;
 }
 
+/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
+/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
+/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
+/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
+/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
+
+#vers_div {
+    width: 100vw;
+    height: 100vh;
+    
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+    z-index: -1;
+}
+
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
@@ -188,8 +205,6 @@ button {
     text-align: left;
     padding-left: 30px;
     padding-right: 30px;
-
-    overflow: scroll;
 
     position: relative;
 }

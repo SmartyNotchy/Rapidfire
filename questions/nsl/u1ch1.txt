@@ -176,7 +176,7 @@
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*The lawmaking __process__ in Congress (by Reps & Senators)*
+[Q] Name the representative democracy that best fits the following description:<br>*The lawmaking process in Congress (by Reps & Senators)*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]

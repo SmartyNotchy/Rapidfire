@@ -28,6 +28,13 @@ function trim_lower(str) {
     return str.trim().toLowerCase();
 }
 
+function format_markdown_text(text) {
+    return text
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')   // Bold: **text**
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')               // Italic: *text*
+        .replace(/\n/g, '<br>');                            // Newline: \n
+}
+
 function get_qset_lines(filePath) {
     // Open & Read .txt File
     const content = fetch(filePath).then(response => {
@@ -37,7 +44,7 @@ function get_qset_lines(filePath) {
         }
         return response.text();
     }).then(text => {
-        const lines = text.split("\n").map(line => line.trim());
+        const lines = text.split("\n").map(line => format_markdown_text(line.trim()));
         return lines;
     }).catch(error => {
         console.error(`Error while fetching ${filePath}: ${error}`);
