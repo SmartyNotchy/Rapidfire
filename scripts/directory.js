@@ -13,6 +13,13 @@ const DIRECTORY = {
             "u1ch1", "u1ch2", "u1ch3"
         ]
     },
+    "ESS": {
+        "plaintext": "AP Environmental Science",
+        "path": "./questions/ess/",
+        "files": [
+            "01_bgc"
+        ]
+    }
     /*"DEBUG": {
         "plaintext": "Debug Question Sets",
         "path": "../questions/debug/",
@@ -93,7 +100,6 @@ function parse_qset_lines(lines) {
                 TOPICS[currentTopic].push(currentQObj);
                 
                 currentQType = undefined;
-                currentQTopic = undefined;
                 currentQObj = undefined;
 
                 currentlyParsingQ = false;
@@ -101,7 +107,7 @@ function parse_qset_lines(lines) {
                 if (currentQType == "SAQ") {
                     if (line[0] == "A" || line[0] == "EXA") { // TODO FIX
                         currentQObj.correctAnswers.push(line[1]);
-                    } else  {
+                    } else if (line[0] != "T") { // TODO FIX
                         throw new Error(`[PARSE] Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
                     }
                 } else if (currentQType == "MCQ") {
@@ -111,6 +117,8 @@ function parse_qset_lines(lines) {
                         currentQObj.wrongAnswers.push(line[1]);
                     } else if (line[0] == "NS") {
                         // TODO
+                    } else {
+
                     }
                 }
             }           
@@ -124,9 +132,9 @@ function parse_qset_lines(lines) {
                 currentQType = line[1];
                 currentlyParsingQ = true;
                 if (currentQType == "SAQ") {
-                    currentQObj = new SAQQuestion(undefined, undefined, []);
+                    currentQObj = new SAQQuestion(undefined, currentTopic, []);
                 } else if (currentQType == "MCQ") {
-                    currentQObj = new MCQQuestion(undefined, undefined, [], []);
+                    currentQObj = new MCQQuestion(undefined, currentTopic, [], []);
                 } else {
                     throw new Error(`[PARSE] Unrecognized question type "${line[1]}"`);
                 }

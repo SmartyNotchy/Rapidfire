@@ -1,0 +1,208 @@
+[PRESET] Bio-Geo-Chemical Cycles
+[T] Carbon Cycle
+-------------------------------------------
+[QT] MCQ
+[Q] The Carbon Cycle can be divided into two "types" of cycles:
+[CA] Fast/Slow
+[WA] Biologic/Geologic
+[WA] Atmospheric/Oceanic
+[WA] Terrestrial/Extraterrestrial
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The storage of an element (i.e. carbon) out of the atmosphere is called:
+[A] Sequester
+[A] Sequestration
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Trees sequester ______________ through transpiration & respiration.
+[A] Carbon
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The microscopic shells in places like the White Cliffs of Dover are called:
+[A] Tests
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Phytoplankton synthesize ____ in the ocean to form the tests on the Cliffs of Dover.
+[EXA] CaCO3
+[A] Calcium Carbonate
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The formation of the White Cliffs of Dover is a (fast/slow) sequestration process.
+[A] slow
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] ________ is another word for "mountain building", and this type of uplift is a carbon source.
+[A] Orogeny
+[A] Orogenic
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] The Ocean is a carbon:
+[WA] Sink
+[WA] Source
+[CA] Both Sink & Source
+[WA] Feedback Loop
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] As temperatures increase, oceans release some of the dissolved CO2, causing further temperature rises. This is an example of a:
+[A] Positive Feedback Loop
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] In your house, your thermostat constantly oscillates your room temperature to keep it as close as possible to the set value. This is an example of a:
+[A] Negative Feedback Loop
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the formula of **carbonic acid**.\n(*Answer Format: H2O, Na(1+)*)
+[EXA] H2CO3
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the formula of **bicarbonate**.\n(*Answer Format: H2O, Na(1+)*)
+[EXA] HCO3(-)
+[EXA] HCO3(1-)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the formula of **carbonate**.\n(*Answer Format: H2O, Na(1+)*)
+[EXA] CO3(2-)
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Carbonate & bicarbonate are both:
+[CA] Anions
+[WA] Cations
+[WA] Noble Gases
+[WA] Salts
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Hydrogen ions are:
+[CA] Cations
+[WA] Anions
+[WA] Compounds
+[WA] Salts
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Why is excess H+ in the ocean a problem?
+[CA] Spare H+ attacks shells of tests, breaking up CaCO3
+[WA] Spare H+ attacks baby organisms, preventing them from getting necessary CO3(2-)
+[WA] Excess H+ increases the pH of ocean water, killing off marine ecosystems
+[WA] Excess H+ directly stresses coral, causing coral bleaching
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Why is excess H+ in the ocean a problem?
+[WA] Spare H+ causes increased test production, causing a dangerous imbalance between shells and organisms
+[CA] Spare H+ steals CO3(2-) from the baby ocean organisms that need it to build their shells
+[WA] Excess H+ increases the pH of ocean water, killing off marine ecosystems
+[WA] Excess H+ directly stresses coral, causing coral bleaching
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is NOT a cause of coral bleaching?
+[CA] Algal Blooms
+[WA] Increased Turbidity
+[WA] Rising Ocean Temperatures
+[WA] Pollution Runoff (i.e. Herbicides)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The loss of _____ in coral is the direct cause of coral bleaching & death, and explains the sudden color loss.
+[A] Algae
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Coral & algae have a ________ relationship with each other.
+[A] Symbiotic
+[END]
+-------------------------------------------
+[T] Phosphorus Cycle
+-------------------------------------------
+[QT] SAQ
+[Q] ________ is the process where dissolved ions are transported from one ground layer to another.
+[A] Leaching
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is a similarity between the Carbon & Phosphorus Cycles?
+[CA] Both have short & long-term sequestration
+[WA] Both involve the transportation of solely solid substances
+[WA] Both involve both ground & atmospheric cycles
+[WA] Both are present in the transpiration & respiration of trees
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Weathering, Sedimentation, and Lithification are part of _______-term Phosphorus sequestration.
+[A] Long
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is a major part of the short-term Phosphorus cycle?
+[CA] Animal waste/decay
+[WA] Air pollution
+[WA] Phosphorus Mining
+[WA] Evapotranspiration
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Because Phosphorus is such a good fertilizer, large amounts of it in runoff causes this condition.
+[A] Eutrophication
+[A] Eutrophic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] ___________ is the condition where a body of water has too many nutrients, leading to problems like algal blooms and fish kills.
+[A] Eutrophication
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] How does deforestation impact the Phosphorus cycle?
+[CA] Deforestation leads to a loss of phosphates in soil due to precipitation & leaching
+[WA] Deforestation removes a major source of evapotranspiration, causing decreased runoff
+[WA] Deforestation disrupts the long-term sequestration of phosphorus in trees like redwoods and sequoias
+[WA] Deforestation has no impact on the Phosphorus cycle; rather, it impacts the Carbon cycle.
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _______ conditions arise when there is too little oxygen in soil.
+[A] Hypoxic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _______ conditions arise when there is no more oxygen in soil.
+[A] Anoxic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Eutrophic conditions in lakes lead to the development of _____ ____.
+[A] Algae Mats
+[A] Algal Blooms
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is NOT a cause of hypoxic/anoxic conditions in bodies of water with algal blooms?
+[CA] Algae requires a lot of oxygen to grow, so it sucks it all up
+[WA] Algae dies fast, causing a decomposer population spike, which in turn respires more oxygen
+[WA] Algae mats block sunlight from reaching SAVs, cutting off a source of oxygen
+[WA] Runoff containing P & N ions supplies algae with the nutrients needed to form algae mats
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is NOT a result of eutrophic conditions in water bodies?
+[CA] Decaying of tests
+[WA] Fish Kills
+[WA] Algal Blooms
+[WA] More Decomposers
+-------------------------------------------
+[T] Nitrogen Cycle
+-------------------------------------------
