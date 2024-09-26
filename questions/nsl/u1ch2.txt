@@ -116,7 +116,7 @@
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.5
-[Q] What two things did the Constitution say about slavery?<br>(*Answer with both letters: i.e. AB*)<br>A: Slaves didn't contribute to population (for representation)<br>B: Slaves were fully counted to population<br>C: Slaves counted as 3/5ths of a person for population<br>D: Immediately ended the international slave trade<br>E: International slave trade couldn't be ended for at least 20 years<br>F: International slave trade could only be ended with a 2/3 supermajority in Congress
+[Q] What two things did the Constitution say about slavery?\n(*Answer with both letters: i.e. AB*)\nA: Slaves didn't contribute to population (for representation)\nB: Slaves were fully counted to population\nC: Slaves counted as 3/5ths of a person for population\nD: Immediately ended the international slave trade\nE: International slave trade couldn't be ended for at least 20 years\nF: International slave trade could only be ended with a 2/3 supermajority in Congress
 [EXA] CE
 [END]
 -------------------------------------------
@@ -311,13 +311,13 @@
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.6
-[Q] Citizens can file complaints through _______ to assure enforcement/fairness in law, and can even report some federal crimes to these.<br>(Hint: Examples of these are the ||Equal Employment Opportunity Commission, the FBI, and the Drug Enforcement Administration||)
+[Q] Citizens can file complaints through _______ to assure enforcement/fairness in law, and can even report some federal crimes to these.\n(Hint: EEOC, the FBI, and the DEA)
 [A] Agencies
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.6
-[Q] _________ ______ is used by the judicial branch as its main way to check the legislative & executive branches.<br>(Hint: This power isn't directly mentioned in the Constitution!)
+[Q] _________ ______ is used by the judicial branch as its main way to check the legislative & executive branches.\n(Hint: This power isn't directly mentioned in the Constitution!)
 [A] Judicial Review
 [END]
 -------------------------------------------

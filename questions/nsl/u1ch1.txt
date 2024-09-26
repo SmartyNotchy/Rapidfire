@@ -92,91 +92,91 @@
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Emphasizes broad involvement of citizens in politics*
+[Q] Name the representative democracy that best fits the following description:\n*Emphasizes broad involvement of citizens in politics*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Citizens vote directly on laws and matters instead of electing representatives*
+[Q] Name the representative democracy that best fits the following description:\n*Citizens vote directly on laws and matters instead of electing representatives*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Unwieldy with large populations*
+[Q] Name the representative democracy that best fits the following description:\n*Unwieldy with large populations*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*The US Constitution allows this at local & state levels*
+[Q] Name the representative democracy that best fits the following description:\n*The US Constitution allows this at local & state levels*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*People organize into interest groups to influence politics*
+[Q] Name the representative democracy that best fits the following description:\n*People organize into interest groups to influence politics*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Changing policy is slow due to competition among various interests*
+[Q] Name the representative democracy that best fits the following description:\n*Changing policy is slow due to competition among various interests*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Allows many people, regardless of class, to voice interests*
+[Q] Name the representative democracy that best fits the following description:\n*Allows many people, regardless of class, to voice interests*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Elected representatives make decisions for the people who elect them*
+[Q] Name the representative democracy that best fits the following description:\n*Elected representatives make decisions for the people who elect them*
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Prevents popular but unwise decisions from being rushed to policy*
+[Q] Name the representative democracy that best fits the following description:\n*Prevents popular but unwise decisions from being rushed to policy*
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Found in the Senate & House of Representatives*
+[Q] Name the representative democracy that best fits the following description:\n*Found in the Senate & House of Representatives*
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*Reflected by a strong central government*
+[Q] Name the representative democracy that best fits the following description:\n*Reflected by a strong central government*
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*States are given the freedom to make local decisions*
+[Q] Name the representative democracy that best fits the following description:\n*States are given the freedom to make local decisions*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Name the representative democracy that best fits the following description:<br>*The lawmaking process in Congress (by Reps & Senators)*
+[Q] Name the representative democracy that best fits the following description:\n*The lawmaking process in Congress (by Reps & Senators)*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]
@@ -239,7 +239,7 @@
 -------------------------------------------
 [QT] SAQ
 [T] NSL 1.2
-[Q] Pluralist Democracy is used today through the influence of _______ ______.<br>(Hint: Examples of these are the NAACP, NOW, and NRA)
+[Q] Pluralist Democracy is used today through the influence of _______ ______.\n(Hint: Examples of these are the NAACP, NOW, and NRA)
 [A] Interest Groups
 [END]
 -------------------------------------------
