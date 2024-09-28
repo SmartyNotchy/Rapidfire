@@ -1,6 +1,8 @@
 [PRESET] Chapter 1 (Founding Principles)
-[QT] MCQ
+-------------------------------------------
 [T] NSL 1.1
+-------------------------------------------
+[QT] MCQ
 [Q] What message did Hobbes & *The Leviathan* send?
 [CA] Everyone gives up rights so a leader can run for the good of society
 [WA] No one can be subjected to political rule without consent
@@ -9,7 +11,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.1
 [Q] Which Enlightenment author believed that everybody gave up rights so leaders could run society?
 [CA] Hobbes (*The Leviathan*)
 [WA] John Locke (Natural Law)
@@ -18,7 +19,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.1
 [Q] What message did John Locke and Natural Law send?
 [WA] Everyone gives up rights so a leader can run for the good of society
 [CA] No one can be subjected to political rule without consent
@@ -27,7 +27,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.1
 [Q] Which Enlightenment author believed that nobody should be subjected to political rule without their consent?
 [WA] Hobbes (*The Leviathan*)
 [CA] John Locke (Natural Law)
@@ -36,7 +35,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.1
 [Q] What message did Rosseau & *The Social Contract* send?
 [WA] Everyone gives up rights so a leader can run for the good of society
 [WA] No one can be subjected to political rule without consent
@@ -45,7 +43,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.1
 [Q] Which Enlightenment author believed that power rested with the people?
 [WA] Hobbes (*The Leviathan*)
 [WA] John Locke (Natural Law)
@@ -54,7 +51,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.1
 [Q] What message did Montesquieu and *The Spirit of the Laws* send?
 [WA] Everyone gives up rights so a leader can run for the good of society
 [WA] No one can be subjected to political rule without consent
@@ -63,7 +59,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.1
 [Q] Which Enlightenment author believed in checks & balances in branches across the government?
 [WA] Hobbes (*The Leviathan*)
 [WA] John Locke (Natural Law)
@@ -72,135 +67,117 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.1
 [Q] This document was written to provide a moral & legal justification for the Revolution.
 [A] Declaration of Independence
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.1
 [Q] This document was written to replace the ineffective Articles of Confederation.
 [A] Constitution
 [A] US Constitution
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.1
 [Q] A _____ _____ is a collection of sovereign states gathered for national interests.
 [A] Representative Republic
 [END]
 -------------------------------------------
-[QT] SAQ
 [T] NSL 1.2
+-------------------------------------------
+[QT] SAQ
 [Q] Name the representative democracy that best fits the following description:\n*Emphasizes broad involvement of citizens in politics*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*Citizens vote directly on laws and matters instead of electing representatives*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*Unwieldy with large populations*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*The US Constitution allows this at local & state levels*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*People organize into interest groups to influence politics*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*Changing policy is slow due to competition among various interests*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*Allows many people, regardless of class, to voice interests*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*Elected representatives make decisions for the people who elect them*
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*Prevents popular but unwise decisions from being rushed to policy*
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*Found in the Senate & House of Representatives*
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*Reflected by a strong central government*
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*States are given the freedom to make local decisions*
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Name the representative democracy that best fits the following description:\n*The lawmaking process in Congress (by Reps & Senators)*
 [A] Pluralist
 [A] Pluralist Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] This political group supported the full ratification of the Constitution.
 [A] Federalists
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] The Federalists supported a (strong/weak) federal government.
 [A] strong
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] *Federalist No. __* argued about the effectiveness of representatives and the division of national & local issues.
 [EXA] 10
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.2
 [Q] *Federalist No. 10* argued that:
 [CA] National issues should be left to the federal govt., and state issues to state govt.
 [WA] Seperate state govts. should be loosely tied together by a weak federal govt. to handle national issues.
@@ -209,20 +186,17 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] This political group opposed the full ratification of the Constitution.
 [A] Anti-Federalists
 [A] Anti-Feds
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] *Brutus No. __* argued that the federal government should be weak & loosely tie together state govts.
 [EXA] 1
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.2
 [Q] *Brutus No. 1* argued that:
 [WA] National issues should be left to the federal govt., and state issues to state govt.
 [CA] Seperate state govts. should be loosely tied together by a weak federal govt. to handle national issues.
@@ -231,38 +205,34 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Initiatives and referendums are both ways examples of this type of representative democracy today.
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.2
 [Q] Pluralist Democracy is used today through the influence of _______ ______.\n(Hint: Examples of these are the NAACP, NOW, and NRA)
 [A] Interest Groups
 [END]
 -------------------------------------------
-[QT] SAQ
 [T] NSL 1.3
+-------------------------------------------
+[QT] SAQ
 [Q] Under the Articles of Confederation, the (state/federal) govt. was more powerful.
 [A] State
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.3
 [Q] *Federalist No. __* addressed the "mischiefs of faction" handled by the Constitution.
 [EXA] 10
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.3
 [Q] *Federalist No. 10* addressed the danger of a few elite uniting into a ______ (interest group).
 [A] faction
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.3
 [Q] What did *Federalist No. 10* say about the Constitution in regard to factions?
 [WA] Factions are inevitable, and no form of government can stop them, so no need to do anything
 [WA] Factions will inevitably rise and fight against each other, preventing laws benefiting the common good under a large central govt.
@@ -271,19 +241,16 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.3
 [Q] Congress's power to take any "_________ ___ ______" actions was suspicious to Anti-Feds.
 [A] Necessary And Proper
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.3
 [Q] *Brutus No. __* argued that the "necessary and proper" and supremacy clauses gave the federal govt. unlimited power.
 [EXA] 1
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.3
 [Q] What did *Brutus No. 1* say about "necessary and proper" and supremacy clauses?
 [WA] They were unnecessary & ineffective
 [CA] They gave the federal govt. too much power
@@ -292,7 +259,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.3
 [Q] What did *Brutus No. 1* say about the Constitution in regard to factions?
 [WA] Factions are inevitable, and no form of government can stop them, so no need to do anything
 [CA] Factions will inevitably rise and fight against each other, preventing laws benefiting the common good under a large central govt.
