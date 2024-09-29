@@ -17,7 +17,7 @@ const DIRECTORY = {
         "plaintext": "Earth & Space Systems",
         "path": "./questions/ess/",
         "files": [
-            "ch3"
+            "ch3", "ch4"
         ]
     }
     /*"DEBUG": {
