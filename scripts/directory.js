@@ -83,7 +83,10 @@ function parse_qset_lines(lines) {
     let currentQObj = undefined;
     let currentlyParsingQ = false;
 
+    let lineNum = 0;
+
     for (let line of lines) {
+        lineNum += 1;
         line = parse_qset_line(line);
         if (line[0] == null) {
             continue;
@@ -108,7 +111,7 @@ function parse_qset_lines(lines) {
                     if (line[0] == "A" || line[0] == "EXA") { // TODO FIX
                         currentQObj.correctAnswers.push(line[1]);
                     } else if (line[0] != "T") { // TODO FIX
-                        throw new Error(`[PARSE] Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
+                        throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
                     }
                 } else if (currentQType == "MCQ") {
                     if (line[0] == "CA") {
@@ -125,7 +128,7 @@ function parse_qset_lines(lines) {
         } else {
             if (line[0] == "PRESET") {
                 if (PRESET_NAME != undefined) {
-                    throw new Error(`[PARSE] Preset name already defined (${PRESET_NAME})`);
+                    throw new Error(`[PARSE] Line ${lineNum}: Preset name already defined (${PRESET_NAME})`);
                 }
                 PRESET_NAME = line[1];
             } else if (line[0] == "QT") {
@@ -136,12 +139,12 @@ function parse_qset_lines(lines) {
                 } else if (currentQType == "MCQ") {
                     currentQObj = new MCQQuestion(undefined, currentTopic, [], []);
                 } else {
-                    throw new Error(`[PARSE] Unrecognized question type "${line[1]}"`);
+                    throw new Error(`[PARSE] Line ${lineNum}: Unrecognized question type "${line[1]}"`);
                 }
             } else if (line[0] == "T") {
                 currentTopic = line[1];
             } else {
-                throw new Error(`[PARSE] Unrecognized identifier "${line[0]} (with arg "${line[1]}")"`);
+                throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]} (with arg "${line[1]}")"`);
             }
         }
     }

@@ -61,18 +61,17 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[Q] Write the formula of **carbonic acid**.\n(*Answer Format: H2O, Na(1+)*)
+[Q] Write the chemical formula of **carbonic acid**.\n*(Answer Format: H2O, Na(1+))*
 [EXA] H2CO3
 [END]
 -------------------------------------------
 [QT] SAQ
-[Q] Write the formula of **bicarbonate**.\n(*Answer Format: H2O, Na(1+)*)
-[EXA] HCO3(-)
+[Q] Write the chemical formula of **bicarbonate**.\n*(Answer Format: H2O, Na(1+))*
 [EXA] HCO3(1-)
 [END]
 -------------------------------------------
 [QT] SAQ
-[Q] Write the formula of **carbonate**.\n(*Answer Format: H2O, Na(1+)*)
+[Q] Write the chemical formula of **carbonate**.\n*(Answer Format: H2O, Na(1+))*
 [EXA] CO3(2-)
 [END]
 -------------------------------------------
@@ -204,5 +203,180 @@
 [WA] Algal Blooms
 [WA] More Decomposers
 -------------------------------------------
+[QT] MCQ
+[Q] Write the chemical formula of **phosphate**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] PO4(3-)
+[END]
+-------------------------------------------
 [T] Nitrogen Cycle
+-------------------------------------------
+[QT] MCQ
+[Q] Oxygen (O2) contains a(n) _______ bond.
+[CA] Double Covalent
+[WA] Single Covalent
+[WA] Triple Covalent
+[WA] Ionic
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Nitrogen (N2) contains a(n) ________ bond.
+[CA] Triple Covalent
+[WA] Double Covalent
+[WA] Single Covalent
+[WA] Ionic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Atmospheric N is all in the form of ___.\n*(Answer Format: H2O, Na(1+))*
+[EXA] N2
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Sometimes, lightning will break apart atmospheric N2 into its individual atoms, which is one way this process called ________ __________ occurs.
+[A] Nitrogen Fixation
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Most nitrogen fixation is caused by:
+[A] Nitrifying Bacteria
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Nitrifying bacteria are usually:
+[CA] Aerobic
+[WA] Anaerobic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] In the nitrogen cycle, sometimes usable N is converted back into atmospheric N2. This process mostly occurs through:
+[A] Denitrifying Bacteria
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Denitrifying bacteria are usually:
+[WA] Aerobic
+[CA] Anaerobic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] __________ enzymes convert into N2 into NH3.
+[A] Nitrogenase
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Nitrogenase enzymes convert N2 into NH3. This process is called:
+[A] Nitrogen Fixation
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _____________ are nitrifying bacteria that attach to the roots of legumes.
+[A] Rhizobia
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Why do farmers sometimes plant legumes in their fields, when there are more profitable crops they could grow?
+[CA] Legumes have rhizobia, which refresh the nitrogen in the soil
+[WA] Legumes have rhizobia, which help convert NH3 into more valuable NH4+
+[WA] Legumes have higher transpiration rates, which help boost next years' harvest
+[WA] Legume roots help retain phosphates in the soil & reduce runoff
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] When NH3 & H2O react in the Nitrogen Cycle, what is the product?\n*(Answer Format: H2O, Na(1+))*
+[EXA] NH4(1+)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] When aerobic (nitrifying) bacteria first oxidize NH4(1+), the result is:\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO2(1-)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] When aerobic (nitrifying) bacteria oxidize NO2(1-), the result is:\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO3(1-)
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Of the four nitrogen-containing compounds, which one can plants NOT use?
+[CA] NO2(1-)
+[WA] NO3(1-)
+[WA] NH3
+[WA] NH4(1+)
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Of the four nitrogen-containing compounds, which one can plants NOT use?
+[CA] Nitrite
+[WA] Nitrate
+[WA] Ammonia
+[WA] Ammonium
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] In the nitrogen cycle, decomposers break down dead organisms into NH3 and NH4(1+), a process called:
+[A] Ammonification
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _____________ bacteria in the nitrogen cycle convert NO2(1-) & NO3(1-) back into atmospheric N2.
+[A] Denitrifying
+[A] Anaerobic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **atmospheric nitrogen**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] N2
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **nitrate**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO3(1-)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **nitrite**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO2(1-)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **ammonia**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NH3
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **ammonium**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NH4(1+)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **nitrogen dioxide**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO2
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **nitrous oxide**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] N2O
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In the nitrogen cycle, _____ is great!
+[CA] Nitrate
+[WA] Nitrite
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In the nitrogen cycle, ______ is not right!
+[CA] Nitrite
+[WA] Nitrate
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Acid Rain occurs when water, oxygen, and **this nitrogen-containing gas** combine in the atmosphere.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO2
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the formula of this nitrogen-containing greenhouse gas that depletes the ozone layer.\n*(Answer Format: H2O, Na(1+))*
+[EXA] N2O
+[END]
 -------------------------------------------
