@@ -1,0 +1,383 @@
+[PRESET] Chapter 3 - BGC Cycles
+-------------------------------------------
+[T] Carbon Cycle
+-------------------------------------------
+[QT] MCQ
+[Q] The Carbon Cycle can be divided into two "types" of cycles:
+[CA] Fast/Slow
+[WA] Biologic/Geologic
+[WA] Atmospheric/Oceanic
+[WA] Terrestrial/Extraterrestrial
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The storage of an element (i.e. carbon) out of the atmosphere is called:
+[A] Sequester
+[A] Sequestration
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Trees sequester ______________ through transpiration & respiration.
+[A] Carbon
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The microscopic shells in places like the White Cliffs of Dover are called:
+[A] Tests
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Phytoplankton synthesize ____ in the ocean to form the tests on the Cliffs of Dover.
+[EXA] CaCO3
+[A] Calcium Carbonate
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The formation of the White Cliffs of Dover is a (fast/slow) sequestration process.
+[A] slow
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] ________ is another word for "mountain building", and this type of uplift is a carbon source.
+[A] Orogeny
+[A] Orogenic
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] The Ocean is a carbon:
+[WA] Sink
+[WA] Source
+[CA] Both Sink & Source
+[WA] Feedback Loop
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] As temperatures increase, oceans release some of the dissolved CO2, causing further temperature rises. This is an example of a:
+[A] Positive Feedback Loop
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] In your house, your thermostat constantly oscillates your room temperature to keep it as close as possible to the set value. This is an example of a:
+[A] Negative Feedback Loop
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **carbonic acid**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] H2CO3
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **bicarbonate**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] HCO3(1-)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **carbonate**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] CO3(2-)
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Carbonate & bicarbonate are both:
+[CA] Anions
+[WA] Cations
+[WA] Noble Gases
+[WA] Salts
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Hydrogen ions are:
+[CA] Cations
+[WA] Anions
+[WA] Compounds
+[WA] Salts
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Why is excess H+ in the ocean a problem?
+[CA] Spare H+ attacks shells of tests, breaking up CaCO3
+[WA] Spare H+ attacks baby organisms, preventing them from getting necessary CO3(2-)
+[WA] Excess H+ increases the pH of ocean water, killing off marine ecosystems
+[WA] Excess H+ directly stresses coral, causing coral bleaching
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Why is excess H+ in the ocean a problem?
+[WA] Spare H+ causes increased test production, causing a dangerous imbalance between shells and organisms
+[CA] Spare H+ steals CO3(2-) from the baby ocean organisms that need it to build their shells
+[WA] Excess H+ increases the pH of ocean water, killing off marine ecosystems
+[WA] Excess H+ directly stresses coral, causing coral bleaching
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is NOT a cause of coral bleaching?
+[CA] Algal Blooms
+[WA] Increased Turbidity
+[WA] Rising Ocean Temperatures
+[WA] Pollution Runoff (i.e. Herbicides)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The loss of _____ in coral is the direct cause of coral bleaching & death, and explains the sudden color loss.
+[A] Algae
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Coral & algae have a ________ relationship with each other.
+[A] Symbiotic
+[END]
+-------------------------------------------
+[T] Phosphorus Cycle
+-------------------------------------------
+[QT] SAQ
+[Q] ________ is the process where dissolved ions are transported from one ground layer to another.
+[A] Leaching
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is a similarity between the Carbon & Phosphorus Cycles?
+[CA] Both have short & long-term sequestration
+[WA] Both involve the transportation of solely solid substances
+[WA] Both involve both ground & atmospheric cycles
+[WA] Both are present in the transpiration & respiration of trees
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Weathering, Sedimentation, and Lithification are part of _______-term Phosphorus sequestration.
+[A] Long
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is a major part of the short-term Phosphorus cycle?
+[CA] Animal waste/decay
+[WA] Air pollution
+[WA] Phosphorus Mining
+[WA] Evapotranspiration
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Because Phosphorus is such a good fertilizer, large amounts of it in runoff causes this condition.
+[A] Eutrophication
+[A] Eutrophic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] ___________ is the condition where a body of water has too many nutrients, leading to problems like algal blooms and fish kills.
+[A] Eutrophication
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] How does deforestation impact the Phosphorus cycle?
+[CA] Deforestation leads to a loss of phosphates in soil due to precipitation & leaching
+[WA] Deforestation removes a major source of evapotranspiration, causing decreased runoff
+[WA] Deforestation disrupts the long-term sequestration of phosphorus in trees like redwoods and sequoias
+[WA] Deforestation has no impact on the Phosphorus cycle; rather, it impacts the Carbon cycle.
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _______ conditions arise when there is too little oxygen in soil.
+[A] Hypoxic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _______ conditions arise when there is no more oxygen in soil.
+[A] Anoxic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Eutrophic conditions in lakes lead to the development of _____ ____.
+[A] Algae Mats
+[A] Algal Blooms
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is NOT a cause of hypoxic/anoxic conditions in bodies of water with algal blooms?
+[CA] Algae requires a lot of oxygen to grow, so it sucks it all up
+[WA] Algae dies fast, causing a decomposer population spike, which in turn respires more oxygen
+[WA] Algae mats block sunlight from reaching SAVs, cutting off a source of oxygen
+[WA] Runoff containing P & N ions supplies algae with the nutrients needed to form algae mats
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is NOT a result of eutrophic conditions in water bodies?
+[CA] Decaying of tests
+[WA] Fish Kills
+[WA] Algal Blooms
+[WA] More Decomposers
+-------------------------------------------
+[QT] MCQ
+[Q] Write the chemical formula of **phosphate**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] PO4(3-)
+[END]
+-------------------------------------------
+[T] Nitrogen Cycle
+-------------------------------------------
+[QT] MCQ
+[Q] Oxygen (O2) contains a(n) _______ bond.
+[CA] Double Covalent
+[WA] Single Covalent
+[WA] Triple Covalent
+[WA] Ionic
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Nitrogen (N2) contains a(n) ________ bond.
+[CA] Triple Covalent
+[WA] Double Covalent
+[WA] Single Covalent
+[WA] Ionic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Atmospheric N is all in the form of ___.\n*(Answer Format: H2O, Na(1+))*
+[EXA] N2
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Sometimes, lightning will break apart atmospheric N2 into its individual atoms, which is one way this process called ________ __________ occurs.
+[A] Nitrogen Fixation
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Most nitrogen fixation is caused by:
+[A] Nitrifying Bacteria
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Nitrifying bacteria are usually:
+[CA] Aerobic
+[WA] Anaerobic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] In the nitrogen cycle, sometimes usable N is converted back into atmospheric N2. This process mostly occurs through:
+[A] Denitrifying Bacteria
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Denitrifying bacteria are usually:
+[WA] Aerobic
+[CA] Anaerobic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] __________ enzymes convert into N2 into NH3.
+[A] Nitrogenase
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Nitrogenase enzymes convert N2 into NH3. This process is called:
+[A] Nitrogen Fixation
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _____________ are nitrifying bacteria that attach to the roots of legumes.
+[A] Rhizobia
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Why do farmers sometimes plant legumes in their fields, when there are more profitable crops they could grow?
+[CA] Legumes have rhizobia, which refresh the nitrogen in the soil
+[WA] Legumes have rhizobia, which help convert NH3 into more valuable NH4+
+[WA] Legumes have higher transpiration rates, which help boost next years' harvest
+[WA] Legume roots help retain phosphates in the soil & reduce runoff
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] When NH3 & H2O react in the Nitrogen Cycle, what is the product?\n*(Answer Format: H2O, Na(1+))*
+[EXA] NH4(1+)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] When aerobic (nitrifying) bacteria first oxidize NH4(1+), the result is:\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO2(1-)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] When aerobic (nitrifying) bacteria oxidize NO2(1-), the result is:\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO3(1-)
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Of the four nitrogen-containing compounds, which one can plants NOT use?
+[CA] NO2(1-)
+[WA] NO3(1-)
+[WA] NH3
+[WA] NH4(1+)
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Of the four nitrogen-containing compounds, which one can plants NOT use?
+[CA] Nitrite
+[WA] Nitrate
+[WA] Ammonia
+[WA] Ammonium
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] In the nitrogen cycle, decomposers break down dead organisms into NH3 and NH4(1+), a process called:
+[A] Ammonification
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _____________ bacteria in the nitrogen cycle convert NO2(1-) & NO3(1-) back into atmospheric N2.
+[A] Denitrifying
+[A] Anaerobic
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **atmospheric nitrogen**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] N2
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **nitrate**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO3(1-)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **nitrite**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO2(1-)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **ammonia**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NH3
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **ammonium**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NH4(1+)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **nitrogen dioxide**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO2
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the chemical formula of **nitrous oxide**.\n*(Answer Format: H2O, Na(1+))*
+[EXA] N2O
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In the nitrogen cycle, _____ is great!
+[CA] Nitrate
+[WA] Nitrite
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In the nitrogen cycle, ______ is not right!
+[CA] Nitrite
+[WA] Nitrate
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Acid Rain occurs when water, oxygen, and **this nitrogen-containing gas** combine in the atmosphere.\n*(Answer Format: H2O, Na(1+))*
+[EXA] NO2
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Write the formula of this nitrogen-containing greenhouse gas that depletes the ozone layer.\n*(Answer Format: H2O, Na(1+))*
+[EXA] N2O
+[END]
+-------------------------------------------

@@ -1,6 +1,8 @@
 [PRESET] Chapter 2 (The Constitution)
-[QT] SAQ
+-------------------------------------------
 [T] NSL 1.4
+-------------------------------------------
+[QT] SAQ
 [Q] Name the quickly-drafted government plan for the US while the Revolution was underway.
 [A] Articles of Confederation
 [A] The Articles
@@ -8,13 +10,11 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.4
 [Q] The Articles of Confederation provided for a (strong/weak) central govt.
 [A] Weak
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.4
 [Q] How did the Articles of Confederation apportion state representation?
 [CA] One vote per state
 [WA] Votes based on relative state population
@@ -22,21 +22,18 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.4
 [Q] National legislation under the Articles of Confederation required how many states to approve?
 [EXA] 9
 [A] Nine
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.4
 [Q] Amendments to the Articles of Confederation required how many states to approve?
 [EXA] 13
 [A] Thirteen
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.4
 [Q] Which of the following was a weakness of Congress under the Articles of Confederation?
 [CA] Couldn't levy taxes/raise funds
 [WA] Inability to mediate interstate disputes
@@ -45,7 +42,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.4
 [Q] Which of the following was a weakness of Congress under the Articles of Confederation?
 [CA] Unreasonable requirements to pass laws/make amendments
 [WA] Couldn't acquire territory
@@ -54,7 +50,6 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.4
 [Q] Which of the following was a weakness of Congress under the Articles of Confederation?
 [CA] Inability to manage interstate commerce
 [WA] Failed to protect individual rights (religion & speech)
@@ -63,45 +58,40 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.4
 [Q] What major event directly highlighted the ineffectiveness of the Articles of Confederation?
 [A] Shay's Rebellion
 [END]
 -------------------------------------------
-[QT] SAQ
 [T] NSL 1.5
+-------------------------------------------
+[QT] SAQ
 [Q] To replace the Articles of Confederation, this meeting of 55 delegates was organized.
 [A] Constitutional Convention
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] The (Virginia/New Jersey) Plan argued for population-based representation of states in the national govt.
 [A] Virginia
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] The (Virginia/New Jersey) Plan argued for equal representation of states in the national govt.
 [A] New Jersey
 [A] NJ
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] The (Virginia/New Jersey) Plan argued for a supreme national govt. over the states.
 [A] Virginia
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] The (Virginia/New Jersey) Plan argued for a limited & defined national govt.
 [A] New Jersey
 [A] NJ
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] This plan established a bicameral Congress and compromised between the Virginia and NJ plans.
 [A] Connecticut
 [A] Connecticut Compromise
@@ -109,26 +99,22 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Under the Great Compromise, a two-house (aka ________) Congress was established.
 [A] bicameral
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
-[Q] What two things did the Constitution say about slavery?<br>(*Answer with both letters: i.e. AB*)<br>A: Slaves didn't contribute to population (for representation)<br>B: Slaves were fully counted to population<br>C: Slaves counted as 3/5ths of a person for population<br>D: Immediately ended the international slave trade<br>E: International slave trade couldn't be ended for at least 20 years<br>F: International slave trade could only be ended with a 2/3 supermajority in Congress
+[Q] What two things did the Constitution say about slavery?\n(*Answer with both letters: i.e. AB*)\nA: Slaves didn't contribute to population (for representation)\nB: Slaves were fully counted to population\nC: Slaves counted as 3/5ths of a person for population\nD: Immediately ended the international slave trade\nE: International slave trade couldn't be ended for at least 20 years\nF: International slave trade could only be ended with a 2/3 supermajority in Congress
 [EXA] CE
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] The Electoral College for electing the president is an example of this representative democracy in the Constitution.
 [A] Elite
 [A] Elite Democracy
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Article _ of the Constitution goes over the basic setup of Congress.
 [EXA] I
 [EXA] 1
@@ -136,7 +122,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Article _ of the Constitution goes over the basic setup of the Presidency.
 [EXA] II
 [EXA] 2
@@ -144,7 +129,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Article _ of the Constitution goes over the judiciary branch & its interactions with the other branches.
 [EXA] III
 [EXA] 3
@@ -152,7 +136,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Article _ of the Constitution goes over interstate relations ("faith and credit" clause).
 [EXA] IV
 [EXA] 4
@@ -160,7 +143,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Article _ of the Constitution goes over the Amendment process.
 [EXA] V
 [EXA] 5
@@ -168,7 +150,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Article _ of the Constitution establishes national supremacy (the "supremacy clause").
 [EXA] VI
 [EXA] 6
@@ -176,7 +157,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Article _ of the Constitution outlines the ratification process of the Constitution itself.
 [EXA] VII
 [EXA] 7
@@ -184,19 +164,17 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.5
 [Q] Under Article V, how much support is needed for a Constitutional amendment to pass?
 [WA] 1/2 Congress, 1/2 States
 [WA] 1/2 Congress, 2/3 States
 [WA] 1/2 Congress, 3/4 States
 [WA] 2/3 Congress, 1/2 States
 [WA] 2/3 Congress, 2/3 States
-[WA] 2/3 Congress, 3/4 States
+[CA] 2/3 Congress, 3/4 States
 [NS]
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.5
 [Q] What was one argument that some Federalists (notably James Madison) used to push against a Bill of Rights?
 [CA] Listing all protected rights might lead to others being overlooked & potentially taken away
 [WA] They would add unnecessary legal red tape, weakening the judicial branch & making enforcement difficult
@@ -205,13 +183,11 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendments 1-10 of the Constitution are commonly referred to as the ____ _ _____.
 [EXA] Bill of Rights
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution protects the freedom of religion, speech, press, assembly, and petition.
 [EXA] I
 [EXA] 1
@@ -219,7 +195,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution protects the right to bear arms.
 [EXA] II
 [EXA] 2
@@ -227,7 +202,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution restricts forced quartering of troops.
 [EXA] III
 [EXA] 3
@@ -235,7 +209,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution protects against unreasonable searches & seizures.
 [EXA] IV
 [EXA] 4
@@ -243,7 +216,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution states the rights of individuals in legal proceedings.
 [EXA] V
 [EXA] 5
@@ -251,7 +223,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution states the rights of individuals in criminal prosecutions.
 [EXA] VI
 [EXA] 6
@@ -259,7 +230,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution outlines rights regarding lawsuits & juries.
 [EXA] VII
 [EXA] 7
@@ -267,7 +237,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution protects against cruel & unusual punishments.
 [EXA] VIII
 [EXA] 8
@@ -275,7 +244,6 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution explicitly states that listing rights in the Constitution doesn't deny others.
 [EXA] IX
 [EXA] 9
@@ -283,46 +251,41 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.5
 [Q] Amendment _ of the Constitution covers delegated & reserved powers (concerning the federal & state govt.).
 [EXA] X
 [EXA] 10
 [A] Ten
 [END]
 -------------------------------------------
-[QT] SAQ
 [T] NSL 1.6
+-------------------------------------------
+[QT] SAQ
 [Q] Both houses of Congress have _________, groups of 10-40 members that oversee certain topics of law or policy.
 [A] Committees
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] Stakeholders exert influence on Congress via special _______ _____.
 [A] Interest Groups
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] (T/F) Citizens can help influence lawmaking and governmental decisions in all three branches of federal govt.
 [EXA] T
 [EXA] True
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
-[Q] Citizens can file complaints through _______ to assure enforcement/fairness in law, and can even report some federal crimes to these.<br>(Hint: Examples of these are the ||Equal Employment Opportunity Commission, the FBI, and the Drug Enforcement Administration||)
+[Q] Citizens can file complaints through _______ to assure enforcement/fairness in law, and can even report some federal crimes to these.\n(Hint: EEOC, the FBI, and the DEA)
 [A] Agencies
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
-[Q] _________ ______ is used by the judicial branch as its main way to check the legislative & executive branches.<br>(Hint: This power isn't directly mentioned in the Constitution!)
+[Q] _________ ______ is used by the judicial branch as its main way to check the legislative & executive branches.\n(Hint: This power isn't directly mentioned in the Constitution!)
 [A] Judicial Review
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.6
 [Q] Which of the following is NOT a way for citizens to interact with the judicial branch?
 [CA] Challenging unfair government action
 [WA] Appealing wrongful convictions
@@ -331,45 +294,38 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] (T/F) A Senate Supermajority (2/3) is enough to override a House decision, allowing for a law to pass.
 [EXA] F
 [EXA] False
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] (T/F) Only the legislative branch can establish law & policy.
 [EXA] F
 [EXA] False
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] This branch of national govt. makes public will become public policy.
 [A] legislative
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] This branch of national govt. enforces & carries out Congress's policies.
 [A] executive
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] This branch of national govt. hears disputes & interprets laws
 [A] judicial
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] *Federalist No. __* argues for separation of powers as a guard against tyranny.
 [EXA] 51
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.6
 [Q] *Federalist No. 51* goes over which of the following Constitutional aspects?
 [WA] Handling the "Mischief of Factions"
 [CA] Separation of Powers
@@ -378,25 +334,21 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] Each branch of national govt. can limit the others with _____ __ _________.
 [A] Checks and Balances
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] The President can reject laws from Congress with a ____.
 [A] Veto
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] When the President refuses to sign laws at the end of a legislative session, it is called a ______ ____.
 [A] Pocket Veto
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.6
 [Q] How can Congress override vetos?
 [WA] 1/2 Senate
 [WA] 2/3 Senate
@@ -405,13 +357,11 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[T] NSL 1.6
 [Q] The Senate has the power of "______ __ ______", allowing it to question and approve/reject appointees nominated by the President.
 [A] Advice and Consent
 [END]
 -------------------------------------------
 [QT] MCQ
-[T] NSL 1.6
 [Q] Which part of national govt. has the power of impeachment?
 [WA] President
 [CA] House of Reps

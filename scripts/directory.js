@@ -13,6 +13,13 @@ const DIRECTORY = {
             "u1ch1", "u1ch2", "u1ch3"
         ]
     },
+    "ESS": {
+        "plaintext": "Earth & Space Systems",
+        "path": "./questions/ess/",
+        "files": [
+            "ch3", "ch4"
+        ]
+    }
     /*"DEBUG": {
         "plaintext": "Debug Question Sets",
         "path": "../questions/debug/",
@@ -32,7 +39,7 @@ function format_markdown_text(text) {
     return text
         .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')   // Bold: **text**
         .replace(/\*(.*?)\*/g, '<em>$1</em>')               // Italic: *text*
-        .replace(/\n/g, '<br>');                            // Newline: \n
+        .replace(/\\n/g, '<br>');                            // Newline: \n
 }
 
 function get_qset_lines(filePath) {
@@ -70,13 +77,16 @@ function parse_qset_lines(lines) {
     let PRESET_NAME = undefined;
     let PRESET_TOPICS = [];
     let TOPICS = {};
+    let currentTopic = undefined;
 
     let currentQType = undefined;
-    let currentQTopic = undefined;
     let currentQObj = undefined;
     let currentlyParsingQ = false;
 
+    let lineNum = 0;
+
     for (let line of lines) {
+        lineNum += 1;
         line = parse_qset_line(line);
         if (line[0] == null) {
             continue;
@@ -85,18 +95,14 @@ function parse_qset_lines(lines) {
         if (currentlyParsingQ) {
             if (line[0] == "Q") {
                 currentQObj.q = line[1];
-            } else if (line[0] == "T") {
-                currentQTopic = line[1];
-                currentQObj.topic = currentQTopic;
             } else if (line[0] == "END") {
-                if (!PRESET_TOPICS.includes(currentQTopic)) {
-                    PRESET_TOPICS.push(currentQTopic);
-                    TOPICS[currentQTopic] = [];
+                if (!PRESET_TOPICS.includes(currentTopic)) {
+                    PRESET_TOPICS.push(currentTopic);
+                    TOPICS[currentTopic] = [];
                 }
-                TOPICS[currentQTopic].push(currentQObj);
+                TOPICS[currentTopic].push(currentQObj);
                 
                 currentQType = undefined;
-                currentQTopic = undefined;
                 currentQObj = undefined;
 
                 currentlyParsingQ = false;
@@ -104,8 +110,8 @@ function parse_qset_lines(lines) {
                 if (currentQType == "SAQ") {
                     if (line[0] == "A" || line[0] == "EXA") { // TODO FIX
                         currentQObj.correctAnswers.push(line[1]);
-                    } else  {
-                        throw new Error(`[PARSE] Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
+                    } else if (line[0] != "T") { // TODO FIX
+                        throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
                     }
                 } else if (currentQType == "MCQ") {
                     if (line[0] == "CA") {
@@ -114,27 +120,31 @@ function parse_qset_lines(lines) {
                         currentQObj.wrongAnswers.push(line[1]);
                     } else if (line[0] == "NS") {
                         // TODO
+                    } else {
+
                     }
                 }
             }           
         } else {
             if (line[0] == "PRESET") {
                 if (PRESET_NAME != undefined) {
-                    throw new Error(`[PARSE] Preset name already defined (${PRESET_NAME})`);
+                    throw new Error(`[PARSE] Line ${lineNum}: Preset name already defined (${PRESET_NAME})`);
                 }
                 PRESET_NAME = line[1];
             } else if (line[0] == "QT") {
                 currentQType = line[1];
                 currentlyParsingQ = true;
                 if (currentQType == "SAQ") {
-                    currentQObj = new SAQQuestion(undefined, undefined, []);
+                    currentQObj = new SAQQuestion(undefined, currentTopic, []);
                 } else if (currentQType == "MCQ") {
-                    currentQObj = new MCQQuestion(undefined, undefined, [], []);
+                    currentQObj = new MCQQuestion(undefined, currentTopic, [], []);
                 } else {
-                    throw new Error(`[PARSE] Unrecognized question type "${line[1]}"`);
+                    throw new Error(`[PARSE] Line ${lineNum}: Unrecognized question type "${line[1]}"`);
                 }
+            } else if (line[0] == "T") {
+                currentTopic = line[1];
             } else {
-                throw new Error(`[PARSE] Unrecognized identifier "${line[0]} (with arg "${line[1]}")"`);
+                throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]} (with arg "${line[1]}")"`);
             }
         }
     }
