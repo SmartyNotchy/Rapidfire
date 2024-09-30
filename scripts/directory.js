@@ -24,7 +24,7 @@ const DIRECTORY = {
         "plaintext": "Adv. Biology",
         "path": "./questions/bio/",
         "files": [
-            "01_water", "02_carbs"
+            "01_water", "02_carbs", "03_lipids"
         ]
     }
     /*"DEBUG": {
