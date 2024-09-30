@@ -1,0 +1,284 @@
+[PRESET] Lipids
+-------------------------------------------
+[T] Basic Lipids
+-------------------------------------------
+[QT] SAQ
+[Q] _____ are dense, highly reduced molecules.
+[A] Lipids
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _____ _____ have high amounts of C-C bonds that can be oxidized to release energy.
+[A] Fatty Acids
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Fatty Acids have a high number of ___ bonds that can be oxidized to release energy.
+[CA] C-C
+[WA] C-H
+[WA] O-H
+[WA] H-H
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Lipids are stored ________, meaning that they are stored in cells without water.
+[A] Anhydrous
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Lipids are ______.
+[CA] Nonpolar
+[WA] Polar
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The "backbone" of lipids is _______.
+[A] Glycerol
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Triglycerides are made of a "glycerol" backbone and 3 ______ ______ chains.
+[A] Fatty Acid
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The fatty acids in triglycerides are combined through ___ condensation reactions.\n*(Answer with #)*
+[EXA] 3
+[A] Three
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The fatty acids in triglyecerides are combined through three _______________ reactions.
+[A] Condensation
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] __________ store more energy per gram.
+[CA] Lipids
+[WA] Carbohydrates
+[END]
+-------------------------------------------
+[T] Fatty Acids
+-------------------------------------------
+[QT] SAQ
+[Q] The _____ carbon of a fatty acid is attached to a carboxyl group.
+[A] Alpha
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The _____ carbon of a fatty acid is attached to a methyl group.
+[A] Omega
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] This functional group is made up of a double bond to O and a single bond to OH.
+[A] Carboxyl
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] This functional group is made up of three single bonds to H.
+[A] Methyl
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] This functional group is attached to the alpha carbon of fatty acids.
+[A] Carboxyl
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] This functional group is attached to the omega carbon of fatty acids.
+[A] Methyl
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] A methyl group is attached to the omega carbon in fatty acids. So, why does the carbon chain abruptly end when the skeletal structure is drawn?
+[CA] Since the carbon would otherwise not have a full valence shell, the H bonds are implied
+[WA] Methyl groups contain only a single C-C bond, which is already present in the carbon chain
+[WA] The omega carbon is not located at the end of the carbon chain
+[WA] The methyl group is implied in any drawn skeletal structure
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _________ fatty acids only contain single C-C bonds.
+[A] Saturated
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Saturated fatty acids contain:
+[CA] Only single C-C bonds
+[WA] A mixture of single & double C-C bonds
+[WA] Only double C-C bonds
+[WA] No direct C-C bonds
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] In a saturated fatty acid, each carbon is saturated (bonded) to ___ hydrogens.\n*(Answer with #)*
+[EXA] 2
+[A] Two
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Triglycerides with high amounts of saturated fatty acids tend to be _____ at room temperature.
+[CA] Solid
+[WA] Liquid
+[WA] Gas
+[WA] Plasma
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Fatty acids are:
+[CA] Hydrophobic
+[WA] Hydrophilic
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] _________ fatty acids have straight chains with no C=C double bonds.
+[CA] Saturated
+[WA] Trans-Unsaturated
+[WA] Cis-Unsaturated
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] _________ fatty acids have straight chains with at least one C=C double bond.
+[WA] Saturated
+[CA] Trans-Unsaturated
+[WA] Cis-Unsaturated
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] _________ fatty acids have bent chains with at least one C=C double bond.
+[WA] Saturated
+[WA] Trans-Unsaturated
+[CA] Cis-Unsaturated
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] __________ fatty acids have at least 1 C=C double bond.
+[A] Unsaturated
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Unsaturated fatty acids have at least 1 C=C ______ bond.
+[A] Double
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Trans-unsaturated fatty acids have ____ chains.
+[CA] Straight
+[WA] Bent
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Cis-unsaturated fatty acids have ____ chains.
+[WA] Straight
+[CA] Bent
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In trans-unsaturated fatty acids, remaining Hydrogens on the C=C bonds face in ________ direction(s).
+[CA] Opposite
+[WA] The Same
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In cis-unsaturated fatty acids, remaining Hydrogens on the C=C bonds face in ________ direction(s).
+[CA] The Same
+[WA] Opposite
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Cis-fatty acids tend to be _____ at room temperature.
+[WA] Solid
+[CA] Liquid
+[WA] Gas
+[WA] Plasma
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Trans-fatty acids tend to be _____ at room temperature.
+[CA] Solid
+[WA] Liquid
+[WA] Gas
+[WA] Plasma
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] ____-unsaturated fatty acids have more than 1 C=C double bond.
+[A] Poly
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] The C=C double bonds in poly-unsaturated fatty acids tend to be ___.
+[A] Cis
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Polyunsaturated fatty acids tend to be _____ at room temperature.
+[WA] Solid
+[CA] Liquid
+[WA] Gas
+[WA] Plasma
+[END]
+-------------------------------------------
+[T] Fatty Acid Nomenclature
+-------------------------------------------
+[QT] MCQ
+[Q] In an X:Y n-Z carbon chain, X represents the:
+[CA] Number of C in the chain
+[WA] Number of C-C double bonds
+[WA] Position of the first double bond (counting from alpha carbon)
+[WA] Position of the first double bond (counting from omega carbon)
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In an X:Y n-Z carbon chain, Y represents the:
+[WA] Number of C in the chain
+[CA] Number of C-C double bonds
+[WA] Position of the first double bond (counting from alpha carbon)
+[WA] Position of the first double bond (counting from omega carbon)
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In an X:Y n-Z carbon chain, Z represents the:
+[WA] Number of C in the chain
+[WA] Number of C-C double bonds
+[WA] Position of the first double bond (counting from alpha carbon)
+[CA] Position of the first double bond (counting from omega carbon)
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] How many C are in the carbon chain of stearic acid (18:0)?
+[EXA] 18
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] How many C=C double bonds are in the carbon chain of stearic acid (18:0)?
+[EXA] 0
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] How many C are in the carbon chain of stearic acid (18:1 n-9)?
+[EXA] 18
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] How many C=C double bonds are in the carbon chain of stearic acid (18:1 n-9)?
+[EXA] 1
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Where is the C=C double bond in the carbon chain of stearic acid (18:1 n-9)?
+[CA] Count from the omega carbon, from C9 to C10
+[WA] Count from the omega carbon, from C8 to C9
+[WA] Count from the alpha carbon, from C9 to C10
+[WA] Count from the alpha carbon, from C8 to C9
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Why can a fatty acid carbon chain identified by "12:1 n-1" never exist?
+[CA] Due to the methyl group, there can never be a C=C bond to the omega carbon
+[WA] Due to the carboxyl group, there can never be a C=C bond to the omega carbon
+[WA] Due to the methyl group, there can never be a C=C bond to the alpha carbon
+[WA] Due to the carboxyl group, there can never be a C=C bond to the alpha carbon
+[END]
+-------------------------------------------

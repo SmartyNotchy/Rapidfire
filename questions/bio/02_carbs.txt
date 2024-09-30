@@ -1,0 +1,152 @@
+[PRESET] Carbohydrates
+-------------------------------------------
+[T] Carbohydrate Synthesis
+-------------------------------------------
+[QT] SAQ
+[Q] ____________ are small molecular building blocks that are used together to build larger complex molecules.
+[A] Monomers
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] ____________ are complex molecules made up of repeating monomers.
+[A] Polymers
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] ____________ is a reaction that produces a molecule of water when combining monomers.
+[A] Condensation
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] In a condensation reaction, the products are a polymar and ____.
+[A] Water
+[EXA] H2O
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] ____________ is a reaction that uses water to break down a polymer.
+[A] Hydrolysis
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Hydrolysis is the opposite/"inverse" of ______________.
+[A] Condensation
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _____________ reactions use inputted energy to synthesize more complex molecules.
+[A] Anabolic
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] In anabolic reactions, the energy levels of the product(s) are _______ than the reactants.
+[CA] Higher
+[WA] Lower
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _____________ reactions break down complex molecules into simpler ones, releasing energy.
+[A] Catabolic
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following is NOT an element commonly found in carbohydrates?
+[CA] N
+[WA] C
+[WA] H
+[WA] O
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] The most common C:H:O ratio in carbohydrates is:
+[CA] 1:2:1
+[WA] 1:1:1
+[WA] 2:1:1
+[WA] 1:1:1
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Complex carbohydrates are called:
+[A] Polysaccharides
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Carbohydrates can be simple sugars, called ________________ and _________________.\n*(Answer Format: Apples & Bananas)*
+[A] Monosaccharides & Disaccharides
+[A] Disaccharides & Monosaccharides
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Carbohydrate monomers are linked together by _________ bonds.
+[A] Covalent
+[END]
+-------------------------------------------
+[T] Simple Sugars
+-------------------------------------------
+[QT] MCQ
+[Q] Monosaccharide structures are usually either _______ or ______.
+[CA] Pentose, Hexose
+[WA] Pentose, Octose
+[WA] Polar, Ionic
+[WA] Symmetrical, Balanced
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Glucose, fructose, and galactose are all examples of ______________.
+[A] Monosaccharides
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Disaccharides are the _____ of two monosaccharides.
+[A] Dimer
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Functions of _________ include being synthesized, consumed, or metabolized for energy.
+[CA] Simple Sugars
+[WA] Complex Sugars
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] When disaccharides are heated in water, sometimes the linkage between the two monosaccharides is "broken". This reaction is called:
+[A] Hydrolysis
+[END]
+-------------------------------------------
+[T] Complex Sugars
+-------------------------------------------
+[QT] SAQ
+[Q] Polysaccharides are polymers of identical or different ___________.
+[A] Monosaccharides
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Starch, fructose, and amylose are all examples of ______________.
+[A] Polysaccharides
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Functions of _________ include providing the structure of cells & tissues, and storing energy.
+[WA] Simple Sugars
+[CA] Complex Sugars
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] It is possible for two polysaccharides to have the same formula and still be unique from each other.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Starch and Glycogen both have the formula (C6H10O5)n, and yet they have different properties. This is because:
+[CA] The monomers are arranged differently
+[WA] They use different monomers, which sum up to have the same formula
+[WA] They are the same substance in different states; heating/freezing one yields the other
+[WA] Glycogen has double the formula of Starch; formulas aren't reducible!
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Polysaccharides can themselves combine to make new polysaccharides.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------

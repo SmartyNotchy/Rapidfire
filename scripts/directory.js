@@ -14,10 +14,17 @@ const DIRECTORY = {
         ]
     },
     "ESS": {
-        "plaintext": "Earth & Space Systems",
+        "plaintext": "Adv. Earth & Space Systems",
         "path": "./questions/ess/",
         "files": [
             "ch3", "ch4"
+        ]
+    },
+    "Bio": {
+        "plaintext": "Adv. Biology",
+        "path": "./questions/bio/",
+        "files": [
+            "01_water", "02_carbs", "03_lipids"
         ]
     }
     /*"DEBUG": {
