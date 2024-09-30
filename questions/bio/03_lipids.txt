@@ -223,7 +223,7 @@
 [T] Fatty Acid Nomenclature
 -------------------------------------------
 [QT] MCQ
-[Q] In an A:B n-C carbon chain, A represents the:
+[Q] In an X:Y n-Z carbon chain, X represents the:
 [CA] Number of C in the chain
 [WA] Number of C-C double bonds
 [WA] Position of the first double bond (counting from alpha carbon)
@@ -231,7 +231,7 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[Q] In an A:B n-C carbon chain, B represents the:
+[Q] In an X:Y n-Z carbon chain, Y represents the:
 [WA] Number of C in the chain
 [CA] Number of C-C double bonds
 [WA] Position of the first double bond (counting from alpha carbon)
@@ -239,7 +239,7 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[Q] In an A:B n-C carbon chain, C represents the:
+[Q] In an X:Y n-Z carbon chain, Z represents the:
 [WA] Number of C in the chain
 [WA] Number of C-C double bonds
 [WA] Position of the first double bond (counting from alpha carbon)
@@ -268,10 +268,10 @@
 -------------------------------------------
 [QT] MCQ
 [Q] Where is the C=C double bond in the carbon chain of stearic acid (18:1 n-9)?
-[CA] Count from the omega carbon, from 9 to 10
-[WA] Count from the omega carbon, from 8 to 9
-[WA] Count from the alpha carbon, from 9 to 10
-[WA] Count from the alpha carbon, from 8 to 9
+[CA] Count from the omega carbon, from C9 to C10
+[WA] Count from the omega carbon, from C8 to C9
+[WA] Count from the alpha carbon, from C9 to C10
+[WA] Count from the alpha carbon, from C8 to C9
 [END]
 -------------------------------------------
 [QT] MCQ
