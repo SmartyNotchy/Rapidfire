@@ -67,7 +67,7 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[Q] On topo maps, benchmarks identify the local ________ geographic points
+[Q] On topo maps, benchmarks identify the local ________ geographic points.
 [CA] Highest
 [WA] Lowest
 [WA] Both Max & Min
@@ -142,11 +142,6 @@
 [A] Capacity 
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _________ refers to the maximum amount of particles a river can transport.
-[A] Capacity 
-[END]
--------------------------------------------
 [QT] MCQ
 [Q] Parts of rivers that are higher upstream will likely have higher:
 [CA] Competence
@@ -160,13 +155,13 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[Q] When velocity (energy) decreases, streams will have reduced:
+[Q] When velocity (energy) decreases, streams will have increased:
 [WA] Competence
 [CA] Capacity
 [END]
 -------------------------------------------
 [QT] SAQ
-[Q] When stream velocity decreases, sediment begins to drop out, forming _________.
+[Q] When stream velocity decreases, sediment begins to drop out. These sediments are called:
 [A] Alluviums
 [END]
 -------------------------------------------
@@ -202,11 +197,6 @@
 -------------------------------------------
 [QT] SAQ
 [Q] Backswamps and yazoos are often found behind _____ _____.
-[A] Natural Levees
-[END]
--------------------------------------------
-[QT] SAQ
-[Q] ________ _____ run parallel to streams and are created by deposition events.
 [A] Natural Levees
 [END]
 -------------------------------------------
@@ -254,7 +244,7 @@
 [END]
 -------------------------------------------
 [QT] MCQ
-[Q] Upstream portions of a river exhibit:
+[Q] Downstream portions of a river exhibit:
 [WA] Downcutting
 [CA] Lateral Erosion
 [END]
