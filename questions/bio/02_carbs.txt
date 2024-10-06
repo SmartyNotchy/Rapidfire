@@ -18,7 +18,7 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[Q] In a condensation reaction, the products are a polymar and ____.
+[Q] In a condensation reaction, the products are a polymer and ____.
 [A] Water
 [EXA] H2O
 [END]
@@ -70,10 +70,12 @@
 [A] Polysaccharides
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Carbohydrates can be simple sugars, called ________________ and _________________.\n*(Answer Format: Apples & Bananas)*
-[A] Monosaccharides & Disaccharides
-[A] Disaccharides & Monosaccharides
+[QT] MCQ
+[Q] Carbohydrates can be simple sugars, called ________________ and _________________.
+[CA] Monosaccharides & Disaccharides
+[WA] Monomers & Polymers
+[WA] Dimers & Trimers
+[WA] Triglycerides & Phospholipids
 [END]
 -------------------------------------------
 [QT] SAQ
@@ -91,14 +93,42 @@
 [WA] Symmetrical, Balanced
 [END]
 -------------------------------------------
+[QT] MCQ
+[Q] Which of the following is a pentose monosaccharide?
+[CA] Fructose
+[WA] Glucose
+[WA] Galactose
+[WA] Sucrose
+[END]
+-------------------------------------------
 [QT] SAQ
 [Q] Glucose, fructose, and galactose are all examples of ______________.
 [A] Monosaccharides
 [END]
 -------------------------------------------
 [QT] SAQ
+[Q] What is the formula of glucose?\n*(Answer Format: H2O, Na(1+))*
+[EXA] C6H12O6
+[END]
+-------------------------------------------
+[QT] SAQ
 [Q] Disaccharides are the _____ of two monosaccharides.
 [A] Dimer
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _________ is the dimer of two glucose.
+[A] Maltose
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _________ is the dimer of glucose & fructose.
+[A] Sucrose
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] _________ is the dimer of glucose & galactose.
+[A] Lactose
 [END]
 -------------------------------------------
 [QT] MCQ
@@ -120,7 +150,7 @@
 [END]
 -------------------------------------------
 [QT] SAQ
-[Q] Starch, fructose, and amylose are all examples of ______________.
+[Q] Starch, glycogen, and amylose are all examples of ______________.
 [A] Polysaccharides
 [END]
 -------------------------------------------
@@ -148,5 +178,102 @@
 [Q] Polysaccharides can themselves combine to make new polysaccharides.
 [CA] True
 [WA] False
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **carbon** atoms are in its formula?
+[CA] 6n
+[WA] 12n
+[WA] 5n + 1
+[WA] 10n + 2
+-------------------------------------------
+[QT] MCQ
+[Q] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **hydrogen** atoms are in its formula?
+[WA] 6n
+[WA] 12n
+[WA] 5n + 1
+[CA] 10n + 2
+-------------------------------------------
+[QT] MCQ
+[Q] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **oxygen** atoms are in its formula?
+[WA] 6n
+[WA] 12n
+[CA] 5n + 1
+[WA] 10n + 2
+-------------------------------------------
+[T] Examples of Polysaccharides
+-------------------------------------------
+[T] Carbohydrate Testing
+-------------------------------------------
+[QT] SAQ
+[Q] When a mystery carbohydrate reacts with iodine, the solution turns blue. What carbohydrate is this?
+[A] Starch
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Benedict's test identifies:
+[WA] Monosaccharides v. Polysaccharides
+[CA] Reducing v. Nonreducing Sugars
+[WA] Carbohydrates v. Lipids
+[WA] Aldoses v. Ketoses
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] All monosaccharides are reducing sugars, and will produce a positive Benedict's test result.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] All disaccharides are reducing sugars, and will produce a positive Benedict's test result.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[QT] SAQ
+[Q] Name a common disaccharide that does not produce a positive Benedict's test result.
+[A] Sucrose
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Barfoed's Test identifies:
+[CA] Monosaccharides v. Polysaccharides
+[WA] Reducing v. Nonreducing Sugars
+[WA] Carbohydrates v. Lipids
+[WA] Aldoses v. Ketoses
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following are usually positive for Barfoed's test?
+[CA] Monosaccharides
+[WA] Disaccharides
+[WA] Reducing Sugars
+[WA] Nonreducing Sugars
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Seliwanoff's Test identifies:
+[WA] Monosaccharides v. Polysaccharides
+[WA] Reducing v. Nonreducing Sugars
+[WA] Carbohydrates v. Lipids
+[CA] Aldoses v. Ketoses
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Glucose is a:
+[CA] Aldose
+[WA] Ketose
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Fructose is a:
+[WA] Aldose
+[CA] Ketose
+[END]
+-------------------------------------------
+[QT] MCQ
+[Q] Which of the following are positive for Seliwanoff's test?
+[WA] Aldoses
+[CA] Ketoses
 [END]
 -------------------------------------------
