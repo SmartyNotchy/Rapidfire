@@ -95,10 +95,10 @@
 -------------------------------------------
 [QT] MCQ
 [Q] Which of the following is a pentose monosaccharide?
-[CA] Fructose
+[WA] Fructose
 [WA] Glucose
 [WA] Galactose
-[WA] Sucrose
+[CA] None of these
 [END]
 -------------------------------------------
 [QT] SAQ
