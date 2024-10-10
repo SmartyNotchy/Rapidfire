@@ -112,8 +112,43 @@ function reset_mm_div() {
 function hide_mm_div() { MAINMENU_DIV.style.display = "none"; }
 function show_mm_div() { MAINMENU_DIV.style.display = "flex"; }
 
+/* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
+/* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
+/* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
+
+const LOADING_DIV = document.getElementById("loading_div");
+
+const LD_LOADER = document.getElementById("ld_loader");
+const LD_SVG_SRC = document.getElementById("ld_svg_src");
+
+const LD_INITIAL_DIV = document.getElementById("ld_initial");
+const LD_INITIAL_TITLE = document.getElementById("ld_initial_title");
+const LD_INITIAL_SUBTITLE = document.getElementById("ld_initial_subtitle");
+
+const LD_ERROR_DIV = document.getElementById("ld_error");
+const LD_ERROR_TITLE = document.getElementById("ld_error_title");
+const LD_ERROR_SUBTITLE = document.getElementById("ld_error_subtitle");
+const LD_ERROR_LIST = document.getElementById("ld_error_list");
+
 window.onload = async function() {
     let res = await load_directory();
+    if (res.length > 0) {
+        LD_INITIAL_DIV.style.display = "none";
+        
+        LD_LOADER.classList.add("error");
+        LD_SVG_SRC.setAttribute("href", "#svg_warning");
+        LD_SVG_SRC.style.color = "#ff0000";
+
+        if (res.length <= 5) {
+            LD_ERROR_LIST.innerHTML = res.join("<br>");
+        } else {
+            LD_ERROR_LIST.innerHTML = res.slice(0, 6).concat([`... (${res.length - 6} more)`]).join("<br>");
+        
+        }
+        LD_ERROR_DIV.style.display = "block";
+
+        return;
+    }
 
     // Set Visibilities
     reset_mm_div();

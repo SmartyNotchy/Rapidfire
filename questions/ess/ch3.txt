@@ -203,8 +203,9 @@
 [WA] Fish Kills
 [WA] Algal Blooms
 [WA] More Decomposers
+[END]
 -------------------------------------------
-[QT] MCQ
+[QT] SAQ
 [Q] Write the chemical formula of **phosphate**.\n*(Answer Format: H2O, Na(1+))*
 [EXA] PO4(3-)
 [END]

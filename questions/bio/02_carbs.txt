@@ -186,6 +186,7 @@
 [WA] 12n
 [WA] 5n + 1
 [WA] 10n + 2
+[END]
 -------------------------------------------
 [QT] MCQ
 [Q] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **hydrogen** atoms are in its formula?
@@ -193,6 +194,7 @@
 [WA] 12n
 [WA] 5n + 1
 [CA] 10n + 2
+[END]
 -------------------------------------------
 [QT] MCQ
 [Q] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **oxygen** atoms are in its formula?
@@ -200,6 +202,7 @@
 [WA] 12n
 [CA] 5n + 1
 [WA] 10n + 2
+[END]
 -------------------------------------------
 [T] Examples of Polysaccharides
 -------------------------------------------

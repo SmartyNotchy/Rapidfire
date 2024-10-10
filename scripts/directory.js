@@ -128,7 +128,7 @@ function parse_qset_lines(lines) {
                     } else if (line[0] == "NS") {
                         // TODO
                     } else {
-
+                        throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
                     }
                 }
             }           
@@ -151,7 +151,7 @@ function parse_qset_lines(lines) {
             } else if (line[0] == "T") {
                 currentTopic = line[1];
             } else {
-                throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]} (with arg "${line[1]}")"`);
+                throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
             }
         }
     }
@@ -160,7 +160,13 @@ function parse_qset_lines(lines) {
 }
 
 async function load_directory() {
+    let idx = 0;
+    let numSets = Object.entries(DIRECTORY).length;
+    let errors = [];
+
     for (let subj of Object.entries(DIRECTORY)) {
+        idx++;
+        LD_INITIAL_TITLE.innerText = `Loading Question Sets (${idx}/${numSets})`;
         SUBJECTS[subj[0]] = subj[1]["plaintext"];
 
         let subjPresets = {};
@@ -175,14 +181,12 @@ async function load_directory() {
                 subjPresets[res[0]] = res[1]
                 subjTopics = { ...subjTopics, ...res[2] };
             } catch (error) {
-                console.error(error);
-                // TODO: DISPLAY ERRORS
+                errors.push(`${filepath}${filename}.txt - ` + error.message);
             }
         }
 
         PRESETS[subj[0]] = subjPresets;
         QUESTION_BANK[subj[0]] = subjTopics;
     }
-    console.log("Finished!");
-    return true;
+    return errors;
 }
