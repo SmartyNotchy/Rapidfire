@@ -10,7 +10,7 @@ const DIRECTORY = {
         "plaintext": "AP NSL/AP Gov.",
         "path": "./questions/nsl/",
         "files": [
-            "u1ch1", "u1ch2", "u1ch3"
+            "u1ch1", "u1ch2", "u1ch3", "u2ch4"
         ]
     },
     "ESS": {
@@ -144,7 +144,7 @@ function parse_qset_lines(lines) {
                 currentlyParsingQ = true;
             } else if (line[0] == "MCQ") {
                 currentQType = "MCQ";
-                currentQObj = new MCQQuestion(undefined, currentTopic, [], []);
+                currentQObj = new MCQQuestion(line[1], currentTopic, [], []);
                 currentlyParsingQ = true;
             } else {
                 throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
