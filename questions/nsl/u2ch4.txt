@@ -1,0 +1,176 @@
+[PRESET] Chapter 4 (Congress) (UNFINISHED)
+-------------------------------------------
+[T] NSL 2.1
+-------------------------------------------
+[SAQ] Which Article of the Constitution goes over the structure of Congress?
+[EXA] I
+[EXA] 1
+[A] One
+[END]
+-------------------------------------------
+[SAQ] Congress is a __________ (meaning "two-house") legislature.
+[A] Bicameral
+[END]
+-------------------------------------------
+[MCQ] This house of Congress allots representatives per state based on population.
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[MCQ] This house of Congress allots representatives equally per state.
+[WA] House of Representatives
+[CA] Senate
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ changed the senator election process to be directly voted in by the people.
+[EXA] XVII
+[EXA] 17
+[A] Seventeen
+[END]
+-------------------------------------------
+[MCQ] After the 17th Amendment, senators were (and still are) voted in by the:
+[CA] State Citizens
+[WA] House of Representatives
+[WA] State Governors
+[WA] State Legislatures
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Originates revenue bills*
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Initiates impeachment*
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Focus on revenue & spending*
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Provides "advice and consent"*
+[WA] House of Representatives
+[CA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Conducts impeachment trials*
+[WA] House of Representatives
+[CA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Deals with international & foreign policy*
+[WA] House of Representatives
+[CA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*435 members (as of 2024)*
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*More frequent elections*
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Major focus on satisfying constituents*
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*100 members (as of 2024)*
+[WA] House of Representatives
+[CA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Less frequent elections*
+[WA] House of Representatives
+[CA] Senate
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress best fits this description?\n*Less affected by popular opinion*
+[WA] House of Representatives
+[CA] Senate
+[END]
+-------------------------------------------
+[SAQ] How many members are in the House of Representatives? (As of 2024)
+[EXA] 435
+[END]
+-------------------------------------------
+[SAQ] How many members are in the Senate? (As of 2024)
+[EXA] 100
+[END]
+-------------------------------------------
+[SAQ] Elections for the House of Representatives are conducted every __ years.
+[EXA] 2
+[A] Two
+[END]
+-------------------------------------------
+[SAQ] Elections for the Senate are conducted every __ years.
+[EXA] 6
+[A] Six
+[END]
+-------------------------------------------
+[SAQ] Congress contains groups of like-minded people organized in ________.
+[A] Caucuses
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the role of caucuses?
+[CA] Not officially part of the lawmaking process, but can affect legislative strategy
+[WA] Constitutionally-outlined, allows interest groups to effectively assemble in Congress
+[WA] Cross-party agreement to legislate on specific policy areas
+[WA] Selected by the President, can temporarily bypass Congress's rules
+[END]
+-------------------------------------------
+[MCQ] Can bills be formally introduced through caucuses?
+[WA] Yes
+[CA] No
+[END]
+-------------------------------------------
+[SAQ] With their longer terms, Senators can build longer-lasting __________ and working relationships.
+[A] Coalitions
+[END]
+-------------------------------------------
+[SAQ] In the Constitution, the framers assigned Congress specific __________ ________.
+[A] Enumerated Powers
+[A] Expressed Powers
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT one of Congress's enumerated powers?
+[CA] Creating a bank
+[WA] Coining currency
+[WA] Regulating commerce
+[WA] Signing foreign treaties
+[END]
+-------------------------------------------
+[SAQ] Congress's power to raise revenue (i.e. through taxes) is formally called the:
+[A] Power of the Purse
+[END]
+-------------------------------------------
+[SAQ] _________ has the power to declare war.
+[A] Congress
+[END]
+-------------------------------------------
+[SAQ] As the Commander in Chief, only the __________ can deploy troops or receive ambassadors.
+[A] President
+[END]
+-------------------------------------------
+[SAQ] This law requires the president to inform Congress after taking military action.
+[A] War Powers Act
+[END]
+-------------------------------------------
+[SAQ] This clause allows Congress to make additional laws to cover its enumerated powers.
+[A] Necessary And Proper
+[A] Elastic
+[A] Elastic Clause
+[END]
+-------------------------------------------
+[MCQ] All bills still need to be approved by both houses before being passed to the president for signing.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[T] NSL 2.2
+-------------------------------------------

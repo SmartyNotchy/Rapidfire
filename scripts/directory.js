@@ -1,16 +1,16 @@
 const DIRECTORY = {
     "APUSH": {
-        "plaintext": "APUSH",
+        "plaintext": "APUSH (DO NOT USE IT WILL CRASH)",
         "path": "./questions/apush/",
         "files": [
-            "unit1", "unit2", "unit3", "unit4", "unit5", "unit6", "unit7", "unit8"
+            //"unit1", "unit2", "unit3", "unit4", "unit5", "unit6", "unit7", "unit8"
         ]
     },
     "NSL": {
         "plaintext": "AP NSL/AP Gov.",
         "path": "./questions/nsl/",
         "files": [
-            "u1ch1", "u1ch2", "u1ch3"
+            "u1ch1", "u1ch2", "u1ch3", "u2ch4"
         ]
     },
     "ESS": {
@@ -100,9 +100,7 @@ function parse_qset_lines(lines) {
         }
 
         if (currentlyParsingQ) {
-            if (line[0] == "Q") {
-                currentQObj.q = line[1];
-            } else if (line[0] == "END") {
+            if (line[0] == "END") {
                 if (!PRESET_TOPICS.includes(currentTopic)) {
                     PRESET_TOPICS.push(currentTopic);
                     TOPICS[currentTopic] = [];
@@ -128,7 +126,7 @@ function parse_qset_lines(lines) {
                     } else if (line[0] == "NS") {
                         // TODO
                     } else {
-
+                        throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
                     }
                 }
             }           
@@ -138,20 +136,18 @@ function parse_qset_lines(lines) {
                     throw new Error(`[PARSE] Line ${lineNum}: Preset name already defined (${PRESET_NAME})`);
                 }
                 PRESET_NAME = line[1];
-            } else if (line[0] == "QT") {
-                currentQType = line[1];
-                currentlyParsingQ = true;
-                if (currentQType == "SAQ") {
-                    currentQObj = new SAQQuestion(undefined, currentTopic, []);
-                } else if (currentQType == "MCQ") {
-                    currentQObj = new MCQQuestion(undefined, currentTopic, [], []);
-                } else {
-                    throw new Error(`[PARSE] Line ${lineNum}: Unrecognized question type "${line[1]}"`);
-                }
             } else if (line[0] == "T") {
                 currentTopic = line[1];
+            } else if (line[0] == "SAQ") {
+                currentQType = "SAQ";
+                currentQObj = new SAQQuestion(line[1], currentTopic, []);
+                currentlyParsingQ = true;
+            } else if (line[0] == "MCQ") {
+                currentQType = "MCQ";
+                currentQObj = new MCQQuestion(line[1], currentTopic, [], []);
+                currentlyParsingQ = true;
             } else {
-                throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]} (with arg "${line[1]}")"`);
+                throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
             }
         }
     }
@@ -160,6 +156,10 @@ function parse_qset_lines(lines) {
 }
 
 async function load_directory() {
+    let idx = 0;
+    let numSets = Object.entries(DIRECTORY).map(subj => subj[1]["files"].length).reduce((acc, item) => acc + item, 0);
+    let errors = [];
+
     for (let subj of Object.entries(DIRECTORY)) {
         SUBJECTS[subj[0]] = subj[1]["plaintext"];
 
@@ -168,6 +168,9 @@ async function load_directory() {
         let filepath = subj[1]["path"];
 
         for (let filename of subj[1]["files"]) {
+            idx++;
+            LD_INITIAL_TITLE.innerText = `Loading Question Sets (${idx}/${numSets})`;
+
             try {
                 let lines = await get_qset_lines(`${filepath}${filename}.txt`);
                 let res = parse_qset_lines(lines);
@@ -175,14 +178,12 @@ async function load_directory() {
                 subjPresets[res[0]] = res[1]
                 subjTopics = { ...subjTopics, ...res[2] };
             } catch (error) {
-                console.error(error);
-                // TODO: DISPLAY ERRORS
+                errors.push(`${filepath}${filename}.txt - ` + error.message);
             }
         }
 
         PRESETS[subj[0]] = subjPresets;
         QUESTION_BANK[subj[0]] = subjTopics;
     }
-    console.log("Finished!");
-    return true;
+    return errors;
 }
