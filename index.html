@@ -12,6 +12,11 @@
     <meta name="description" content="Nowadays, it's like every 'review' or 'study' tool online is overloaded with ads, restrictive features, or plain inefficiency. Frustrated? Meet Rapidfire: a fast-paced, flashcard-like quiz website built to emphasize retention for tests.">
     <title>Rapidfire - Fast-Paced Study Sessions</title>
 
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  -->
+    
     <link href="https://fonts.googleapis.com/css?family=Inclusive+Sans" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="style/style_desktop.css" />
     <!-- <link rel="icon" href="images/global/favicon.ico" type="image/x-icon"> -->
@@ -74,7 +79,6 @@
         <svg id="svg_warning" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
         </svg>
-        
 
         <svg id="svg_phone" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="0.7" stroke="currentColor" >
           <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.5H8.25A2.25 2.25 0 0 0 6 3.75v16.5a2.25 2.25 0 0 0 2.25 2.25h7.5A2.25 2.25 0 0 0 18 20.25V3.75a2.25 2.25 0 0 0-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3m-3 18.75h3" />
@@ -99,11 +103,17 @@
         <div id="ld_error">
           <p id="ld_error_title">Oh noes! Some question sets failed to load:</p>
           <p id="ld_error_subtitle"><span id="ld_error_list">- Placeholder</span><br><br><br><br>If this error persists, please <a href="https://github.com/SmartyNotchy/Rapidfire/issues/new?assignees=&labels=major-bug&projects=&template=bug_report.md&title=">file a bug report</a>.</p>
+
+          <button class="ld_error_btn" id="ld_error_retry">Reload</button>
+          <br>
+          <button class="ld_error_btn" id="ld_error_proceed">Continue Anyways</button>
         </div>
 
         <div id="ld_mobile">
           <p id="ld_mobile_title">Oops!</p>
           <p id="ld_mobile_subtitle">Rapidfire does not currently support mobile devices. As a result, many parts of the website may look broken or behave weirdly.</p>
+          
+          <button class="ld_error_btn" id="ld_mobile_proceed">Continue Anyways</button>
         </div>
       </div>
 

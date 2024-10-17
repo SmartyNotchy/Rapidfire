@@ -161,12 +161,10 @@ function parse_qset_lines(lines) {
 
 async function load_directory() {
     let idx = 0;
-    let numSets = Object.entries(DIRECTORY).length;
+    let numSets = Object.entries(DIRECTORY).map(subj => subj[1]["files"].length).reduce((acc, item) => acc + item, 0);
     let errors = [];
 
     for (let subj of Object.entries(DIRECTORY)) {
-        idx++;
-        LD_INITIAL_TITLE.innerText = `Loading Question Sets (${idx}/${numSets})`;
         SUBJECTS[subj[0]] = subj[1]["plaintext"];
 
         let subjPresets = {};
@@ -174,6 +172,9 @@ async function load_directory() {
         let filepath = subj[1]["path"];
 
         for (let filename of subj[1]["files"]) {
+            idx++;
+            LD_INITIAL_TITLE.innerText = `Loading Question Sets (${idx}/${numSets})`;
+
             try {
                 let lines = await get_qset_lines(`${filepath}${filename}.txt`);
                 let res = parse_qset_lines(lines);

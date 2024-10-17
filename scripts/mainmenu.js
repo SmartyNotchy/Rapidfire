@@ -129,37 +129,101 @@ const LD_ERROR_DIV = document.getElementById("ld_error");
 const LD_ERROR_TITLE = document.getElementById("ld_error_title");
 const LD_ERROR_SUBTITLE = document.getElementById("ld_error_subtitle");
 const LD_ERROR_LIST = document.getElementById("ld_error_list");
+const LD_ERROR_RETRY = document.getElementById("ld_error_retry");
+const LD_ERROR_PROCEED = document.getElementById("ld_error_proceed");
 
-window.onload = async function() {
-    let res = await load_directory();
-    if (res.length > 0) {
+const LD_MOBILE_DIV = document.getElementById("ld_mobile");
+const LD_MOBILE_TITLE = document.getElementById("ld_mobile_title");
+const LD_MOBILE_SUBTITLE = document.getElementById("ld_mobile_subtitle");
+const LD_MOBILE_PROCEED = document.getElementById("ld_mobile_proceed");
+
+var LD_ERRORS = [];
+var LD_WARNING_QSET = false;
+var LD_WARNING_MOBILE = false;
+
+var LD_FADEOUT_COUNTER = 0;
+var LD_FADEOUT_INTERVAL = -1;
+var MM_FADEIN_COUNTER = 0;
+var MM_FADEIN_INTERVAL = -1;
+
+function attempt_load_mm() {
+    if (LD_WARNING_QSET) {
         LD_INITIAL_DIV.style.display = "none";
-        
+        LD_MOBILE_DIV.style.display = "none";
+
         LD_LOADER.classList.add("error");
         LD_SVG_SRC.setAttribute("href", "#svg_warning");
         LD_SVG_SRC.style.color = "#ff0000";
 
-        if (res.length <= 5) {
-            LD_ERROR_LIST.innerHTML = res.join("<br>");
+        if (LD_ERRORS.length <= 5) {
+            LD_ERROR_LIST.innerHTML = LD_ERRORS.join("<br>");
         } else {
-            LD_ERROR_LIST.innerHTML = res.slice(0, 6).concat([`... (${res.length - 6} more)`]).join("<br>");
-        
+            LD_ERROR_LIST.innerHTML = LD_ERRORS.slice(0, 6).concat([`... (${LD_ERRORS.length - 6} more)`]).join("<br>");
         }
+        
+        LD_ERROR_RETRY.onclick = function() { LD_ERROR_RETRY.setAttribute("disabled", true); LD_ERROR_PROCEED.setAttribute("disabled", true); location.reload(); };
+        LD_ERROR_PROCEED.onclick = function() { LD_ERROR_RETRY.setAttribute("disabled", true); LD_ERROR_PROCEED.setAttribute("disabled", true); LD_WARNING_QSET = false; attempt_load_mm(); };
         LD_ERROR_DIV.style.display = "block";
 
         return;
     }
 
-    // Set Visibilities
-    reset_mm_div();
-    show_mm_div();
+    if (LD_WARNING_MOBILE) {
+        LD_INITIAL_DIV.style.display = "none";
+        LD_ERROR_DIV.style.display = "none";
 
-    reset_mmns_div();
-    hide_mmns_div();
+        LD_LOADER.classList.add("error");
+        LD_SVG_SRC.setAttribute("href", "#svg_phone");
+        LD_SVG_SRC.style.color = "#ff0000";
+        
+        LD_MOBILE_PROCEED.onclick = function() { LD_MOBILE_PROCEED.setAttribute("disabled", true); LD_WARNING_MOBILE = false; attempt_load_mm(); };
+        LD_MOBILE_DIV.style.display = "block";
 
-    reset_session_div();
-    hide_session_div();
+        return;
+    }
 
-    // Set Event Listeners
-    document.addEventListener("keydown", handle_keypress);
+    // Fade Out Loading Div
+    LD_FADEOUT_INTERVAL = setInterval(function() {
+        LOADING_DIV.style.opacity = `${1 - 0.075 * LD_FADEOUT_COUNTER}`;
+        LD_FADEOUT_COUNTER++;
+
+        if (LD_FADEOUT_COUNTER > 13) {
+            clearInterval(LD_FADEOUT_INTERVAL);
+            LOADING_DIV.style.display = "none";
+
+            // Set Visibilities
+            reset_mm_div();
+            show_mm_div();
+
+            reset_mmns_div();
+            hide_mmns_div();
+
+            reset_session_div();
+            hide_session_div();
+
+            // Set Event Listeners
+            document.addEventListener("keydown", handle_keypress);
+            
+            // Fade In Main Menu
+            MM_FADEIN_INTERVAL = setInterval(function() {
+                MAINMENU_DIV.style.opacity = `${0.075 * MM_FADEIN_COUNTER}`;
+                MM_FADEIN_COUNTER++;
+
+                if (MM_FADEIN_COUNTER > 13) {
+                    clearInterval(MM_FADEIN_INTERVAL);
+                    LOADING_DIV.style.display = "none";
+                }
+            })
+        }
+    }, 10);
+}
+
+
+
+window.onload = async function() {
+    LD_ERRORS = await load_directory();
+    if (LD_ERRORS.length > 0) { LD_WARNING_QSET = true; };
+    if (window.innerWidth < 800 || navigator.userAgent.match(/Mobile/i) != null) { LD_WARNING_MOBILE = true; }
+    
+    attempt_load_mm();
 }
