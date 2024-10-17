@@ -6,7 +6,7 @@ function resume_session() {
             CURRENT_SESSION = new TriviaSession(getCookie("subject"), getCookie("topics"), getCookie("questionNum"), getCookie("seed"), undefined);
         } catch (error) {
             alert("Oops! If you're reading this, something went horribly wrong while trying to load your session. Please report this on the Github!\n\n" + error);
-            return
+            return;
         }
 
         MENU_BTN_RESUME.setAttribute("disabled", "");
@@ -141,12 +141,8 @@ var LD_ERRORS = [];
 var LD_WARNING_QSET = false;
 var LD_WARNING_MOBILE = false;
 
-var LD_FADEOUT_COUNTER = 0;
-var LD_FADEOUT_INTERVAL = -1;
-var MM_FADEIN_COUNTER = 0;
-var MM_FADEIN_INTERVAL = -1;
-
-function attempt_load_mm() {
+async function attempt_load_mm() {
+    // QSet Warning Screen
     if (LD_WARNING_QSET) {
         LD_INITIAL_DIV.style.display = "none";
         LD_MOBILE_DIV.style.display = "none";
@@ -168,6 +164,7 @@ function attempt_load_mm() {
         return;
     }
 
+    // Mobile Warning Screen
     if (LD_WARNING_MOBILE) {
         LD_INITIAL_DIV.style.display = "none";
         LD_ERROR_DIV.style.display = "none";
@@ -183,39 +180,23 @@ function attempt_load_mm() {
     }
 
     // Fade Out Loading Div
-    LD_FADEOUT_INTERVAL = setInterval(function() {
-        LOADING_DIV.style.opacity = `${1 - 0.075 * LD_FADEOUT_COUNTER}`;
-        LD_FADEOUT_COUNTER++;
+    await fadeOutElement(LOADING_DIV, "ld_fadeout", 250);
 
-        if (LD_FADEOUT_COUNTER > 13) {
-            clearInterval(LD_FADEOUT_INTERVAL);
-            LOADING_DIV.style.display = "none";
+    // Set Visibilities
+    reset_mm_div();
+    show_mm_div();
 
-            // Set Visibilities
-            reset_mm_div();
-            show_mm_div();
+    reset_mmns_div();
+    hide_mmns_div();
 
-            reset_mmns_div();
-            hide_mmns_div();
+    reset_session_div();
+    hide_session_div();
 
-            reset_session_div();
-            hide_session_div();
-
-            // Set Event Listeners
-            document.addEventListener("keydown", handle_keypress);
-            
-            // Fade In Main Menu
-            MM_FADEIN_INTERVAL = setInterval(function() {
-                MAINMENU_DIV.style.opacity = `${0.075 * MM_FADEIN_COUNTER}`;
-                MM_FADEIN_COUNTER++;
-
-                if (MM_FADEIN_COUNTER > 13) {
-                    clearInterval(MM_FADEIN_INTERVAL);
-                    LOADING_DIV.style.display = "none";
-                }
-            })
-        }
-    }, 10);
+    // Set Event Listeners
+    document.addEventListener("keydown", handle_keypress);
+    
+    // Fade In Main Menu
+    fadeInElement(MAINMENU_DIV, "mm_fadein", "flex", 250);
 }
 
 

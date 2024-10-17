@@ -19,6 +19,38 @@ a {
     color: #6699ff !important;
 }
 
+@keyframes basic_fadein_anim {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes basic_fadeout_anim {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+@keyframes popup_fadein_anim {
+    0% {
+        opacity: 0;
+        transform: translate(-50%, 75%);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(-50%, 0);
+    }
+}
+
+@keyframes popup_fadeout_anim {
+    0% {
+        opacity: 1;
+        transform: translate(-50%, 0);
+    }
+    100% {
+        opacity: 0;
+        transform: translate(-50%, 75%);
+    }
+}
+
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
@@ -34,8 +66,6 @@ a {
     top: 0px;
 
     z-index: 2000;
-
-    background-color: #1f2937;
 
     display: flex;
 
@@ -186,14 +216,11 @@ a {
     transition: background-color 0.2s, outline 0.2s;
 }
 
+.ld_fadeout {
+    animation: basic_fadeout_anim 0.2s ease forwards;
+}
 
-/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
-/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
-/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
-/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
-/* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */ /* VERSION DIV */
-
-#vers_div {
+#version_div {
     width: 100vw;
     height: 100vh;
     
@@ -201,6 +228,8 @@ a {
     left: 0px;
     top: 0px;
 
+    color: gray;
+    font-size: 14px;
     z-index: -1;
 }
 
@@ -214,12 +243,15 @@ a {
     width: 100vw;
     height: 100vh;
 
-    display: flex;
+    /* display: flex; */
+    display: none;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
 
-    opacity: 0;
+.mm_fadein {
+    animation: basic_fadein_anim 0.2s ease forwards;
 }
 
 #mainmenu_logo {

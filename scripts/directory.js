@@ -1,9 +1,9 @@
 const DIRECTORY = {
     "APUSH": {
-        "plaintext": "APUSH",
+        "plaintext": "APUSH (DO NOT USE IT WILL CRASH)",
         "path": "./questions/apush/",
         "files": [
-            "unit1", "unit2", "unit3", "unit4", "unit5", "unit6", "unit7", "unit8"
+            //"unit1", "unit2", "unit3", "unit4", "unit5", "unit6", "unit7", "unit8"
         ]
     },
     "NSL": {
