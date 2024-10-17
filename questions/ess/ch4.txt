@@ -2,330 +2,274 @@
 -------------------------------------------
 [T] Watersheds
 -------------------------------------------
-[QT] MCQ
-[Q] The majority of water on Earth is:
+[MCQ] The majority of water on Earth is:
 [CA] Saltwater
 [WA] Freshwater
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The majority of Earth's freshwater is stored in:
+[SAQ] The majority of Earth's freshwater is stored in:
 [A] Glaciers
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] The majority of Earth's **usable** freshwater is:
+[MCQ] The majority of Earth's **usable** freshwater is:
 [CA] Groundwater
 [WA] Glacial Storage
 [WA] Creeks/Rivers/Streams
 [WA] Filtered Ocean Water
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This region of land called a ___________ collects water and "funnels" it all into a drainage point, like the Chesapeake Bay.
+[SAQ] This region of land called a ___________ collects water and "funnels" it all into a drainage point, like the Chesapeake Bay.
 [A] Watershed
 [A] Drainage Basin
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ________ refers to how clear/dirty a sample of water is, due to suspended sediments.
+[SAQ] ________ refers to how clear/dirty a sample of water is, due to suspended sediments.
 [A] Turbidity
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ____ _____ refers to how long it takes water to reach creeks/rivers/streams after a precipitation event.
+[SAQ] ____ _____ refers to how long it takes water to reach creeks/rivers/streams after a precipitation event.
 [A] Lag Time
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following accurately describes the lag time graph for a **rural** area?
+[MCQ] Which of the following accurately describes the lag time graph for a **rural** area?
 [CA] Low Peak, Wide Range
 [WA] Low Peak, Narrow Range
 [WA] High Peak, Wide Range
 [WA] High Peak, Narrow Range
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following accurately describes the lag time graph for an **urban** area?
+[MCQ] Which of the following accurately describes the lag time graph for an **urban** area?
 [WA] Low Peak, Wide Range
 [WA] Low Peak, Narrow Range
 [WA] High Peak, Wide Range
 [CA] High Peak, Narrow Range
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] ______ areas have longer lag time.
+[MCQ] ______ areas have longer lag time.
 [WA] Urban
 [CA] Rural
 [END]
 -------------------------------------------
 [T] Topographic Maps
 -------------------------------------------
-[QT] SAQ
-[Q] On topo maps, __________ identify the local highest geographic points.
+[SAQ] On topo maps, __________ identify the local highest geographic points.
 [A] Benchmarks
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] On topo maps, benchmarks identify the local ________ geographic points.
+[MCQ] On topo maps, benchmarks identify the local ________ geographic points.
 [CA] Highest
 [WA] Lowest
 [WA] Both Max & Min
 [WA] Saturated (High Precip.)
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _____, or "folds", are parts of terrain that might be found on mountain ranges.
+[SAQ] _____, or "folds", are parts of terrain that might be found on mountain ranges.
 [A] Ridges
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ____________ are the opposite of ridges, in terms of terrain shape.
+[SAQ] ____________ are the opposite of ridges, in terms of terrain shape.
 [A] Tributaries
 [A] Valleys
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The ________ _______________ on topo maps indicates the elevation difference between two adjacent contour lines.
+[SAQ] The ________ _______________ on topo maps indicates the elevation difference between two adjacent contour lines.
 [A] Contour Interval
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Contour lines point _______ streams.
+[MCQ] Contour lines point _______ streams.
 [CA] Upwards/Upstream
 [WA] Downwards/Downstream
 [WA] Orthogonal to
 [WA] N/A, Streams are indicated separately
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Universal Base Level is always:
+[SAQ] Universal Base Level is always:
 [A] Sea Level
 [END]
 -------------------------------------------
 [T] Stream Valley Evolution
 -------------------------------------------
-[QT] SAQ
-[Q] Suspended Load is the reason behind _________ in streams.
+[SAQ] Suspended Load is the reason behind _________ in streams.
 [A] Turbidity
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Larger rocks (clasts) at the bottom of rivers are called the _______.
+[SAQ] Larger rocks (clasts) at the bottom of rivers are called the _______.
 [A] Bedload
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The larger sediments that make up rivers' bedload are called:
+[SAQ] The larger sediments that make up rivers' bedload are called:
 [A] Clasts
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] A part of a river contains clasts with sharp & rough edges. This part is likely to be further:
+[MCQ] A part of a river contains clasts with sharp & rough edges. This part is likely to be further:
 [CA] Upstream
 [WA] Downstream 
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] A part of a river contains clasts with smoothened edges. This part is likely to be further:
+[MCQ] A part of a river contains clasts with smoothened edges. This part is likely to be further:
 [WA] Upstream
 [CA] Downstream 
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _________ refers to the maximum particle size a river can transport.
+[SAQ] _________ refers to the maximum particle size a river can transport.
 [A] Competence 
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _________ refers to the maximum amount of particles a river can transport.
+[SAQ] _________ refers to the maximum amount of particles a river can transport.
 [A] Capacity 
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Parts of rivers that are higher upstream will likely have higher:
+[MCQ] Parts of rivers that are higher upstream will likely have higher:
 [CA] Competence
 [WA] Capacity
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Parts of rivers that are lower downstream (i.e. deltas) will likely have higher:
+[MCQ] Parts of rivers that are lower downstream (i.e. deltas) will likely have higher:
 [WA] Competence
 [CA] Capacity
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] When velocity (energy) decreases, streams will have increased:
+[MCQ] When velocity (energy) decreases, streams will have increased:
 [WA] Competence
 [CA] Capacity
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] When stream velocity decreases, sediment begins to drop out. These sediments are called:
+[SAQ] When stream velocity decreases, sediment begins to drop out. These sediments are called:
 [A] Alluviums
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Streams start out straight, but as time passes, they _____ more and more.
+[SAQ] Streams start out straight, but as time passes, they _____ more and more.
 [A] Meander
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ________ _____ run parallel to streams and are created by deposition events.
+[SAQ] ________ _____ run parallel to streams and are created by deposition events.
 [A] Natural Levees
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Natural levees run _______ to the main channel.
+[SAQ] Natural levees run _______ to the main channel.
 [A] Parallel
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] When water gets trapped behind levees after flooding, _____ form.
+[SAQ] When water gets trapped behind levees after flooding, _____ form.
 [A] Backswamps
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _____ ________ drain floodplains after flooding events, and eventually lead back to the main channel.
+[SAQ] _____ ________ drain floodplains after flooding events, and eventually lead back to the main channel.
 [A] Yazoo Tributaries
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] When streams meander excessively, they eventually create ______ _____.
+[SAQ] When streams meander excessively, they eventually create ______ _____.
 [A] Oxbow Lakes
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Backswamps and yazoos are often found behind _____ _____.
+[SAQ] Backswamps and yazoos are often found behind _____ _____.
 [A] Natural Levees
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Backswamps, Yazoos, and Oxbow Lakes are all refilled by __________ events.
+[SAQ] Backswamps, Yazoos, and Oxbow Lakes are all refilled by __________ events.
 [A] Flooding
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This area around a river, called the ______, contains all of the oxbow lakes, backswamps, and tributaries that formed from the main channel.
+[SAQ] This area around a river, called the ______, contains all of the oxbow lakes, backswamps, and tributaries that formed from the main channel.
 [A] Floodplain
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Floodplains are marked by presence of a _-shaped valley.
+[SAQ] Floodplains are marked by presence of a _-shaped valley.
 [EXA] U
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Compared to floodplains, areas upstream a river are often marked by _-shaped valleys.
+[SAQ] Compared to floodplains, areas upstream a river are often marked by _-shaped valleys.
 [EXA] V
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Floodplains are bound by ______ _____, which form the "U-shaped" valley.
+[SAQ] Floodplains are bound by ______ _____, which form the "U-shaped" valley.
 [A] Valley Walls
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Smaller floodplains are often found:
+[MCQ] Smaller floodplains are often found:
 [CA] Upstream
 [WA] Downstream
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Larger floodplains are often found:
+[MCQ] Larger floodplains are often found:
 [CA] Downstream
 [WA] Upstream
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Upstream portions of a river exhibit:
+[MCQ] Upstream portions of a river exhibit:
 [CA] Downcutting
 [WA] Lateral Erosion
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Downstream portions of a river exhibit:
+[MCQ] Downstream portions of a river exhibit:
 [WA] Downcutting
 [CA] Lateral Erosion
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ______ ____ are formed by deposition events, and are found on the "inner curve" of river meanders.
+[SAQ] ______ ____ are formed by deposition events, and are found on the "inner curve" of river meanders.
 [A] Point Bars
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _______ refer to the parts of rivers with maximum velocity & minimum friction.
+[SAQ] _______ refer to the parts of rivers with maximum velocity & minimum friction.
 [A] Thalwegs
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _______ are eroded by rivers, and are found on the "outer curve" of river meanders.
+[SAQ] _______ are eroded by rivers, and are found on the "outer curve" of river meanders.
 [A] Cutbanks
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] When a river curves/meanders, the pointbar is found on the:
+[MCQ] When a river curves/meanders, the pointbar is found on the:
 [CA] Inner Curve
 [WA] Outer Curve
 [WA] Riverbed
 [WA] River Center
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] When a river curves/meanders, the cutbank is found on the:
+[MCQ] When a river curves/meanders, the cutbank is found on the:
 [WA] Inner Curve
 [CA] Outer Curve
 [WA] Riverbed
 [WA] River Center
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In any part of a river, the thalweg is found at this depth:
+[MCQ] In any part of a river, the thalweg is found at this depth:
 [WA] Surface-level
 [CA] Slightly below the surface
 [WA] At the halfway point
 [WA] At the riverbed
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Why is the thalweg of a river always found slightly below the surface, rather than at the top?
+[MCQ] Why is the thalweg of a river always found slightly below the surface, rather than at the top?
 [CA] This depth minimizes friction, as the surface experiences friction with air
 [WA] This depth minimizes friction, as the surface experiences friction with the coastline
 [WA] This depth maximizes velocity, as the deeper you go the stronger the currents get
 [WA] This depth maximizes velocity, as more hydrogen bonding interactions can occur
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The most common way that temporary sea level increases is due to the construction of:
+[SAQ] The most common way that temporary sea level increases is due to the construction of:
 [A] Dams
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] When a dam is built, the ___________ ____ ______ of the river upstream the dam changes.
+[SAQ] When a dam is built, the ___________ ____ ______ of the river upstream the dam changes.
 [A] Temporary Sea Level
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] When a dam is built, upstream _________ increases.
+[SAQ] When a dam is built, upstream _________ increases.
 [A] Meandering
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ______ form when a river (like the MS) meanders to deposit sediment into the ocean faster.
+[SAQ] ______ form when a river (like the MS) meanders to deposit sediment into the ocean faster.
 [A] Deltas
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Why does deepening a river disrupt its delta system?
+[MCQ] Why does deepening a river disrupt its delta system?
 [CA] It disrupts the natural "fanning out" process
 [WA] It artificaly increases the turbidity of the water
 [WA] It facilitates the formation of levees and tributaries
 [WA] It creates excessive oxbow lakes, a sign that a river is struggling
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] When a river meanders left/right, the thalweg is found towards the side of the:
+[MCQ] When a river meanders left/right, the thalweg is found towards the side of the:
 [CA] Cutbank
 [WA] Pointbank
 [WA] N/A, it remains in the middle

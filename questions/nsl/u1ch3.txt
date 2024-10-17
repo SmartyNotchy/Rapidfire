@@ -2,273 +2,229 @@
 -------------------------------------------
 [T] NSL 1.7
 -------------------------------------------
-[QT] SAQ
-[Q] ___________ refers to the sharing of power between national & state governments.
+[SAQ] ___________ refers to the sharing of power between national & state governments.
 [A] Federalism
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Article VI of the Constitution defines the ________ _____, an important part of federalism.
+[SAQ] Article VI of the Constitution defines the ________ _____, an important part of federalism.
 [A] Supremacy Clause
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] When can states disregard federal policy?
+[MCQ] When can states disregard federal policy?
 [CA] When it violates the Constitution
 [WA] When it violates pre-existing state policy
 [WA] With a state government supermajority decision
 [WA] Never, due to the supremacy clause
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] "____ ____ _ ______" requires states to be transparent about their laws & proceedings.
+[SAQ] "____ ____ _ ______" requires states to be transparent about their laws & proceedings.
 [A] Full Faith & Credit
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] "_______ _ __________" requires states to give the same rights to all citizens (regardless of home state).
+[SAQ] "_______ _ __________" requires states to give the same rights to all citizens (regardless of home state).
 [A] Privileges & Immunities
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] "___________" requires states to return fugitives back to their home state.
+[SAQ] "___________" requires states to return fugitives back to their home state.
 [A] Extradition
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] "Full Faith & Credit," "Privileges & Immunities," and "Extradition" all concern _____ govts.
+[SAQ] "Full Faith & Credit," "Privileges & Immunities," and "Extradition" all concern _____ govts.
 [A] State
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Under Article 4 of the Constitution, which is not a state obligation?
+[MCQ] Under Article 4 of the Constitution, which is not a state obligation?
 [CA] Following federal tax standard rates
 [WA] Transparency regarding laws & proceedings
 [WA] Giving the same rights to all citizens, regardless of home state
 [WA] Delivering fugitives back to their home state
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Amendment _ reserves powers to the states that aren't delegated to the national govt.
+[SAQ] Amendment _ reserves powers to the states that aren't delegated to the national govt.
 [EXA] X
 [EXA] 10
 [A] Ten
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] What happens to powers not delegated to the national govt.?
+[MCQ] What happens to powers not delegated to the national govt.?
 [CA] Reserved to the States
 [WA] Implied for the Federal Govt.
 [WA] Shared by State & Federal Govt.
 [WA] Disallowed for both Govts.
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ___________ _____ are delegated only to the federal govt.
+[SAQ] ___________ _____ are delegated only to the federal govt.
 [A] Exclusive Powers
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] States have ______ _____ - powers on health, safety, and morals.\n(Hint: Examples include speed limits, seat belt policies, & the age of consent)
+[SAQ] States have ______ _____ - powers on health, safety, and morals.\n(Hint: Examples include speed limits, seat belt policies, & the age of consent)
 [A] Police Powers
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ___________ _____ are shared by both the federal & state govts.
+[SAQ] ___________ _____ are shared by both the federal & state govts.
 [A] Concurrent Powers
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] With ___________ _____, Congress collects & distributes federal taxes to the states to "incentivize" the addressal of certain issues.
+[SAQ] With ___________ _____, Congress collects & distributes federal taxes to the states to "incentivize" the addressal of certain issues.
 [A] Federal Grants
 [A] Revenue Sharing
 [A] Fiscal Federalism
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Why are Categorical Grants used by the federal govt.?
+[MCQ] Why are Categorical Grants used by the federal govt.?
 [CA] To incentivize legislation on state-reserved topics
 [WA] To boost local state economies
 [WA] To balance out federal & state tax rates
 [WA] To avoid a large national deficit
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Grants with congressional guidelines/requirements are called ___________ _____.
+[SAQ] Grants with congressional guidelines/requirements are called ___________ _____.
 [A] Categorical Grants
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Categorical Grants are often given with ______ attached (conditions of aid).
+[SAQ] Categorical Grants are often given with ______ attached (conditions of aid).
 [A] Strings
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The Morill Land-Grant Act and the Civil Rights Act of 1964 are both examples where ______ were used to enact policy.\n(Hint: In both cases, the topics were outside of national jurisdiction and reserved to the states)
+[SAQ] The Morill Land-Grant Act and the Civil Rights Act of 1964 are both examples where ______ were used to enact policy.\n(Hint: In both cases, the topics were outside of national jurisdiction and reserved to the states)
 [A] Grants
 [A] Categorical Grants
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _____ ______ served as a replacement for Categorical Grants in the Nixon era, giving larger sums of money with less strings.
+[SAQ] _____ ______ served as a replacement for Categorical Grants in the Nixon era, giving larger sums of money with less strings.
 [A] Block Grants
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This Court Case affirmed Congress's ability to restrict grants to states for general public welfare with nonambiguous requirements.
+[SAQ] This Court Case affirmed Congress's ability to restrict grants to states for general public welfare with nonambiguous requirements.
 [A] South Dakota v. Dole
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Compared to grants, ______ are passed by Congress to force states to comply with a certain policy.
+[SAQ] Compared to grants, ______ are passed by Congress to force states to comply with a certain policy.
 [A] Mandates
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Under Reagan, _________ (the return of power to states) occured.
+[SAQ] Under Reagan, _________ (the return of power to states) occured.
 [A] Devolution
 [END]
 -------------------------------------------
 [T] NSL 1.8
 -------------------------------------------
-[QT] SAQ
-[Q] Article 1 Section _ covers the enumerated powers of Congress.
+[SAQ] Article 1 Section _ covers the enumerated powers of Congress.
 [EXA] 8
 [EXA] VIII
 [A] Eight
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Article 1 Section 8 covers the _________ _____ of Congress.
+[SAQ] Article 1 Section 8 covers the _________ _____ of Congress.
 [A] Enumerated Powers
+[A] Expressed Powers
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The _________ ______ allows Congress to regulate all interstate & international commerce.
+[SAQ] The _________ ______ allows Congress to regulate all interstate & international commerce.
 [A] Commerce Clause
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This clause gives Congress implied powers that are necessary to execute its explicitly given powers.
+[SAQ] This clause gives Congress implied powers that are necessary to execute its explicitly given powers.
 [A] Elastic
 [A] Elastic Clause
 [A] Necessary and Proper
 [A] "Necessary and Proper" Clause
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The Elastic Clause gives Congress _______ powers that are necessary to execute its explicitly given powers.
+[SAQ] The Elastic Clause gives Congress _______ powers that are necessary to execute its explicitly given powers.
 [A] Implied
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Article 1 Section _ covers the things that Congress CANNOT do.
+[SAQ] Article 1 Section _ covers the things that Congress CANNOT do.
 [EXA] 9
 [EXA] IX
 [A] Nine
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Article 1 Section _ covers the things that state govts. CANNOT do.
+[SAQ] Article 1 Section _ covers the things that state govts. CANNOT do.
 [EXA] 10
 [EXA] X
 [A] Ten
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Amendment _ prevents states from denying citizens equal protection of the laws.
+[SAQ] Amendment _ prevents states from denying citizens equal protection of the laws.
 [EXA] XIV
 [EXA] 14
 [A] Fourteen
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This court case gave the federal govt. implied powers under the elastic clause.
+[SAQ] This court case gave the federal govt. implied powers under the elastic clause.
 [A] McCulloch v. Maryland
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] *McCulloch v. Maryland* gave the federal govt. implied powers under the ________ ______.
+[SAQ] *McCulloch v. Maryland* gave the federal govt. implied powers under the ________ ______.
 [A] Elastic Clause
 [A] "Necessary and Proper" Clause
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Under *McCulloch v. Maryland*, was Congress allowed to create a bank, and why?
+[MCQ] Under *McCulloch v. Maryland*, was Congress allowed to create a bank, and why?
 [WA] Yes - it was an explicit power under Article I Section 8
 [CA] Yes - the power was implied under the elastic clause
 [WA] No - the power to create a bank was never explicitly mentioned in the Constitution
 [WA] No - the power to create a bank was implied to be reserved to the states
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Under *McCulloch v. Maryland*, were states allowed to tax federal institutions, and why?
+[MCQ] Under *McCulloch v. Maryland*, were states allowed to tax federal institutions, and why?
 [WA] Yes - federal institutions are still under state jurisdiction
 [WA] Yes - states have the reserved power to tax any body or organization
 [WA] No - states do not have the power to tax any bodies, let alone federal institutions
 [CA] No - taxing would destroy said institutions, which were under federal jurisdiction
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following was NOT broadened under *McCulloch v. Maryland*?
+[MCQ] Which of the following was NOT broadened under *McCulloch v. Maryland*?
 [CA] Commerce Clause
 [WA] Implied Powers
 [WA] Supremacy Clause
 [WA] Elastic Clause
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This court case built upon *McCulloch v. Maryland* by extending the commerce clause.
+[SAQ] This court case built upon *McCulloch v. Maryland* by extending the commerce clause.
 [A] Gibbons v. Ogden
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] *Gibbons v. Ogden* built upon *McCulloch v. Maryland* by extending the ________ ______.
+[SAQ] *Gibbons v. Ogden* built upon *McCulloch v. Maryland* by extending the ________ ______.
 [A] Commerce Clause
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Under ____ ___________, both the federal & state govts. are equally supreme in their own spheres.
+[SAQ] Under ____ ___________, both the federal & state govts. are equally supreme in their own spheres.
 [A] Dual Federalism
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _________ ___________ only lets Congress regulate if a national uniform rule is required.
+[SAQ] _________ ___________ only lets Congress regulate if a national uniform rule is required.
 [A] Selective Exclusiveness
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This court case somewhat countered the precedent *Gibbons v. Ogden*.
+[SAQ] This court case somewhat countered the precedent *Gibbons v. Ogden*.
 [A] US v. Lopez
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] *US v. Lopez* somewhat countered the precedent set by this court case.
+[SAQ] *US v. Lopez* somewhat countered the precedent set by this court case.
 [A] Gibbons v. Ogden
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Both *US v. Lopez* and *Gibbons v. Ogden* concerned the usage of this clause, although in opposite ways.
+[SAQ] Both *US v. Lopez* and *Gibbons v. Ogden* concerned the usage of this clause, although in opposite ways.
 [A] Commerce
 [A] Commerce Clause
 [END]
 -------------------------------------------
 [T] NSL 1.9
 -------------------------------------------
-[QT] SAQ
-[Q] Despite Trump withdrawing from the Paris Agreement (an international environmental agreement), many states decided to follow the guidelines anyways. This is an example of:
+[SAQ] Despite Trump withdrawing from the Paris Agreement (an international environmental agreement), many states decided to follow the guidelines anyways. This is an example of:
 [A] Separation of Powers
 [A] Tenth Amendment
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Some states start to legalize medical marijuana by using ballot initiatives. This is an example of:\n(Hint: A type of representative democracy)
+[SAQ] Some states start to legalize medical marijuana by using ballot initiatives. This is an example of:\n(Hint: A type of representative democracy)
 [A] Participatory
 [A] Participatory Democracy
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] If marijuana is illegal nationally but legal in a state, which law wins and why?
+[MCQ] If marijuana is illegal nationally but legal in a state, which law wins and why?
 [WA] State - Marijuana is a topic reserved to the states
 [WA] State - State law trumps federal law in a conflict
 [WA] Federal - Marijuana is a topic reserved to the national govt.

@@ -2,210 +2,176 @@
 -------------------------------------------
 [T] Basic Lipids
 -------------------------------------------
-[QT] SAQ
-[Q] _____ are dense, highly reduced molecules.
+[SAQ] _____ are dense, highly reduced molecules.
 [A] Lipids
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _____ _____ have high amounts of C-C bonds that can be oxidized to release energy.
+[SAQ] _____ _____ have high amounts of C-C bonds that can be oxidized to release energy.
 [A] Fatty Acids
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Fatty Acids have a high number of ___ bonds that can be oxidized to release energy.
+[MCQ] Fatty Acids have a high number of ___ bonds that can be oxidized to release energy.
 [CA] C-C
 [WA] C-H
 [WA] O-H
 [WA] H-H
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Lipids are stored ________, meaning that they are stored in cells without water.
+[SAQ] Lipids are stored ________, meaning that they are stored in cells without water.
 [A] Anhydrous
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Lipids are ______.
+[MCQ] Lipids are ______.
 [CA] Nonpolar
 [WA] Polar
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The "backbone" of lipids is made of _______.
+[SAQ] The "backbone" of lipids is made of _______.
 [A] Glycerol
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Glycerol contains three ____ groups.
+[SAQ] Glycerol contains three ____ groups.
 [A] Hydroxyl
 [EXA] OH
 [EXA] -OH
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] __________ store more energy per gram.
+[MCQ] __________ store more energy per gram.
 [CA] Lipids
 [WA] Carbohydrates
 [END]
 -------------------------------------------
 [T] Fatty Acids
 -------------------------------------------
-[QT] SAQ
-[Q] The _____ carbon of a fatty acid is attached to a carboxyl group.
+[SAQ] The _____ carbon of a fatty acid is attached to a carboxyl group.
 [A] Alpha
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The _____ carbon of a fatty acid is attached to a methyl group.
+[SAQ] The _____ carbon of a fatty acid is attached to a methyl group.
 [A] Omega
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This functional group is made up of a double bond to O and a single bond to OH.
+[SAQ] This functional group is made up of a double bond to O and a single bond to OH.
 [A] Carboxyl
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This functional group is made up of three single bonds to H.
+[SAQ] This functional group is made up of three single bonds to H.
 [A] Methyl
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This functional group is attached to the alpha carbon of fatty acids.
+[SAQ] This functional group is attached to the alpha carbon of fatty acids.
 [A] Carboxyl
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] This functional group is attached to the omega carbon of fatty acids.
+[SAQ] This functional group is attached to the omega carbon of fatty acids.
 [A] Methyl
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] A methyl group is attached to the omega carbon in fatty acids. So, why does the carbon chain abruptly end when the skeletal structure is drawn?
+[MCQ] A methyl group is attached to the omega carbon in fatty acids. So, why does the carbon chain abruptly end when the skeletal structure is drawn?
 [CA] Since the carbon would otherwise not have a full valence shell, the H bonds are implied
 [WA] Methyl groups contain only a single C-C bond, which is already present in the carbon chain
 [WA] The omega carbon is not located at the end of the carbon chain
 [WA] The methyl group is implied in any drawn skeletal structure
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _________ fatty acids only contain single C-C bonds.
+[SAQ] _________ fatty acids only contain single C-C bonds.
 [A] Saturated
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Saturated fatty acids contain:
+[MCQ] Saturated fatty acids contain:
 [CA] Only single C-C bonds
 [WA] A mixture of single & double C-C bonds
 [WA] Only double C-C bonds
 [WA] No direct C-C bonds
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] In a saturated fatty acid, each carbon is saturated (bonded) to ___ hydrogens.\n*(Answer with #)*
+[SAQ] In a saturated fatty acid, each carbon is saturated (bonded) to ___ hydrogens.\n*(Answer with #)*
 [EXA] 2
 [A] Two
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Lipids with high amounts of saturated fatty acids tend to be _____ at room temperature.
+[MCQ] Lipids with high amounts of saturated fatty acids tend to be _____ at room temperature.
 [CA] Solid
 [WA] Liquid
 [WA] Gas
 [WA] Plasma
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Fatty acids are:
+[MCQ] Fatty acids are:
 [CA] Hydrophobic
 [WA] Hydrophilic
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] _________ fatty acids have straight chains with no C=C double bonds.
+[MCQ] _________ fatty acids have straight chains with no C=C double bonds.
 [CA] Saturated
 [WA] Trans-Unsaturated
 [WA] Cis-Unsaturated
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] _________ fatty acids have straight chains with at least one C=C double bond.
+[MCQ] _________ fatty acids have straight chains with at least one C=C double bond.
 [WA] Saturated
 [CA] Trans-Unsaturated
 [WA] Cis-Unsaturated
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] _________ fatty acids have bent chains with at least one C=C double bond.
+[MCQ] _________ fatty acids have bent chains with at least one C=C double bond.
 [WA] Saturated
 [WA] Trans-Unsaturated
 [CA] Cis-Unsaturated
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] __________ fatty acids have at least 1 C=C double bond.
+[SAQ] __________ fatty acids have at least 1 C=C double bond.
 [A] Unsaturated
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Unsaturated fatty acids have at least 1 C=C ______ bond.
+[SAQ] Unsaturated fatty acids have at least 1 C=C ______ bond.
 [A] Double
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Trans-unsaturated fatty acids have ____ chains.
+[MCQ] Trans-unsaturated fatty acids have ____ chains.
 [CA] Straight
 [WA] Bent
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Cis-unsaturated fatty acids have ____ chains.
+[MCQ] Cis-unsaturated fatty acids have ____ chains.
 [WA] Straight
 [CA] Bent
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In trans-unsaturated fatty acids, remaining Hydrogens on the C=C bonds face in ________ direction(s).
+[MCQ] In trans-unsaturated fatty acids, remaining Hydrogens on the C=C bonds face in ________ direction(s).
 [CA] Opposite
 [WA] The Same
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In cis-unsaturated fatty acids, remaining Hydrogens on the C=C bonds face in ________ direction(s).
+[MCQ] In cis-unsaturated fatty acids, remaining Hydrogens on the C=C bonds face in ________ direction(s).
 [CA] The Same
 [WA] Opposite
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Cis-fatty acids tend to be _____ at room temperature.
+[MCQ] Cis-fatty acids tend to be _____ at room temperature.
 [WA] Solid
 [CA] Liquid
 [WA] Gas
 [WA] Plasma
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Trans-fatty acids tend to be _____ at room temperature.
+[MCQ] Trans-fatty acids tend to be _____ at room temperature.
 [CA] Solid
 [WA] Liquid
 [WA] Gas
 [WA] Plasma
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ____-unsaturated fatty acids have more than 1 C=C double bond.
+[SAQ] ____-unsaturated fatty acids have more than 1 C=C double bond.
 [A] Poly
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] The C=C double bonds in poly-unsaturated fatty acids tend to be ___.
+[MCQ] The C=C double bonds in poly-unsaturated fatty acids tend to be ___.
 [CA] Cis (Bent)
 [WA] Trans (Straight)
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Polyunsaturated fatty acids tend to be _____ at room temperature.
+[MCQ] Polyunsaturated fatty acids tend to be _____ at room temperature.
 [WA] Solid
 [CA] Liquid
 [WA] Gas
@@ -214,60 +180,51 @@
 -------------------------------------------
 [T] Fatty Acid Nomenclature
 -------------------------------------------
-[QT] MCQ
-[Q] In an X:Y n-Z carbon chain, X represents the:
+[MCQ] In an X:Y n-Z carbon chain, X represents the:
 [CA] Number of C in the chain
 [WA] Number of C-C double bonds
 [WA] Position of the first double bond (counting from alpha carbon)
 [WA] Position of the first double bond (counting from omega carbon)
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In an X:Y n-Z carbon chain, Y represents the:
+[MCQ] In an X:Y n-Z carbon chain, Y represents the:
 [WA] Number of C in the chain
 [CA] Number of C-C double bonds
 [WA] Position of the first double bond (counting from alpha carbon)
 [WA] Position of the first double bond (counting from omega carbon)
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In an X:Y n-Z carbon chain, Z represents the:
+[MCQ] In an X:Y n-Z carbon chain, Z represents the:
 [WA] Number of C in the chain
 [WA] Number of C-C double bonds
 [WA] Position of the first double bond (counting from alpha carbon)
 [CA] Position of the first double bond (counting from omega carbon)
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] How many C are in the carbon chain of stearic acid (18:0)?
+[SAQ] How many C are in the carbon chain of stearic acid (18:0)?
 [EXA] 18
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] How many C=C double bonds are in the carbon chain of stearic acid (18:0)?
+[SAQ] How many C=C double bonds are in the carbon chain of stearic acid (18:0)?
 [EXA] 0
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] How many C are in the carbon chain of stearic acid (18:1 n-9)?
+[SAQ] How many C are in the carbon chain of stearic acid (18:1 n-9)?
 [EXA] 18
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] How many C=C double bonds are in the carbon chain of stearic acid (18:1 n-9)?
+[SAQ] How many C=C double bonds are in the carbon chain of stearic acid (18:1 n-9)?
 [EXA] 1
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Where is the C=C double bond in the carbon chain of stearic acid (18:1 n-9)?
+[MCQ] Where is the C=C double bond in the carbon chain of stearic acid (18:1 n-9)?
 [CA] Count from the omega carbon, from C9 to C10
 [WA] Count from the omega carbon, from C8 to C9
 [WA] Count from the alpha carbon, from C9 to C10
 [WA] Count from the alpha carbon, from C8 to C9
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Why can a fatty acid carbon chain identified by "12:1 n-1" never exist?
+[MCQ] Why can a fatty acid carbon chain identified by "12:1 n-1" never exist?
 [CA] Due to the methyl group, there can never be a C=C bond to the omega carbon
 [WA] Due to the carboxyl group, there can never be a C=C bond to the omega carbon
 [WA] Due to the methyl group, there can never be a C=C bond to the alpha carbon
@@ -276,56 +233,47 @@
 -------------------------------------------
 [T] Triglycerides
 -------------------------------------------
-[QT] SAQ
-[Q] _____________ are lipids made of a glycerol backbone and 3 fatty acid chains.
+[SAQ] _____________ are lipids made of a glycerol backbone and 3 fatty acid chains.
 [A] Triglycerides
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Triglycerides are made of a glycerol backbone and 3 ______ ______ chains.
+[SAQ] Triglycerides are made of a glycerol backbone and 3 ______ ______ chains.
 [A] Fatty Acid
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The fatty acids in triglycerides are combined through ___ condensation reactions.\n*(Answer with #)*
+[SAQ] The fatty acids in triglycerides are combined through ___ condensation reactions.\n*(Answer with #)*
 [EXA] 3
 [A] Three
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] The fatty acids in triglyecerides are combined through three _______________ reactions.
+[SAQ] The fatty acids in triglyecerides are combined through three _______________ reactions.
 [A] Condensation
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following is NOT an element found in triglycerides?
+[MCQ] Which of the following is NOT an element found in triglycerides?
 [CA] N
 [WA] C
 [WA] H
 [WA] O
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Triglycerides dissolve in ______ substances.
+[MCQ] Triglycerides dissolve in ______ substances.
 [CA] Nonpolar
 [WA] Polar
 [END]
 -------------------------------------------
 [T] Phospholipids
 -------------------------------------------
-[QT] SAQ
-[Q] _____________ are lipids made of a glycerol backbone, 2 fatty acid chains, and a phosphate group.
+[SAQ] _____________ are lipids made of a glycerol backbone, 2 fatty acid chains, and a phosphate group.
 [A] Phospholipids
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Phospholipids are lipids made of a glycerol backbone, ___ fatty acid chains, and a phosphate group.\n*(Answer with #)*
+[SAQ] Phospholipids are lipids made of a glycerol backbone, ___ fatty acid chains, and a phosphate group.\n*(Answer with #)*
 [EXA] 2
 [A] Two
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] In a phospholipid, one of the fatty acid chains is replaced with a _____________ group.
+[SAQ] In a phospholipid, one of the fatty acid chains is replaced with a _____________ group.
 [A] Phosphate
 [EXA] PO4
 [EXA] -PO4
@@ -333,76 +281,63 @@
 [EXA] -PO4(3-)
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Phospholipids are __________; they have a hydrophobic part and a hydrophilic part.
+[SAQ] Phospholipids are __________; they have a hydrophobic part and a hydrophilic part.
 [A] Amphipathic
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which part of phosphilipids are hydrophilic?
+[MCQ] Which part of phosphilipids are hydrophilic?
 [CA] Phosphate Head
 [WA] Fatty Acid Tails
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] The phosphate head in a phospholipid is:
+[MCQ] The phosphate head in a phospholipid is:
 [CA] Hydrophilic
 [WA] Hydrophobic
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which part of phosphilipids are hydrophobic?
+[MCQ] Which part of phosphilipids are hydrophobic?
 [WA] Phosphate Head
 [CA] Fatty Acid Tails
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] The fatty acid tails in a phospholipid are:
+[MCQ] The fatty acid tails in a phospholipid are:
 [WA] Hydrophilic
 [CA] Hydrophobic
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In a phospholipid, all three "parts" attached to the glycerol backbone face in the same direction.
+[MCQ] In a phospholipid, all three "parts" attached to the glycerol backbone face in the same direction.
 [CA] False
 [WA] True
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In a phospholipid bilayer, the hydrophilic portions point to the:
+[MCQ] In a phospholipid bilayer, the hydrophilic portions point to the:
 [CA] Exterior
 [WA] Interior
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Name the forces that hold the hydrophilic heads in a phospholipid bilayer together.
+[SAQ] Name the forces that hold the hydrophilic heads in a phospholipid bilayer together.
 [A] Hydrogen
 [A] Hydrogen Bonds
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Name the forces that hold the hydrophobic tails in a phospholipid bilayer together.
+[SAQ] Name the forces that hold the hydrophobic tails in a phospholipid bilayer together.
 [A] Van der Waals
 [A] Van der Waals forces
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ___________ are small, membrane-bound sacs used to transport substances across cell walls.
+[SAQ] ___________ are small, membrane-bound sacs used to transport substances across cell walls.
 [A] Vesicles
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ___________ is the process where vesicles are used to release contents outside the cell.
+[SAQ] ___________ is the process where vesicles are used to release contents outside the cell.
 [A] Exocytosis
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ___________ is the process where vesicles are bring in substances from outside the cell.
+[SAQ] ___________ is the process where vesicles are bring in substances from outside the cell.
 [A] Endocytosis
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] To maximize diffusion, cells attempt to maximize their ______________ to Volume ratio.
+[SAQ] To maximize diffusion, cells attempt to maximize their ______________ to Volume ratio.
 [A] SA
 [A] Surface Area
 [END]

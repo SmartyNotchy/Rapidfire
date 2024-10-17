@@ -2,237 +2,197 @@
 -------------------------------------------
 [T] Chemistry Foundations
 -------------------------------------------
-[QT] SAQ
-[Q] _______ refers to the ability of atoms to attract valence electrons.
+[SAQ] _______ refers to the ability of atoms to attract valence electrons.
 [A] Electronegativity
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] If two atoms have similar electronegativities (ΔE < 0.4), the resulting bond is:
+[SAQ] If two atoms have similar electronegativities (ΔE < 0.4), the resulting bond is:
 [A] Nonpolar
 [A] Nonpolar Covalent
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] If two atoms have somewhat different electronegativities (0.4 < ΔE < 1.8), the resulting bond is:
+[SAQ] If two atoms have somewhat different electronegativities (0.4 < ΔE < 1.8), the resulting bond is:
 [A] Polar
 [A] Polar Covalent
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] If two atoms have extremely different electronegativities (ΔE > 1.8), the resulting bond is:
+[SAQ] If two atoms have extremely different electronegativities (ΔE > 1.8), the resulting bond is:
 [A] Ionic
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _____-molecular forces involve the interactions between atoms.
+[SAQ] _____-molecular forces involve the interactions between atoms.
 [EXA] Inter
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Dipole-dipole interactions are examples of _____-molecular forces.
+[SAQ] Dipole-dipole interactions are examples of _____-molecular forces.
 [EXA] Inter
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _____-molecular forces involve the interactions within an atom.
+[SAQ] _____-molecular forces involve the interactions within an atom.
 [EXA] Intra
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Covalent, ionic, and metallic bonds are examples of _____-molecular forces.
+[SAQ] Covalent, ionic, and metallic bonds are examples of _____-molecular forces.
 [EXA] Intra
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Generally, which of the two forces are stronger?
+[MCQ] Generally, which of the two forces are stronger?
 [CA] Intramolecular
 [WA] Intermolecular
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In a polar covalent bond, the positive dipole is placed on the __________________ element.
+[MCQ] In a polar covalent bond, the positive dipole is placed on the __________________ element.
 [WA] More electronegative
 [CA] Less electronegative
 [WA] Larger
 [WA] Smaller
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In a polar covalent bond, the negative dipole is placed on the __________________ element.
+[MCQ] In a polar covalent bond, the negative dipole is placed on the __________________ element.
 [CA] More electronegative
 [WA] Less electronegative
 [WA] Larger
 [WA] Smaller
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Attraction between molecules of the same type is called:
+[MCQ] Attraction between molecules of the same type is called:
 [CA] Cohesion
 [WA] Adhesion
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Attraction between molecules of different types is called:
+[MCQ] Attraction between molecules of different types is called:
 [WA] Cohesion
 [CA] Adhesion
 [END]
 -------------------------------------------
 [T] Water's Unique Properties
 -------------------------------------------
-[QT] SAQ
-[Q] What type of bond forms between O & H (i.e. in water)?
+[SAQ] What type of bond forms between O & H (i.e. in water)?
 [A] Polar
 [A] Polar Covalent
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Due to its polar bonds & bent geometry, molecules of water have _________ ________.
+[SAQ] Due to its polar bonds & bent geometry, molecules of water have _________ ________.
 [A] Permanent Dipoles
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] On which element of water is the positive dipole placed?
+[MCQ] On which element of water is the positive dipole placed?
 [CA] H
 [WA] O
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] On which element of water is the negative dipole placed?
+[MCQ] On which element of water is the negative dipole placed?
 [WA] H
 [CA] O
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Due to dipole-dipole interactions, water molecules experience significant attraction to each other, called _________ ________.
+[SAQ] Due to dipole-dipole interactions, water molecules experience significant attraction to each other, called _________ ________.
 [A] Hydrogen Bonding
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following accurately describes the attraction between elements in hydrogen bonding?
+[MCQ] Which of the following accurately describes the attraction between elements in hydrogen bonding?
 [CA] O (δ-) to H (δ+)
 [WA] O (δ+) to H (δ-)
 [WA] H (δ+) to H (δ+)
 [WA] O (δ-) to O (δ-)
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Unlike most substances, water is denser in its ______ form.
+[MCQ] Unlike most substances, water is denser in its ______ form.
 [CA] Liquid
 [WA] Solid
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Because of __________ _______, water is denser as a liquid than as a solid.
+[SAQ] Because of __________ _______, water is denser as a liquid than as a solid.
 [A] Hydrogen Bonding
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Water molecules can form hydrogen bonds with other water molecules, which is an example of:
+[MCQ] Water molecules can form hydrogen bonds with other water molecules, which is an example of:
 [CA] Cohesion
 [WA] Adhesion
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Water molecules can form hydrogen bonds with other polar substances, which is an example of:
+[MCQ] Water molecules can form hydrogen bonds with other polar substances, which is an example of:
 [WA] Cohesion
 [CA] Adhesion
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Due to the ___________ of water, surface tension is present in it, allowing it to avoid being ruptured under stress.
+[MCQ] Due to the ___________ of water, surface tension is present in it, allowing it to avoid being ruptured under stress.
 [CA] Cohesion
 [WA] Adhesion
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] When _______________________, capillary action occurs, which allows water to travel up tubes against gravity.
+[MCQ] When _______________________, capillary action occurs, which allows water to travel up tubes against gravity.
 [WA] Cohesion > Adhesion
 [CA] Adhesion > Cohesion
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] When adhesive forces overcome cohesive forces, __________ ______ occurs, which allows water to travel up tubes against gravity.
+[SAQ] When adhesive forces overcome cohesive forces, __________ ______ occurs, which allows water to travel up tubes against gravity.
 [A] Capillary Action
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Due to capillary action, water forms a ___________ in test tubes, instead of a flat line.
+[SAQ] Due to capillary action, water forms a ___________ in test tubes, instead of a flat line.
 [A] Meniscus
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Water is a universal:
+[MCQ] Water is a universal:
 [CA] Solvent
 [WA] Solute
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Water has a high _________ _____ _______, meaning that it takes a lot of energy to increase its temperature.
+[SAQ] Water has a high _________ _____ _______, meaning that it takes a lot of energy to increase its temperature.
 [A] Specific Heat Capacity
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Water has a high ___________ ____ __ _______, meaning that it takes a lot of energy to vaporize water.
+[SAQ] Water has a high ___________ ____ __ _______, meaning that it takes a lot of energy to vaporize water.
 [A] Latent Heat of Vaporization
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Polar molecules are:
+[MCQ] Polar molecules are:
 [CA] Hydrophilic
 [WA] Hydrophobic
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Polar molecules are:
+[MCQ] Polar molecules are:
 [WA] Hydrophilic
 [CA] Hydrophobic
 [END]
 -------------------------------------------
 [T] Applications of Water's Properties
 -------------------------------------------
-[QT] SAQ
-[Q] Ice expands compared to water's liquid form due to:
+[SAQ] Ice expands compared to water's liquid form due to:
 [A] Hydrogen Bonding
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] You can fit a lot of drops of water on a penny without it spilling over. This is because of:
+[SAQ] You can fit a lot of drops of water on a penny without it spilling over. This is because of:
 [A] Surface Tension
 [A] Cohesion
 [A] Hydrogen Bonding
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Human blood can transport a lot of nutrients, because water is a:
+[SAQ] Human blood can transport a lot of nutrients, because water is a:
 [A] Universal Solvent
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Magic sand is a hydrophobic substance because it is:
+[SAQ] Magic sand is a hydrophobic substance because it is:
 [A] Nonpolar
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Cell membranes are __________, which allow them to regulate what substances enter and exit the cell.
+[SAQ] Cell membranes are __________, which allow them to regulate what substances enter and exit the cell.
 [A] Nonpolar
 [A] Hydrophobic
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] When a suspended paper towel is soaked, water can still soak upwards the towel (against gravity). This demonstrates:
+[SAQ] When a suspended paper towel is soaked, water can still soak upwards the towel (against gravity). This demonstrates:
 [A] Capillary Action
 [A] Adhesion
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ____________ ________ allows plants to move water upwards for use in photosynthesis.
+[SAQ] ____________ ________ allows plants to move water upwards for use in photosynthesis.
 [A] Capillary Action
 [A] Adhesion
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Because water has a high ___________ ______ ___________, living things can withstand wide energy swings without their cells vaporizing.
+[SAQ] Because water has a high ___________ ______ ___________, living things can withstand wide energy swings without their cells vaporizing.
 [A] Specific Heat Capacity
 [A] Latent Heat of Vaporization
 [END]

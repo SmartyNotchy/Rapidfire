@@ -2,202 +2,169 @@
 -------------------------------------------
 [T] Carbohydrate Synthesis
 -------------------------------------------
-[QT] SAQ
-[Q] ____________ are small molecular building blocks that are used together to build larger complex molecules.
+[SAQ] ____________ are small molecular building blocks that are used together to build larger complex molecules.
 [A] Monomers
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ____________ are complex molecules made up of repeating monomers.
+[SAQ] ____________ are complex molecules made up of repeating monomers.
 [A] Polymers
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ____________ is a reaction that produces a molecule of water when combining monomers.
+[SAQ] ____________ is a reaction that produces a molecule of water when combining monomers.
 [A] Condensation
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] In a condensation reaction, the products are a polymer and ____.
+[SAQ] In a condensation reaction, the products are a polymer and ____.
 [A] Water
 [EXA] H2O
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] ____________ is a reaction that uses water to break down a polymer.
+[SAQ] ____________ is a reaction that uses water to break down a polymer.
 [A] Hydrolysis
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Hydrolysis is the opposite/"inverse" of ______________.
+[SAQ] Hydrolysis is the opposite/"inverse" of ______________.
 [A] Condensation
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _____________ reactions use inputted energy to synthesize more complex molecules.
+[SAQ] _____________ reactions use inputted energy to synthesize more complex molecules.
 [A] Anabolic
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] In anabolic reactions, the energy levels of the product(s) are _______ than the reactants.
+[MCQ] In anabolic reactions, the energy levels of the product(s) are _______ than the reactants.
 [CA] Higher
 [WA] Lower
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _____________ reactions break down complex molecules into simpler ones, releasing energy.
+[SAQ] _____________ reactions break down complex molecules into simpler ones, releasing energy.
 [A] Catabolic
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following is NOT an element commonly found in carbohydrates?
+[MCQ] Which of the following is NOT an element commonly found in carbohydrates?
 [CA] N
 [WA] C
 [WA] H
 [WA] O
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] The most common C:H:O ratio in carbohydrates is:
+[MCQ] The most common C:H:O ratio in carbohydrates is:
 [CA] 1:2:1
 [WA] 1:1:1
 [WA] 2:1:1
 [WA] 1:1:1
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Complex carbohydrates are called:
+[SAQ] Complex carbohydrates are called:
 [A] Polysaccharides
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Carbohydrates can be simple sugars, called ________________ and _________________.
+[MCQ] Carbohydrates can be simple sugars, called ________________ and _________________.
 [CA] Monosaccharides & Disaccharides
 [WA] Monomers & Polymers
 [WA] Dimers & Trimers
 [WA] Triglycerides & Phospholipids
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Carbohydrate monomers are linked together by _________ bonds.
+[SAQ] Carbohydrate monomers are linked together by _________ bonds.
 [A] Covalent
 [END]
 -------------------------------------------
 [T] Simple Sugars
 -------------------------------------------
-[QT] MCQ
-[Q] Monosaccharide structures are usually either _______ or ______.
+[MCQ] Monosaccharide structures are usually either _______ or ______.
 [CA] Pentose, Hexose
 [WA] Pentose, Octose
 [WA] Polar, Ionic
 [WA] Symmetrical, Balanced
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following is a pentose monosaccharide?
+[MCQ] Which of the following is a pentose monosaccharide?
 [WA] Fructose
 [WA] Glucose
 [WA] Galactose
 [CA] None of these
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Glucose, fructose, and galactose are all examples of ______________.
+[SAQ] Glucose, fructose, and galactose are all examples of ______________.
 [A] Monosaccharides
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] What is the formula of glucose?\n*(Answer Format: H2O, Na(1+))*
+[SAQ] What is the formula of glucose?\n*(Answer Format: H2O, Na(1+))*
 [EXA] C6H12O6
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Disaccharides are the _____ of two monosaccharides.
+[SAQ] Disaccharides are the _____ of two monosaccharides.
 [A] Dimer
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _________ is the dimer of two glucose.
+[SAQ] _________ is the dimer of two glucose.
 [A] Maltose
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _________ is the dimer of glucose & fructose.
+[SAQ] _________ is the dimer of glucose & fructose.
 [A] Sucrose
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] _________ is the dimer of glucose & galactose.
+[SAQ] _________ is the dimer of glucose & galactose.
 [A] Lactose
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Functions of _________ include being synthesized, consumed, or metabolized for energy.
+[MCQ] Functions of _________ include being synthesized, consumed, or metabolized for energy.
 [CA] Simple Sugars
 [WA] Complex Sugars
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] When disaccharides are heated in water, sometimes the linkage between the two monosaccharides is "broken". This reaction is called:
+[SAQ] When disaccharides are heated in water, sometimes the linkage between the two monosaccharides is "broken". This reaction is called:
 [A] Hydrolysis
 [END]
 -------------------------------------------
 [T] Complex Sugars
 -------------------------------------------
-[QT] SAQ
-[Q] Polysaccharides are polymers of identical or different ___________.
+[SAQ] Polysaccharides are polymers of identical or different ___________.
 [A] Monosaccharides
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Starch, glycogen, and amylose are all examples of ______________.
+[SAQ] Starch, glycogen, and amylose are all examples of ______________.
 [A] Polysaccharides
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Functions of _________ include providing the structure of cells & tissues, and storing energy.
+[MCQ] Functions of _________ include providing the structure of cells & tissues, and storing energy.
 [WA] Simple Sugars
 [CA] Complex Sugars
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] It is possible for two polysaccharides to have the same formula and still be unique from each other.
+[MCQ] It is possible for two polysaccharides to have the same formula and still be unique from each other.
 [CA] True
 [WA] False
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Starch and Glycogen both have the formula (C6H10O5)n, and yet they have different properties. This is because:
+[MCQ] Starch and Glycogen both have the formula (C6H10O5)n, and yet they have different properties. This is because:
 [CA] The monomers are arranged differently
 [WA] They use different monomers, which sum up to have the same formula
 [WA] They are the same substance in different states; heating/freezing one yields the other
 [WA] Glycogen has double the formula of Starch; formulas aren't reducible!
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Polysaccharides can themselves combine to make new polysaccharides.
+[MCQ] Polysaccharides can themselves combine to make new polysaccharides.
 [CA] True
 [WA] False
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **carbon** atoms are in its formula?
+[MCQ] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **carbon** atoms are in its formula?
 [CA] 6n
 [WA] 12n
 [WA] 5n + 1
 [WA] 10n + 2
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **hydrogen** atoms are in its formula?
+[MCQ] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **hydrogen** atoms are in its formula?
 [WA] 6n
 [WA] 12n
 [WA] 5n + 1
 [CA] 10n + 2
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **oxygen** atoms are in its formula?
+[MCQ] A carbohydrate is made up of **n** glucose monomers (n > 2). How many **oxygen** atoms are in its formula?
 [WA] 6n
 [WA] 12n
 [CA] 5n + 1
@@ -208,74 +175,63 @@
 -------------------------------------------
 [T] Carbohydrate Testing
 -------------------------------------------
-[QT] SAQ
-[Q] When a mystery carbohydrate reacts with iodine, the solution turns blue. What carbohydrate is this?
+[SAQ] When a mystery carbohydrate reacts with iodine, the solution turns blue. What carbohydrate is this?
 [A] Starch
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Benedict's test identifies:
+[MCQ] Benedict's test identifies:
 [WA] Monosaccharides v. Polysaccharides
 [CA] Reducing v. Nonreducing Sugars
 [WA] Carbohydrates v. Lipids
 [WA] Aldoses v. Ketoses
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] All monosaccharides are reducing sugars, and will produce a positive Benedict's test result.
+[MCQ] All monosaccharides are reducing sugars, and will produce a positive Benedict's test result.
 [CA] True
 [WA] False
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] All disaccharides are reducing sugars, and will produce a positive Benedict's test result.
+[MCQ] All disaccharides are reducing sugars, and will produce a positive Benedict's test result.
 [WA] True
 [CA] False
 [END]
 -------------------------------------------
-[QT] SAQ
-[Q] Name a common disaccharide that does not produce a positive Benedict's test result.
+[SAQ] Name a common disaccharide that does not produce a positive Benedict's test result.
 [A] Sucrose
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Barfoed's Test identifies:
+[MCQ] Barfoed's Test identifies:
 [CA] Monosaccharides v. Polysaccharides
 [WA] Reducing v. Nonreducing Sugars
 [WA] Carbohydrates v. Lipids
 [WA] Aldoses v. Ketoses
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following are usually positive for Barfoed's test?
+[MCQ] Which of the following are usually positive for Barfoed's test?
 [CA] Monosaccharides
 [WA] Disaccharides
 [WA] Reducing Sugars
 [WA] Nonreducing Sugars
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Seliwanoff's Test identifies:
+[MCQ] Seliwanoff's Test identifies:
 [WA] Monosaccharides v. Polysaccharides
 [WA] Reducing v. Nonreducing Sugars
 [WA] Carbohydrates v. Lipids
 [CA] Aldoses v. Ketoses
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Glucose is a:
+[MCQ] Glucose is a:
 [CA] Aldose
 [WA] Ketose
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Fructose is a:
+[MCQ] Fructose is a:
 [WA] Aldose
 [CA] Ketose
 [END]
 -------------------------------------------
-[QT] MCQ
-[Q] Which of the following are positive for Seliwanoff's test?
+[MCQ] Which of the following are positive for Seliwanoff's test?
 [WA] Aldoses
 [CA] Ketoses
 [END]

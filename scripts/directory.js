@@ -100,9 +100,7 @@ function parse_qset_lines(lines) {
         }
 
         if (currentlyParsingQ) {
-            if (line[0] == "Q") {
-                currentQObj.q = line[1];
-            } else if (line[0] == "END") {
+            if (line[0] == "END") {
                 if (!PRESET_TOPICS.includes(currentTopic)) {
                     PRESET_TOPICS.push(currentTopic);
                     TOPICS[currentTopic] = [];
@@ -138,18 +136,16 @@ function parse_qset_lines(lines) {
                     throw new Error(`[PARSE] Line ${lineNum}: Preset name already defined (${PRESET_NAME})`);
                 }
                 PRESET_NAME = line[1];
-            } else if (line[0] == "QT") {
-                currentQType = line[1];
-                currentlyParsingQ = true;
-                if (currentQType == "SAQ") {
-                    currentQObj = new SAQQuestion(undefined, currentTopic, []);
-                } else if (currentQType == "MCQ") {
-                    currentQObj = new MCQQuestion(undefined, currentTopic, [], []);
-                } else {
-                    throw new Error(`[PARSE] Line ${lineNum}: Unrecognized question type "${line[1]}"`);
-                }
             } else if (line[0] == "T") {
                 currentTopic = line[1];
+            } else if (line[0] == "SAQ") {
+                currentQType = "SAQ";
+                currentQObj = new SAQQuestion(line[1], currentTopic, []);
+                currentlyParsingQ = true;
+            } else if (line[0] == "MCQ") {
+                currentQType = "MCQ";
+                currentQObj = new MCQQuestion(undefined, currentTopic, [], []);
+                currentlyParsingQ = true;
             } else {
                 throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
             }
