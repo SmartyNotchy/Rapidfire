@@ -1,4 +1,8 @@
-function resume_session() {
+/* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
+/* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
+/* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
+
+async function resume_session() {
     let inSession = getCookie("inSession");
     if (inSession) {
         CURRENT_SESSION = undefined;
@@ -10,7 +14,7 @@ function resume_session() {
         }
 
         MENU_BTN_RESUME.setAttribute("disabled", "");
-        hide_mm_div();
+        await fadeout_mm_div();
         CURRENT_SESSION.firstrender();
     }
 }
@@ -30,7 +34,7 @@ function reset_mmns_div() {
     set_dropdown(MMNS_PRESET_DROPDOWN, []);
     MMNS_PRESET_DROPDOWN.setAttribute("disabled", "");
     MMNS_CANCEL_BTN.removeAttribute("disabled");
-    MMNS_CANCEL_BTN.onclick = hide_mmns_div;
+    MMNS_CANCEL_BTN.onclick = fadeout_mmns_div;
     MMNS_CREATE_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.onclick = create_new_session;
 
@@ -57,17 +61,13 @@ function render_mmns_div(changedTopic) {
     }
 }
 
-function hide_mmns_div() {
-    MMNS_WRAPPER_DIV.style.display = "none";
-    // TODO: Fade?
-}
+function hide_mmns_div() { MMNS_WRAPPER_DIV.style.display = "none"; }
+function show_mmns_div() { MMNS_WRAPPER_DIV.style.display = "flex"; }
 
-function show_mmns_div() {
-    MMNS_WRAPPER_DIV.style.display = "flex";
-    // TODO: Fade?
-}
+async function fadein_mmns_div() { return fadeInElement(MMNS_WRAPPER_DIV, "basic_fadein", "flex", 100); }
+async function fadeout_mmns_div() { return fadeOutElement(MMNS_WRAPPER_DIV, "basic_fadeout", 100); }
 
-function create_new_session() {
+async function create_new_session() {
     let subject = MMNS_SUBJECT_DROPDOWN.value;
     let preset = MMNS_PRESET_DROPDOWN.value;
 
@@ -81,8 +81,9 @@ function create_new_session() {
 
     let topics = PRESETS[subject][preset]; // TODO CUSTOMS
     CURRENT_SESSION = new TriviaSession(subject, topics, 0, Math.floor(Math.random() * 1000000000000), undefined);
+    
     CURRENT_SESSION.firstrender();
-    hide_mmns_div();
+    fadeout_mmns_div();
 }
 
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
@@ -106,11 +107,14 @@ function reset_mm_div() {
         MENU_BTN_RESUME.setAttribute("disabled", "");
     }
     MENU_BTN_RESUME.onclick = resume_session;
-    MENU_BTN_NS.onclick = show_mmns_div;
+    MENU_BTN_NS.onclick = fadein_mmns_div;
 }
 
 function hide_mm_div() { MAINMENU_DIV.style.display = "none"; }
 function show_mm_div() { MAINMENU_DIV.style.display = "flex"; }
+
+async function fadein_mm_div() { return fadeInElement(MAINMENU_DIV, "basic_fadein", "flex", 100); }
+async function fadeout_mm_div() { return fadeOutElement(MAINMENU_DIV, "basic_fadeout", 100); }
 
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
@@ -180,7 +184,7 @@ async function attempt_load_mm() {
     }
 
     // Fade Out Loading Div
-    await fadeOutElement(LOADING_DIV, "ld_fadeout", 250);
+    await fadeOutElement(LOADING_DIV, "basic_fadeout", 250);
 
     // Set Visibilities
     reset_mm_div();
@@ -196,10 +200,8 @@ async function attempt_load_mm() {
     document.addEventListener("keydown", handle_keypress);
     
     // Fade In Main Menu
-    fadeInElement(MAINMENU_DIV, "mm_fadein", "flex", 250);
+    fadein_mm_div();
 }
-
-
 
 window.onload = async function() {
     LD_ERRORS = await load_directory();

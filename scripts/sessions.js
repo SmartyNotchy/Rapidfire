@@ -103,6 +103,9 @@ function reset_session_div() {
 function hide_session_div() { SESSION_DIV.style.display = "none"; }
 function show_session_div() { SESSION_DIV.style.display = "flex"; }
 
+function fadein_session_div() { fadeInElement(SESSION_DIV, "basic_fadein", "flex", 100); }
+function fadeout_session_div() { fadeOutElement(SESSION_DIV, "basic_fadeout", 100); }
+
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
@@ -423,7 +426,7 @@ class TriviaSession {
         reset_session_div();
         hide_sce_div();
         show_scq_div();
-        show_session_div();
+        fadein_session_div();
         this.render();
         this.save_progress();
     }
@@ -443,10 +446,9 @@ class TriviaSession {
 
     close_session() {
         // TODO: SAVING LOGIC
-
-        SCE_BACK_BTN.setAttribute("disabled", "");
-        hide_sce_div();
+        SCE_BACK_BTN.setAttribute("disabled", "");        
         reset_mm_div();
+        hide_session_div();
         show_mm_div();
     }
 
@@ -484,3 +486,7 @@ class TriviaSession {
 function process_input(event) {
     CURRENT_SESSION.process_input(event);
 }
+
+/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
+/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
+/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */

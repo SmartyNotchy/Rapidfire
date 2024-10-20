@@ -19,6 +19,22 @@ a {
     color: #6699ff !important;
 }
 
+.basic_fadein {
+    animation: basic_fadein_anim 0.2s ease forwards;
+}
+
+.basic_fadeout {
+    animation: basic_fadeout_anim 0.2s ease forwards;
+}
+
+.popup_fadein {
+    animation: popup_fadein_anim 0.2s ease forwards;
+}
+
+.popup_fadeout {
+    animation: popup_fadeout_anim 0.2s ease forwards;
+}
+
 @keyframes basic_fadein_anim {
     0% { opacity: 0; }
     100% { opacity: 1; }
@@ -32,22 +48,22 @@ a {
 @keyframes popup_fadein_anim {
     0% {
         opacity: 0;
-        transform: translate(-50%, 75%);
+        transform: translateY(75%);
     }
     100% {
         opacity: 1;
-        transform: translate(-50%, 0);
+        transform: translateY(0);
     }
 }
 
 @keyframes popup_fadeout_anim {
     0% {
         opacity: 1;
-        transform: translate(-50%, 0);
+        transform: translateY(0);
     }
     100% {
         opacity: 0;
-        transform: translate(-50%, 75%);
+        transform: translateY(75%);
     }
 }
 
@@ -216,10 +232,6 @@ a {
     transition: background-color 0.2s, outline 0.2s;
 }
 
-.ld_fadeout {
-    animation: basic_fadeout_anim 0.2s ease forwards;
-}
-
 #version_div {
     width: 100vw;
     height: 100vh;
@@ -248,10 +260,6 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.mm_fadein {
-    animation: basic_fadein_anim 0.2s ease forwards;
 }
 
 #mainmenu_logo {
@@ -562,6 +570,83 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+#session_corner_div {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+    width: 50px;
+
+    height: 0px;
+}
+
+.session_corner_btn {
+    width: 50px;
+    height: 50px;
+
+    border: none;
+    border-radius: 10px;
+    
+    background-color: #111827;
+
+    transition: color 0.2s, background-color 0.2s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 15px;
+
+    color: white;
+}
+
+.session_corner_btn:hover {
+    background-color: #373e4b;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+.session_corner_btn:active {
+    background-color: #373e4b;
+    
+    transition: color 0.2s, background-color 0.2s;
+}
+
+.session_corner_btn:disabled {
+    background-color: #242B39;
+    cursor: not-allowed;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+.session_svg {
+    color: white; 
+
+    width: 50px;
+    height: 50px;
+
+    transition: color 0.2s;
+}
+
+.session_corner_btn:active .session_svg {
+    color: #ffffffaa;
+
+    transition: color 0.2s;
+}
+
+.session_corner_btn:disabled .session_svg {
+    color: rgba(255, 255, 255, 0.3);
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+
+/* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */
+/* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */
+/* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */
+/* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */
+/* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */ /* SESSION CONTENT */
 
 #session_content_div {
     width: 100vw;
