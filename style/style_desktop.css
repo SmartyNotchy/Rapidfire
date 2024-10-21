@@ -657,6 +657,55 @@ a {
     transition: color 0.2s, background-color 0.2s;
 }
 
+#settings_content_div {
+    width: 100%;
+    margin-top: 20px;
+    height: calc(80vh - 150px);
+
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.settings_op {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.settings_op_info {
+    width: 100%;
+}
+
+.settings_op_title {
+    font-size: 18px;
+}
+
+.settings_op_subtitle {
+    margin-top: -10px;
+
+    font-size: 14px;
+    font-style: italic;
+
+    color: gray;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+} 
+
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
