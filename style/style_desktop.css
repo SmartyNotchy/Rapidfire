@@ -367,11 +367,11 @@ a {
     background-color: #9966ff;
 }
 
-#mainmenu_btn_about {
+#mainmenu_btn_stats {
     background-color: #ff66ff;
 }
 
-#mainmenu_btn_about:hover {
+#mainmenu_btn_stats:hover {
     background-color: #ff99ff;
 }
 
@@ -554,6 +554,109 @@ a {
     transition: background-color 0.2s;
 }
 
+/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
+/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
+/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
+
+#settings_wrapper {
+    background-color: #00000044;
+
+    position: fixed;
+    /* display: flex; */
+    display: none;
+    justify-content: center;
+    align-items: center;
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100vh;
+    width: 100vw;
+    border: none;
+
+    z-index: 1002;
+}
+
+#settings_div {
+    width: 60vw;
+    height: 80vh;
+
+    background-color: #111827;
+
+    border: gray 1px solid;
+    border-radius: 20px;
+
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    position: relative;
+}
+
+#settings_title {
+    font-size: 30px;
+}
+
+
+#settings_close_btn {
+    width: 50px;
+    height: 50px;
+
+    border: none;
+    border-radius: 10px;
+    
+    background-color: #111827;
+
+    transition: color 0.2s, background-color 0.2s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 15px;
+
+    color: white;
+
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#settings_close_btn:hover {
+    background-color: #373e4b;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#settings_close_btn:disabled {
+    background-color: #242B39;
+    cursor: not-allowed;
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
+#settings_close_svg {
+    color: white; 
+
+    width: 50px;
+    height: 50px;
+
+    transition: color 0.2s;
+}
+
+#settings_close_btn:active #settings_close_svg {
+    color: #ffffffaa;
+
+    transition: color 0.2s;
+}
+
+#settings_close_btn:disabled #settings_close_svg {
+    color: rgba(255, 255, 255, 0.3);
+
+    transition: color 0.2s, background-color 0.2s;
+}
+
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
@@ -604,12 +707,6 @@ a {
 .session_corner_btn:hover {
     background-color: #373e4b;
 
-    transition: color 0.2s, background-color 0.2s;
-}
-
-.session_corner_btn:active {
-    background-color: #373e4b;
-    
     transition: color 0.2s, background-color 0.2s;
 }
 

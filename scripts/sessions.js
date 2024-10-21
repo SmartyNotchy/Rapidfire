@@ -87,24 +87,33 @@ const SCE_BACK_BTN = document.getElementById("sce_backtomm_btn");
 
 function reset_sce_div() {
     SCE_BACK_BTN.removeAttribute("disabled");
-    SCE_BACK_BTN.onclick = function() { CURRENT_SESSION.close_session() }
+    SCE_BACK_BTN.onclick = close_session;
 }
 
 function hide_sce_div() { SCE_DIV.style.display = "none"; }
 function show_sce_div() { SCE_DIV.style.display = "block"; }
 
 const SESSION_DIV = document.getElementById("session_div");
+const SESSION_SETTINGS_BTN = document.getElementById("session_settings_btn");
+const SESSION_STATS_BTN = document.getElementById("session_stats_btn");
+const SESSION_HISTORY_BTN = document.getElementById("session_history_btn");
+const SESSION_MM_BTN = document.getElementById("session_mainmenu_btn");
 
 function reset_session_div() {
     reset_scq_div();
     reset_sce_div();
+
+    SESSION_SETTINGS_BTN.onclick = fadein_settings_div;
+
+    SESSION_MM_BTN.removeAttribute("disabled");
+    SESSION_MM_BTN.onclick = close_session;
 }
 
 function hide_session_div() { SESSION_DIV.style.display = "none"; }
 function show_session_div() { SESSION_DIV.style.display = "flex"; }
 
-function fadein_session_div() { fadeInElement(SESSION_DIV, "basic_fadein", "flex", 100); }
-function fadeout_session_div() { fadeOutElement(SESSION_DIV, "basic_fadeout", 100); }
+async function fadein_session_div() { return fade_in_element(SESSION_DIV, "basic_fadein", "flex", 100); }
+async function fadeout_session_div() { return fade_out_element(SESSION_DIV, "basic_fadeout", 100); }
 
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
@@ -199,6 +208,9 @@ class SAQQuestion {
                     SAQ_FEEDBACK_DIV.className = "scq_feedback correct";
                     SAQ_FEEDBACK_TEXT.innerText = `Correct! (Accepted Answers: ${this.correctAnswers.join(", ")})`;
                     SAQ_FEEDBACK_DIV.style.display = "flex";
+
+                    // TODO: FIX CONFETTI
+                    toss_confetti_at_element(SAQ_INPUT_BTN, 10);
                 } else {
                     SAQ_INPUT_BOX.classList.add("incorrect");
                     SAQ_INPUT_BTN.removeAttribute("disabled");
@@ -356,7 +368,10 @@ class MCQQuestion {
                     MCQ_FEEDBACK_SVG.setAttribute("href", "#svg_check");
                     MCQ_FEEDBACK_DIV.className = "scq_feedback correct";
                     MCQ_FEEDBACK_TEXT.innerText = `Correct!`;
-                    MCQ_FEEDBACK_DIV.style.display = "flex";            
+                    MCQ_FEEDBACK_DIV.style.display = "flex";
+                    
+                    // TODO: FIX CONFETTI
+                    toss_confetti_at_element(MCQ_INPUT_BTN, 10);
                 } else {
                     this.buttons[this.selected].render(false, "red");
                     this.buttons[this.selected].button.focus();
@@ -444,14 +459,6 @@ class TriviaSession {
         }
     }
 
-    close_session() {
-        // TODO: SAVING LOGIC
-        SCE_BACK_BTN.setAttribute("disabled", "");        
-        reset_mm_div();
-        hide_session_div();
-        show_mm_div();
-    }
-
     save_progress() {
         // TODO
         if (this.questionNum >= this.questionCount) {
@@ -490,3 +497,52 @@ function process_input(event) {
 /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
 /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
 /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
+
+class Settings {
+    constructor() {
+
+    }
+}
+
+/* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */
+/* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */
+/* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */
+
+const SETTINGS_WRAPPER_DIV = document.getElementById("settings_wrapper");
+const SETTINGS_CLOSE_BTN = document.getElementById("settings_close_btn");
+
+var CURRENT_SETTINGS = undefined;
+
+function reset_settings_div() {
+    SETTINGS_CLOSE_BTN.removeAttribute("disabled");
+    SETTINGS_CLOSE_BTN.onclick = close_settings_div;
+}
+
+function render_settings_div() {
+
+}
+
+function close_settings_div() {
+    // TODO: RE-RENDER SESSION
+    fadeout_settings_div();
+}
+
+function hide_settings_div() { SETTINGS_WRAPPER_DIV.style.display = "none"; }
+function show_settings_div() { SETTINGS_WRAPPER_DIV.style.display = "flex"; }
+
+async function fadein_settings_div() { return fade_in_element(SETTINGS_WRAPPER_DIV, "basic_fadein", "flex", 100); }
+async function fadeout_settings_div() { return fade_out_element(SETTINGS_WRAPPER_DIV, "basic_fadeout", 100); }
+
+/* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */
+/* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */
+/* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */
+
+async function close_session() {
+    SCE_BACK_BTN.setAttribute("disabled", "");        
+    SESSION_MM_BTN.setAttribute("disabled", "");
+
+    CURRENT_SESSION.save_progress();
+    reset_mm_div();
+    await fadeout_session_div();
+    await fadein_mm_div();
+}

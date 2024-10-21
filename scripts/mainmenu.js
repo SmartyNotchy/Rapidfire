@@ -64,8 +64,8 @@ function render_mmns_div(changedTopic) {
 function hide_mmns_div() { MMNS_WRAPPER_DIV.style.display = "none"; }
 function show_mmns_div() { MMNS_WRAPPER_DIV.style.display = "flex"; }
 
-async function fadein_mmns_div() { return fadeInElement(MMNS_WRAPPER_DIV, "basic_fadein", "flex", 100); }
-async function fadeout_mmns_div() { return fadeOutElement(MMNS_WRAPPER_DIV, "basic_fadeout", 100); }
+async function fadein_mmns_div() { return fade_in_element(MMNS_WRAPPER_DIV, "basic_fadein", "flex", 100); }
+async function fadeout_mmns_div() { return fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 100); }
 
 async function create_new_session() {
     let subject = MMNS_SUBJECT_DROPDOWN.value;
@@ -93,28 +93,28 @@ async function create_new_session() {
 const MENU_BTN_RESUME = document.getElementById("mainmenu_btn_continue");
 const MENU_BTN_NS = document.getElementById("mainmenu_btn_new");
 const MENU_BTN_SETTINGS = document.getElementById("mainmenu_btn_settings");
-const MENU_BTN_ABOUT = document.getElementById("mainmenu_btn_about");
+const MENU_BTN_STATS = document.getElementById("mainmenu_btn_stats");
 const MENU_BTN_CONTRIBUTE = document.getElementById("mainmenu_btn_contribute");
 
 const MAINMENU_DIV = document.getElementById("mainmenu_div");
 
 function reset_mm_div() {
     reset_mmns_div();
+    reset_settings_div();
 
-    if (getCookie("inSession")) {
-        MENU_BTN_RESUME.removeAttribute("disabled");
-    } else {
-        MENU_BTN_RESUME.setAttribute("disabled", "");
-    }
+    if (getCookie("inSession")) { MENU_BTN_RESUME.removeAttribute("disabled"); } 
+    else { MENU_BTN_RESUME.setAttribute("disabled", ""); }
+
     MENU_BTN_RESUME.onclick = resume_session;
     MENU_BTN_NS.onclick = fadein_mmns_div;
+    MENU_BTN_SETTINGS.onclick = fadein_settings_div;
 }
 
 function hide_mm_div() { MAINMENU_DIV.style.display = "none"; }
 function show_mm_div() { MAINMENU_DIV.style.display = "flex"; }
 
-async function fadein_mm_div() { return fadeInElement(MAINMENU_DIV, "basic_fadein", "flex", 100); }
-async function fadeout_mm_div() { return fadeOutElement(MAINMENU_DIV, "basic_fadeout", 100); }
+async function fadein_mm_div() { return fade_in_element(MAINMENU_DIV, "basic_fadein", "flex", 100); }
+async function fadeout_mm_div() { return fade_out_element(MAINMENU_DIV, "basic_fadeout", 100); }
 
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
@@ -184,7 +184,7 @@ async function attempt_load_mm() {
     }
 
     // Fade Out Loading Div
-    await fadeOutElement(LOADING_DIV, "basic_fadeout", 250);
+    await fade_out_element(LOADING_DIV, "basic_fadeout", 250);
 
     // Set Visibilities
     reset_mm_div();
