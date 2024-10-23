@@ -134,17 +134,7 @@
             </select>
           </div>
 
-          <!-- <div id="mmns_preset_div">
-            <p id="mmns_preset_text">Use Preset: </p>
-            <select id="mmns_preset_dropdown" name="dropdown" disabled>
-              <option value="1">Debug 1</option>
-              <option value="2">Debug 2</option>
-              <option value="3">Debug 3</option>
-              <option value="4">Debug 4</option>
-            </select>
-          </div> -->
-
-          <hr style="color: gray; margin-top: 10px;">
+          <hr id="mmns_sep">
           
           <p id="mmns_ts_title">Topic Selection</p>
           <p id="mmns_ts_subtitle">Select a subject first!</p>
@@ -152,22 +142,28 @@
           <div id="mmns_topic_select_div">
             <div class="mmns_ts_preset">
               <button class="mmns_ts_dropdown_btn">+</button>
-              <p class="mmns_ts_preset_name">NSL 2.2 - Congressional Procedures</p>
+              <p class="mmns_ts_preset_name">Debug Preset</p>
 
               <button class="mmns_ts_presetmod_btn mmns_ts_sall_btn">Select All</button>
               <button class="mmns_ts_presetmod_btn mmns_ts_dsall_btn" disabled>De-select All</button>
 
               <p class="mmns_ts_preset_count">0 selected</p>
             </div>
-            <!--
+            
             <div class="mmns_ts_topics">
-              <input type="checkbox" class="mmns_ts_checkbox">
-              <label>Topic 1</label><br>
-              <input type="checkbox" class="mmns_ts_checkbox">
-              <label>Topic 2</label><br>
-              <input type="checkbox" class="mmns_ts_checkbox">
-              <label>Topic 3</label><br>
-            </div>-->
+              <div class="mmns_ts_topic_div">
+                <button class="mmns_ts_topic_btn"></button>
+                <p class="mmns_ts_topic_desc">Topic 1 (2 Questions)</p>
+              </div>
+              <div class="mmns_ts_topic_div">
+                <button class="mmns_ts_topic_btn"></button>
+                <p class="mmns_ts_topic_desc">Topic 2 (2 Questions)</p>
+              </div>
+              <div class="mmns_ts_topic_div">
+                <button class="mmns_ts_topic_btn"></button>
+                <p class="mmns_ts_topic_desc">Topic 3 (2 Questions)</p>
+              </div>
+            </div>
           </div>
 
           <button id="mmns_cancel_btn">Cancel</button>

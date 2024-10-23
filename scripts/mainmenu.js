@@ -24,10 +24,11 @@ async function resume_session() {
 /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
 
 class PresetMenuElement {
-    constructor(subject, preset) {
+    constructor(subject, preset, idx) {
         this.topics = PRESETS[subject][preset];
         this.numTopics = this.topics.length;
 
+        this.dropdownToggled = false;
         this.selected = [];
         this.questions = [];
         this.questionLengths = [];
@@ -45,6 +46,7 @@ class PresetMenuElement {
         this.dropdownBtn = document.createElement("button");
         this.dropdownBtn.className = "mmns_ts_dropdown_btn";
         this.dropdownBtn.innerText = "+";
+        this.dropdownBtn.onclick = function() { MMNS_TS_MENU_ELEMENTS[idx].toggle_dropdown(); };
         this.dropdownDiv.appendChild(this.dropdownBtn);
         
         this.dropdownTitle = document.createElement("p");
@@ -67,22 +69,57 @@ class PresetMenuElement {
         this.dropdownCount.className = "mmns_ts_preset_count";
         this.dropdownCount.innerText = "0 selected";
         this.dropdownDiv.appendChild(this.dropdownCount);
+
+        this.topicsDiv = document.createElement("div");
+        this.topicsDiv.classList = "mmns_ts_topics";
+        
+        this.topicElements = [];
+        for (let i = 0; i < this.numTopics; i++) {
+            // TODO: Onclicks
+            let topicDiv = document.createElement("div");
+            topicDiv.className = "mmns_ts_topic_div";
+
+            let topicBtn = document.createElement("button");
+            topicBtn.className = "mmns_ts_topic_btn";
+            topicDiv.appendChild(topicBtn);
+            
+            let topicDesc = document.createElement("p");
+            topicDesc.className = "mmns_ts_topic_desc";
+            topicDesc.innerText = `${this.topics[i]} (${this.questionLengths[i]} questions)`
+            topicDiv.appendChild(topicDesc);
+            
+            this.topicsDiv.appendChild(topicDiv);
+            this.topicElements.push([topicBtn, topicDesc]);
+        }
     }
 
     firstrender() {
         MMNS_TS_DIV.appendChild(this.dropdownDiv);
+        MMNS_TS_DIV.appendChild(this.topicsDiv);
     }
 
     render() {
-
-    }
-
-    process_input() {
-        // Returns the change in questions selected
         
     }
 
+    toggle_dropdown() {
+        // Returns the change in questions selected
+        this.dropdownToggled = !this.dropdownToggled;
+        if (this.dropdownToggled) {
+            this.dropdownBtn.innerText = "-";
+            this.topicsDiv.style.maxHeight = `${this.topicsDiv.scrollHeight}px`;
+            console.log(this.topicsDiv.style.maxHeight);
+        } else {
+            this.dropdownBtn.innerText = "+";
+            this.topicsDiv.style.maxHeight = null;
+        }
+    }
+
     get_questions() {
+
+    }
+
+    disable_all() {
 
     }
 }
@@ -117,8 +154,9 @@ function build_mmns_ts_div(subject) {
     MMNS_TS_MENU_ELEMENTS = [];
 
     let subjPresets = PRESETS[subject];
+    let idx = 0;
     for (let preset of Object.entries(subjPresets)) {
-        let menuEle = new PresetMenuElement(subject, preset[0]);
+        let menuEle = new PresetMenuElement(subject, preset[0], idx++);
         MMNS_TS_MENU_ELEMENTS.push(menuEle);
         menuEle.firstrender();
     }

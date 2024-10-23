@@ -423,6 +423,11 @@ a {
     padding-right: 30px;
 
     position: relative;
+
+    display: flex;
+    flex-direction: column; /* Arrange children vertically */
+    justify-content: flex-start; /* Start from the top */
+    box-sizing: border-box; /* Include padding in height */
 }
 
 #mmns_title {
@@ -527,7 +532,15 @@ a {
     font-size: 14px;
 }
 
+#mmns_sep {
+    color: gray;
+    margin-top: 20px;
+
+    width: 100%;
+}
+
 #mmns_ts_title {
+    margin-top: 10px;
     color: gray;
     font-size: 24px;
     font-weight: bold;
@@ -541,7 +554,12 @@ a {
 }
 
 #mmns_topic_select_div {
+    flex-grow: 1;
+    margin-bottom: 30px;
+    overflow-x: hidden;
+    overflow-y: scroll;
 
+    position: relative;
 }
 
 .mmns_ts_preset {
@@ -608,34 +626,70 @@ a {
 
 .mmns_ts_sall_btn {
     position: absolute;
-    right: 250px;
+    right: 230px;
 
     width: 80px;
 }
 
 .mmns_ts_dsall_btn {
     position: absolute;
-    right: 140px;
+    right: 120px;
 
     width: 100px;
 }
 
 .mmns_ts_preset_count {
     position: absolute;
-    right: 30px;
+    right: 10px;
     width: 100px;
 
     color: gray;
     font-size: 14px;
 }
 
+.mmns_ts_topics {
+    width: 100%;
 
-.mmns_ts_checkbox {
-    width: 20px;
-    height: 20px;
-    margin-left: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
 
-    border: gray 1px solid;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.mmns_ts_topic_div {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+    margin-bottom: 10px;
+}
+
+.mmns_ts_topic_btn {
+    width: 24px;
+    height: 24px;
+
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: #1f2937;
+
+    transition: background-color 0.2s;
+}
+
+.mmns_ts_topic_btn:hover {
+    background-color: #373e4b;
+
+    transition: background-color 0.2s;
+}
+
+.mmns_ts_topic_desc {
+    font-size: 16px;
+    color: gray;
+
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
