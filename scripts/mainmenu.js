@@ -30,6 +30,7 @@ class PresetMenuElement {
 
         this.dropdownToggled = false;
         this.selected = [];
+        this.numSelected = 0;
         this.questions = [];
         this.questionLengths = [];
 
@@ -55,15 +56,17 @@ class PresetMenuElement {
         this.dropdownDiv.appendChild(this.dropdownTitle);
 
         this.sallBtn = document.createElement("button");
-        this.sallBtn.classList = "mmns_ts_presetmod_btn mmns_ts_sall_btn";
+        this.sallBtn.className = "mmns_ts_sall_btn";
         this.sallBtn.innerText = "Select All";
+        this.sallBtn.onclick = function() {
+            if (MMNS_TS_MENU_ELEMENTS[idx].sallBtn.classList.contains("active")) {
+                MMNS_TS_MENU_ELEMENTS[idx].deselect_all();
+            } else {
+                MMNS_TS_MENU_ELEMENTS[idx].select_all();
+            }
+            update_mmns_session();
+        }
         this.dropdownDiv.appendChild(this.sallBtn);
-
-        this.dsallBtn = document.createElement("button");
-        this.dsallBtn.classList = "mmns_ts_presetmod_btn mmns_ts_dsall_btn";
-        this.dsallBtn.innerText = "De-select All";
-        this.dsallBtn.setAttribute("disabled", "");
-        this.dropdownDiv.appendChild(this.dsallBtn);
 
         this.dropdownCount = document.createElement("p");
         this.dropdownCount.className = "mmns_ts_preset_count";
@@ -75,13 +78,13 @@ class PresetMenuElement {
         
         this.topicElements = [];
         for (let i = 0; i < this.numTopics; i++) {
-            // TODO: Onclicks
             let topicDiv = document.createElement("div");
             topicDiv.className = "mmns_ts_topic_div";
 
             let topicBtn = document.createElement("button");
             topicBtn.className = "mmns_ts_topic_btn";
             topicDiv.appendChild(topicBtn);
+            topicBtn.onclick = function() { MMNS_TS_MENU_ELEMENTS[idx].toggle_topic(i); update_mmns_session(); };
             
             let topicDesc = document.createElement("p");
             topicDesc.className = "mmns_ts_topic_desc";
@@ -99,7 +102,34 @@ class PresetMenuElement {
     }
 
     render() {
-        
+        let numSelected = 0;
+        let allSelected = true;
+        for (let i = 0; i < this.numTopics; i++) {
+            if (this.selected[i]) {
+                numSelected += this.questionLengths[i];
+            } else {
+                allSelected = false;
+            }
+        }
+        this.numSelected = numSelected;
+
+        if (numSelected > 0) {
+            this.dropdownTitle.style.color = "white";
+            this.dropdownCount.style.color = "white";
+            this.dropdownCount.innerText = `${numSelected} selected`;
+        } else {
+            this.dropdownTitle.style.color = "gray";
+            this.dropdownCount.style.color = "gray";
+            this.dropdownCount.innerText = `${numSelected} selected`;
+        }
+
+        if (allSelected) {
+            this.sallBtn.classList.add("active");
+            this.sallBtn.innerText = "Selected All";
+        } else {
+            this.sallBtn.classList.remove("active");
+            this.sallBtn.innerText = "Select All";
+        }
     }
 
     toggle_dropdown() {
@@ -108,19 +138,61 @@ class PresetMenuElement {
         if (this.dropdownToggled) {
             this.dropdownBtn.innerText = "-";
             this.topicsDiv.style.maxHeight = `${this.topicsDiv.scrollHeight}px`;
-            console.log(this.topicsDiv.style.maxHeight);
         } else {
             this.dropdownBtn.innerText = "+";
             this.topicsDiv.style.maxHeight = null;
         }
     }
 
-    get_questions() {
+    select_all() {
+        for (let idx = 0; idx < this.numTopics; idx++) {
+            this.selected[idx] = true;
+            this.topicElements[idx][0].classList.add("active");
+            this.topicElements[idx][1].style.color = "white";
+        }
 
+        this.render();
     }
 
-    disable_all() {
+    deselect_all() {
+        for (let idx = 0; idx < this.numTopics; idx++) {
+            this.selected[idx] = false;
+            this.topicElements[idx][0].classList.remove("active");
+            this.topicElements[idx][1].style.color = "gray";
+        }
 
+        this.render();
+    }
+
+    toggle_topic(idx) {
+        this.selected[idx] = !this.selected[idx];
+        if (this.selected[idx]) {
+            this.topicElements[idx][0].classList.add("active");
+            this.topicElements[idx][1].style.color = "white";
+        } else {
+            this.topicElements[idx][0].classList.remove("active");
+            this.topicElements[idx][1].style.color = "gray";
+        }
+
+        this.render();
+    }
+
+    get_questions() {
+        let res = [];
+        for (let idx = 0; idx < this.numTopics; idx++) {
+            if (this.selected[idx]) {
+                res = res.concat(this.questions[idx]);
+            }
+        }
+
+        return res;
+    }
+
+    disable_all_btns() {
+        this.sallBtn.setAttribute("disabled", "");
+        for (let ele of this.topicElements) {
+            ele[0].setAttribute("disabled", "true");
+        }
     }
 }
 
@@ -131,6 +203,7 @@ const MMNS_CREATE_BTN = document.getElementById("mmns_create_btn");
 
 const MMNS_TS_TITLE = document.getElementById("mmns_ts_title");
 const MMNS_TS_SUBTITLE = document.getElementById("mmns_ts_subtitle");
+const MMNS_QCOUNT = document.getElementById("mmns_qcount");
 
 const MMNS_TS_DIV = document.getElementById("mmns_topic_select_div");
 
@@ -160,6 +233,23 @@ function build_mmns_ts_div(subject) {
         MMNS_TS_MENU_ELEMENTS.push(menuEle);
         menuEle.firstrender();
     }
+
+    update_mmns_session();
+}
+
+function update_mmns_session() {
+    let totalCount = 0;
+    for (let ele of MMNS_TS_MENU_ELEMENTS) {
+        totalCount += ele.numSelected;
+    }
+
+    if (totalCount > 0) {
+        MMNS_CREATE_BTN.removeAttribute("disabled");
+    } else {
+        MMNS_CREATE_BTN.setAttribute("disabled", true);
+    }
+    
+    MMNS_QCOUNT.innerText = `${totalCount}`;
 }
 
 function reset_mmns_div() {
@@ -183,7 +273,6 @@ function render_mmns_div() {
         MMNS_CREATE_BTN.setAttribute("disabled", "");
         clear_mmns_ts_div();
     } else {
-        //MMNS_CREATE_BTN.removeAttribute("disabled", "");
         build_mmns_ts_div(subject);
     }
 }
@@ -195,19 +284,16 @@ async function fadein_mmns_div() { return fade_in_element(MMNS_WRAPPER_DIV, "bas
 async function fadeout_mmns_div() { return fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 100); }
 
 async function create_new_session() {
-    let subject = MMNS_SUBJECT_DROPDOWN.value;
-    let preset = MMNS_PRESET_DROPDOWN.value;
-
-    if (subject == "None" || preset == "None") {
-        return;
+    let questions = [];
+    for (let ele of MMNS_TS_MENU_ELEMENTS) {
+        ele.disable_all_btns();
+        questions = questions.concat(ele.get_questions());
     }
 
     MMNS_CANCEL_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.setAttribute("disabled", "");
     hide_mm_div();
-
-    let topics = PRESETS[subject][preset]; // TODO CUSTOMS
-    CURRENT_SESSION = new TriviaSession(subject, topics, 0, Math.floor(Math.random() * 1000000000000), undefined);
+    CURRENT_SESSION = new TriviaSession(questions, 0, Math.floor(Math.random() * 1000000000000), undefined);
     
     CURRENT_SESSION.firstrender();
     fadeout_mmns_div();

@@ -544,6 +544,8 @@ a {
     color: gray;
     font-size: 24px;
     font-weight: bold;
+
+    transition: color 0.2s;
 }
 
 #mmns_ts_subtitle {
@@ -551,6 +553,8 @@ a {
     color: gray;
     font-size: 16px;
     font-style: italic;
+
+    transition: color 0.2s;
 }
 
 #mmns_topic_select_div {
@@ -597,9 +601,11 @@ a {
     margin-left: 10px;
 
     color: gray;
+
+    transition: color 0.2s;
 }
 
-.mmns_ts_presetmod_btn {
+.mmns_ts_sall_btn {
     height: 25px;
 
     border: none;
@@ -609,33 +615,30 @@ a {
     font-size: 14px;
 
     transition: background-color 0.2s;
+
+    position: absolute;
+    right: 120px;
+
+    width: 100px;
 }
 
-.mmns_ts_presetmod_btn:hover {
+.mmns_ts_sall_btn:hover {
     background-color: #373e4b;
 
     transition: background-color 0.2s;
 }
 
-.mmns_ts_presetmod_btn:disabled {
-    cursor: not-allowed;
-    background-color: rgba(50, 57, 70, 0.5);
-    color: rgba(255, 255, 255, 0.5);
+.mmns_ts_sall_btn.active {
+    background-color: #3366ff;
+    color: white;
+
     transition: background-color 0.2s;
 }
 
-.mmns_ts_sall_btn {
-    position: absolute;
-    right: 230px;
+.mmns_ts_sall_btn.active:hover {
+    background-color: #6699ff;
 
-    width: 80px;
-}
-
-.mmns_ts_dsall_btn {
-    position: absolute;
-    right: 120px;
-
-    width: 100px;
+    transition: background-color 0.2s;
 }
 
 .mmns_ts_preset_count {
@@ -645,6 +648,8 @@ a {
 
     color: gray;
     font-size: 14px;
+
+    transition: color 0.2s;
 }
 
 .mmns_ts_topics {
@@ -674,13 +679,26 @@ a {
     border-radius: 5px;
     background-color: #1f2937;
 
-    transition: background-color 0.2s;
+    transition: background-color 0.2s, border 0.2s;
 }
 
 .mmns_ts_topic_btn:hover {
     background-color: #373e4b;
 
-    transition: background-color 0.2s;
+    transition: background-color 0.2s, border 0.2s;
+}
+
+.mmns_ts_topic_btn.active {
+    border: 1px solid #cccccc;
+    background-color: #3366ff;
+
+    transition: background-color 0.2s, border 0.2s;
+}
+
+.mmns_ts_topic_btn.active:hover {
+    background-color: #6699ff;
+
+    transition: background-color 0.2s, border 0.2s;
 }
 
 .mmns_ts_topic_desc {
@@ -690,6 +708,8 @@ a {
     margin-left: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
+
+    transition: color 0.2s;
 }
 
 /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */

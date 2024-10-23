@@ -416,15 +416,8 @@ class MCQQuestion {
 var CURRENT_SESSION = undefined;
 
 class TriviaSession {
-    constructor(subject, topics, qNum, seed, settings) {
-        //this.questions = [new MCQQuestion("What is 1 + 1? Debug", "Debug Problems", ["2"], ["3", "4", "5"])];
-        //this.questions = [new SAQQuestion("What is 1 + 1?", "Debug Problems", ["2"]), new SAQQuestion("What is 1 + 2?", "Debug Problems", ["3"])]
-        this.subject = subject;
-        this.topics = topics;
-        this.questions = [];
-        for (let t of topics) {
-            this.questions = this.questions.concat(QUESTION_BANK[subject][t]);
-        }
+    constructor(questions, qNum, seed, settings) {
+        this.questions = questions;
 
         this.questionNum = qNum;
         this.seed = seed;
