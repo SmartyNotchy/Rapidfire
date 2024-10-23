@@ -90,7 +90,7 @@
           <button class="mainmenu_btn" id="mainmenu_btn_continue" disabled>
             <div class="mm_btn_content">
               <svg id="mm_svg_new" class="mm_svg"><use id="mm_svg_new_src" href="#svg_play"></use></svg>
-              Resume Session
+              (Temp. Disabled)
             </div>
           </button>
           <button class="mainmenu_btn" id="mainmenu_btn_new">
@@ -131,12 +131,10 @@
               <option value="2">Debug 2</option>
               <option value="3">Debug 3</option>
               <option value="4">Debug 4</option>
-              <option value="1">Debug 1</option>
-              <option value="2">Debug 2</option>
             </select>
           </div>
 
-          <div id="mmns_preset_div">
+          <!-- <div id="mmns_preset_div">
             <p id="mmns_preset_text">Use Preset: </p>
             <select id="mmns_preset_dropdown" name="dropdown" disabled>
               <option value="1">Debug 1</option>
@@ -144,22 +142,43 @@
               <option value="3">Debug 3</option>
               <option value="4">Debug 4</option>
             </select>
-          </div>
+          </div> -->
 
-          <hr>
+          <hr style="color: gray; margin-top: 10px;">
+          
+          <p id="mmns_ts_title">Topic Selection</p>
+          <p id="mmns_ts_subtitle">Select a subject first!</p>
 
-          <div id="mmns_custom_div">
-            <em>Custom Session Topics possibly coming in the future!</em>
+          <div id="mmns_topic_select_div">
+            <div class="mmns_ts_preset">
+              <button class="mmns_ts_dropdown_btn">+</button>
+              <p class="mmns_ts_preset_name">NSL 2.2 - Congressional Procedures</p>
+
+              <button class="mmns_ts_presetmod_btn mmns_ts_sall_btn">Select All</button>
+              <button class="mmns_ts_presetmod_btn mmns_ts_dsall_btn" disabled>De-select All</button>
+
+              <p class="mmns_ts_preset_count">0 selected</p>
+            </div>
+            <!--
+            <div class="mmns_ts_topics">
+              <input type="checkbox" class="mmns_ts_checkbox">
+              <label>Topic 1</label><br>
+              <input type="checkbox" class="mmns_ts_checkbox">
+              <label>Topic 2</label><br>
+              <input type="checkbox" class="mmns_ts_checkbox">
+              <label>Topic 3</label><br>
+            </div>-->
           </div>
 
           <button id="mmns_cancel_btn">Cancel</button>
           <button id="mmns_create_btn" disabled>Create New Session</button>
+          <p id="mmns_num_questions"><span id="mmns_qcount">0</span> questions selected</p>
         </div>
       </div>
 
       <div id="settings_wrapper">
         <div id="settings_div">
-          <p id="settings_title">Settings (INDEV; DOES NOT WORK)</p>
+          <p id="settings_title">Settings</p>
           <hr style="margin-top: -10px;">
 
           <button id="settings_close_btn" class="session_corner_btn">
@@ -167,7 +186,7 @@
           </button>
           
           <div id="settings_content_div">
-            <div id="settings_checker_threshold" class="settings_op">
+            <!--<div id="settings_checker_threshold" class="settings_op">
               <div class="settings_op_info">
                 <p class="settings_op_title">Checker Strictness</p>
                 <p class="settings_op_subtitle"> Sets how close your input has to be to the actual answer for it to be accepted by the SAQ checker.<br>Lower settings are more forgiving with typos but may incorrectly accept some inputs.<br>(Default = 77%)</p>
@@ -209,7 +228,8 @@
                 <p class="settings_op_title">Confetti</p>
                 <p class="settings_op_subtitle">Yippee! Yippee! Yippee! Yippee! Yippee! Yippee!<br>(Tosses up a little confetti after every correct answer.)</p>
               </div>
-            </div>
+            </div>-->
+            Temporarily disabled! Check back later!
           </div>
         </div>
       </div>
@@ -317,7 +337,7 @@
       </div>
     </main>
 
-    <script src=" https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.5.0/tsparticles.confetti.bundle.min.js "></script>
+    <script src="scripts/confetti.js"></script>
     <script src="scripts/helpers.js"></script>
     <script src="scripts/directory.js"></script>
     <script src="scripts/sessions.js"></script>
