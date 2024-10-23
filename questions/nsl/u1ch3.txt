@@ -103,7 +103,7 @@
 [A] Mandates
 [END]
 -------------------------------------------
-[SAQ] Under Reagan, _________ (the return of power to states) occured.
+[SAQ] Under Reagan, _________ (the return of power to states) occurred.
 [A] Devolution
 [END]
 -------------------------------------------
