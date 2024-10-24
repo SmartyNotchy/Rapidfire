@@ -3,19 +3,21 @@
 /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
 
 async function resume_session() {
-    let inSession = getCookie("inSession");
-    if (inSession) {
-        CURRENT_SESSION = undefined;
-        try {
-            CURRENT_SESSION = new TriviaSession(getCookie("subject"), getCookie("topics"), getCookie("questionNum"), getCookie("seed"), undefined);
-        } catch (error) {
+    let saveObj = getCookie("rapidfire_saveObj");
+    if (saveObj.inSession) {
+        MENU_BTN_RESUME.setAttribute("disabled", "");
+
+        CURRENT_SESSION = new TriviaSession();
+        CURRENT_SESSION.load_settings(undefined); // TODO
+        let success = CURRENT_SESSION.load_progress(saveObj);
+
+        if (!success) {
             alert("Oops! If you're reading this, something went horribly wrong while trying to load your session. Please report this on the Github!\n\n" + error);
             return;
+        } else {
+            await fadeout_mm_div();
+            CURRENT_SESSION.firstrender();
         }
-
-        MENU_BTN_RESUME.setAttribute("disabled", "");
-        await fadeout_mm_div();
-        CURRENT_SESSION.firstrender();
     }
 }
 
@@ -31,13 +33,11 @@ class PresetMenuElement {
         this.dropdownToggled = false;
         this.selected = [];
         this.numSelected = 0;
-        this.questions = [];
         this.questionLengths = [];
 
         for (let i = 0; i < this.numTopics; i++) {
             this.selected.push(false);
-            let tempQuestions = QUESTION_BANK[subject][this.topics[i]]
-            this.questions.push(tempQuestions)
+            let tempQuestions = QUESTION_BANK[subject][this.topics[i]];
             this.questionLengths.push(tempQuestions.length);
         }
 
@@ -177,11 +177,11 @@ class PresetMenuElement {
         this.render();
     }
 
-    get_questions() {
+    get_topics() {
         let res = [];
         for (let idx = 0; idx < this.numTopics; idx++) {
             if (this.selected[idx]) {
-                res = res.concat(this.questions[idx]);
+                res = res.concat(this.topics[idx]);
             }
         }
 
@@ -216,6 +216,8 @@ function clear_mmns_ts_div() {
 
     MMNS_TS_DIV.innerHTML = "";
     MMNS_TS_MENU_ELEMENTS = [];
+
+    MMNS_QCOUNT.innerText = `0`;
 }
 
 function build_mmns_ts_div(subject) {
@@ -257,7 +259,13 @@ function reset_mmns_div() {
 
     set_dropdown(MMNS_SUBJECT_DROPDOWN, Object.entries(SUBJECTS));
     MMNS_CANCEL_BTN.removeAttribute("disabled");
-    MMNS_CANCEL_BTN.onclick = fadeout_mmns_div;
+    MMNS_CANCEL_BTN.onclick = async function() {
+        MMNS_CANCEL_BTN.setAttribute("disabled", "");
+        MMNS_CREATE_BTN.setAttribute("disabled", "");
+        reset_mm_div();
+        await fadeout_mmns_div();
+        await fadein_mm_div();
+    }
     MMNS_CREATE_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.onclick = create_new_session;
 
@@ -280,23 +288,25 @@ function render_mmns_div() {
 function hide_mmns_div() { MMNS_WRAPPER_DIV.style.display = "none"; }
 function show_mmns_div() { MMNS_WRAPPER_DIV.style.display = "flex"; }
 
-async function fadein_mmns_div() { return fade_in_element(MMNS_WRAPPER_DIV, "basic_fadein", "flex", 100); }
-async function fadeout_mmns_div() { return fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 100); }
+async function fadein_mmns_div() { return fade_in_element(MMNS_WRAPPER_DIV, "basic_fadein", "flex", 250); }
+async function fadeout_mmns_div() { return fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 250); }
 
 async function create_new_session() {
-    let questions = [];
+    let subject = MMNS_SUBJECT_DROPDOWN.value;
+    let topics = [];
     for (let ele of MMNS_TS_MENU_ELEMENTS) {
         ele.disable_all_btns();
-        questions = questions.concat(ele.get_questions());
+        topics = topics.concat(ele.get_topics());
     }
 
     MMNS_CANCEL_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.setAttribute("disabled", "");
-    hide_mm_div();
-    CURRENT_SESSION = new TriviaSession(questions, 0, Math.floor(Math.random() * 1000000000000), undefined);
-    
+    CURRENT_SESSION = new TriviaSession();
+    CURRENT_SESSION.load_settings(undefined); // TODO
+    CURRENT_SESSION.build(subject, topics, 0, Math.floor(Math.random() * 2500000000000));
+
+    await fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 250);
     CURRENT_SESSION.firstrender();
-    fadeout_mmns_div();
 }
 
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
@@ -312,22 +322,30 @@ const MENU_BTN_CONTRIBUTE = document.getElementById("mainmenu_btn_contribute");
 const MAINMENU_DIV = document.getElementById("mainmenu_div");
 
 function reset_mm_div() {
-    reset_mmns_div();
-    reset_settings_div();
+    let saveObj = getCookie("rapidfire_saveObj");
 
-    //if (getCookie("inSession")) { MENU_BTN_RESUME.removeAttribute("disabled"); } 
-    //else { MENU_BTN_RESUME.setAttribute("disabled", ""); }
+    if (saveObj != undefined && saveObj.inSession) { MENU_BTN_RESUME.removeAttribute("disabled"); } 
+    else { MENU_BTN_RESUME.setAttribute("disabled", ""); }
 
     MENU_BTN_RESUME.onclick = resume_session;
-    MENU_BTN_NS.onclick = fadein_mmns_div;
-    MENU_BTN_SETTINGS.onclick = fadein_settings_div;
+    MENU_BTN_NS.removeAttribute("disabled");
+    MENU_BTN_NS.onclick = async function() {
+        reset_mmns_div();
+        MENU_BTN_NS.setAttribute("disabled", "");
+        await fadeout_mm_div();
+        await fadein_mmns_div();
+    };
+    MENU_BTN_SETTINGS.onclick = async function() {
+        reset_settings_div();
+        fadein_settings_div();
+    }
 }
 
 function hide_mm_div() { MAINMENU_DIV.style.display = "none"; }
 function show_mm_div() { MAINMENU_DIV.style.display = "flex"; }
 
-async function fadein_mm_div() { return fade_in_element(MAINMENU_DIV, "basic_fadein", "flex", 100); }
-async function fadeout_mm_div() { return fade_out_element(MAINMENU_DIV, "basic_fadeout", 100); }
+async function fadein_mm_div() { return fade_in_element(MAINMENU_DIV, "basic_fadein", "flex", 250); }
+async function fadeout_mm_div() { return fade_out_element(MAINMENU_DIV, "basic_fadeout", 250); }
 
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */

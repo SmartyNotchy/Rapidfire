@@ -90,7 +90,7 @@
           <button class="mainmenu_btn" id="mainmenu_btn_continue" disabled>
             <div class="mm_btn_content">
               <svg id="mm_svg_new" class="mm_svg"><use id="mm_svg_new_src" href="#svg_play"></use></svg>
-              (Temp. Disabled)
+              Resume Session
             </div>
           </button>
           <button class="mainmenu_btn" id="mainmenu_btn_new">
@@ -118,6 +118,9 @@
             </div>
           </button>
         </div>
+
+        <p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px; color: gray;">v1.0.0-alpha.4</p>
+        <p style="position: absolute; bottom: -5px; right: 10px; font-size: 14px; color: gray;">Coded with love by <a style="color: gray !important;" href="https://github.com/SmartyNotchy" target="_blank" rel="noopener noreferrer">@SmartyNotchy</a></p>
       </div>
 
       <div id="mainmenu_newsession_wrapper">
@@ -181,13 +184,18 @@
           </button>
           
           <div id="settings_content_div">
-            <!--<div id="settings_checker_threshold" class="settings_op">
+            <div id="settings_checker_threshold" class="settings_op">
               <div class="settings_op_info">
                 <p class="settings_op_title">Checker Strictness</p>
-                <p class="settings_op_subtitle"> Sets how close your input has to be to the actual answer for it to be accepted by the SAQ checker.<br>Lower settings are more forgiving with typos but may incorrectly accept some inputs.<br>(Default = 77%)</p>
+                <p class="settings_op_subtitle"> Sets how close your input has to be to the actual answer for it to be accepted by the SAQ checker.<br>Lower settings are more forgiving with typos but may incorrectly accept some inputs.</p>
               </div>
               
-              <button>Test</button>
+              <select id="mmns_subject_dropdown" name="dropdown">
+                <option value="1">Lenient (65%)</option>
+                <option value="2">Default (77%)</option>
+                <option value="3">Strict (85%)</option>
+                <option value="4">Exact (100%)</option>
+              </select>
             </div>
 
             <div id="settings_checker_skip" class="settings_op">
@@ -223,8 +231,7 @@
                 <p class="settings_op_title">Confetti</p>
                 <p class="settings_op_subtitle">Yippee! Yippee! Yippee! Yippee! Yippee! Yippee!<br>(Tosses up a little confetti after every correct answer.)</p>
               </div>
-            </div>-->
-            Temporarily disabled! Check back later!
+            </div>
           </div>
         </div>
       </div>
@@ -323,12 +330,6 @@
             <button id="sce_backtomm_btn">Return to Main Menu</button>
           </div>
         </div>
-      </div>
-
-      <div id="version_div">
-        <p style="position: absolute; bottom: 25px; right: 10px;">v1.0.0-alpha.4</p>
-        <p style="position: absolute; bottom: 10px; right: 10px;">Made by Pilliam W (@SmartyNotchy), logo by @starlaxiia</p>
-        <p style="position: absolute; bottom: -5px; right: 10px;">Probably very buggy, please suggest improvements on Github!</p>
       </div>
     </main>
 

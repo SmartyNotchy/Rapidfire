@@ -112,8 +112,8 @@ function reset_session_div() {
 function hide_session_div() { SESSION_DIV.style.display = "none"; }
 function show_session_div() { SESSION_DIV.style.display = "flex"; }
 
-async function fadein_session_div() { return fade_in_element(SESSION_DIV, "basic_fadein", "flex", 100); }
-async function fadeout_session_div() { return fade_out_element(SESSION_DIV, "basic_fadeout", 100); }
+async function fadein_session_div() { return fade_in_element(SESSION_DIV, "basic_fadein", "flex", 250); }
+async function fadeout_session_div() { return fade_out_element(SESSION_DIV, "basic_fadeout", 250); }
 
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
@@ -416,13 +416,19 @@ class MCQQuestion {
 var CURRENT_SESSION = undefined;
 
 class TriviaSession {
-    constructor(questions, qNum, seed, settings) {
-        this.questions = questions;
+    constructor() {}
+    
+    build(subject, topics, qNum, seed) {
+        this.subject = subject;
+        this.topics = topics;
+
+        this.questions = [];
+        for (let topic of topics) {
+            this.questions = this.questions.concat(QUESTION_BANK[subject][topic]);
+        }
 
         this.questionNum = qNum;
         this.seed = seed;
-
-        this.settings = settings;
 
         this.questionCount = this.questions.length;
         this.questionOrder = shuffle_with_seed(Array.from({ length: this.questionCount }, (_, i) => i), this.seed);
@@ -452,17 +458,36 @@ class TriviaSession {
         }
     }
 
-    save_progress() {
-        // TODO
-        if (this.questionNum >= this.questionCount) {
-            setCookie("inSession", false);
-        } else {
-            setCookie("inSession", true);
-            setCookie("subject", this.subject);
-            setCookie("topics", this.topics);
-            setCookie("questionNum", this.questionNum);
-            setCookie("seed", this.seed);
+    load_settings(settings) {
+        this.settings = settings;
+    }
+    
+    load_progress(saveObj) {
+        try {
+            this.build(saveObj.subject, saveObj.topics, saveObj.questionNum, saveObj.seed);
+            return true;
+        } catch {
+            return false;
         }
+    }
+
+    save_progress() {
+        let saveObj;
+        if (this.questionNum >= this.questionCount) {
+            saveObj = {
+                "inSession": false
+            };
+        } else {
+            saveObj = {
+                "inSession": true,
+                "subject": this.subject,
+                "topics": this.topics,
+                "questionNum": this.questionNum,
+                "seed": this.seed
+            };
+        }
+
+        setCookie("rapidfire_saveObj", saveObj);
     }
 
     process_input(event) {
@@ -523,8 +548,8 @@ function close_settings_div() {
 function hide_settings_div() { SETTINGS_WRAPPER_DIV.style.display = "none"; }
 function show_settings_div() { SETTINGS_WRAPPER_DIV.style.display = "flex"; }
 
-async function fadein_settings_div() { return fade_in_element(SETTINGS_WRAPPER_DIV, "basic_fadein", "flex", 100); }
-async function fadeout_settings_div() { return fade_out_element(SETTINGS_WRAPPER_DIV, "basic_fadeout", 100); }
+async function fadein_settings_div() { return fade_in_element(SETTINGS_WRAPPER_DIV, "basic_fadein", "flex", 250); }
+async function fadeout_settings_div() { return fade_out_element(SETTINGS_WRAPPER_DIV, "basic_fadeout", 250); }
 
 /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */
 /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */
