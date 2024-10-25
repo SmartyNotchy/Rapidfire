@@ -1,4 +1,4 @@
-[PRESET] Chapter 1 (Founding Principles)
+[PRESET] (Unit 1) Chapter 1 - Founding Principles
 -------------------------------------------
 [T] NSL 1.1
 -------------------------------------------

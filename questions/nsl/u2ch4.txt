@@ -1,6 +1,6 @@
 [PRESET] (Unit 2) Chapter 4 - Congress
 -------------------------------------------
-[T] NSL 2.1
+[T] NSL 2.1 - Structure of Congress
 -------------------------------------------
 [SAQ] Which Article of the Constitution goes over the structure of Congress?
 [EXA] I
