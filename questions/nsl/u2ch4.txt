@@ -1,4 +1,4 @@
-[PRESET] Chapter 4 (Congress) (UNFINISHED)
+[PRESET] (Unit 2) Chapter 4 - Congress
 -------------------------------------------
 [T] NSL 2.1
 -------------------------------------------
@@ -172,5 +172,736 @@
 [WA] False
 [END]
 -------------------------------------------
-[T] NSL 2.2
+[T] NSL 2.2 - Leadership in Congress
+-------------------------------------------
+[SAQ] The ____________ _______ in Congress is the party with the most members.
+[A] Majority Party
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT explicitly named in the Constitution?
+[CA] Senate Majority Leader
+[WA] Speaker of the House
+[WA] President of the Senate
+[WA] President *pro tempore*
+[END]
+-------------------------------------------
+[SAQ] Who is the most powerful member of the House of Representatives?
+[A] Speaker
+[A] House Speaker
+[A] Speaker of the House
+[END]
+-------------------------------------------
+[SAQ] This is the only House leadership position mentioned in the Constitution.
+[A] Speaker
+[A] House Speaker
+[A] Speaker of the House
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a role of the Speaker of the House?
+[CA] Has the final vote in the event of a tie
+[WA] Recognizing members for floor speeches & comments
+[WA] Organizing members for conference committees
+[WA] None of the listed options
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the House have the following role?\n*Recognizing members for floor speeches & comments*
+[A] Speaker
+[A] House Speaker
+[A] Speaker of the House
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the House have the following role?\n*Organizing members for conference committees*
+[A] Speaker
+[A] House Speaker
+[A] Speaker of the House
+[END]
+-------------------------------------------
+[SAQ] The majority & minority ________________ in the House direct debate along and speak for their respective parties.
+[A] Leaders
+[END]
+-------------------------------------------
+[SAQ] The majority & minority ________________ in the House are the first members to be recognized in debate.
+[A] Leaders
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the role of the House majority/minority leaders?
+[CA] Spokespeople for their parties
+[WA] Directing full-house debate
+[WA] Organizing conference committees
+[WA] Discipline party members
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the House have the following role?\n*Direct debate along & speak for their respective parties*
+[A] Leaders
+[A] Majority Leader
+[A] Minority Leader
+[A] Majority & Minority Leaders
+[END]
+-------------------------------------------
+[SAQ] The majority & minority ________________ in the House manage party discipline and try to influence party votes.
+[A] Whips
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the role of the House majority/minority whips?
+[WA] Spokespeople for their parties
+[WA] Directing full-house debate
+[WA] Organizing conference committees
+[CA] Discipline party members
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the House have the following role?\n*Keep rough tallies of votes along party members*
+[A] Whips
+[A] Majority Whip
+[A] Minority Whip
+[A] Majority & Minority Whips
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the House have the following role?\n*Maintains discipline among party members*
+[A] Whips
+[A] Majority Whip
+[A] Minority Whip
+[A] Majority & Minority Whips
+[END]
+-------------------------------------------
+[SAQ] This leadership position in the Senate gives the holder the power to break tie votes.
+[A] President of the Senate
+[END]
+-------------------------------------------
+[SAQ] The Constitution names the US Vice President as this position in the Senate:
+[A] President of the Senate
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the role of the President of the Senate?
+[CA] Breaks tie votes
+[WA] Presides over the Senate in absence of the VP
+[WA] Sets the legislative calendar & determines which bills reach the floor
+[WA] Tally party member voting intentions & maintain discipline
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the Senate have the following role?\n*Cast the final vote in the event of a tie*
+[A] President
+[A] President of the Senate
+[END]
+-------------------------------------------
+[SAQ] The _____________________ is a mostly ceremonial position in the Senate, held by the senior member of the majority party.
+[A] pro tem
+[A] pro tempore
+[A] President pro tempore
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the role of the President *pro tempore*?
+[WA] Breaks tie votes
+[CA] Presides over the Senate in absence of the VP
+[WA] Sets the legislative calendar & determines which bills reach the floor
+[WA] Tally party member voting intentions & maintain discipline
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the Senate have the following role?\n*Run Congress in the absence of the President*
+[A] pro tem
+[A] pro tempore
+[A] President pro tempore
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ outlines the order of presidential succession.
+[EXA] XXV
+[EXA] 25
+[A] Twenty-Five
+[END]
+-------------------------------------------
+[SAQ] The Senate _____________________ sets the legislative calendar & determines which bills reach the floor for debate.
+[A] Majority Leader
+[END]
+-------------------------------------------
+[SAQ] In practice, the _____________________ wields the most power in the Senate.
+[A] Majority Leader
+[A] Senate Majority Leader
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the role of the Senate Majority Leader?
+[WA] Breaks tie votes
+[WA] Presides over the Senate in absence of the VP
+[CA] Sets the legislative calendar & determines which bills reach the floor
+[WA] Tally party member voting intentions & maintain discipline
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the Senate have the following role?\n*Determine which bills reach the floor for debate*
+[A] Majority Leader
+[A] Senate Majority Leader
+[END]
+-------------------------------------------
+[SAQ] Which leadership position(s) in the Senate have the following role?\n*Guide party caucus on issues & party strategy*
+[A] Majority Leader
+[A] Senate Majority Leader
+[END]
+-------------------------------------------
+[MCQ] The Senate Majority Leader can directly influence the votes of their party members.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the role of the Senate whips?
+[WA] Breaks tie votes
+[WA] Presides over the Senate in absence of the VP
+[WA] Sets the legislative calendar & determines which bills reach the floor
+[CA] Tally party member voting intentions & maintain discipline
+[END]
+-------------------------------------------
+[T] NSL 2.2 - Congressional Rules & Procedures
+-------------------------------------------
+[MCQ] Are committees directly mentioned in the Constitution?
+[WA] Yes
+[CA] No
+[END]
+-------------------------------------------
+[SAQ] Permanent committees focused on a particular policy area are called _______ committees.
+[A] Standing
+[END]
+-------------------------------------------
+[SAQ] The ___________ ______ in a house always holds the majority of seats on each committee.
+[A] Majority Party
+[END]
+-------------------------------------------
+[SAQ] Bills must first clear relevant ___________ before moving to the House/Senate floors for a vote.
+[A] Committees
+[END]
+-------------------------------------------
+[SAQ] As part of the Senate's "advice and consent" role, _________ __________ in the Senate hold confirmation hearings for presidential nominees.
+[A] Standing Committees
+[END]
+-------------------------------------------
+[MCQ] Committees only have the power to hold & vote on bills before they're passed to the House/Senate floors.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] The Ways & Means Committee and the Rules Committee are both examples of _______ committees.\n*(Hint: Not about House/Senate-specific)*
+[A] Standing
+[END]
+-------------------------------------------
+[SAQ] This House-exclusive committee determines tax policy.
+[A] Ways and Means
+[A] Ways and Means Committee
+[END]
+-------------------------------------------
+[SAQ] Congress has a few permanent ________ committees that unite members from the House & Senate.
+[A] Joint
+[END]
+-------------------------------------------
+[SAQ] The committee that manages the Library of Congress is notable for including members from both houses. This makes it an example of a _________ committee.
+[A] Joint
+[END]
+-------------------------------------------
+[SAQ] Both houses of Congress form temporary or _________ committees, especially for short-lived specific purposes.
+[A] Select
+[END]
+-------------------------------------------
+[MCQ] Only the Senate has the power to form select committees.
+[CA] True
+[WA] False 
+[END]
+-------------------------------------------
+[SAQ] In 2012, a committee was formed to investigate a terrorist attack on the US Consulate in Libya. This is an example of a ________ committee.
+[A] Select
+[END]
+-------------------------------------------
+[SAQ] When a bill passes both houses of Congress in slightly different forms, a temporary ____________ committee is created to iron out the differences.
+[A] Conference
+[END]
+-------------------------------------------
+[SAQ] In 2009, when two different versions of the Affordable Care Act were passed in each house, a committee was formed to resolve the differences. This is an example of a __________ committee.
+[A] Conference
+[END]
+-------------------------------------------
+[MCQ] Which house of Congress has stricter rules regarding debate?
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[MCQ] Currently (as of 2024), filibustering is possible in:
+[WA] Only the Senate
+[WA] Only the House of Representatives
+[CA] Both Houses
+[WA] Neither House
+[END]
+-------------------------------------------
+[MCQ] Currently (as of 2024), filibustering can be used by:\n*(Choose the most accurate answer option.)*
+[CA] All members of Senate
+[WA] All members of the House of Representatives
+[WA] All members of both Houses
+[WA] Only the Majority & Minority Leaders
+[END]
+-------------------------------------------
+[SAQ] _________ amendments to bills are directly related to the legislation under consideration.
+[A] Germane
+[END]
+-------------------------------------------
+[SAQ] Members of the House of Representatives can only offer _________ amendments.
+[A] Germane
+[END]
+-------------------------------------------
+[MCQ] Members in the _____________ can offer only germane amendments to bills.
+[CA] House of Representatives
+[WA] Senate
+[END]
+-------------------------------------------
+[SAQ] This House committee is very powerful, as it acts as a "traffic cop" to the House floor and can easily dispose of bills.
+[A] Rules
+[A] Rules Committee
+[END]
+-------------------------------------------
+[SAQ] This House committee assigns bills to appropriate standing committees, schedules bills for debates, and decides on voting times.
+[A] Rules
+[A] Rules Committee
+[END]
+-------------------------------------------
+[SAQ] The entire House of Representatives must vote on laws, but this committee can determine what bills members vote on.
+[A] Rules
+[A] Rules Committee
+[END]
+-------------------------------------------
+[SAQ] This House committee allows the House to debate in an environment with more relaxed rules.
+[A] Whole
+[A] Committee of the Whole
+[END]
+-------------------------------------------
+[SAQ] The House can bring a bill out of a reluctant committee with a(n) _________ ________.
+[A] Discharge Petition
+[END]
+-------------------------------------------
+[SAQ] The House's ability to issue a _________ ________ prevents minority committees from stopping a majority on advancing a bill.
+[A] Discharge Petition
+[END]
+-------------------------------------------
+[SAQ] Senators can strategically use debate time to kill a bill by talking extensively, a tactic called:
+[A] Filibustering
+[A] Filibuster
+[END]
+-------------------------------------------
+[SAQ] One measure the Senate can use to speed up procedures is ______________ _______, where the approval of every single senator allows for a bill to quickly pass.
+[A] Unanimous Consent
+[END]
+-------------------------------------------
+[SAQ] Senators can place ______ on bills, which delays action on a procedure until the concern is addressed.
+[A] Holds
+[END]
+-------------------------------------------
+[SAQ] How many senators are needed for a hold on a bill to be placed?
+[EXA] 1
+[A] One
+[END]
+-------------------------------------------
+[SAQ] The Senate can invoke _______ to stop filibusters and/or holds, allowing for a vote on a bill.
+[A] Cloture
+[A] Cloture Rule
+[END]
+-------------------------------------------
+[MCQ] Currently (as of 2024), how many senators are needed to invoke cloture?
+[WA] 1/2 (50)
+[CA] 3/5 (60)
+[WA] 2/3 (67)
+[WA] 3/4 (75)
+[END]
+-------------------------------------------
+[T] NSL 2.2 - The Legislative Process
+-------------------------------------------
+[MCQ] Only House or Senate members can *introduce* a bill.
+[CA] True
+[WA] False
+[END] 
+-------------------------------------------
+[MCQ] Only House or Senate members can *author* a bill.
+[WA] True
+[CA] False
+[END] 
+-------------------------------------------
+[SAQ] The member who introduces and typically assumes authorship of a bill is called the bill's _________.
+[A] Sponsor
+[END] 
+-------------------------------------------
+[SAQ] Nongermane amendments, or _____, are often added to bills to benefit a members' own agenda or to enhance its political chances.
+[A] Riders
+[END] 
+-------------------------------------------
+[MCQ] The majority of bills introduced in Congress are eventually signed into law.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] A bill that includes multiple areas of law is called a(n) __________ bill.
+[A] Omnibus
+[A] Christmas Tree
+[END]
+-------------------------------------------
+[MCQ] Why are omnibus bills sometimes nicknamed "Christmas Tree" bills?
+[CA] They come with a long string of riders, giving little "gifts" for each legislator
+[WA] They're often "miracle bills" passed in December as the yearly Congressional session come to a close
+[WA] They often include generous funding for national government programs
+[WA] They help to protect the environment, especially as pollution increases in the holiday seasons 
+[END]
+-------------------------------------------
+[MCQ] Which of the following is a side effect of the ability of senators to add riders to bills?
+[CA] Pork-Barrel Spending
+[WA] Long Committee Sessions
+[WA] Cloture Rule
+[WA] War Powers Act
+[END]
+-------------------------------------------
+[SAQ] ____________ _________ refers to (usually unrelated) riders that members of Congress insert on bills to benefit their localities.
+[A] Pork-Barrel
+[A] Pork-Barrel Spending
+[END]
+-------------------------------------------
+[MCQ] Once a bill is introduced by its sponsor, the next step for the bill is being:
+[CA] Assigned to a Committee
+[WA] Voted on by the House of Representatives
+[WA] Voted on by the Senate
+[WA] Debated on the floor
+[END]
+-------------------------------------------
+[MCQ] Bills can be assigned to multiple committees.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Select the correct order of stages that bills go through in committee.
+[CA] Hearings -> Markup -> Reporting
+[WA] Markup -> Hearings -> Reporting
+[WA] Reporting -> Hearings -> Markup
+[WA] Hearings -> Reporting -> Markup
+[END]
+-------------------------------------------
+[SAQ] A committee chair can "______________" a bill - decide not to move it forward for debate until a later time (if at all).
+[A] Pigeonhole
+[END]
+-------------------------------------------
+[MCQ] After what step do bills get voted on by the House & Senate?
+[CA] "Reported on" by relevant committees
+[WA] Initial proposal by the sponsor
+[WA] Committee hearings & markups
+[WA] "Pigeonholed" by all relevant committees
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a valid reason for a particular senator's vote on a bill?
+[WA] Party-line voting
+[WA] Constituents' desires
+[WA] Personal grudge
+[CA] All of these are valid
+[END]
+-------------------------------------------
+[SAQ] _____________ refers to the "trading" of votes between senators to gain support for their bills.
+[A] Logrolling
+[END]
+-------------------------------------------
+[SAQ] After both the House & Senate vote on a bill, it turns out that there are slight differences between the two versions. The next step for the bill is the forming of a:
+[A] Conference
+[A] Conference Committee
+[END]
+-------------------------------------------
+[SAQ] After a bill is voted on by both the House & Senate and passes a conference committee (if necessary), it finally arrives at the:
+[A] President
+[A] Executive
+[A] Executive Branch
+[END]
+-------------------------------------------
+[T] NSL 2.2 - The National Budget
+-------------------------------------------
+[SAQ] The ____ is the president's budgeting arm, which arranges the annual budget before sending it to Congress.
+[A] OMB
+[A] Office of Management and Budget
+[END]
+-------------------------------------------
+[SAQ] The Congressional Budget & Impoundment Act (1974) defines the stages in _________ the budget - passing changes to either revenue or spending by a simple majority vote.
+[A] Reconciling
+[END]
+-------------------------------------------
+[SAQ] Each chamber of Congress has a(n) _______________ committee that allots money to federal projects.
+[A] Appropriations
+[END]
+-------------------------------------------
+[SAQ] The ___, created by Congress, analyzes the budget proposal & serves as a check on the OMB.
+[A] CBO
+[A] Congressional Budget Office
+[END]
+-------------------------------------------
+[SAQ] The majority of government revenue comes from _________ _____.
+[A] Income Taxes
+[A] Individual Income Taxes
+[END]
+-------------------------------------------
+[SAQ] This source of government revenue is paid by workers based on the money they made during the calendar year.
+[A] Income Taxes
+[A] Individual Income Taxes
+[END]
+-------------------------------------------
+[SAQ] This source of government revenue is paid by businesses based on their profits during the calendar year.
+[A] Corporate Taxes
+[END]
+-------------------------------------------
+[SAQ] This source of government revenue is paid by both employees & employers to fund programs like Social Security.
+[A] Social Insurance Taxes
+[A] Payroll Taxes
+[END]
+-------------------------------------------
+[SAQ] This source of government revenue is a tax paid on certain imports or products.
+[A] Tariffs
+[END]
+-------------------------------------------
+[SAQ] This source of government revenue is a tax paid on luxury products, gambling, and cigarettes, to name a few such items.
+[A] Excise
+[END]
+-------------------------------------------
+[SAQ] _________ spending is required by law for certain programs, and is automatically included in the national budget.
+[A] Mandatory
+[END]
+-------------------------------------------
+[SAQ] Social Security, Medicare, and unemployment insurance are all paid by this type of spending in the national budget.
+[A] Mandatory
+[END]
+-------------------------------------------
+[SAQ] The difference between spending and revenue is called the _______.
+[A] Deficit
+[END]
+-------------------------------------------
+[SAQ] When deciding on the federal budget, _________ spending is the funding that congressional committees debate about.
+[A] Discretionary
+[END]
+-------------------------------------------
+[SAQ] _________ spending in the national budget pays for everything else not required under mandatory spending.
+[A] Discretionary
+[END]
+-------------------------------------------
+[SAQ] The majority of discretionary spending is spent on _______ ___________.
+[A] Human Resources
+[END]
+-------------------------------------------
+[MCQ] What would a conservative politician most likely say about the allocation of government spending?
+[CA] Reduce mandatory spending, since people's tax burdens are already significant
+[WA] Increase the national debt to balance out increasing mandatory spending
+[WA] Increase income tax, especially on the rich people, to support mandatory spending
+[WA] Increase mandatory spending, since many programs covered by discretionary spending are unnecessary
+[END]
+-------------------------------------------
+[MCQ] What would a liberal politician most likely say about the allocation of government spending?
+[WA] Reduce mandatory spending, since people's tax burdens are already significant
+[WA] Increase the national debt to balance out increasing mandatory spending
+[CA] Increase income tax, especially on the rich people, to support mandatory spending
+[WA] Increase mandatory spending, since many programs covered by discretionary spending are unnecessary
+[END]
+-------------------------------------------
+[T] NSL 2.3 - Congressional Behavior
+-------------------------------------------
+[SAQ] Intensifying partisanship in Congress causes a "congestion" of opposing forces that halts progress, a situation called _________.
+[A] Gridlock
+[END]
+-------------------------------------------
+[MCQ] Gridlock can occur both in the houses of Congress and between Congress & the President.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Members in Congress who try to reflect the will of their constituency follow the _________ model.
+[A] Delegate
+[END]
+-------------------------------------------
+[SAQ] Members in the House of Representatives are especially likely to use this voting model.
+[A] Delegate
+[END]
+-------------------------------------------
+[MCQ] What voting model would members of the House of Representatives most likely use, and why?
+[CA] Delegate - Representatives want to appease their constituents to get re-elected
+[WA] Delegate - People in representatives' districts often have more knowledge on bills
+[WA] Trustee - Members of the House are often more educated than their constituents
+[WA] Trustee - Members of the House want to make the best decisions for their constituents
+[END]
+-------------------------------------------
+[SAQ] In the delegate model, __________ representation advocates on behalf of specific groups of constituents.
+[A] Substantive
+[END]
+-------------------------------------------
+[SAQ] In the delegate model, __________ representation advocates on behalf of the factors that make constituents unique (race, gender, geography, etc.).
+[A] Descriptive
+[END]
+-------------------------------------------
+[SAQ] Members in Congress who simply use their best judgement to vote on bills follow the _________ model.
+[A] Trustee
+[END]
+-------------------------------------------
+[SAQ] Members in the Senate are especially likely to use this voting model.
+[A] Trustee
+[END]
+-------------------------------------------
+[MCQ] What voting model would members of the Senate most likely use, and why?
+[WA] Delegate - Senators want to appease their constituents to get re-elected
+[WA] Delegate - People in senators' districts often have more knowledge on bills
+[WA] Trustee - Members of the Senate are often more educated than their constituents
+[CA] Trustee - Members of the Senate want to make the best decisions for their constituents
+[END]
+-------------------------------------------
+[SAQ] The ________ model of voting blends together public opinion & personal judgement to try to vote in the most sensible way.
+[A] Politico
+[END]
+-------------------------------------------
+[SAQ] The ________ model of voting blends together the delegate & trustee models.
+[A] Politico
+[END]
+-------------------------------------------
+[MCQ] Why is redistricting often a contentious process?
+[CA] It often affects the elections & makeup of the House of Representatives
+[WA] It affects the distribution of wealth & taxes in a state
+[WA] Citizens dislike having to move to a new district system
+[WA] Redistricting often ends up giving more power to the minority party
+[END]
+-------------------------------------------
+[MCQ] What was the Supreme Court's stance on redistricting prior to *Baker v. Carr*?
+[CA] It was up to the people to solve issues with redistricting by voting officials out
+[WA] Congress should solve unfair redistricting, as it alone had the power to "venture into the political thicket"
+[WA] Redistricting was not an issue, as no law required districts to be compact or even
+[WA] The process of redistricting was inherently unconstitutional
+[END]
+-------------------------------------------
+[SAQ] This court case preceded *Baker v. Carr*, and ruled that people had to vote out legislators if they thought districts were unfair.
+[A] Colegrove v. Green
+[END]
+-------------------------------------------
+[MCQ] What was the issue behind *Baker v. Carr*?
+[CA] Minority rule caused by uneven districts giving some voters over 20x the power of others
+[WA] The constitutionality of safe seat fixing
+[WA] A congressional district that ensured a black majority population
+[WA] Congressional redistricting to exclude black populations
+[END]
+-------------------------------------------
+[MCQ] What was the question addressed in *Baker v. Carr*?
+[CA] Is the question of redistricting for the legislature & people to decide or for the Court to decide?
+[WA] Are Tennessee's uneven districts with population disparities a violation of the Fourteenth Amendment (and thereby unconstitutional)?
+[WA] Is North Carolina's black-majority congressional district a violation of the Fourteenth Amendment (and thereby unconstitutional)?
+[WA] Should redistricting be done by the state legislatures or by the state courts?
+[END]
+-------------------------------------------
+[MCQ] What was the ruling in *Baker v. Carr*?
+[CA] For Baker - Courts have the jurisdiction to rule on the constitutionality of Tennessee's districts
+[WA] For Baker - Tennessee's districts were inherently unequal and violated the 14th Amendment
+[WA] For Carr - The legislature should solve issues with redistricting, not the court
+[WA] For Carr - Tennessee's districts were not a violation of the 14th Amendment, as no law required the populations of districts to be even
+[END]
+-------------------------------------------
+[SAQ] This court case reversed the S.C. precedent set in *Colegrove v. Green*.
+[A] Baker v. Carr
+[END]
+-------------------------------------------
+[SAQ] This Supreme Court case opened the door for the Supreme Court to make legislative districts as democratic as possible.
+[A] Baker v. Carr
+[END]
+-------------------------------------------
+[SAQ] This Supreme Court case helped to establish the "one person - one vote" principle.
+[A] Baker v. Carr
+[END]
+-------------------------------------------
+[SAQ] In the 1964 case *Reynolds v. Sims*, the S.C. ruled that Alabama's uneven districts were unconstitutional. This ruling would not have been possible without this prior S.C. decision:
+[A] Baker v. Carr
+[END]
+-------------------------------------------
+[SAQ] The process of drawing illogical district lines to give a political advantage to one party is called ______________.
+[A] Gerrymandering
+[END]
+-------------------------------------------
+[SAQ] Districts where a party consistently wins by >55% of the vote are considered ______ _______.
+[A] Safe
+[A] Safe Seats
+[A] Safe Districts
+[END]
+-------------------------------------------
+[SAQ] Districts with close elections (i.e. within 10% of the vote) are referred to as ______ ________.
+[A] Marginal Seats
+[A] Swing Seats
+[A] Swing Districts
+[END]
+-------------------------------------------
+[SAQ] Many districts in the US have been carved out to guarantee safe seats, a process known as _________ _________________.
+[A] Partisan Gerrymandering
+[A] Gerrymandering
+[END]
+-------------------------------------------
+[MCQ] Which of the following is a consequence of partisan gerrymandering?
+[WA] Reduction in "safe seats"
+[CA] Increasingly extreme political nominees
+[WA] Increased legislative compromise
+[WA] Increased polarization in popular opinion
+[END]
+-------------------------------------------
+[MCQ] How does partisan gerrymandering lead to polarization in Congress?
+[CA] Increasingly extreme nominees replace moderates to ensure more "safe seats" for the party
+[WA] Districts are illogically drawn to create a one-party supermajority in Congress
+[WA] Neither party can agree on district lines, leading to constant fighting in Congress over redistricting
+[WA] Partisan gerrymandering leads to only about 10-20 elections being contested, so all the political power rests on those representatives
+[END]
+-------------------------------------------
+[SAQ] The issue of __________ gerrymandering was the main focus of the ruling in *Shaw v. Reno*.
+[A] Racial
+[END]
+-------------------------------------------
+[SAQ] This court case preceded the decision in *Shaw v. Reno*.
+[A] Gomillion v. Lightfoot
+[END]
+-------------------------------------------
+[MCQ] Which of the following most accurately describes the ruling in *Gomillion v. Lightfoot*?
+[CA] Redesigns of districts to exclude African Americans are unconstitutional
+[WA] Redesigns of districts to have African American majorities are unconstitutional
+[WA] Redesigns of districts are always constitutional, regardless of the race of the constituents
+[WA] Redesigns of districts must always contain equal proportions of race
+[END]
+-------------------------------------------
+[MCQ] What was the issue behind *Shaw v. Reno*?
+[WA] Minority rule caused by uneven districts giving some voters over 20x the power of others
+[WA] The constitutionality of safe seat fixing
+[CA] A congressional district that ensured a black majority population
+[WA] Congressional redistricting to exclude black populations
+[END]
+-------------------------------------------
+[MCQ] What was the question addressed in *Shaw v. Reno*?
+[WA] Is the question of redistricting for the legislature & people to decide or for the Court to decide?
+[WA] Are Tennessee's uneven districts with population disparities a violation of the Fourteenth Amendment (and thereby unconstitutional)?
+[CA] Is North Carolina's black-majority congressional district a violation of the Fourteenth Amendment (and thereby unconstitutional)?
+[WA] Should redistricting be done by the state legislatures or by the state courts?
+[END]
+-------------------------------------------
+[MCQ] What was the ruling in *Shaw v. Reno*?
+[CA] For Shaw - Using only race as a factor for drawing district boundaries was unconstitutional
+[WA] For Shaw - Using race as a factor at all in determining district boundaries was unconstitutional
+[WA] For Reno - Using race as a factor was justifiable due to the previous history of using districts to exclude black populations
+[WA] For Reno - There was no evidence that race was the only factor in creating the district boundaries
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality in the "overcorrecting" in racial gerrymandering.
+[A] Shaw v. Reno
+[END]
+-------------------------------------------
+[MCQ] Which of the following accurately compares *Shaw v. Reno* and *Gomillion v. Lightfoot*?
+[WA] Both concern racial gerrymandering to exclude black populations from districts; *Shaw* overturned the decision in *Gomillion*
+[WA] Both concern racial gerrymandering to ensure black majorities in districts; *Shaw* overturned the decision in *Gomillion*
+[WA] *Gomillion* concerned a black majority district, whereas *Shaw* concerned the exclusion of blacks in districts; Both ruled the districts were unconstitutional
+[CA] *Shaw* concerned a black majority district, whereas *Gomillion* concerned the exclusion of blacks in districts; Both ruled the districts were unconstitutional
+[END]
+-------------------------------------------
+[MCQ] *Shaw v. Reno* ruled that race could not be used as a factor in the process of redistricting.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[MCQ] A "Senate Showdown" occurs when:
+[CA] The House/Senate and the President are from different parties
+[WA] A tie occurs in the Senate, requiring intervention from the VP
+[WA] A disruption of formal proceedings occurs on the Senate floor (i.e. caning of Charles Sumner)
+[WA] A conference committee fails to iron out differences in a bill between the House & the Senate
+[END]
+-------------------------------------------
+[SAQ] A "__________" president is one who has not won re-election or is at the end of their second (& last) presidential term.
+[A] Lame-Duck
+[END]
+-------------------------------------------
+[MCQ] Why are "lame-duck" presidents considered powerless?
+[CA] If Congress is controlled by the other party, they can simply refuse to consider nominees or proposals until the next president comes in
+[WA] Presidents cannot convince Congress to do anything without the threat of re-election
+[WA] Most presidents spend their final months in office preparing for the arrival of the next president
+[WA] Presidents that have lost re-election subsequently face a loss of public support
+[END]
 -------------------------------------------
