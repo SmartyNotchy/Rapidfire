@@ -1,4 +1,4 @@
-// Seeded pseudo-random number generator using xorshift (Credit: ChatGPT)
+// Seeded pseudo-random number generator using xorshift (ChatGPT)
 function seeded_random(seed) {
     return function() {
         seed ^= seed << 13;
@@ -8,7 +8,7 @@ function seeded_random(seed) {
     };
 }
 
-// Fisher-Yates shuffle with seed (Credit: ChatGPT)
+// Fisher-Yates shuffle with seed (ChatGPT)
 function shuffle_with_seed(arr, seed) {
     const random = seeded_random(seed);
 
@@ -20,7 +20,7 @@ function shuffle_with_seed(arr, seed) {
     return arr;
 }
 
-// Seedless shuffle algorithm (Credit: ChatGPT)
+// Seedless shuffle algorithm (ChatGPT)
 function shuffle_seedless(array) {
     for (let i = array.length - 1; i > 0; i--) {
         // Pick a random index from 0 to i
@@ -32,11 +32,11 @@ function shuffle_seedless(array) {
     return array;
 }
 
-// Levenshtein Distance Algorithm (Credit: ChatGPT)
+// Levenshtein Distance Algorithm w/ Swaps (ChatGPT)
 function compare_strings(str1, str2) {
     const len1 = str1.length;
     const len2 = str2.length;
-    
+
     // Create a matrix to store distances
     const matrix = [];
 
@@ -48,15 +48,22 @@ function compare_strings(str1, str2) {
         matrix[0][j] = j;
     }
 
-    // Calculate the cost of substitutions, deletions, or insertions
+    // Calculate the cost of substitutions, deletions, insertions, and swaps
     for (let i = 1; i <= len1; i++) {
         for (let j = 1; j <= len2; j++) {
             const cost = str1[i - 1] === str2[j - 1] ? 0 : 1;
-            matrix[i][j] = Math.min(
-                matrix[i - 1][j] + 1,      // deletion
-                matrix[i][j - 1] + 1,      // insertion
-                matrix[i - 1][j - 1] + cost // substitution
-            );
+            const substitution = matrix[i - 1][j - 1] + cost; // substitution cost
+            const deletion = matrix[i - 1][j] + 1; // deletion cost
+            const insertion = matrix[i][j - 1] + 1; // insertion cost
+            
+            // Check for swap possibility
+            let swap = Infinity;
+            if (i > 1 && j > 1 && str1[i - 1] === str2[j - 2] && str1[i - 2] === str2[j - 1]) {
+                swap = matrix[i - 2][j - 2] + 1; // swap cost
+            }
+
+            // Get the minimum cost
+            matrix[i][j] = Math.min(substitution, deletion, insertion, swap);
         }
     }
 
@@ -68,7 +75,7 @@ function compare_strings(str1, str2) {
     return 1 - distance / maxLength;
 }
 
-// Sets options for a dropdown HTML element (Credit: ChatGPT)
+// Sets options for a dropdown HTML element (ChatGPT)
 function set_dropdown(dropdown, options) {
     dropdown.innerHTML = '';
 
@@ -80,7 +87,7 @@ function set_dropdown(dropdown, options) {
     });
 }
 
-// Cookie Helpers (Credit: w3schools)
+// Cookie Helpers (w3schools)
 function setCookie(name, value) {
     var expires = "";
     var date = new Date();
@@ -105,7 +112,7 @@ function getCookie(name) {
 }
 
 // General functions to fade elements in & out
-async function fadeInElement(element, fadeClass, display, duration) {
+async function fade_in_element(element, fadeClass, display, duration) {
     element.style.display = display;
     element.classList.add(fadeClass);
 
@@ -117,7 +124,7 @@ async function fadeInElement(element, fadeClass, display, duration) {
     });
 }
 
-async function fadeOutElement(element, fadeClass, duration) {
+async function fade_out_element(element, fadeClass, duration) {
     element.classList.add(fadeClass);
 
     return new Promise((resolve, reject) => {
@@ -126,5 +133,33 @@ async function fadeOutElement(element, fadeClass, duration) {
             element.style.display = "none";
             resolve();
         }, duration);
+    });
+}
+
+// Toss up confetti around an HTML element using tsParticles
+function toss_confetti_at_element(element, zIndex) {
+    // Get the element's bounding box to find its position
+    const rect = element.getBoundingClientRect();
+    const x = (rect.left + rect.right) / 2;  // Calculate horizontal center
+    const y = (rect.top + rect.bottom) / 2;  // Calculate vertical center
+
+    confetti("tsparticles", {
+        angle: 90,
+        count: 40,
+        position: {
+          x: 100 * x / window.innerWidth,
+          y: 100 * y / window.innerHeight,
+        },
+        spread: 5,
+        startVelocity: 10,
+        decay: 0.9,
+        gravity: 1,
+        drift: 0,
+        ticks: 1000,
+        colors: ["#ea615e", "#f9aa69", "#fce17f", "#79e0c1", "#8cf1f9", "#80a1fd", "#e186f5", "#ffacce"],
+        shapes: ["square"],
+        scalar: 0.8,
+        zIndex: zIndex,
+        disableForReducedMotion: true,
     });
 }

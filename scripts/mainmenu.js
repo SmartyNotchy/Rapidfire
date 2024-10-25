@@ -1,88 +1,311 @@
-function resume_session() {
-    let inSession = getCookie("inSession");
-    if (inSession) {
-        CURRENT_SESSION = undefined;
-        try {
-            CURRENT_SESSION = new TriviaSession(getCookie("subject"), getCookie("topics"), getCookie("questionNum"), getCookie("seed"), undefined);
-        } catch (error) {
+/* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
+/* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
+/* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
+
+async function resume_session() {
+    let saveObj = getCookie("rapidfire_saveObj");
+    if (saveObj.inSession) {
+        MENU_BTN_RESUME.setAttribute("disabled", "");
+
+        CURRENT_SESSION = new TriviaSession();
+        CURRENT_SESSION.load_settings(undefined); // TODO
+        let success = CURRENT_SESSION.load_progress(saveObj);
+
+        if (!success) {
             alert("Oops! If you're reading this, something went horribly wrong while trying to load your session. Please report this on the Github!\n\n" + error);
             return;
+        } else {
+            await fadeout_mm_div();
+            CURRENT_SESSION.firstrender();
         }
-
-        MENU_BTN_RESUME.setAttribute("disabled", "");
-        hide_mm_div();
-        CURRENT_SESSION.firstrender();
     }
 }
 
 /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
 /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
 /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */ /* SESSION CREATION */
+
+class PresetMenuElement {
+    constructor(subject, preset, idx) {
+        this.topics = PRESETS[subject][preset];
+        this.numTopics = this.topics.length;
+
+        this.dropdownToggled = false;
+        this.selected = [];
+        this.numSelected = 0;
+        this.questionLengths = [];
+
+        for (let i = 0; i < this.numTopics; i++) {
+            this.selected.push(false);
+            let tempQuestions = QUESTION_BANK[subject][this.topics[i]];
+            this.questionLengths.push(tempQuestions.length);
+        }
+
+        this.dropdownDiv = document.createElement("div");
+        this.dropdownDiv.className = "mmns_ts_preset";
+
+        this.dropdownBtn = document.createElement("button");
+        this.dropdownBtn.className = "mmns_ts_dropdown_btn";
+        this.dropdownBtn.innerText = "+";
+        this.dropdownBtn.onclick = function() { MMNS_TS_MENU_ELEMENTS[idx].toggle_dropdown(); };
+        this.dropdownDiv.appendChild(this.dropdownBtn);
+        
+        this.dropdownTitle = document.createElement("p");
+        this.dropdownTitle.className = "mmns_ts_preset_name";
+        this.dropdownTitle.innerText = preset;
+        this.dropdownDiv.appendChild(this.dropdownTitle);
+
+        this.sallBtn = document.createElement("button");
+        this.sallBtn.className = "mmns_ts_sall_btn";
+        this.sallBtn.innerText = "Select All";
+        this.sallBtn.onclick = function() {
+            if (MMNS_TS_MENU_ELEMENTS[idx].sallBtn.classList.contains("active")) {
+                MMNS_TS_MENU_ELEMENTS[idx].deselect_all();
+            } else {
+                MMNS_TS_MENU_ELEMENTS[idx].select_all();
+            }
+            update_mmns_session();
+        }
+        this.dropdownDiv.appendChild(this.sallBtn);
+
+        this.dropdownCount = document.createElement("p");
+        this.dropdownCount.className = "mmns_ts_preset_count";
+        this.dropdownCount.innerText = "0 selected";
+        this.dropdownDiv.appendChild(this.dropdownCount);
+
+        this.topicsDiv = document.createElement("div");
+        this.topicsDiv.classList = "mmns_ts_topics";
+        
+        this.topicElements = [];
+        for (let i = 0; i < this.numTopics; i++) {
+            let topicDiv = document.createElement("div");
+            topicDiv.className = "mmns_ts_topic_div";
+
+            let topicBtn = document.createElement("button");
+            topicBtn.className = "mmns_ts_topic_btn";
+            topicDiv.appendChild(topicBtn);
+            topicBtn.onclick = function() { MMNS_TS_MENU_ELEMENTS[idx].toggle_topic(i); update_mmns_session(); };
+            
+            let topicDesc = document.createElement("p");
+            topicDesc.className = "mmns_ts_topic_desc";
+            topicDesc.innerText = `${this.topics[i]} (${this.questionLengths[i]} questions)`
+            topicDiv.appendChild(topicDesc);
+            
+            this.topicsDiv.appendChild(topicDiv);
+            this.topicElements.push([topicBtn, topicDesc]);
+        }
+    }
+
+    firstrender() {
+        MMNS_TS_DIV.appendChild(this.dropdownDiv);
+        MMNS_TS_DIV.appendChild(this.topicsDiv);
+    }
+
+    render() {
+        let numSelected = 0;
+        let allSelected = true;
+        for (let i = 0; i < this.numTopics; i++) {
+            if (this.selected[i]) {
+                numSelected += this.questionLengths[i];
+            } else {
+                allSelected = false;
+            }
+        }
+        this.numSelected = numSelected;
+
+        if (numSelected > 0) {
+            this.dropdownTitle.style.color = "white";
+            this.dropdownCount.style.color = "white";
+            this.dropdownCount.innerText = `${numSelected} selected`;
+        } else {
+            this.dropdownTitle.style.color = "gray";
+            this.dropdownCount.style.color = "gray";
+            this.dropdownCount.innerText = `${numSelected} selected`;
+        }
+
+        if (allSelected) {
+            this.sallBtn.classList.add("active");
+            this.sallBtn.innerText = "Selected All";
+        } else {
+            this.sallBtn.classList.remove("active");
+            this.sallBtn.innerText = "Select All";
+        }
+    }
+
+    toggle_dropdown() {
+        // Returns the change in questions selected
+        this.dropdownToggled = !this.dropdownToggled;
+        if (this.dropdownToggled) {
+            this.dropdownBtn.innerText = "-";
+            this.topicsDiv.style.maxHeight = `${this.topicsDiv.scrollHeight}px`;
+        } else {
+            this.dropdownBtn.innerText = "+";
+            this.topicsDiv.style.maxHeight = null;
+        }
+    }
+
+    select_all() {
+        for (let idx = 0; idx < this.numTopics; idx++) {
+            this.selected[idx] = true;
+            this.topicElements[idx][0].classList.add("active");
+            this.topicElements[idx][1].style.color = "white";
+        }
+
+        this.render();
+    }
+
+    deselect_all() {
+        for (let idx = 0; idx < this.numTopics; idx++) {
+            this.selected[idx] = false;
+            this.topicElements[idx][0].classList.remove("active");
+            this.topicElements[idx][1].style.color = "gray";
+        }
+
+        this.render();
+    }
+
+    toggle_topic(idx) {
+        this.selected[idx] = !this.selected[idx];
+        if (this.selected[idx]) {
+            this.topicElements[idx][0].classList.add("active");
+            this.topicElements[idx][1].style.color = "white";
+        } else {
+            this.topicElements[idx][0].classList.remove("active");
+            this.topicElements[idx][1].style.color = "gray";
+        }
+
+        this.render();
+    }
+
+    get_topics() {
+        let res = [];
+        for (let idx = 0; idx < this.numTopics; idx++) {
+            if (this.selected[idx]) {
+                res = res.concat(this.topics[idx]);
+            }
+        }
+
+        return res;
+    }
+
+    disable_all_btns() {
+        this.sallBtn.setAttribute("disabled", "");
+        for (let ele of this.topicElements) {
+            ele[0].setAttribute("disabled", "true");
+        }
+    }
+}
 
 const MMNS_WRAPPER_DIV = document.getElementById("mainmenu_newsession_wrapper");
 const MMNS_SUBJECT_DROPDOWN = document.getElementById("mmns_subject_dropdown");
-const MMNS_PRESET_DROPDOWN = document.getElementById("mmns_preset_dropdown");
 const MMNS_CANCEL_BTN = document.getElementById("mmns_cancel_btn");
 const MMNS_CREATE_BTN = document.getElementById("mmns_create_btn");
 
+const MMNS_TS_TITLE = document.getElementById("mmns_ts_title");
+const MMNS_TS_SUBTITLE = document.getElementById("mmns_ts_subtitle");
+const MMNS_QCOUNT = document.getElementById("mmns_qcount");
+
+const MMNS_TS_DIV = document.getElementById("mmns_topic_select_div");
+
+var MMNS_TS_MENU_ELEMENTS = [];
+
+function clear_mmns_ts_div() {
+    MMNS_TS_TITLE.style.color = "gray";
+    MMNS_TS_SUBTITLE.style.color = "gray";
+    MMNS_TS_SUBTITLE.innerText = "Select a subject first!";
+
+    MMNS_TS_DIV.innerHTML = "";
+    MMNS_TS_MENU_ELEMENTS = [];
+
+    MMNS_QCOUNT.innerText = `0`;
+}
+
+function build_mmns_ts_div(subject) {
+    MMNS_TS_TITLE.style.color = "white";
+    MMNS_TS_SUBTITLE.innerText = ``;
+
+    MMNS_TS_DIV.innerHTML = "";
+    MMNS_TS_MENU_ELEMENTS = [];
+
+    let subjPresets = PRESETS[subject];
+    let idx = 0;
+    for (let preset of Object.entries(subjPresets)) {
+        let menuEle = new PresetMenuElement(subject, preset[0], idx++);
+        MMNS_TS_MENU_ELEMENTS.push(menuEle);
+        menuEle.firstrender();
+    }
+
+    update_mmns_session();
+}
+
+function update_mmns_session() {
+    let totalCount = 0;
+    for (let ele of MMNS_TS_MENU_ELEMENTS) {
+        totalCount += ele.numSelected;
+    }
+
+    if (totalCount > 0) {
+        MMNS_CREATE_BTN.removeAttribute("disabled");
+    } else {
+        MMNS_CREATE_BTN.setAttribute("disabled", true);
+    }
+    
+    MMNS_QCOUNT.innerText = `${totalCount}`;
+}
+
 function reset_mmns_div() {
+    clear_mmns_ts_div();
+
     set_dropdown(MMNS_SUBJECT_DROPDOWN, Object.entries(SUBJECTS));
-    set_dropdown(MMNS_PRESET_DROPDOWN, []);
-    MMNS_PRESET_DROPDOWN.setAttribute("disabled", "");
     MMNS_CANCEL_BTN.removeAttribute("disabled");
-    MMNS_CANCEL_BTN.onclick = hide_mmns_div;
+    MMNS_CANCEL_BTN.onclick = async function() {
+        MMNS_CANCEL_BTN.setAttribute("disabled", "");
+        MMNS_CREATE_BTN.setAttribute("disabled", "");
+        reset_mm_div();
+        await fadeout_mmns_div();
+        await fadein_mm_div();
+    }
     MMNS_CREATE_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.onclick = create_new_session;
 
-    MMNS_SUBJECT_DROPDOWN.addEventListener("change", function() { render_mmns_div(true) });
-    MMNS_PRESET_DROPDOWN.addEventListener("change", function() { render_mmns_div(false) });
-
+    MMNS_SUBJECT_DROPDOWN.addEventListener("change", render_mmns_div);
+    
     render_mmns_div(true);
 }
 
-function render_mmns_div(changedTopic) {
+function render_mmns_div() {
     let subject = MMNS_SUBJECT_DROPDOWN.value;
-    let preset = MMNS_PRESET_DROPDOWN.value;
 
     if (subject == "None") {
-        MMNS_PRESET_DROPDOWN.setAttribute("disabled", "");
-        set_dropdown(MMNS_PRESET_DROPDOWN, []);
         MMNS_CREATE_BTN.setAttribute("disabled", "");
+        clear_mmns_ts_div();
     } else {
-        if (changedTopic) {
-            set_dropdown(MMNS_PRESET_DROPDOWN, Object.entries(PRESETS[subject]).map(a => [a[0], a[0]]));
-            MMNS_PRESET_DROPDOWN.removeAttribute("disabled");
-            MMNS_CREATE_BTN.removeAttribute("disabled", "");
-        }
+        build_mmns_ts_div(subject);
     }
 }
 
-function hide_mmns_div() {
-    MMNS_WRAPPER_DIV.style.display = "none";
-    // TODO: Fade?
-}
+function hide_mmns_div() { MMNS_WRAPPER_DIV.style.display = "none"; }
+function show_mmns_div() { MMNS_WRAPPER_DIV.style.display = "flex"; }
 
-function show_mmns_div() {
-    MMNS_WRAPPER_DIV.style.display = "flex";
-    // TODO: Fade?
-}
+async function fadein_mmns_div() { return fade_in_element(MMNS_WRAPPER_DIV, "basic_fadein", "flex", 200); }
+async function fadeout_mmns_div() { return fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 200); }
 
-function create_new_session() {
+async function create_new_session() {
     let subject = MMNS_SUBJECT_DROPDOWN.value;
-    let preset = MMNS_PRESET_DROPDOWN.value;
-
-    if (subject == "None" || preset == "None") {
-        return;
+    let topics = [];
+    for (let ele of MMNS_TS_MENU_ELEMENTS) {
+        ele.disable_all_btns();
+        topics = topics.concat(ele.get_topics());
     }
 
     MMNS_CANCEL_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.setAttribute("disabled", "");
-    hide_mm_div();
+    CURRENT_SESSION = new TriviaSession();
+    CURRENT_SESSION.load_settings(undefined); // TODO
+    CURRENT_SESSION.build(subject, topics, 0, Math.floor(Math.random() * 2000000000000));
 
-    let topics = PRESETS[subject][preset]; // TODO CUSTOMS
-    CURRENT_SESSION = new TriviaSession(subject, topics, 0, Math.floor(Math.random() * 1000000000000), undefined);
+    await fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 200);
     CURRENT_SESSION.firstrender();
-    hide_mmns_div();
 }
 
 /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */ /* MAIN MENU */
@@ -92,25 +315,36 @@ function create_new_session() {
 const MENU_BTN_RESUME = document.getElementById("mainmenu_btn_continue");
 const MENU_BTN_NS = document.getElementById("mainmenu_btn_new");
 const MENU_BTN_SETTINGS = document.getElementById("mainmenu_btn_settings");
-const MENU_BTN_ABOUT = document.getElementById("mainmenu_btn_about");
+const MENU_BTN_STATS = document.getElementById("mainmenu_btn_stats");
 const MENU_BTN_CONTRIBUTE = document.getElementById("mainmenu_btn_contribute");
 
 const MAINMENU_DIV = document.getElementById("mainmenu_div");
 
 function reset_mm_div() {
-    reset_mmns_div();
+    let saveObj = getCookie("rapidfire_saveObj");
 
-    if (getCookie("inSession")) {
-        MENU_BTN_RESUME.removeAttribute("disabled");
-    } else {
-        MENU_BTN_RESUME.setAttribute("disabled", "");
-    }
+    if (saveObj != undefined && saveObj.inSession) { MENU_BTN_RESUME.removeAttribute("disabled"); } 
+    else { MENU_BTN_RESUME.setAttribute("disabled", ""); }
+
     MENU_BTN_RESUME.onclick = resume_session;
-    MENU_BTN_NS.onclick = show_mmns_div;
+    MENU_BTN_NS.removeAttribute("disabled");
+    MENU_BTN_NS.onclick = async function() {
+        reset_mmns_div();
+        MENU_BTN_NS.setAttribute("disabled", "");
+        await fadeout_mm_div();
+        await fadein_mmns_div();
+    };
+    MENU_BTN_SETTINGS.onclick = async function() {
+        reset_settings_div();
+        fadein_settings_div();
+    }
 }
 
 function hide_mm_div() { MAINMENU_DIV.style.display = "none"; }
 function show_mm_div() { MAINMENU_DIV.style.display = "flex"; }
+
+async function fadein_mm_div() { return fade_in_element(MAINMENU_DIV, "basic_fadein", "flex", 200); }
+async function fadeout_mm_div() { return fade_out_element(MAINMENU_DIV, "basic_fadeout", 200); }
 
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
@@ -180,7 +414,7 @@ async function attempt_load_mm() {
     }
 
     // Fade Out Loading Div
-    await fadeOutElement(LOADING_DIV, "ld_fadeout", 250);
+    await fade_out_element(LOADING_DIV, "long_fadeout", 300);
 
     // Set Visibilities
     reset_mm_div();
@@ -196,10 +430,8 @@ async function attempt_load_mm() {
     document.addEventListener("keydown", handle_keypress);
     
     // Fade In Main Menu
-    fadeInElement(MAINMENU_DIV, "mm_fadein", "flex", 250);
+    await fade_in_element(MAINMENU_DIV, "long_fadein", "flex", 300)
 }
-
-
 
 window.onload = async function() {
     LD_ERRORS = await load_directory();

@@ -1,4 +1,4 @@
-[PRESET] Chapter 1 (Founding Principles)
+[PRESET] (Unit 1) Chapter 1 - Founding Principles
 -------------------------------------------
 [T] NSL 1.1
 -------------------------------------------
@@ -12,7 +12,7 @@
 [MCQ] Which Enlightenment author believed that everybody gave up rights so leaders could run society?
 [CA] Hobbes (*The Leviathan*)
 [WA] John Locke (Natural Law)
-[WA] Rosseau (*The Social Contract*)
+[WA] Rousseau (*The Social Contract*)
 [WA] Montesquieu (*The Spirit of the Laws*)
 [END]
 -------------------------------------------
@@ -26,11 +26,11 @@
 [MCQ] Which Enlightenment author believed that nobody should be subjected to political rule without their consent?
 [WA] Hobbes (*The Leviathan*)
 [CA] John Locke (Natural Law)
-[WA] Rosseau (*The Social Contract*)
+[WA] Rousseau (*The Social Contract*)
 [WA] Montesquieu (*The Spirit of the Laws*)
 [END]
 -------------------------------------------
-[MCQ] What message did Rosseau & *The Social Contract* send?
+[MCQ] What message did Rousseau & *The Social Contract* send?
 [WA] Everyone gives up rights so a leader can run for the good of society
 [WA] No one can be subjected to political rule without consent
 [CA] Power rests with the people, government officials carry out laws
@@ -40,7 +40,7 @@
 [MCQ] Which Enlightenment author believed that power rested with the people?
 [WA] Hobbes (*The Leviathan*)
 [WA] John Locke (Natural Law)
-[CA] Rosseau (*The Social Contract*)
+[CA] Rousseau (*The Social Contract*)
 [WA] Montesquieu (*The Spirit of the Laws*)
 [END]
 -------------------------------------------
@@ -54,7 +54,7 @@
 [MCQ] Which Enlightenment author believed in checks & balances in branches across the government?
 [WA] Hobbes (*The Leviathan*)
 [WA] John Locke (Natural Law)
-[WA] Rosseau (*The Social Contract*)
+[WA] Rousseau (*The Social Contract*)
 [CA] Montesquieu (*The Spirit of the Laws*)
 [END]
 -------------------------------------------
@@ -152,7 +152,7 @@
 -------------------------------------------
 [MCQ] *Federalist No. 10* argued that:
 [CA] National issues should be left to the federal govt., and state issues to state govt.
-[WA] Seperate state govts. should be loosely tied together by a weak federal govt. to handle national issues.
+[WA] Separate state govts. should be loosely tied together by a weak federal govt. to handle national issues.
 [WA] All issues should be handled by the federal govt; state governments should only enforce national decisions.
 [WA] Electors per state were ineffective; instead, state govts. should unanimously agree on national issues.
 [END]
@@ -168,7 +168,7 @@
 -------------------------------------------
 [MCQ] *Brutus No. 1* argued that:
 [WA] National issues should be left to the federal govt., and state issues to state govt.
-[CA] Seperate state govts. should be loosely tied together by a weak federal govt. to handle national issues.
+[CA] Separate state govts. should be loosely tied together by a weak federal govt. to handle national issues.
 [WA] All issues should be handled by the federal govt; state governments should only enforce national decisions.
 [WA] Electors per state were ineffective; instead, state govts. should unanimously agree on national issues.
 [END]

@@ -1,4 +1,4 @@
-[PRESET] Chapter 2 (The Constitution)
+[PRESET] (Unit 1) Chapter 2 - The Constitution
 -------------------------------------------
 [T] NSL 1.4
 -------------------------------------------
@@ -45,7 +45,7 @@
 [MCQ] Which of the following was a weakness of Congress under the Articles of Confederation?
 [CA] Inability to manage interstate commerce
 [WA] Failed to protect individual rights (religion & speech)
-[WA] Inequal state representation in Congress
+[WA] Unequal state representation in Congress
 [WA] Inability to mediate interstate disputes
 [END]
 -------------------------------------------
@@ -294,7 +294,7 @@
 [A] Pocket Veto
 [END]
 -------------------------------------------
-[MCQ] How can Congress override vetos?
+[MCQ] How can Congress override vetoes?
 [WA] 1/2 Senate
 [WA] 2/3 Senate
 [WA] 1/2 House, 1/2 Senate
