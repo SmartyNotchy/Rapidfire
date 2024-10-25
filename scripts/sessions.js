@@ -112,8 +112,8 @@ function reset_session_div() {
 function hide_session_div() { SESSION_DIV.style.display = "none"; }
 function show_session_div() { SESSION_DIV.style.display = "flex"; }
 
-async function fadein_session_div() { return fade_in_element(SESSION_DIV, "basic_fadein", "flex", 250); }
-async function fadeout_session_div() { return fade_out_element(SESSION_DIV, "basic_fadeout", 250); }
+async function fadein_session_div() { return fade_in_element(SESSION_DIV, "basic_fadein", "flex", 200); }
+async function fadeout_session_div() { return fade_out_element(SESSION_DIV, "basic_fadeout", 200); }
 
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
 /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */ /* KEYBIND LISTENERS */
@@ -548,8 +548,8 @@ function close_settings_div() {
 function hide_settings_div() { SETTINGS_WRAPPER_DIV.style.display = "none"; }
 function show_settings_div() { SETTINGS_WRAPPER_DIV.style.display = "flex"; }
 
-async function fadein_settings_div() { return fade_in_element(SETTINGS_WRAPPER_DIV, "basic_fadein", "flex", 250); }
-async function fadeout_settings_div() { return fade_out_element(SETTINGS_WRAPPER_DIV, "basic_fadeout", 250); }
+async function fadein_settings_div() { return fade_in_element(SETTINGS_WRAPPER_DIV, "basic_fadein", "flex", 200); }
+async function fadeout_settings_div() { return fade_out_element(SETTINGS_WRAPPER_DIV, "basic_fadeout", 200); }
 
 /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */
 /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */ /* CLOSE SESSION */

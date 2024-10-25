@@ -20,11 +20,19 @@ a {
 }
 
 .basic_fadein {
-    animation: basic_fadein_anim 0.25s ease forwards;
+    animation: basic_fadein_anim 0.2s ease forwards;
 }
 
 .basic_fadeout {
-    animation: basic_fadeout_anim 0.25s ease forwards;
+    animation: basic_fadeout_anim 0.2s ease forwards;
+}
+
+.long_fadein {
+    animation: basic_fadein_anim 0.3s ease forwards;
+}
+
+.long_fadeout {
+    animation: basic_fadeout_anim 0.3s ease forwards;
 }
 
 @keyframes basic_fadein_anim {
@@ -527,6 +535,7 @@ a {
 
 #mmns_topic_select_div {
     flex-grow: 1;
+    margin-top: -15px;
     margin-bottom: 30px;
     overflow-x: hidden;
     overflow-y: scroll;

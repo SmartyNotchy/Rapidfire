@@ -55,6 +55,8 @@
 -------------------------------------------
 [SAQ] ___________ _____ are delegated only to the federal govt.
 [A] Exclusive Powers
+[A] Expressed Powers
+[A] Enumerated Powers
 [END]
 -------------------------------------------
 [SAQ] States have ______ _____ - powers on health, safety, and morals.\n(Hint: Examples include speed limits, seat belt policies, & the age of consent)

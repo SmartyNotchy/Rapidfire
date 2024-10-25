@@ -222,8 +222,7 @@ function clear_mmns_ts_div() {
 
 function build_mmns_ts_div(subject) {
     MMNS_TS_TITLE.style.color = "white";
-    MMNS_TS_SUBTITLE.style.color = "white";
-    MMNS_TS_SUBTITLE.innerText = `Subject: ${SUBJECTS[subject]} (TODO: Put something meaningful here)`;
+    MMNS_TS_SUBTITLE.innerText = ``;
 
     MMNS_TS_DIV.innerHTML = "";
     MMNS_TS_MENU_ELEMENTS = [];
@@ -288,8 +287,8 @@ function render_mmns_div() {
 function hide_mmns_div() { MMNS_WRAPPER_DIV.style.display = "none"; }
 function show_mmns_div() { MMNS_WRAPPER_DIV.style.display = "flex"; }
 
-async function fadein_mmns_div() { return fade_in_element(MMNS_WRAPPER_DIV, "basic_fadein", "flex", 250); }
-async function fadeout_mmns_div() { return fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 250); }
+async function fadein_mmns_div() { return fade_in_element(MMNS_WRAPPER_DIV, "basic_fadein", "flex", 200); }
+async function fadeout_mmns_div() { return fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 200); }
 
 async function create_new_session() {
     let subject = MMNS_SUBJECT_DROPDOWN.value;
@@ -303,9 +302,9 @@ async function create_new_session() {
     MMNS_CREATE_BTN.setAttribute("disabled", "");
     CURRENT_SESSION = new TriviaSession();
     CURRENT_SESSION.load_settings(undefined); // TODO
-    CURRENT_SESSION.build(subject, topics, 0, Math.floor(Math.random() * 2500000000000));
+    CURRENT_SESSION.build(subject, topics, 0, Math.floor(Math.random() * 2000000000000));
 
-    await fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 250);
+    await fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 200);
     CURRENT_SESSION.firstrender();
 }
 
@@ -344,8 +343,8 @@ function reset_mm_div() {
 function hide_mm_div() { MAINMENU_DIV.style.display = "none"; }
 function show_mm_div() { MAINMENU_DIV.style.display = "flex"; }
 
-async function fadein_mm_div() { return fade_in_element(MAINMENU_DIV, "basic_fadein", "flex", 250); }
-async function fadeout_mm_div() { return fade_out_element(MAINMENU_DIV, "basic_fadeout", 250); }
+async function fadein_mm_div() { return fade_in_element(MAINMENU_DIV, "basic_fadein", "flex", 200); }
+async function fadeout_mm_div() { return fade_out_element(MAINMENU_DIV, "basic_fadeout", 200); }
 
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
@@ -415,7 +414,7 @@ async function attempt_load_mm() {
     }
 
     // Fade Out Loading Div
-    await fade_out_element(LOADING_DIV, "basic_fadeout", 250);
+    await fade_out_element(LOADING_DIV, "long_fadeout", 300);
 
     // Set Visibilities
     reset_mm_div();
@@ -431,7 +430,7 @@ async function attempt_load_mm() {
     document.addEventListener("keydown", handle_keypress);
     
     // Fade In Main Menu
-    fadein_mm_div();
+    await fade_in_element(MAINMENU_DIV, "long_fadein", "flex", 300)
 }
 
 window.onload = async function() {
