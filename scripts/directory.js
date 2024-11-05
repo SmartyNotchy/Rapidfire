@@ -10,7 +10,7 @@ const DIRECTORY = {
         "plaintext": "AP NSL/AP Gov.",
         "path": "./questions/nsl/",
         "files": [
-            "u1ch1", "u1ch2", "u1ch3", "u2ch4"
+            "u1ch1", "u1ch2", "u1ch3", "u2ch4", "u2ch5"
         ]
     },
     "ESS": {
@@ -115,7 +115,7 @@ function parse_qset_lines(lines) {
                 if (currentQType == "SAQ") {
                     if (line[0] == "A" || line[0] == "EXA") { // TODO FIX
                         currentQObj.correctAnswers.push(line[1]);
-                    } else if (line[0] != "T") { // TODO FIX
+                    } else if (line[0] != "T" && line[0] != "EXP") { // TODO FIX
                         throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
                     }
                 } else if (currentQType == "MCQ") {
@@ -123,7 +123,7 @@ function parse_qset_lines(lines) {
                         currentQObj.correctAnswer = line[1];
                     } else if (line[0] == "WA") {
                         currentQObj.wrongAnswers.push(line[1]);
-                    } else if (line[0] == "NS") {
+                    } else if (line[0] == "NS" || line[0] == "EXP") {
                         // TODO
                     } else {
                         throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);

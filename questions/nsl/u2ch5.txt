@@ -1,0 +1,623 @@
+[PRESET] (Unit 2) Chapter 5 - The Executive
+-------------------------------------------
+[T] NSL 2.4 - Roles & Powers of the President
+-------------------------------------------
+[SAQ] The President's main goal is to accomplish a _________ _____, a set of issues that are significant to policymakers.
+[A] Policy Agenda
+[END]
+-------------------------------------------
+[SAQ] The ____________ also holds the position of Commander in Chief.
+[A] President
+[END]
+-------------------------------------------
+[SAQ] The ____________ has the power to issue pardons, appoint public officials, and recommend measures to Congress.
+[A] President
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a power of the President?
+[CA] Declaring war
+[WA] Vetoing/approving bills
+[WA] Appointing ambassadors & judges
+[WA] Adjourning Congress
+[END]
+-------------------------------------------
+[SAQ] Presidential elections occur every __ years.
+[EXA] 4
+[A] four
+[END]
+-------------------------------------------
+[SAQ] Article __ of the Constitution outlines details about the presidency.
+[EXA] II
+[EXA] 2
+[A] Two
+[END]
+-------------------------------------------
+[SAQ] Powers explicitly defined in Article II of the Constitution are _________ ________ of the office.
+[A] Formal Powers
+[A] Formal
+[END]
+-------------------------------------------
+[SAQ] Presidential powers that are considered inherent to achieve policy goals are called __________ _______.
+[A] Informal Powers
+[A] Informal
+[END]
+-------------------------------------------
+[SAQ] Just like Congress has implied powers to complement its expressed powers, the President has ___________ powers.
+[A] Informal
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT an informal power of the President?
+[CA] Adjourning a congress session
+[WA] Threatening to issue a veto
+[WA] Giving presentations to wavering senators
+[WA] Taking military action as Commander in Chief
+[END]
+-------------------------------------------
+[SAQ] The President is the _____ ______________, as the Constitution allows them to recommend new laws to Congress.
+[A] Chief Legislator
+[END]
+------------------------------------------- TODO THIS IS PROBABLY WRONG
+[SAQ] A President suggesting that Congress pass stricter environmental regulations is an example of exercising a(n) ____________ power.
+[A] Formal
+[END]
+-------------------------------------------
+[MCQ] Presidents don't have much influence on Congress besides being able to recommend new laws.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Presidents often use _________________ & ___________ to attempt to get Congress to agree with their policy agenda.
+[A] Bargaining & Persuasion
+[A] Persuasion & Bargaining
+[END]
+-------------------------------------------
+[SAQ] The President has the final stamp of approval of congressional bills, and can also reject them with the _____.
+[A] Veto
+[END]
+-------------------------------------------
+[SAQ] A President creating a presentation for wavering senators is an example of exercising a(n) ____________ power.
+[A] Informal
+[END]
+-------------------------------------------
+[SAQ] A President threatening to veto a bill is an example of exercising a(n) ____________ power.
+[A] Informal
+[END]
+-------------------------------------------
+[MCQ] Obama issued significantly more vetoes from 2010 to 2012 compared to 2008 to 2010. Which of the following best explains why?
+[CA] A Republican majority won the House in the 2010 election, causing divided government
+[WA] A significant decrease in popular support for Obama's policies led to more vetoes
+[WA] Obama used vetoes to strengthen his party position in preparation for the 2012 (re-)election
+[WA] Increased division within the Democratic party itself led Obama to start opposing its legislation
+[END]
+-------------------------------------------
+[MCQ] What happens if a President opts to neither sign nor veto a bill?
+[CA] The bill automatically becomes law after 10 days pass
+[WA] The bill is "pocket vetoed", which effectively kills it
+[WA] The bill is sent to a special select committee
+[WA] The bill is automatically vetoed and sent back to Congress
+[EXP] Read carefully! Pocket vetoes can only occur if a bill is sent in the final 10 days of a congressional session.
+[END]
+-------------------------------------------
+[SAQ] If a bill arrives in the final 10 days of a congressional session, the President can _________ _______ it by doing nothing.
+[A] Pocket Veto
+[END]
+-------------------------------------------
+[MCQ] How can Congress override a presidential veto?
+[CA] 2/3 House + 2/3 Senate
+[WA] 2/3 Senate
+[WA] 2/3 Congress + 3/4 States
+[WA] Congress cannot override vetoes
+[END]
+-------------------------------------------
+[MCQ] How can Congress override a pocket veto?
+[WA] 2/3 House + 2/3 Senate
+[WA] 2/3 Senate
+[WA] 2/3 Congress + 3/4 States
+[CA] Congress cannot override pocket vetoes
+[EXP] Unlike normal vetoes, since pocket vetoes occur in the last 10 days of Congress, they cannot be overridden.
+[END]
+-------------------------------------------
+[SAQ] A _____-______ _____ allows officials to eliminate parts of a bill without voiding the entire thing.
+[A] Line-Item Veto
+[END]
+-------------------------------------------
+[MCQ] Currently (as of 2024), Presidents have the power to issue line-item vetoes on:
+[CA] No bills
+[WA] Appropriations
+[WA] Military bills
+[WA] All bills
+[END]
+-------------------------------------------
+[MCQ] *Clinton v. City of New York* ruled that:
+[CA] Line-item vetoes are **unconstitutional** since only Congress has the Power of the Purse
+[WA] Line-item vetoes are **constitutional** because the President explicitly has veto power
+[WA] Line-item vetoes are **unconstitutional** since only State Governors have this power
+[WA] Line-item votes are **constitutional** due to Congress's implied powers
+[END]
+-------------------------------------------
+[SAQ] *Clinton v. City of New York* concerned the constitutionality of _____-______ ________.
+[A] Line-Item Vetoes
+[END]
+-------------------------------------------
+[SAQ] This court case ruled line-item vetoes on appropriation bills as unconstitutional.
+[A] Clinton v. City of New York
+[END]
+-------------------------------------------
+[SAQ] The Constitution names the President as _____________ ___ ______, with much control over the military.
+[A] Commander in Chief
+[END]
+-------------------------------------------
+[SAQ] _____________ has the power to declare war.
+[A] Congress
+[END]
+-------------------------------------------
+[MCQ] What constitutes a "war" is clearly defined in the Constitution.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] The President doesn't need Congress's approval for ________ military actions.
+[A] Defensive
+[END]
+-------------------------------------------
+[SAQ] A(n) ______________ _______________ resembles a treaty, but doesn't require the Senate 2/3s vote.
+[A] Executive Agreement
+[END]
+-------------------------------------------
+[SAQ] Unlike foreign treaties, ___________ ________________ aren't binding.
+[A] Executive Agreements
+[END]
+-------------------------------------------
+[SAQ] _________ _______________ allow Presidents to quickly negotiate foreign treaties without compromising confidentiality.
+[A] Executive Agreements
+[END]
+-------------------------------------------
+[SAQ] A(n) _________ ___________  allows the President to carry out laws or administer the government.
+[A] Executive Order
+[END]
+-------------------------------------------
+[SAQ] The President can issue ______________ __________ to define how government departments operate, without requiring Congress to act.
+[A] Executive Orders
+[END]
+-------------------------------------------
+[MCQ] Executive orders have the same effect as law.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Executive orders must be based on existing laws and/or the Constitution.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Which of the following is a way that an executive order can be reversed?
+[CA] Ruled unconstitutional by the Supreme Court
+[WA] Rescinded by the next-elected President
+[WA] Shut down by both houses of Congress
+[WA] Removed by popular vote (ballot question)
+[END]
+-------------------------------------------
+[MCQ] Which of the following can a President NOT issue an executive order on?
+[CA] Interstate commerce
+[WA] Racial integration
+[WA] Immigration policy
+[WA] Enforcing existing laws
+[END]
+-------------------------------------------
+[SAQ] Presidents can't issue executive orders that address Congress's ___________ _________.
+[A] Enumerated Powers
+[A] Expressed Powers
+[A] Explicit Powers
+[END]
+-------------------------------------------
+[MCQ] Presidents can change the wording of a bill through signing statements.
+[CA] False
+[WA] True
+[EXP] Signing statements don't actually change the wording of a bill!
+[END]
+-------------------------------------------
+[SAQ] Presidents can offer ________ __________ when signing bills into law, which explain their executive interpretation of it.
+[A] Signing Statements
+[END]
+-------------------------------------------
+[SAQ] Presidents can assert _________ ______________, which allows them to withhold decision-making information from other branches.
+[A] Executive Privilege
+[END]
+-------------------------------------------
+[MCQ] What did the decision in *US v. Nixon* say?
+[CA] Executive privilege is **constitutional**, but the Nixon tapes were not protected
+[WA] Executive privilege is **constitutional**, so Nixon wasn't forced to hand over the tapes
+[WA] Executive privilege is **unconstitutional**, so Nixon had to hand over the tapes
+[WA] Executive privilege is **unconstitutional**, but Nixon was protected under *ex post facto*
+[END]
+-------------------------------------------
+[T] NSL 2.5 - The President's Team
+-------------------------------------------
+[MCQ] The Vice President is the second most powerful government officer in the US.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Who or what mostly determines the role of the VP on presidential policy?
+[CA] The President
+[WA] The Constitution
+[WA] Congress
+[WA] The VP themselves
+[END]
+-------------------------------------------
+[SAQ] Article II alludes to a __________ when it mentions "the principle officers in each of the executive departments."
+[A] Cabinet
+[END]
+-------------------------------------------
+[SAQ] How many executive departments are in the US?
+[EXA] 15
+[A] Fifteen
+[END]
+-------------------------------------------
+[SAQ] The 15 secretaries of the US executive departments make up the President's _________.
+[A] Cabinet
+[END]
+-------------------------------------------
+[SAQ] The President has a __________ to advise them and to run the governments' various large departments.
+[A] Cabinet
+[END]
+-------------------------------------------
+[SAQ] The secretary of defense & the secretary of transportation are two members of the President's _______.
+[A] Cabinet
+[END]
+-------------------------------------------
+[MCQ] How big is the President's Cabinet?
+[CA] At least 15 people
+[WA] At most 15 people
+[WA] Exactly 15 people
+[WA] As big/small as the President wants
+[END]
+-------------------------------------------
+[MCQ] The President has the power to appoint Cabinet secretaries.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] The national government has 15 ___________ _____________ to cover a wide range of national concerns.
+[A] Executive Departments
+[END]
+-------------------------------------------
+[SAQ] This executive department, created in 1789, promotes US foreign policy around the globe.
+[A] State
+[A] Department of State
+[A] State Department
+[END]
+-------------------------------------------
+[SAQ] This executive department is the President's main diplomatic body.
+[A] State
+[A] Department of State
+[A] State Department
+[END]
+-------------------------------------------
+[SAQ] For every nation the US recognizes, the State Department employs an ________ to represent the US in that nation.
+[A] Ambassador
+[END]
+-------------------------------------------
+[MCQ] Ambassadors must come from foreign affair careers and/or be experts in their respective nations.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] This executive department is responsible for operating embassies and employing ambassadors.
+[A] State
+[A] Department of State
+[A] State Department
+[END]
+-------------------------------------------
+[MCQ] Which of the following would the secretary of state most likely deal with?
+[CA] Foreign Affairs
+[WA] Environmental Regulations
+[WA] Domestic Tax Policy
+[WA] Education Reform
+[END]
+-------------------------------------------
+[SAQ] This executive department is headquartered at the Pentagon.
+[A] Defense
+[A] Department of Defense
+[A] Defense Department
+[END]
+-------------------------------------------
+[SAQ] This executive department combines all of the nation's military branches under one command.
+[A] Defense
+[A] Department of Defense
+[A] Defense Department
+[END]
+-------------------------------------------
+[MCQ] What makes the Department of Defense different from a dictatorship?
+[CA] It is still subject to constitutional protections
+[WA] The secretary can act unilaterally without oversight
+[WA] The military is independent of civil authority
+[WA] There is no accountability to public officials
+[END]
+-------------------------------------------
+[SAQ] The ________ __________ ___ _______, a council of the top officials from each military branch, advises the President on military strategy.
+[A] Joint Chiefs of Staff
+[END]
+-------------------------------------------
+[SAQ] Spending on this executive department comprises the largest portion of federal discretionary spending.
+[A] Defense
+[A] Department of Defense
+[A] Defense Department
+[END]
+-------------------------------------------
+[SAQ] __________ _____________ are subcabinet entities that carry out specific functions and often fall under larger departments.
+[A] Federal Agencies
+[END]
+-------------------------------------------
+[SAQ] The FBI, Coast Guard, FDA, IRS, and CIA are all examples of _______ __________.
+[A] Federal Agencies
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a federal agency?
+[CA] The Joint Chiefs of Staff
+[WA] The Coast Guard
+[WA] The IRS
+[WA] The Food & Drug Administration
+[END]
+-------------------------------------------
+[SAQ] The ____ coordinates several independent agencies that carry out presidential duties, and consists of the OMB and CIA (among other agencies).
+[A] EOP
+[A] Executive Office of the President
+[END]
+-------------------------------------------
+[SAQ] The president's immediate staff of specialists make up the ______ _____ ________.
+[A] White House Office
+[A] White House Staff
+[END]
+-------------------------------------------
+[MCQ] Staffers of the White House Office must first be approved by the Senate.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Which of the following is a main difference between White House staffers & Cabinet secretaries?
+[CA] Staffers have no allegiance to departments or agencies
+[WA] Staffers are directly funded by the federal budget
+[WA] Staffers have to be approved by the Senate
+[WA] Staffers usually aren't from the President's party
+[END]
+-------------------------------------------
+[SAQ] The President's _______ ___ _____ is responsible for the smooth operation of the White House & flow of information.
+[A] Chief of Staff
+[END]
+-------------------------------------------
+[T] NSL 2.5 - Checks on the Presidency
+-------------------------------------------
+[SAQ] The framers of the Constitution took several measures to limit the President's power to appease the _____ ______________.
+[A] Anti-Federalists
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a way that Congress can check the President?
+[CA] Passing Amendments
+[WA] Setting the President's salary
+[WA] Advice & Consent
+[WA] Impeachment
+[END]
+-------------------------------------------
+[SAQ] Most presidents have claimed ____________ ________, which aren't explicitly listed but are still in the jurisdiction of the executive.
+[A] Inherent Powers
+[END]
+-------------------------------------------
+[MCQ] The powers of the presidency are clearly defined by the Constitution.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Presidents appoint thousands of officials per congressional term, and most are approved __ ___, hundreds at a time.
+[A] en bloc
+[END]
+-------------------------------------------
+[MCQ] Congress subjects most presidential appointees to intense scrutiny & public hearings.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] If the Senate is not in session during a vacancy, the President can make ________ __________________, who serve until the Senate reconvenes & votes on them.
+[A] Recess Appointments
+[END]
+-------------------------------------------
+[MCQ] Recess Appointments are ________ when government is divided.
+[CA] Rarer
+[WA] More Common
+[END]
+-------------------------------------------
+[SAQ] A Senate of an opposing party would most likely call __ ______ sessions to combat the President's ability to make recess appointments.
+[A] pro forma
+[END]
+-------------------------------------------
+[MCQ] Presidential Cabinet nominations are often rejected by Congress, especially if government is divided.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Ambassador appointments are often awarded as political favors rather than on the basis of qualifications.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] The President can remove all upper-level executive branch officials at will.
+[WA] False
+[CA] True
+[END]
+-------------------------------------------
+[MCQ] The President can remove upper-level executive branch officials for any reason, except for regulatory heads.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] The President cannot remove regulatory heads.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court can also check the executive branch by finding presidential actions unconstitutional.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] A major interaction between the executive & judicial branches is the appointment of _________ _______.
+[A] Federal Judges
+[END]
+-------------------------------------------
+[MCQ] Which of the following correctly compares Cabinet appointees & judicial nominations?
+[CA] Cabinet appointees have relatively less influence on law
+[WA] Cabinet appointees are often more contested than judicial nominations
+[WA] Cabinet appointees server for life, whereas judges serve limited terms
+[WA] Cabinet appointees don't have to be approved by the Senate
+[END]
+-------------------------------------------
+[SAQ] If a judicial nomination is blocked with a filibuster, how many votes in Senate are required to call cloture?
+[EXA] 51
+[A] Majority
+[END]
+-------------------------------------------
+[T] NSL 2.6 - Expansion of Presidential Power
+-------------------------------------------
+[MCQ] Which of the following was an issue that the Anti-Federalists had with Article II?
+[CA] A singular chief executive
+[WA] A house based on state population
+[WA] The dangers of factions in a large republic
+[WA] The life tenure of federal judges
+[END]
+-------------------------------------------
+[SAQ] *Federalist No. ____** addresses the benefits of a single leader compared to multiple people heading the executive.
+[EXA] 70
+[A] Seventy
+[END]
+-------------------------------------------
+[MCQ] What did *Federalist No. 70* say about the creation of a single chief executive?
+[CA] A single chief executive would make it harder to disguise bad decisions & actions
+[WA] A single chief executive would prevent one person from accumulating too much power
+[WA] A single chief executive would reduce the speed & efficiency of decision-making
+[WA] A single chief executive would not lead to a dictatorship due to checks & balances
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the attitude of early presidents to their role in government?
+[CA] Let Congress make most policies & simply executed their laws
+[WA] Took a hands-on approach to shaping national policies & laws
+[WA] Persuaded Congress to give more powers to the executive
+[WA] Created policies based on public opinion rather than Congress's agenda
+[END]
+-------------------------------------------
+[SAQ] Over time, the President's strength relative to Congress has grown, creating a(n) ___________ ________________.
+[A] Imperial Presidency
+[END]
+-------------------------------------------
+[SAQ] A(n) ____________ ______________ is a US presidency that is characterized by greater powers than the Constitution allows.
+[A] Imperial Presidency
+[END]
+-------------------------------------------
+[SAQ] This early president marked the first noticeable shift in presidential power.
+[A] Andrew Jackson
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes Jackson's approach to the presidency?
+[CA] Blazed a path of executive dominance
+[WA] Let Congress do most of the policymaking
+[WA] Gradually cajoled Congress into expanding his power
+[WA] Closely co-operated with Congress to pass laws
+[END]
+-------------------------------------------
+[SAQ] This president expanded the presidency far beyond the Constitution, assuming sweeping presidential powers.
+[A] Abraham Lincoln
+[END]
+-------------------------------------------
+[MCQ] Abraham Lincoln suspended the *writ of habeas corpus* during his tenure. What did the Court rule about this?
+[CA] Suspending *habeas corpus* was something only Congress could do
+[WA] Suspending *habeas corpus* was unconstitutional but justified during the Civil War
+[WA] Suspending *habeas corpus* was an inherent power given by the Constitution
+[WA] Suspending *habeas corpus* could only be done during an emergency, which this was
+[END]
+-------------------------------------------
+[MCQ] Despite the Civil War, Lincoln's expansions of presidential powers were constitutional and remain in place today.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] During the late 1800s to early 1900s, presidential power was stretched to advance national interests. Name one of two presidents responsible for this shift.
+[A] Theodore Roosevelt
+[A] Wilson
+[A] Woodrow Wilson
+[END]
+-------------------------------------------
+[SAQ] Roosevelt's ____________ ___________ approach to governing presumed him the duty to act in national interests, unless the action was unconstitutional.
+[A] Stewardship Theory
+[END]
+-------------------------------------------
+[SAQ] Roosevelt's belief of exercising as much authority as possible to take care of the American people reflects his _________ __________ approach.
+[A] Stewardship Theory
+[END]
+-------------------------------------------
+[SAQ] This President was a proponent of a "stewardship theory" approach to the presidency.
+[A] Theodore Roosevelt
+[END]
+-------------------------------------------
+[SAQ] This president revolutionized the role of the presidency & federal government with their New Deal programs.
+[A] FDR
+[A] Franklin D Roosevelt
+[A] Franklin Delano Roosevelt
+[END]
+-------------------------------------------
+[SAQ] The 22nd Amendment was most likely a response to the actions of this President.
+[A] FDR
+[A] Franklin D Roosevelt
+[A] Franklin Delano Roosevelt
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ set an upper term limit on the Presidency.
+[EXA] 22
+[EXA] XXII
+[END]
+-------------------------------------------
+[SAQ] This law was passed to counter the rushed & unpopular Tonkin Gulf Resolution.
+[A] War Powers Act
+[END]
+-------------------------------------------
+[SAQ] This law requires the President to notify Congress within 48 hours of military action.
+[A] War Powers Act
+[END]
+-------------------------------------------
+[SAQ] This law allows Congress to approve or disapprove of presidential military action in a 60-day window.
+[A] War Powers Act
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the effect of the War Powers Act?
+[CA] Preserved the need for swift military action while keeping Congress's war-declaring authority
+[WA] Required Congress to approve of all military action beforehand
+[WA] Gave the President full decisive control of the military in event of an emergency
+[WA] Simply re-asserted Congress's power to declare war
+[END]
+-------------------------------------------
+[T] NSL 2.7 - Presidential Communication
+-------------------------------------------
+[SAQ] Roosevelt referred to the presidency as a ______ _______ - a prominent stage that he could use to pitch ideas to the American people.
+[A] Bully Pulpit
+[END]
+-------------------------------------------
+[SAQ] This president promoted the bully pulpit and had a very close relationship with journalists.
+[A] Theodore Roosevelt
+[END]
+-------------------------------------------
+[SAQ] The _________________________ is a chance for the President to reach millions of watching Americans while simultaneously addressing both houses of Congress.
+[A] State of the Union Address
+[END]
+-------------------------------------------
+[SAQ] This president broke a precedent by delivering their State of the Union Address as a speech to Congress.
+[A] Wilson
+[A] Woodrow Wilson
+[END]
+-------------------------------------------
+[SAQ] The White House _________ _____________, appointed by the President, is responsible for keeping press corps aware of the President's actions.
+[A] Press Secretary
+[END]
+-------------------------------------------
+[MCQ] Press events are open events that portray the President transparently and in an unbiased light.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
