@@ -1,0 +1,302 @@
+[PRESET] (Unit 2) Chapter 6 - The Judiciary
+-------------------------------------------
+[T] NSL 2.8 - Constitutional Authority of the Courts
+-------------------------------------------
+[MCQ] Which of the following is NOT a level of today's federal court system?
+[CA] US Civil Courts
+[WA] US District Courts
+[WA] US Circuit Court of Appeals
+[WA] US Supreme Court
+[END]
+-------------------------------------------
+[MCQ] All judges in the US District, Circuit, and Supreme Courts are appointed by the President and have life terms.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Only Supreme Court justices need to be confirmed by the Senate; like White House staffers, judges to lower-level courts don't need confirmation.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The Articles of Confederation provided for a federal court system (albeit a weak one).
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] The only Court mentioned in the Constitution is/are the __________ ________.
+[A] Supreme Court
+[END]
+-------------------------------------------
+[SAQ] Article __ of the Constitution establishes the judiciary branch.
+[EXA] III
+[EXA] 3
+[A] Three
+[END]
+-------------------------------------------
+[MCQ] Article III allows Congress to create as many "inferior" courts as it wants.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Federal judges generally serve for ____.
+[A] Life
+[END]
+-------------------------------------------
+[MCQ] Which best explains why the Constitution gave federal judges life terms?
+[CA] It allows them to make unpopular but necessary decisions
+[WA] It is difficult to find replacements for competent judges
+[WA] Judges should treat the position as a lifetime dedication
+[WA] It allows them to commit crimes for the greater good of the law
+[END]
+-------------------------------------------
+[MCQ] Which of the following would NOT be allowed under the Constitution?
+[CA] Congress reduces the wages of all federal judges to combat a growing deficit
+[WA] Congress rejects a nominee for the Supreme Court due to ideological differences
+[WA] Congress impeaches a federal justice for committing high crimes
+[WA] The President heavily criticizes a Supreme Court ruling during a press conference
+[END]
+-------------------------------------------
+[SAQ] In cases where the Supreme Court has __________ ________________, it has the authority to hear a case for the first time.
+[A] Original Jurisdiction
+[END]
+-------------------------------------------
+[SAQ] For the most part, the Supreme Court has ___________ _______________, and hears appeals from the lower courts.
+[A] Appellate Jurisdiction
+[END]
+-------------------------------------------
+[SAQ] Most of the time, the Supreme Court acts as an _________ court with appellate jurisdiction.
+[A] Appeals
+[END]
+-------------------------------------------
+[SAQ] Article III explicitly defines _______ to avoid it being used as a tool to silence dissent against the government.
+[A] Treason
+[END]
+-------------------------------------------
+[SAQ] Federalist No. ___ addressed concerns about an independent judiciary.
+[EXA] 78
+[END]
+-------------------------------------------
+[MCQ] Which branch did Federalist No. 78 address?
+[CA] Judicial
+[WA] Legislative
+[WA] Executive
+[END]
+-------------------------------------------
+[MCQ] Which of the following was a major concern of the Anti-Feds regarding the judicial branch?
+[CA] Due to the independence of the judicial branch & life terms of judges, it would become too powerful
+[WA] It was too weak and didn't have enough power to effectively uphold the Constitution
+[WA] It would be too susceptible to ideological biases, since Presidents appointed nominees
+[WA] The Supreme Court could override lower court decisions, rendering them powerless.
+[END]
+-------------------------------------------
+[SAQ] *Federalist No. __* affirmed the Court's power of judicial review.
+[EXA] 78
+[END]
+-------------------------------------------
+[SAQ] *Federalist No. 78* affirmed that the Court had the power of _________ _________ to examine the constitutionality of laws.
+[A] Judicial Review
+[END]
+-------------------------------------------
+[MCQ] What did the Federalists say in response to Anti-Federalist concerns about the power of the judicial branch?
+[CA] It was the least dangerous since it had neither economic nor military power
+[WA] It was the least dangerous since both the legislative & executive branches could easily check its power
+[WA] Although it was powerful, the courts were strictly bound to the Constitution
+[WA] A powerful judicial branch would unite the country and ensure smooth natural operation
+[END]
+-------------------------------------------
+[MCQ] In *Federalist No. 78*, which of the following was a reason the Federalists argued for life terms for federal judges?\n\nI: To protect it from the legislative\nII: To protect it from the executive\nIII: To allow judges to make unpopular decisions
+[CA] I, II, and III
+[WA] I only
+[WA] III only
+[WA] I and III only
+[END]
+-------------------------------------------
+[T] NSL 2.8 - The Three-Level System
+-------------------------------------------
+[SAQ] How many levels, or "tiers", are there in the federal court system?
+[EXA] 3
+[A] Three
+[END]
+-------------------------------------------
+[SAQ] U.S. Appeals Courts include clusters of states, called _______.
+[A] Circuits
+[END]
+-------------------------------------------
+[SAQ] Up until the 19th century, Appeals Court justices would rotate around local courts in a circular path, an act called "_______ _______".
+[A] Riding Circuit
+[END]
+-------------------------------------------
+[SAQ] There are 94 _______ courts in the US; there is at least one per state, and they receive over 300k case filings annually (most are civil).
+[A] District
+[END]
+-------------------------------------------
+[SAQ] U.S. District Courts have ________ jurisdiction over federal cases.
+[A] Original
+[END]
+-------------------------------------------
+[SAQ] In a trial court, the ___________ is the party initiating the action.
+[A] Plaintiff
+[END]
+-------------------------------------------
+[MCQ] In a trial court, the plaintiff is the party:
+[CA] Initiating the action
+[WA] Answering the claim
+[END]
+-------------------------------------------
+[SAQ] In a trial court, the ___________ is the party answering the claim.
+[A] Defendant
+[END]
+-------------------------------------------
+[MCQ] In a trial court, the defendant is the party:
+[CA] Initiating the action
+[WA] Answering the claim
+[END]
+-------------------------------------------
+[SAQ] In a criminal trial, the __________ is the plaintiff, usually referred to as the "prosecution".
+[A] Government
+[END]
+-------------------------------------------
+[SAQ] Civil trials involve a(n) "_______" incurred by the defendant, which can be physical or (more often) financial.
+[A] Injury
+[END]
+-------------------------------------------
+[MCQ] U.S. District Courts try federal crimes (i.e. counterfeiting, tax evasions).
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Most violent crimes are tried in _____ courts.
+[CA] State
+[WA] District
+[END]
+-------------------------------------------
+[MCQ] Most civil disputes are handled in ______ courts.
+[CA] State
+[WA] District
+[END]
+-------------------------------------------
+[SAQ] Each of the 94 districts has a U.S. _________ who represents the federal government in federal courts.
+[A] Attorneys
+[END]
+-------------------------------------------
+[SAQ] U.S. attorneys work in the Department of Justice under the _________ ______________.
+[A] Attorney General
+[END]
+-------------------------------------------
+[SAQ] When a large group of plaintiffs accuses the same party, a ______ ________ lawsuit is filed.
+[A] Class Action
+[END]
+-------------------------------------------
+[SAQ] After a decision in a civil suit, courts can issue an __________ (court order) to the losing party to force them to redress a wrong.
+[A] Injunction
+[END]
+-------------------------------------------
+[SAQ] The U.S. Court of _______ allows citizens to bring complaints against the United States.
+[A] Claims
+[A] Federal Claims
+[END]
+-------------------------------------------
+[SAQ] Directly above the district courts are the U.S. __________ _________.
+[A] Circuit Courts
+[A] Circuit Courts of Appeals
+[END]
+-------------------------------------------
+[MCQ] U.S. appeals courts:
+[CA] Shape the law
+[WA] Determine facts
+[END]
+-------------------------------------------
+[SAQ] Appellants from a fact-based trial appeal based on _________, and must offer a violation of law/precedent that led to an incorrect verdict.
+[A] Certiorari
+[END]
+-------------------------------------------
+[MCQ] Why don't appeals courts have witness stands or jury boxes?
+[CA] Appeals courts interpret narrow questions of law, not new facts
+[WA] Appeals courts are designed to focus exclusively on constitutional matters
+[WA] Appeals courts operate under strict time constraints, so there is simply no time
+[WA] Witnesses & juries are reserved for the Supreme Court only
+[END]
+-------------------------------------------
+[SAQ] The U.S. Courts of Appeals consist of __ (#) geographic circuits around the country, each with their own regional appellate court.
+[EXA] 11
+[END]
+-------------------------------------------
+[MCQ] Circuit Court rulings apply to:
+[CA] The geographic circuit of the court
+[WA] The entire nation
+[WA] Only the specific court case
+[END]
+-------------------------------------------
+[SAQ] The Circuit Court of Appeals for the ________________________ handles appeals from those fined/punished by executive regulatory agencies.
+[A] District of Columbia
+[EXA] DC
+[END]
+-------------------------------------------
+[SAQ] The Circuit Court for the _______________________ hears appeals dealing with patents, contracts, and financial claims against the US.
+[A] Federal Circuit
+[END]
+-------------------------------------------
+[SAQ] This Circuit is often considered the second most important court in the nation, and is a feeder for Supreme Court justices.
+[A] District of Columbia
+[EXA] DC
+[END]
+-------------------------------------------
+[SAQ] In the federal court system, this court lies atop the hierarchy.
+[A] Supreme Court
+[EXA] SC
+[END]
+-------------------------------------------
+[SAQ] This court is the highest appellate court in the US.
+[A] Supreme Court
+[EXA] SC
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court mostly hears these types of cases.
+[CA] Interpretations of constitutional law
+[WA] Violent federal crimes (i.e. serial murders)
+[WA] Billion-dollar corporate lawsuits
+[WA] International disputes
+[END]
+-------------------------------------------
+[MCQ] Supreme Court rulings apply to:
+[CA] The geographic circuit of the court
+[WA] The entire nation
+[WA] Only the specific court case
+[END]
+-------------------------------------------
+[SAQ] This Supreme Court case formally established the power of judicial review.
+[A] Marbury v. Madison
+[END]
+-------------------------------------------
+[SAQ] *Marbury v. Madison* established the practice of _______ ________.
+[A] Judicial Review
+[END]
+-------------------------------------------
+[MCQ] Which best describes the question addressed in *Marbury v. Madison*?
+[CA] Did the Supreme Court have the jurisdiction to hear & implement a judge's request for their appointment?
+[WA] Could the federal government create a bank, and could state governments tax national institutions?
+[WA] Did the Supreme Court have the jurisdiction to hear cases about unequal district lines?
+[WA] Was Congress allowed to pass laws like the Judiciary Act in the final year of a president's term?
+[END]
+-------------------------------------------
+[MCQ] What was the court ruling in *Marbury v. Madison*?
+[WA] Marbury could sue since his commission was denied, and the Supreme Court upheld the Judiciary Act
+[CA] Marbury could sue since his commission was denied, but the Supreme Court had no jurisdiction in the matter
+[WA] Marbury couldn't sue for a denied job commission, since the Judiciary Act was unconstitutional
+[WA] Marbury couldn't sue for a denied job commission due to its timing, even though the Judiciary Act would have given it to him
+[END]
+-------------------------------------------
+[MCQ] Why did the Supreme Court say the Judiciary Act was unconstitutional?
+[CA] Congress could not extend the jurisdiction of the Supreme Court outside the Constitution's bounds
+[WA] Congress could not pass laws in the final year of a President's term
+[WA] Due to judicial review, the Court had the power to strike down laws based on their ideological standpoint
+[WA] Congress could not limit the jurisdiction of the Supreme Court by taking away its Constitutionally-stated jurisdiction
+[END]
+-------------------------------------------
+[SAQ] In *Brown v. Board of Education*, the Supreme Court ruled that the "separate but equal" doctrine of *Plessy v. Ferguson* was unconstitutional under the 14th Amendment. Name the landmark court case that allowed the Supreme Court to issue such a ruling.
+[A] Marbury v. Madison
+[END]
+-------------------------------------------
+[T] NSL 2.9 - Legitimacy of the Judicial Branch
+-------------------------------------------
