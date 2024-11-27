@@ -300,3 +300,57 @@
 -------------------------------------------
 [T] NSL 2.9 - Legitimacy of the Judicial Branch
 -------------------------------------------
+[SAQ] Court rulings often establish ____________ - rulings that firmly establish legal principles and often impact future rulings.
+[A] Precedents
+[END]
+-------------------------------------------
+[SAQ] ________ ______ refers to the body of court decisions that make up part of the law.
+[A] Common Law
+[END]
+-------------------------------------------
+[SAQ] Common law is governed by the concept of ______ _______, or "let the decision stand".
+[A] Stare Decisis
+[END]
+-------------------------------------------
+[MCQ] Lower courts generally must follow higher court rulings.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] When a district court receives a case that parallels an already-decided circuit case, it is obliged the rule the same way, a practice called _______ ____________.
+[A] Binding Precedent
+[END]
+-------------------------------------------
+[MCQ] Why are all courts in the land bound by US Supreme Court decisions?
+[CA] Binding precedent makes it likely that a uniquely different decision will be overturned by a higher court
+[WA] It is illegal for a judge to rule opposite to a higher court ruling
+[WA] The Supreme Court has the power to remove judges that disagree with higher court rulings
+[WA] The US Supreme Court can invoke binding precedent to skip trials that mirror already-decided prior court cases
+[END]
+-------------------------------------------
+[SAQ] Judges can use ___________ ____________, and consider past decisions in other district/circuit courts to guide their decisions.
+[A] Persuasive Precedent
+[END]
+-------------------------------------------
+[SAQ] This Chief Justice strong-armed the Supreme Court during its early years, establishing it as the final interpreter of the Constitution.
+[A] John Marshall
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court is known more for:
+[CA] Continuity
+[WA] Change
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the Supreme Court's attitude towards overturning precedent?
+[CA] The Court mostly follows *stare decisis* but occasionally overturns precedents as ideologies and views change
+[WA] The Court mostly ignores *stare decisis* since it usually ignores cases that clearly follow from pre-existing precedent
+[WA] The Court regularly overturns precedents, as *stare decisis* is only followed by the lower courts
+[WA] The Court follows *stare decisis* and refuses to overturn precedents unless an amendment is passed
+[END]
+-------------------------------------------
+[SAQ] As of 2024, who is the current Supreme Court Chief Justice?
+[A] John Roberts
+[END]
+-------------------------------------------
+[T] NSL 2.10 - The Court in Action
+-------------------------------------------
