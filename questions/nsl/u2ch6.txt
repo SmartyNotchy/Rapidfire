@@ -354,3 +354,122 @@
 -------------------------------------------
 [T] NSL 2.10 - The Court in Action
 -------------------------------------------
+[MCQ] Congress does not have the authority to add more justices to the Supreme Court.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] As of 2024, how many Supreme Court justices are there at a time?
+[EXA] 9
+[A] Nine
+[END]
+-------------------------------------------
+[SAQ] This court case under Chief Justice Roger Taney was a point of major controversy & one of the Court's worst legacies.
+[A] Dred Scott
+[A] Dred Scott v. Sandford
+[END]
+-------------------------------------------
+[MCQ] Which of the following was a major focus of the Supreme Court in the late 1800s?
+[CA] Business Regulations
+[WA] International Behavior
+[WA] Individual Liberties
+[WA] Slavery
+[END]
+-------------------------------------------
+[SAQ] A ______ ____________ interprets the Constitution in its original context.
+[A] Strict Constructionist
+[END]
+-------------------------------------------
+[SAQ] A _______ ____________ interprets the Constitution as a living document, taking into account social changes since its ratification.
+[A] Liberal Constructionist
+[END]
+-------------------------------------------
+[MCQ] During the Progressive Era (late 1800s to early 1900s), the Court could best be described as taking a:
+[CA] Strict constructionist view
+[WA] Liberal constructionist view
+[END]
+-------------------------------------------
+[MCQ] Why did FDR's plan to "pack the courts" fail?
+[CA] Both parties viewed it as a threat to judicial power
+[WA] The Supreme Court ruled that doing so was unconstitutional
+[WA] The required amendment was rejected by too many states & failed ratification
+[WA] FDR was unable to overcome the divided Senate and subsequently couldn't pass the law
+[END]
+-------------------------------------------
+[MCQ] Which of the following was a major focus of the Supreme Court post-WW2?
+[WA] Business Regulations
+[WA] International Behavior
+[CA] Individual Liberties
+[WA] Slavery
+[END]
+-------------------------------------------
+[SAQ] Under the _______ Court, many individual liberties were expanded, such as the notable decision in Brown v. Board.
+[A] Warren
+[END]
+-------------------------------------------
+[SAQ] Under the _______ Court, a somewhat similar path to the Warren Court was continued, and many cases went undecided due to a lack of majority agreement.
+[A] Burger
+[END]
+-------------------------------------------
+[SAQ] Under the _______ Court, an ideological shift towards strict constructionism occurred, such as upholding states' rights to limit abortion.
+[A] Rehnquist
+[END]
+-------------------------------------------
+[MCQ] Supreme Court decisions are final, and cannot be overruled unless the Court itself overturns a ruling.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ was passed in response to *Chisholm v. Georgia*, and prevents federal courts from considering certain lawsuits against states.
+[EXA] XI
+[EXA] 11
+[A] Eleven
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ is the only amendment to alter the judicial branch's jurisdiction.
+[EXA] XI
+[EXA] 11
+[A] Eleven
+[END]
+-------------------------------------------
+[MCQ] Which of the following amendments were passed in response to unpopular Supreme Court decisions?\n\nI: 14th Amendment\nII: 16th Amendment\nIII: 19th Amendment
+[CA] I & II only
+[WA] I only
+[WA] II only
+[WA] II & III only
+[WA] I, II, and III
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court cannot put rulings or decisions into effect.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Before the Supreme Court accepts an appeal, the petitioner files a ________ ____ ___________, arguing why the lower court erred.
+[A] Petition for Certiorari
+[END]
+-------------------------------------------
+[SAQ] How many of the 9 Supreme Court justices must agree to accept a case for the appeal to be granted?
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[MCQ] What does the "rule of four" in the Supreme Court refer to?
+[CA] 4/9 justices is enough to declare a defendant "not guilty", reflecting "innocent before proven guilty"
+[WA] 4/9 justices is enough for an appeal to be granted, reflecting a commitment to minority claims
+[WA] Only 4/9 justices may be replaced per presidential term, reflecting a consistency in the court
+[WA] 4/9 justices is a big enough minority to delay a final ruling, reflecting the desire for unanimity
+[END]
+-------------------------------------------
+[SAQ] Once the Court comes to an opinion, a(n) _________ _________ is written by the justices to reflect the Court's ruling.
+[A] Majority Opinion
+[END]
+-------------------------------------------
+[SAQ] Justices who differ from the majority's legal reasoning but still agree with them can write ____________ _________.
+[A] Concurring Opinions
+[END]
+-------------------------------------------
+[SAQ] Justices who vote against the majority often write a(n) _____________ __________ to reflect their beliefs & send a message.
+[A] Dissenting Opinion
+[END]
+-------------------------------------------
