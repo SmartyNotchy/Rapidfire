@@ -1,0 +1,567 @@
+[PRESET] (Unit 2) Chapter 6 - The Judiciary
+-------------------------------------------
+[T] NSL 2.8 - Constitutional Authority of the Courts
+-------------------------------------------
+[MCQ] Which of the following is NOT a level of today's federal court system?
+[CA] US Civil Courts
+[WA] US District Courts
+[WA] US Circuit Court of Appeals
+[WA] US Supreme Court
+[END]
+-------------------------------------------
+[MCQ] All judges in the US District, Circuit, and Supreme Courts are appointed by the President and have life terms.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Only Supreme Court justices need to be confirmed by the Senate; like White House staffers, judges to lower-level courts don't need confirmation.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The Articles of Confederation provided for a federal court system (albeit a weak one).
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] The only Court mentioned in the Constitution is/are the __________ ________.
+[A] Supreme Court
+[END]
+-------------------------------------------
+[SAQ] Article __ of the Constitution establishes the judiciary branch.
+[EXA] III
+[EXA] 3
+[A] Three
+[END]
+-------------------------------------------
+[MCQ] Article III allows Congress to create as many "inferior" courts as it wants.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Federal judges generally serve for ____.
+[A] Life
+[END]
+-------------------------------------------
+[MCQ] Which best explains why the Constitution gave federal judges life terms?
+[CA] It allows them to make unpopular but necessary decisions
+[WA] It is difficult to find replacements for competent judges
+[WA] Judges should treat the position as a lifetime dedication
+[WA] It allows them to commit crimes for the greater good of the law
+[END]
+-------------------------------------------
+[MCQ] Which of the following would NOT be allowed under the Constitution?
+[CA] Congress reduces the wages of all federal judges to combat a growing deficit
+[WA] Congress rejects a nominee for the Supreme Court due to ideological differences
+[WA] Congress impeaches a federal justice for committing high crimes
+[WA] The President heavily criticizes a Supreme Court ruling during a press conference
+[END]
+-------------------------------------------
+[SAQ] In cases where the Supreme Court has __________ ________________, it has the authority to hear a case for the first time.
+[A] Original Jurisdiction
+[END]
+-------------------------------------------
+[SAQ] For the most part, the Supreme Court has ___________ _______________, and hears appeals from the lower courts.
+[A] Appellate Jurisdiction
+[END]
+-------------------------------------------
+[SAQ] Most of the time, the Supreme Court acts as an _________ court with appellate jurisdiction.
+[A] Appeals
+[END]
+-------------------------------------------
+[SAQ] Article III explicitly defines _______ to avoid it being used as a tool to silence dissent against the government.
+[A] Treason
+[END]
+-------------------------------------------
+[SAQ] Federalist No. ___ addressed concerns about an independent judiciary.
+[EXA] 78
+[END]
+-------------------------------------------
+[MCQ] Which branch did Federalist No. 78 address?
+[CA] Judicial
+[WA] Legislative
+[WA] Executive
+[END]
+-------------------------------------------
+[MCQ] Which of the following was a major concern of the Anti-Feds regarding the judicial branch?
+[CA] Due to the independence of the judicial branch & life terms of judges, it would become too powerful
+[WA] It was too weak and didn't have enough power to effectively uphold the Constitution
+[WA] It would be too susceptible to ideological biases, since Presidents appointed nominees
+[WA] The Supreme Court could override lower court decisions, rendering them powerless.
+[END]
+-------------------------------------------
+[SAQ] *Federalist No. __* affirmed the Court's power of judicial review.
+[EXA] 78
+[END]
+-------------------------------------------
+[SAQ] *Federalist No. 78* affirmed that the Court had the power of _________ _________ to examine the constitutionality of laws.
+[A] Judicial Review
+[END]
+-------------------------------------------
+[MCQ] What did the Federalists say in response to Anti-Federalist concerns about the power of the judicial branch?
+[CA] It was the least dangerous since it had neither economic nor military power
+[WA] It was the least dangerous since both the legislative & executive branches could easily check its power
+[WA] Although it was powerful, the courts were strictly bound to the Constitution
+[WA] A powerful judicial branch would unite the country and ensure smooth natural operation
+[END]
+-------------------------------------------
+[MCQ] In *Federalist No. 78*, which of the following was a reason the Federalists argued for life terms for federal judges?\n\nI: To protect it from the legislative\nII: To protect it from the executive\nIII: To allow judges to make unpopular decisions
+[CA] I, II, and III
+[WA] I only
+[WA] III only
+[WA] I and III only
+[END]
+-------------------------------------------
+[T] NSL 2.8 - The Three-Level System
+-------------------------------------------
+[SAQ] How many levels, or "tiers", are there in the federal court system?
+[EXA] 3
+[A] Three
+[END]
+-------------------------------------------
+[SAQ] U.S. Appeals Courts include clusters of states, called _______.
+[A] Circuits
+[END]
+-------------------------------------------
+[SAQ] Up until the 19th century, Appeals Court justices would rotate around local courts in a circular path, an act called "_______ _______".
+[A] Riding Circuit
+[END]
+-------------------------------------------
+[SAQ] There are 94 _______ courts in the US; there is at least one per state, and they receive over 300k case filings annually (most are civil).
+[A] District
+[END]
+-------------------------------------------
+[SAQ] U.S. District Courts have ________ jurisdiction over federal cases.
+[A] Original
+[END]
+-------------------------------------------
+[SAQ] In a trial court, the ___________ is the party initiating the action.
+[A] Plaintiff
+[END]
+-------------------------------------------
+[MCQ] In a trial court, the plaintiff is the party:
+[CA] Initiating the action
+[WA] Answering the claim
+[END]
+-------------------------------------------
+[SAQ] In a trial court, the ___________ is the party answering the claim.
+[A] Defendant
+[END]
+-------------------------------------------
+[MCQ] In a trial court, the defendant is the party:
+[WA] Initiating the action
+[CA] Answering the claim
+[END]
+-------------------------------------------
+[SAQ] In a criminal trial, the __________ is the plaintiff, usually referred to as the "prosecution".
+[A] Government
+[END]
+-------------------------------------------
+[SAQ] Civil trials involve a(n) "_______" incurred by the defendant, which can be physical or (more often) financial.
+[A] Injury
+[END]
+-------------------------------------------
+[MCQ] U.S. District Courts try federal crimes (i.e. counterfeiting, tax evasions).
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Most violent crimes are tried in _____ courts.
+[CA] State
+[WA] District
+[END]
+-------------------------------------------
+[MCQ] Most civil disputes are handled in ______ courts.
+[CA] State
+[WA] District
+[END]
+-------------------------------------------
+[SAQ] Each of the 94 districts has a U.S. _________ who represents the federal government in federal courts.
+[A] Attorney
+[END]
+-------------------------------------------
+[SAQ] U.S. attorneys work in the Department of Justice under the _________ ______________.
+[A] Attorney General
+[END]
+-------------------------------------------
+[SAQ] When a large group of plaintiffs accuses the same party, a ______ ________ lawsuit is filed.
+[A] Class Action
+[END]
+-------------------------------------------
+[SAQ] After a decision in a civil suit, courts can issue an __________ (court order) to the losing party to force them to redress a wrong.
+[A] Injunction
+[END]
+-------------------------------------------
+[SAQ] The U.S. Court of _______ allows citizens to bring complaints against the United States.
+[A] Claims
+[A] Federal Claims
+[END]
+-------------------------------------------
+[SAQ] Directly above the district courts are the U.S. __________ _________.
+[A] Circuit Courts
+[A] Circuit Courts of Appeals
+[END]
+-------------------------------------------
+[MCQ] U.S. appeals courts:
+[CA] Shape the law
+[WA] Determine facts
+[END]
+-------------------------------------------
+[SAQ] Appellants from a fact-based trial appeal based on _________, and must offer a violation of law/precedent that led to an incorrect verdict.
+[A] Certiorari
+[END]
+-------------------------------------------
+[MCQ] Why don't appeals courts have witness stands or jury boxes?
+[CA] Appeals courts interpret narrow questions of law, not new facts
+[WA] Appeals courts are designed to focus exclusively on constitutional matters
+[WA] Appeals courts operate under strict time constraints, so there is simply no time
+[WA] Witnesses & juries are reserved for the Supreme Court only
+[END]
+-------------------------------------------
+[SAQ] The U.S. Courts of Appeals consist of __ (#) geographic circuits around the country (excluding the DC & Federal Circuits), each with their own regional appellate court.
+[EXA] 11
+[END]
+-------------------------------------------
+[MCQ] Circuit Court rulings apply to:
+[CA] The geographic circuit of the court
+[WA] The entire nation
+[WA] Only the specific court case
+[END]
+-------------------------------------------
+[SAQ] The Circuit Court of Appeals for the ________________________ handles appeals from those fined/punished by executive regulatory agencies.
+[A] District of Columbia
+[EXA] DC
+[END]
+-------------------------------------------
+[SAQ] The Circuit Court for the _______________________ hears appeals dealing with patents, contracts, and financial claims against the US.
+[A] Federal Circuit
+[END]
+-------------------------------------------
+[SAQ] This Circuit is often considered the second most important court in the nation, and is a feeder for Supreme Court justices.
+[A] District of Columbia
+[EXA] DC
+[END]
+-------------------------------------------
+[SAQ] In the federal court system, this court lies atop the hierarchy.
+[A] Supreme Court
+[EXA] SC
+[END]
+-------------------------------------------
+[SAQ] This court is the highest appellate court in the US.
+[A] Supreme Court
+[EXA] SC
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court mostly hears these types of cases.
+[CA] Interpretations of constitutional law
+[WA] Violent federal crimes (i.e. serial murders)
+[WA] Billion-dollar corporate lawsuits
+[WA] International disputes
+[END]
+-------------------------------------------
+[MCQ] Supreme Court rulings apply to:
+[WA] The geographic circuit of the court
+[CA] The entire nation
+[WA] Only the specific court case
+[END]
+-------------------------------------------
+[SAQ] This Supreme Court case formally established the power of judicial review.
+[A] Marbury v. Madison
+[END]
+-------------------------------------------
+[SAQ] *Marbury v. Madison* established the practice of _______ ________.
+[A] Judicial Review
+[END]
+-------------------------------------------
+[MCQ] Which best describes the question addressed in *Marbury v. Madison*?
+[CA] Did the Supreme Court have the jurisdiction to hear & implement a judge's request for their appointment?
+[WA] Could the federal government create a bank, and could state governments tax national institutions?
+[WA] Did the Supreme Court have the jurisdiction to hear cases about unequal district lines?
+[WA] Was Congress allowed to pass laws like the Judiciary Act in the final year of a president's term?
+[END]
+-------------------------------------------
+[MCQ] What was the court ruling in *Marbury v. Madison*?
+[WA] Marbury could sue since his commission was denied, and the Supreme Court upheld the Judiciary Act
+[CA] Marbury could sue since his commission was denied, but the Supreme Court had no jurisdiction in the matter
+[WA] Marbury couldn't sue for a denied job commission, since the Judiciary Act was unconstitutional
+[WA] Marbury couldn't sue for a denied job commission due to its timing, even though the Judiciary Act would have given it to him
+[END]
+-------------------------------------------
+[MCQ] Why did the Supreme Court say the Judiciary Act was unconstitutional?
+[CA] Congress could not extend the jurisdiction of the Supreme Court outside the Constitution's bounds
+[WA] Congress could not pass laws in the final year of a President's term
+[WA] Due to judicial review, the Court had the power to strike down laws based on their ideological standpoint
+[WA] Congress could not limit the jurisdiction of the Supreme Court by taking away its Constitutionally-stated jurisdiction
+[END]
+-------------------------------------------
+[SAQ] In *Brown v. Board of Education*, the Supreme Court ruled that the "separate but equal" doctrine of *Plessy v. Ferguson* was unconstitutional under the 14th Amendment. Name the landmark court case that allowed the Supreme Court to issue such a ruling.
+[A] Marbury v. Madison
+[END]
+-------------------------------------------
+[T] NSL 2.9 - Legitimacy of the Judicial Branch
+-------------------------------------------
+[SAQ] Court rulings often establish ____________ - rulings that firmly establish legal principles and often impact future rulings.
+[A] Precedents
+[END]
+-------------------------------------------
+[SAQ] ________ ______ refers to the body of court decisions that make up part of the law.
+[A] Common Law
+[END]
+-------------------------------------------
+[SAQ] Common law is governed by the concept of ______ _______, or "let the decision stand".
+[A] Stare Decisis
+[END]
+-------------------------------------------
+[MCQ] Lower courts generally must follow higher court rulings.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] When a district court receives a case that parallels an already-decided circuit case, it is obliged the rule the same way, a practice called _______ ____________.
+[A] Binding Precedent
+[END]
+-------------------------------------------
+[MCQ] Why are all courts in the land bound by US Supreme Court decisions?
+[CA] Binding precedent makes it likely that a uniquely different decision will be overturned by a higher court
+[WA] It is illegal for a judge to rule opposite to a higher court ruling
+[WA] The Supreme Court has the power to remove judges that disagree with higher court rulings
+[WA] The US Supreme Court can invoke binding precedent to skip trials that mirror already-decided prior court cases
+[END]
+-------------------------------------------
+[SAQ] Judges can use ___________ ____________, and consider past decisions in other district/circuit courts to guide their decisions.
+[A] Persuasive Precedent
+[END]
+-------------------------------------------
+[SAQ] This Chief Justice strong-armed the Supreme Court during its early years, establishing it as the final interpreter of the Constitution.
+[A] Marshall
+[A] John Marshall
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court is known more for:
+[CA] Continuity
+[WA] Change
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the Supreme Court's attitude towards overturning precedent?
+[CA] The Court mostly follows *stare decisis* but occasionally overturns precedents as ideologies and views change
+[WA] The Court mostly ignores *stare decisis* since it usually ignores cases that clearly follow from pre-existing precedent
+[WA] The Court regularly overturns precedents, as *stare decisis* is only followed by the lower courts
+[WA] The Court follows *stare decisis* and refuses to overturn precedents unless an amendment is passed
+[END]
+-------------------------------------------
+[SAQ] As of 2024, who is the current Supreme Court Chief Justice?
+[A] John Roberts
+[END]
+-------------------------------------------
+[T] NSL 2.10 - The Court in Action
+-------------------------------------------
+[MCQ] Congress does not have the authority to add more justices to the Supreme Court.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] As of 2024, how many Supreme Court justices are there at a time?
+[EXA] 9
+[A] Nine
+[END]
+-------------------------------------------
+[SAQ] This court case under Chief Justice Roger Taney was a point of major controversy & one of the Court's worst legacies.
+[A] Dred Scott
+[A] Dred Scott v. Sandford
+[END]
+-------------------------------------------
+[MCQ] Which of the following was a major focus of the Supreme Court in the late 1800s?
+[CA] Business Regulations
+[WA] International Behavior
+[WA] Individual Liberties
+[WA] Slavery
+[END]
+-------------------------------------------
+[SAQ] A ______ ____________ interprets the Constitution in its original context.
+[A] Strict Constructionist
+[END]
+-------------------------------------------
+[SAQ] A _______ ____________ interprets the Constitution as a living document, taking into account social changes since its ratification.
+[A] Liberal Constructionist
+[END]
+-------------------------------------------
+[MCQ] During the Progressive Era (late 1800s to early 1900s), the Court could best be described as taking a:
+[CA] Strict constructionist view
+[WA] Liberal constructionist view
+[END]
+-------------------------------------------
+[MCQ] Why did FDR's plan to "pack the courts" fail?
+[CA] Both parties viewed it as a threat to judicial power
+[WA] The Supreme Court ruled that doing so was unconstitutional
+[WA] The required amendment was rejected by too many states & failed ratification
+[WA] FDR was unable to overcome the divided Senate and subsequently couldn't pass the law
+[END]
+-------------------------------------------
+[MCQ] Which of the following was a major focus of the Supreme Court post-WW2?
+[WA] Business Regulations
+[WA] International Behavior
+[CA] Individual Liberties
+[WA] Slavery
+[END]
+-------------------------------------------
+[SAQ] Under the _______ Court, many individual liberties were expanded, such as the notable decision in Brown v. Board.
+[A] Warren
+[END]
+-------------------------------------------
+[SAQ] Under the _______ Court, a somewhat similar path to the Warren Court was continued, and many cases went undecided due to a lack of majority agreement.
+[A] Burger
+[END]
+-------------------------------------------
+[SAQ] Under the _______ Court, an ideological shift towards strict constructionism occurred, such as upholding states' rights to limit abortion.
+[A] Rehnquist
+[END]
+-------------------------------------------
+[MCQ] Supreme Court decisions are final, and cannot be overruled unless the Court itself overturns a ruling.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ was passed in response to *Chisholm v. Georgia*, and prevents federal courts from considering certain lawsuits against states.
+[EXA] XI
+[EXA] 11
+[A] Eleven
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ is the only amendment to alter the judicial branch's jurisdiction.
+[EXA] XI
+[EXA] 11
+[A] Eleven
+[END]
+-------------------------------------------
+[MCQ] Which of the following amendments were passed in response to unpopular Supreme Court decisions?\n\nI: 14th Amendment\nII: 16th Amendment\nIII: 19th Amendment
+[CA] I & II only
+[WA] I only
+[WA] II only
+[WA] II & III only
+[WA] I, II, and III
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court cannot put rulings or decisions into effect.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Before the Supreme Court accepts an appeal, the petitioner files a ________ ____ ___________, arguing why the lower court erred.
+[A] Petition for Certiorari
+[END]
+-------------------------------------------
+[SAQ] How many of the 9 Supreme Court justices must agree to accept a case for the appeal to be granted?
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[MCQ] What does the "rule of four" in the Supreme Court refer to?
+[CA] 4/9 justices is enough for an appeal to be granted, reflecting a commitment to minority claims
+[WA] 4/9 justices is enough to declare a defendant "not guilty", reflecting "innocent before proven guilty"
+[WA] Only 4/9 justices may be replaced per presidential term, reflecting a consistency in the court
+[WA] 4/9 justices is a big enough minority to delay a final ruling, reflecting the desire for unanimity
+[END]
+-------------------------------------------
+[SAQ] Once the Court comes to an opinion, a(n) _________ _________ is written by the justices to reflect the Court's ruling.
+[A] Majority Opinion
+[END]
+-------------------------------------------
+[SAQ] Justices who differ from the majority's legal reasoning but still agree with them can write ____________ _________.
+[A] Concurring Opinions
+[END]
+-------------------------------------------
+[SAQ] Justices who vote against the majority often write a(n) _____________ __________ to reflect their beliefs & send a message.
+[A] Dissenting Opinion
+[END]
+-------------------------------------------
+[T] NSL 2.11 - Checks on the Judicial Branch
+-------------------------------------------
+[SAQ] When judges strike down laws or reverse public policy, they exercise _______ ___________.
+[A] Judicial Activism
+[END]
+-------------------------------------------
+[MCQ] Judicial activism is generally associated with liberal & left-leaning justices.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[MCQ] People who want elected representative legislatures to create policy advocate for _______ _________ in the courts.
+[WA] Judicial Activism
+[CA] Judicial Restraint
+[END]
+-------------------------------------------
+[MCQ] Strict constructionists would most likely advocate for:
+[CA] Judicial Restraint
+[WA] Judicial Activism
+[END]
+-------------------------------------------
+[MCQ] Liberal constructionists would most likely advocate for:
+[CA] Judicial Activism
+[WA] Judicial Restraint
+[END]
+-------------------------------------------
+[SAQ] The Senate _________ ____________ reviews the president's judicial appointments.
+[A] Judiciary Committee
+[END]
+-------------------------------------------
+[SAQ] Senators are often more influential in determining lower-court judgeship nominations than the President, a practice called _________ __________.
+[A] Senatorial Courtesy
+[END]
+-------------------------------------------
+[MCQ] Who often has the most influence in determining district judge appointments?
+[CA] Home State Senators
+[WA] Home State Representatives 
+[WA] Senate Majority Leader
+[WA] The U.S. President
+[END]
+-------------------------------------------
+[MCQ] Which of the following judgeship positions are often the most contested?
+[CA] Supreme Court Justices
+[WA] Circuit Court Judges
+[WA] District Judges
+[END]
+-------------------------------------------
+[SAQ] Getting "________" refers to destroying a judicial nominee by attacking their character, background, and philosophy.
+[A] Borked
+[END]
+-------------------------------------------
+[SAQ] The drastic "nuclear option" in Congress refers to the threat to disallow this Senate practice.
+[A] Filibuster
+[END]
+-------------------------------------------
+[SAQ] Threatening to lower the requirement to end a filibuster from 60 to 51 votes in the Senate is referred to as the "________ ________".
+[A] Nuclear Option
+[END]
+-------------------------------------------
+[MCQ] What is notable about the denying of Merrick Garland's nomination for Supreme Court justice?
+[CA] Senate Republicans refused to hold a vote on him, and kept the vacancy open for 10 months
+[WA] Obama withdrew his nomination of Garland after facing heavy Senate opposition
+[WA] Democrats attempted to use the "nuclear option" in order to push the nomination through, but it failed
+[WA] Garland declined the nomination due to concerns about excessive partisanship in politics
+[END]
+-------------------------------------------
+[SAQ] This executive department investigates federal crimes with the FBI and/or the DEA, and is led by the attorney general.
+[EXA] DoJ
+[A] Justice
+[A] Justice Department
+[A] Department of Justice
+[END]
+-------------------------------------------
+[SAQ] The ________ ___________ represents the U.S. in Supreme Court cases and appeals those cases to the Supreme Court.
+[A] Solicitor General
+[END]
+-------------------------------------------
+[SAQ] _____________ serves as Congress's check on the life terms of federal judges.
+[A] Impeachment
+[END]
+-------------------------------------------
+[SAQ] Article III allows Congress to define ________, the requirements for bringing a case to court.
+[A] Standing
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a way for Congress to check the judicial branch?
+[CA] Impeaching federal judges that make ideologically unpopular rulings
+[WA] Determining the requirements to bring a case to court (standing)
+[WA] Adding more justices to the Supreme Court (court-packing)
+[WA] Determining which types of cases are heard by federal courts & which by state courts
+-------------------------------------------
