@@ -473,3 +473,93 @@
 [A] Dissenting Opinion
 [END]
 -------------------------------------------
+[T] NSL 2.11 - Checks on the Judicial Branch
+-------------------------------------------
+[SAQ] When judges strike down laws or reverse public policy, they exercise _______ ___________.
+[A] Judicial Activism
+[END]
+-------------------------------------------
+[MCQ] Judicial activism is generally associated with liberal & left-leaning justices.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] People who want elected representative legislatures to create policy advocate for _______ _________ in the courts.
+[A] Judicial Restraint
+[END]
+-------------------------------------------
+[MCQ] Strict constructionists would most likely advocate for:
+[CA] Judicial Restraint
+[WA] Judicial Activism
+[END]
+-------------------------------------------
+[MCQ] Liberal constructionists would most likely advocate for:
+[CA] Judicial Activism
+[WA] Judicial Restraint
+[END]
+-------------------------------------------
+[SAQ] The Senate _________ ____________ reviews the president's judicial appointments.
+[A] Judiciary Committee
+[END]
+-------------------------------------------
+[SAQ] Senators are often more influential in determining lower-court judgeship nominations than the President, a practice called _________ __________.
+[A] Senatorial Courtesy
+[END]
+-------------------------------------------
+[MCQ] Who often has the most influence in determining district judge appointments?
+[CA] Home State Senators
+[WA] Home State Representatives 
+[WA] Senate Majority Leader
+[WA] The U.S. President
+[END]
+-------------------------------------------
+[MCQ] Which of the following judgeship positions are often the most contested?
+[CA] Supreme Court Justices
+[WA] Circuit Court Judges
+[WA] District Judges
+[END]
+-------------------------------------------
+[SAQ] Getting "________" refers to destroying a judicial nominee by attacking their character, background, and philosophy.
+[A] Borked
+[END]
+-------------------------------------------
+[SAQ] The drastic "nuclear option" in Congress refers to the threat to disallow this Senate practice.
+[A] Filibuster
+[END]
+-------------------------------------------
+[SAQ] Threatening the ability to filibuster in Senate is referred to as the "________ ________".
+[A] Nuclear Option
+[END]
+-------------------------------------------
+[MCQ] What is notable about the denying of Merrick Garland's nomination for Supreme Court justice?
+[CA] Senate Republicans refused to hold a vote on him, and kept the vacancy open for 10 months
+[WA] Obama withdrew his nomination of Garland after facing heavy Senate opposition
+[WA] Democrats attempted to use the "nuclear option" in order to push the nomination through, but it failed
+[WA] Garland declined the nomination due to concerns about excessive partisanship in politics
+[END]
+-------------------------------------------
+[SAQ] This executive department investigates federal crimes with the FBI and/or the DEA, and is led by the attorney general.
+[EXA] DoJ
+[A] Justice
+[A] Justice Department
+[A] Department of Justice
+[END]
+-------------------------------------------
+[SAQ] The ________ ___________ represents the U.S. in Supreme Court cases and appeals those cases to the Supreme Court.
+[A] Solicitor General
+[END]
+-------------------------------------------
+[SAQ] _____________ serves as Congress's check on the life terms of federal judges.
+[A] Impeachment
+[END]
+-------------------------------------------
+[SAQ] Article III allows Congress to define ________, the requirements for bringing a case to court.
+[A] Standing
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a way for Congress to check the judicial branch?
+[CA] Impeaching federal judges that make ideologically unpopular rulings
+[WA] Determining the requirements to bring a case to court (standing)
+[WA] Adding more justices to the Supreme Court (court-packing)
+[WA] Determining which types of cases are heard by federal courts & which by state courts
+-------------------------------------------
