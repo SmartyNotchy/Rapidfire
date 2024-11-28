@@ -149,8 +149,8 @@
 [END]
 -------------------------------------------
 [MCQ] In a trial court, the defendant is the party:
-[CA] Initiating the action
-[WA] Answering the claim
+[WA] Initiating the action
+[CA] Answering the claim
 [END]
 -------------------------------------------
 [SAQ] In a criminal trial, the __________ is the plaintiff, usually referred to as the "prosecution".
@@ -177,7 +177,7 @@
 [END]
 -------------------------------------------
 [SAQ] Each of the 94 districts has a U.S. _________ who represents the federal government in federal courts.
-[A] Attorneys
+[A] Attorney
 [END]
 -------------------------------------------
 [SAQ] U.S. attorneys work in the Department of Justice under the _________ ______________.
@@ -218,7 +218,7 @@
 [WA] Witnesses & juries are reserved for the Supreme Court only
 [END]
 -------------------------------------------
-[SAQ] The U.S. Courts of Appeals consist of __ (#) geographic circuits around the country, each with their own regional appellate court.
+[SAQ] The U.S. Courts of Appeals consist of __ (#) geographic circuits around the country (excluding the DC & Federal Circuits), each with their own regional appellate court.
 [EXA] 11
 [END]
 -------------------------------------------
@@ -260,8 +260,8 @@
 [END]
 -------------------------------------------
 [MCQ] Supreme Court rulings apply to:
-[CA] The geographic circuit of the court
-[WA] The entire nation
+[WA] The geographic circuit of the court
+[CA] The entire nation
 [WA] Only the specific court case
 [END]
 -------------------------------------------
@@ -333,6 +333,7 @@
 [END]
 -------------------------------------------
 [SAQ] This Chief Justice strong-armed the Supreme Court during its early years, establishing it as the final interpreter of the Constitution.
+[A] Marshall
 [A] John Marshall
 [END]
 -------------------------------------------
@@ -455,8 +456,8 @@
 [END]
 -------------------------------------------
 [MCQ] What does the "rule of four" in the Supreme Court refer to?
-[CA] 4/9 justices is enough to declare a defendant "not guilty", reflecting "innocent before proven guilty"
-[WA] 4/9 justices is enough for an appeal to be granted, reflecting a commitment to minority claims
+[CA] 4/9 justices is enough for an appeal to be granted, reflecting a commitment to minority claims
+[WA] 4/9 justices is enough to declare a defendant "not guilty", reflecting "innocent before proven guilty"
 [WA] Only 4/9 justices may be replaced per presidential term, reflecting a consistency in the court
 [WA] 4/9 justices is a big enough minority to delay a final ruling, reflecting the desire for unanimity
 [END]
@@ -484,8 +485,9 @@
 [CA] False
 [END]
 -------------------------------------------
-[SAQ] People who want elected representative legislatures to create policy advocate for _______ _________ in the courts.
-[A] Judicial Restraint
+[MCQ] People who want elected representative legislatures to create policy advocate for _______ _________ in the courts.
+[WA] Judicial Activism
+[CA] Judicial Restraint
 [END]
 -------------------------------------------
 [MCQ] Strict constructionists would most likely advocate for:
@@ -527,7 +529,7 @@
 [A] Filibuster
 [END]
 -------------------------------------------
-[SAQ] Threatening the ability to filibuster in Senate is referred to as the "________ ________".
+[SAQ] Threatening to lower the requirement to end a filibuster from 60 to 51 votes in the Senate is referred to as the "________ ________".
 [A] Nuclear Option
 [END]
 -------------------------------------------
