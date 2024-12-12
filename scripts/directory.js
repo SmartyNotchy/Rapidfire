@@ -31,7 +31,7 @@ const DIRECTORY = {
         "plaintext": "Spanish 4 (MD Curriculum)",
         "path": "./questions/span4/",
         "files": [
-            "bellezaarte"
+            "bellasarte"
         ]
     }
     /*"DEBUG": {
