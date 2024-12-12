@@ -1,0 +1,329 @@
+[PRESET] La Belleza Arte
+-------------------------------------------
+[T] El Medio
+-------------------------------------------
+[SAQ] wooden
+[A] de madera
+[END]
+-------------------------------------------
+[SAQ] drawing
+[A] el dibujo
+[END]
+-------------------------------------------
+[SAQ] art canvas
+[A] el lienzo
+[END]
+-------------------------------------------
+[SAQ] mural, painted on a wall
+[A] el mural
+[END]
+-------------------------------------------
+[SAQ] landscape
+[A] el paisaje
+[END]
+-------------------------------------------
+[SAQ] plaster, cast
+[A] yeso
+[END]
+-------------------------------------------
+[SAQ] a watercolor painting
+[A] una acuarela
+[END]
+-------------------------------------------
+[SAQ] a still-life
+[A] una naturaleza muerta
+[END]
+-------------------------------------------
+[SAQ] framed artwork
+[A] un cuadro
+[END]
+-------------------------------------------
+[SAQ] an oil-painting
+[A] un oleo
+[A] un o`leo
+[END]
+-------------------------------------------
+[SAQ] artwork
+[A] la obra de arte
+[END]
+-------------------------------------------
+[SAQ] to sculpt or carve
+[A] tallar
+[END]
+-------------------------------------------
+[SAQ] texture
+[A] textura
+[END]
+-------------------------------------------
+[SAQ] an artist's paintbrush
+[A] un pincel
+[END]
+-------------------------------------------
+[T] El Estilo de Arte
+-------------------------------------------
+[SAQ] abstract
+[A] abstracto
+[END]
+-------------------------------------------
+[SAQ] self-portrait
+[A] el autorretrato
+[END]
+-------------------------------------------
+[SAQ] portrait
+[A] el retrato
+[END]
+-------------------------------------------
+[SAQ] style
+[A] estilo
+[END]
+-------------------------------------------
+[SAQ] sculptor
+[A] escultor
+[A] escultora
+[END]
+-------------------------------------------
+[SAQ] the architecture
+[A] la arquitectura
+[END]
+-------------------------------------------
+[SAQ] the building
+[A] el edificio
+[END]
+-------------------------------------------
+[SAQ] artistic style
+[A] estilo artistico
+[A] estilo arti`stico
+[END]
+-------------------------------------------
+[SAQ] the statue
+[A] la estatua
+[END]
+-------------------------------------------
+[SAQ] the sculpture
+[A] la escultura
+[END]
+-------------------------------------------
+[SAQ] simplicity
+[A] la simplicidad
+[END]
+-------------------------------------------
+[SAQ] realistic
+[A] realista
+[END]
+-------------------------------------------
+[SAQ] abstract
+[A] abstracto
+[END]
+-------------------------------------------
+[SAQ] view
+[A] la vista
+[END]
+-------------------------------------------
+[T] El/La Protagonista
+-------------------------------------------
+[SAQ] the center
+[A] el centro
+[END]
+-------------------------------------------
+[SAQ] the middle
+[A] en medio
+[END]
+-------------------------------------------
+[SAQ] the largest size
+[A] el mayor tamano
+[A] el mayor taman~o
+[END]
+-------------------------------------------
+[SAQ] the focus of the other's gaze
+[A] el enfoque de las miradas
+[END]
+-------------------------------------------
+[T] Las Figuras
+-------------------------------------------
+[SAQ] symbolizes
+[A] simboliza
+[END]
+-------------------------------------------
+[SAQ] symbol
+[A] simbolo
+[END]
+-------------------------------------------
+[SAQ] image
+[A] la imagen
+[END]
+-------------------------------------------
+[SAQ] the gaze, look
+[A] la mirada
+[END]
+-------------------------------------------
+[SAQ] alludes
+[A] alude
+[END]
+-------------------------------------------
+[SAQ] refers to, makes reference to
+[A] se refiere a
+[END]
+-------------------------------------------
+[SAQ] symbolism
+[A] el simbolismo
+[END]
+-------------------------------------------
+[T] Las Expresiones de los Rostros
+-------------------------------------------
+[SAQ] expressions
+[A] la expresiones
+[END]
+-------------------------------------------
+[SAQ] it seems
+[A] parece
+[END]
+-------------------------------------------
+[SAQ] pensive, in deep thought
+[A] pensativo
+[END]
+-------------------------------------------
+[SAQ] to express or capture (artistically)
+[A] plasma, expresa, exhibe
+[END]
+-------------------------------------------
+[T] La Composicion
+-------------------------------------------
+[SAQ] the placement of the objects in the artwork
+[A] la composicion
+[A] la composicio`n
+[END]
+-------------------------------------------
+[SAQ] The environment, surround
+[A] el ambiente
+[A] el entorno
+[END]
+-------------------------------------------
+[SAQ] the forefront, front
+[A] el primer plano
+[END]
+-------------------------------------------
+[SAQ] space
+[A] espacio
+[END]
+-------------------------------------------
+[SAQ] background
+[A] fondo
+[END]
+-------------------------------------------
+[SAQ] focal point
+[A] punto focal
+[END]
+-------------------------------------------
+[SAQ] shape
+[A] forma
+[END]
+-------------------------------------------
+[SAQ] positive spaces
+[A] espacios positivos
+[END]
+-------------------------------------------
+[SAQ] line
+[A] linea
+[END]
+-------------------------------------------
+[SAQ] what is missing
+[A] lo que falta
+[END]
+-------------------------------------------
+[T] Los Colores
+-------------------------------------------
+[SAQ] shadow
+[A] sombra
+[END]
+-------------------------------------------
+[SAQ] shaded
+[A] sombreado
+[END]
+-------------------------------------------
+[SAQ] the light
+[A] la luz
+[END]
+-------------------------------------------
+[SAQ] shade, mood
+[A] tono
+[END]
+-------------------------------------------
+[SAQ] brilliant, bright, lively
+[A] vivos
+[A] brilliantes
+[END]
+-------------------------------------------
+[SAQ] cold
+[A] frios
+[A] fri`os
+[END]
+-------------------------------------------
+[SAQ] warm
+[A] calidos
+[A] ca`lidos
+[END]
+-------------------------------------------
+[SAQ] clear, light
+[A] claros
+[END]
+-------------------------------------------
+[SAQ] dark
+[A] oscuros
+[END]
+-------------------------------------------
+[SAQ] art technique that juxtaposes light and dark
+[A] claroscuro
+[END]
+-------------------------------------------
+[T] El Mensaje
+-------------------------------------------
+[SAQ] alludes to, refers to
+[A] alude a
+[END]
+-------------------------------------------
+[SAQ] attracts the spectators, viewers
+[A] atrae al espectador
+[END]
+-------------------------------------------
+[SAQ] emphasis
+[A] el enfasis
+[A] el e`nfasis
+[END]
+-------------------------------------------
+[SAQ] the art easel
+[A] el caballete
+[END]
+-------------------------------------------
+[SAQ] the art studio
+[A] el estudio de arte
+[A] el taller de arte
+[END]
+-------------------------------------------
+[SAQ] elements of art
+[A] elementos del arte
+[END]
+-------------------------------------------
+[SAQ] critique
+[A] la critica
+[END]
+-------------------------------------------
+[SAQ] art palelte
+[A] la paleta de arte
+[END]
+-------------------------------------------
+[SAQ] the art brush
+[A] el pincel
+[END]
+-------------------------------------------
+[SAQ] the sculpting tool, chisel
+[A] el cincel
+[END]
+-------------------------------------------
+[SAQ] what matters
+[A] lo que importa
+[END]
+-------------------------------------------
+[SAQ] the spectator, viewer
+[A] el espectador
+[END]
+-------------------------------------------
