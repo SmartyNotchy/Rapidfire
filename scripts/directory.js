@@ -26,6 +26,13 @@ const DIRECTORY = {
         "files": [
             "01_water", "02_carbs", "03_lipids"
         ]
+    },
+    "Span4": {
+        "plaintext": "Spanish 4 (MD Curriculum)",
+        "path": "./questions/span4/",
+        "files": [
+            "bellasarte"
+        ]
     }
     /*"DEBUG": {
         "plaintext": "Debug Question Sets",
