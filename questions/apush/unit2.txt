@@ -1,20 +1,16 @@
-[PRESET] Unit 2 (1607-1754)
+[PRESET] Unit 2 - 1607 to 1754
 -------------------------------------------
-[QT] SAQ
-[T] 2.2
-[Q] What was the first permanent French settlement in NA?
+[T] 2.2 - European Colonization
+-------------------------------------------
+[SAQ] What was the first permanent French settlement in NA?
 [A] Quebec
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.2
-[Q] Samuel de Champlain was famous for establishing what?
+[SAQ] Samuel de Champlain was famous for establishing what?
 [A] Quebec
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.2
-[Q] Rather than conquering natives, the French were more interested in:
+[SAQ] Rather than conquering natives, the French were more interested in:
 [A] trade
 [A] fish trade
 [A] fur trade
@@ -22,197 +18,145 @@
 [A] fur and fish trade
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.2
-[Q] Henry Hudson, a Dutch explorer, claimed territory that later became:
+[SAQ] Henry Hudson, a Dutch explorer, claimed territory that later became:
 [A] New Amsterdam
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.2
-[Q] The goals of the Dutch in colonizing America were mainly (social/economic/political).
+[SAQ] The goals of the Dutch in colonizing America were mainly (social/economic/political).
 [A] economic
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.2
-[Q] Rather than enslaving or conquering natives, this group of explorers expelled them from native lands.
+[SAQ] Rather than enslaving or conquering natives, this group of explorers expelled them from native lands.
 [A] Britain
 [A] British
 [A] English
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] What was the first British colony in North America?
+[T] 2.3 - The Regions of British Colonies
+-------------------------------------------
+[SAQ] What was the first British colony in North America?
 [A] Jamestown
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] Jamestown was funded by this economic model.
+[SAQ] Jamestown was funded by this economic model.
 [A] Joint-Stock
 [A] Joint-Stock Companies
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] In this economic model, a private group of investors pooled money together & shared financial risks.
+[SAQ] In this economic model, a private group of investors pooled money together & shared financial risks.
 [A] Joint-Stock
 [A] Joint-Stock Companies
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] The cultivation of this crop saved Jamestown from being a financial disaster.
+[SAQ] The cultivation of this crop saved Jamestown from being a financial disaster.
 [A] Tobacco
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] These people signed work contracts to gain free passage to the Americas.
+[SAQ] These people signed work contracts to gain free passage to the Americas.
 [A] Indentured Servants
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] This event caused elite planters to switch from indentured servants to African slaves.
+[SAQ] This event caused elite planters to switch from indentured servants to African slaves.
 [A] Bacon's Rebellion
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] New England colonies served as a haven for _____ settlers who were unhappy with the Church of England.
+[SAQ] New England colonies served as a haven for _____ settlers who were unhappy with the Church of England.
 [A] Puritan
 [A] Protestant
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] This lucrative crop replaced tobacco in colonies towards the South/equator.
+[SAQ] This lucrative crop replaced tobacco in colonies towards the South/equator.
 [A] Sugarcane
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] To combat the growing population of blacks, elite planters passed:
+[SAQ] To combat the growing population of blacks, elite planters passed:
 [A] Slave Codes
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] Another term for property, usually used to refer to slaves.
+[SAQ] Another term for property, usually used to refer to slaves.
 [A] Chattel
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] This region of British colonies developed an export-based economy due to abundant rivers & streams.
+[SAQ] This region of British colonies developed an export-based economy due to abundant rivers & streams.
 [A] Middle
 [A] Middle Colonies
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] This British NA colony promised religion freedom for all, was founded by a Quaker, and usually negotiated with natives for land.
+[SAQ] This British NA colony promised religion freedom for all, was founded by a Quaker, and usually negotiated with natives for land.
 [A] Pennsylvania
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.3
-[Q] Name one significant example of democracy in the early Middle & New England colonies.
+[SAQ] Name one significant example of democracy in the early Middle & New England colonies.
 [A] House of Burgesses
 [A] Mayflower Compact
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.4
-[Q] This profitable trade route involved Africa, Europe, and the American colonies.
+[T] 2.4 - Transatlantic Trade
+-------------------------------------------
+[SAQ] This profitable trade route involved Africa, Europe, and the American colonies.
 [A] Triangular
 [A] The Triangular Trade
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.4
-[Q] This economic model assumed a fixed total amount of wealth & encouraged a balanced export/import ratio.
+[SAQ] This economic model assumed a fixed total amount of wealth & encouraged a balanced export/import ratio.
 [A] Mercantilism
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.4
-[Q] To increase British wealth according to mercantilism, Parliament passed the:
+[SAQ] To increase British wealth according to mercantilism, Parliament passed the:
 [A] Navigation Acts
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.4
-[Q] The Navigation Acts were based on this economic model.
+[SAQ] The Navigation Acts were based on this economic model.
 [A] Mercantilism
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.4
-[Q] In the 1600s-1700s, wealthy families began buying more goods. This change is referred to as:
+[SAQ] In the 1600s-1700s, wealthy families began buying more goods. This change is referred to as:
 [A] The Consumer Revolution
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.5
-[Q] Name a significant conflict between early British colonists & natives.
+[T] 2.5 - Interactions Between American Indians and Europeans
+-------------------------------------------
+[SAQ] Name a significant conflict between early British colonists & natives.
 [A] Metacom's War
 [A] King Philip's War
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.5
-[Q] This European group often traded & married with natives, maintaining decent relations.
+[SAQ] This European group often traded & married with natives, maintaining decent relations.
 [A] French
 [A] France
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.5
-[Q] This European group often conquered & enslaved natives with violence.
+[SAQ] This European group often conquered & enslaved natives with violence.
 [A] Spanish
 [A] Spain
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.5
-[Q] This European group often expelled natives from lands they wanted.
+[SAQ] This European group often expelled natives from lands they wanted.
 [A] British
 [A] Britain
 [A] English
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.6
-[Q] The greatest portion of slaves in British colonies ended up in the:
+[T] 2.6 - Slavery in the British Colonies
+-------------------------------------------
+[SAQ] The greatest portion of slaves in British colonies ended up in the:
 [A] British West Indies
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.6
-[Q] In this British colonial region, slaves mostly worked as household servants or sailors.
+[SAQ] In this British colonial region, slaves mostly worked as household servants or sailors.
 [A] New England
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.6
-[Q] Britain justified slavery using the concept of:
+[SAQ] Britain justified slavery using the concept of:
 [A] Chattel
 [A] Chattel Slavery
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.6
-[Q] Name a major slave uprising in the early 1700s.
+[SAQ] Name a major slave uprising in the early 1700s.
 [A] Stono Rebellion
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.6
-[Q] Name a way slaves covertly resisted their enslavement.
+[SAQ] Name a way slaves covertly resisted their enslavement.
 [A] Maintaining beliefs
 [A] Maintaining culture
 [A] Speaking native languages
@@ -220,66 +164,48 @@
 [A] Destroying Crops
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] In Europe during the 1600s and 1700s, rational thinking was emphasized over tradition, a change called
+[T] 2.7 - Colonial Society and Culture
+-------------------------------------------
+[SAQ] In Europe during the 1600s and 1700s, rational thinking was emphasized over tradition, a change called
 [A] The Enlightenment
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] During the Enlightenment, John Locke spread the idea of
+[SAQ] During the Enlightenment, John Locke spread the idea of
 [A] Natural Rights
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] This idea stated that the government existed to protect the people's rights & that the power to govern was in the hands of the people.
+[SAQ] This idea stated that the government existed to protect the people's rights & that the power to govern was in the hands of the people.
 [A] Social Contract
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] This term refers to the religious revival in the colonies during & after the Enlightenment.
+[SAQ] This term refers to the religious revival in the colonies during & after the Enlightenment.
 [A] The Great Awakening
 [A] First Great Awakening
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] This preacher is well-known for "Sinners in the Hands of an Angry God."
+[SAQ] This preacher is well-known for "Sinners in the Hands of an Angry God."
 [A] Jonathan Edwards
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] George Whitefield & Jonathan Edwards were two members of the:
+[SAQ] George Whitefield & Jonathan Edwards were two members of the:
 [A] New Light
 [A] New Light Clergy
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] In terms of politics, New Light preachers emphasized _____ in the Bible.
+[SAQ] In terms of politics, New Light preachers emphasized _____ in the Bible.
 [A] Democracy
 [A] Democratic Tendencies
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] This term refers to how the colonists became more "English"-like.
+[SAQ] This term refers to how the colonists became more "English"-like.
 [A] Anglicanization
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] This term refers to the policy of seizing sailors & forcing them to work in the navy.
+[SAQ] This term refers to the policy of seizing sailors & forcing them to work in the navy.
 [A] Impressment
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 2.7
-[Q] One major conflict between the colonists & Britain during King George's War was because of
+[SAQ] One major conflict between the colonists & Britain during King George's War was because of
 [A] Impressment
 [END]
 -------------------------------------------

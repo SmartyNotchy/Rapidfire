@@ -1,856 +1,612 @@
-[PRESET] Unit 5 (1844-1877)
+[PRESET] Unit 5 - 1844 to 1877
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] This phrase referred to the belief that the US was destined by God to extend from coast to coast.
+[T] 5.2 - Manifest Destiny
+-------------------------------------------
+[SAQ] This phrase referred to the belief that the US was destined by God to extend from coast to coast.
 [A] Manifest Destiny
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] Opponents of Manifest Destiny mainly believed that it was secretly meant to expand _____.
+[SAQ] Opponents of Manifest Destiny mainly believed that it was secretly meant to expand _____.
 [A] Slavery
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] Tensions between Texas & American settlers rose in the 1830s due to two reasons, name one **system** the two disagreed on:
+[SAQ] Tensions between Texas & American settlers rose in the 1830s due to two reasons, name one **system** the two disagreed on:
 [A] Slavery
 [A] Religion
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] Who led the Americans in the Texan revolt?
+[SAQ] Who led the Americans in the Texan revolt?
 [A] Sam Houston
 [A] Houston
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] Of these three presidents, which pushed for the annexation of Texas? (Jackson/Buren/Tyler)
+[SAQ] Of these three presidents, which pushed for the annexation of Texas? (Jackson/Buren/Tyler)
 [A] Tyler
 [A] John Tyler
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] This treaty set the disputed Maine-Canada border in the 1840s.
+[SAQ] This treaty set the disputed Maine-Canada border in the 1840s.
 [A] Webster-Ashburton Treaty
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] The Webster-Ashburton Treaty resolved the northern border of this state.
+[SAQ] The Webster-Ashburton Treaty resolved the northern border of this state.
 [A] Maine
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] This disputed region was claimed by the British due to the Hudson Bay Company.
+[SAQ] This disputed region was claimed by the British due to the Hudson Bay Company.
 [A] Oregon
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] Texas's annexation temporarily "split" this political party in the 1840s.
+[SAQ] Texas's annexation temporarily "split" this political party in the 1840s.
 [A] Democratic
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] Who was the Democratic candidate in the election of 1844?
+[SAQ] Who was the Democratic candidate in the election of 1844?
 [A] James K Polk
 [A] Polk
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] The Democratic slogan "Fifty-Four or Fight" in the 1800s referred to this disputed territory.
+[SAQ] The Democratic slogan "Fifty-Four or Fight" in the 1800s referred to this disputed territory.
 [A] Oregon
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] Who was the Whig nominee in the election of 1844?
+[SAQ] Who was the Whig nominee in the election of 1844?
 [A] Henry Clay
 [A] Clay
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] The region between the Mississippi Valley & the Pacific Coast was known as:
+[SAQ] The region between the Mississippi Valley & the Pacific Coast was known as:
 [A] Great American Desert
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] The first non-native settlers in the Far West, known as ____ ___, opened up the territory and acted as trail guides.
+[SAQ] The first non-native settlers in the Far West, known as ____ ___, opened up the territory and acted as trail guides.
 [A] Mountain Men
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] This event convinced John Tyler to push the annexation of Texas through Congress.
+[SAQ] This event convinced John Tyler to push the annexation of Texas through Congress.
 [A] Polk's Election
 [A] Polk's Victory
 [A] Election of 1844
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] This event in the 1840s triggered mass settlement in California.
+[SAQ] This event in the 1840s triggered mass settlement in California.
 [A] California Gold Rush
 [A] Gold Rush
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] On the frontier, small families moved onto parcels of lands called:
+[SAQ] On the frontier, small families moved onto parcels of lands called:
 [A] Homestands
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] During the 1800s, the US sent Matthew C. Perry to establish trading with:
+[SAQ] During the 1800s, the US sent Matthew C. Perry to establish trading with:
 [A] Asia
 [A] Japan
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] During the 1800s, the US sent this official to Asia to sign a trading agreement with Japan.
+[SAQ] During the 1800s, the US sent this official to Asia to sign a trading agreement with Japan.
 [A] Matthew C. Perry
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.2
-[Q] This treaty with Japan in the mid-1800s led to a trade agreement between the US & Asia.
+[SAQ] This treaty with Japan in the mid-1800s led to a trade agreement between the US & Asia.
 [A] Kanawaga
 [A] Kanawaga Treaty
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.3
-[Q] Polk sent this person to (unsuccessfully) persuade Mexico to sell CA & NM and to settle the Texas Border.
+[T] 5.3 - The Mexican-American War
+-------------------------------------------
+[SAQ] Polk sent this person to (unsuccessfully) persuade Mexico to sell CA & NM and to settle the Texas Border.
 [A] Slidell
 [A] John Slidell
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.3
-[Q] This conflict began when Polk ordered General Zachary Taylor to cross the Rio Grande.
+[SAQ] This conflict began when Polk ordered General Zachary Taylor to cross the Rio Grande.
 [A] Mexican-American War
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.3
-[Q] Which political party opposed the Mexican-American War?
+[SAQ] Which political party opposed the Mexican-American War?
 [A] Whig
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.3
-[Q] The Mexican-American War resulted in a (victory/stalemate/loss) for the US.
+[SAQ] The Mexican-American War resulted in a (victory/stalemate/loss) for the US.
 [A] Victory
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.3
-[Q] The Treaty of Guadalupe Hidalgo ended what conflict?
+[SAQ] The Treaty of Guadalupe Hidalgo ended what conflict?
 [A] Mexican-American War
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.3
-[Q] The Wilmot Proviso made the Mexican-American War controversial by _______ in acquired territories.
+[SAQ] The Wilmot Proviso made the Mexican-American War controversial by _______ in acquired territories.
 [A] Banning Slavery
 [A] Outlawing Slavery
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.3
-[Q] This proposed law banned slavery in any territories acquired from the Mexican-American War.
+[SAQ] This proposed law banned slavery in any territories acquired from the Mexican-American War.
 [A] Wilmot Proviso
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] Many southerners in the mid-1800s resented this law as it banned slavery from most western territory.
+[T] 5.4 - The Compromise of 1850
+-------------------------------------------
+[SAQ] Many southerners in the mid-1800s resented this law as it banned slavery from most western territory.
 [A] MO Compromise
 [A] Missouri Compromise
 [A] Compromise of 1820
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This refers to a secret agreement between the US & Spain to buy Cuba, that was dropped after it was leaked to the press.
+[SAQ] This refers to a secret agreement between the US & Spain to buy Cuba, that was dropped after it was leaked to the press.
 [A] Ostend Manifesto
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This event occurred when a small force of mostly Southerners seized Nicaragua (without government support).
+[SAQ] This event occurred when a small force of mostly Southerners seized Nicaragua (without government support).
 [A] Walker Expedition
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This treaty in 1850 stated that neither the US nor Britain would attempt to build a canal in Central America.
+[SAQ] This treaty in 1850 stated that neither the US nor Britain would attempt to build a canal in Central America.
 [A] Clayton-Bulwer Treaty
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This purchase from Mexico in the mid-1800s granted land that was good for building a railroad.
+[SAQ] This purchase from Mexico in the mid-1800s granted land that was good for building a railroad.
 [A] Gadsden Purchase
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] What political party supported the Wilmot Proviso?
+[SAQ] What political party supported the Wilmot Proviso?
 [A] Free-Soil
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This party supported homesteads & internal improvements in the west.
+[SAQ] This party supported homesteads & internal improvements in the west.
 [A] Free-Soil
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This policy made the status of slavery in a state decided by a vote of the people, and gained considerable support.
+[SAQ] This policy made the status of slavery in a state decided by a vote of the people, and gained considerable support.
 [A] Popular Sovereignty
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This Democratic candidate in the Election of 1848 is considered the "father of popular sovereignty."
+[SAQ] This Democratic candidate in the Election of 1848 is considered the "father of popular sovereignty."
 [A] Lewis Cass
 [A] Cass
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This Whig candidate in the Election of 1848 was neutral on the issue of slavery.
+[SAQ] This Whig candidate in the Election of 1848 was neutral on the issue of slavery.
 [A] Zachary Taylor
 [A] Taylor
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] The Free-Soil Party nominated this person for the Election of 1848.
+[SAQ] The Free-Soil Party nominated this person for the Election of 1848.
 [A] Buren
 [A] Martin Van Buren
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This event led to the passage of the Compromise of 1850.
+[SAQ] This event led to the passage of the Compromise of 1850.
 [A] California
 [A] California Admission
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] The Compromise of 1850 admitted California as a (free/slave/popular sovereignty) state:
+[SAQ] The Compromise of 1850 admitted California as a (free/slave/popular sovereignty) state:
 [A] Free
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] The Compromise of 1850 created Utah & NM as (free/slave/popular sovereignty) states:
+[SAQ] The Compromise of 1850 created Utah & NM as (free/slave/popular sovereignty) states:
 [A] Popular Sovereignty
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] The Compromise of 1850 (allowed/postponed/banned) the slave trade in DC.
+[SAQ] The Compromise of 1850 (allowed/postponed/banned) the slave trade in DC.
 [A] Banned
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.4
-[Q] This part of the Compromise of 1850 perhaps caused the most controversy:
+[SAQ] This part of the Compromise of 1850 perhaps caused the most controversy:
 [A] Stricter Fugitive Slave Act
 [A] Fugitive Slave Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] Most immigrants from Europe in the 1840s were:
+[T] 5.5 - Sectional Conflict: Regional Differences
+-------------------------------------------
+[SAQ] Most immigrants from Europe in the 1840s were:
 [A] Irish
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] Other than the Irish, this group also immigrated in large numbers to the US in the 1840s:
+[SAQ] Other than the Irish, this group also immigrated in large numbers to the US in the 1840s:
 [A] German
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] This term refers to hostility towards immigrants.
+[SAQ] This term refers to hostility towards immigrants.
 [A] Nativism
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] This political party was created in the 1800s based on nativism:
+[SAQ] This political party was created in the 1800s based on nativism:
 [A] Know-Nothing Party
 [A] American Party
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] The Know-Nothing Party was created to oppose:
+[SAQ] The Know-Nothing Party was created to oppose:
 [A] Immigration
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] What party in the 1800s can be described as a "nativist party?"
+[SAQ] What party in the 1800s can be described as a "nativist party?"
 [A] Know-Nothing Party
 [A] American Party
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] The Know-Nothing Party was also referred to as the:
+[SAQ] The Know-Nothing Party was also referred to as the:
 [A] American Party
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] Nativism declined in the mid-1800s due to this more pressing issue:
+[SAQ] Nativism declined in the mid-1800s due to this more pressing issue:
 [A] Slavery
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] This method of transportation gave the Union an advantage during the Civil War.
+[SAQ] This method of transportation gave the Union an advantage during the Civil War.
 [A] Railroads
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] This law forced runaway slaves in the North to be returned to Southern owners & punished Northerners who tried to help them.
+[SAQ] This law forced runaway slaves in the North to be returned to Southern owners & punished Northerners who tried to help them.
 [A] Fugitive Slave Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] This part of the Compromise of 1850 was heavily despised by Northerners.
+[SAQ] This part of the Compromise of 1850 was heavily despised by Northerners.
 [A] Fugitive Slave Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] Harriet Tubman is most famous for the:
+[SAQ] Harriet Tubman is most famous for the:
 [A] Underground Railroad
 [A] Underground Network
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] This novel in the 1800s had a significant impact on how Northerners viewed Slavery.
+[SAQ] This novel in the 1800s had a significant impact on how Northerners viewed Slavery.
 [A] Uncle Tom's Cabin
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.5
-[Q] Who wrote *Uncle Tom's Cabin*?
+[SAQ] Who wrote *Uncle Tom's Cabin*?
 [A] Harriet Beecher Stowe
 [A] Harriet Stowe
 [A] Stowe
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] Who (person OR party) won the Election of 1852?
+[T] 5.6 - Failure of Compromise
+-------------------------------------------
+[SAQ] Who (person OR party) won the Election of 1852?
 [A] Franklin Pierce
 [A] Democrat
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] The Election of 1852 spelled the end for the:
+[SAQ] The Election of 1852 spelled the end for the:
 [A] Whigs
 [A] Whig Party
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] This act divided the Nebraska Territory into ??? and ???, subjecting both to popular sovereignty.
+[SAQ] This act divided the Nebraska Territory into ??? and ???, subjecting both to popular sovereignty.
 [A] Kansas-Nebraska Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] Both territories in the Kansas & Nebraska Act were above the _________, angering Northern Democrats.
+[SAQ] Both territories in the Kansas & Nebraska Act were above the _________, angering Northern Democrats.
 [A] MO Compromise Line
 [A] Missouri Compromise Line
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] Due to popular soverignty, fighting broke out in ??? in the 1850s; this became known as "______".
+[SAQ] Due to popular soverignty, fighting broke out in ??? in the 1850s; this became known as "______".
 [A] Bleeding Kansas
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] The Caning of Senator Sumner, at its root cause, was caused by issues over:
+[SAQ] The Caning of Senator Sumner, at its root cause, was caused by issues over:
 [A] Slavery
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] When the Whig Party broke apart, pro-slavery Ex-Whigs joined/founded this party:
+[SAQ] When the Whig Party broke apart, pro-slavery Ex-Whigs joined/founded this party:
 [A] Democrat
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] When the Whig Party broke apart, anit-slavery Ex-Whigs joined/founded this party:
+[SAQ] When the Whig Party broke apart, anti-slavery Ex-Whigs joined/founded this party:
 [A] Republican
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] What was the first year in which the Republican Party ran? 18__
+[SAQ] What was the first year in which the Republican Party ran? 18__
 [A] 56
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] Who won the Election of 1856?
+[SAQ] Who won the Election of 1856?
 [A] Buchanan
 [A] James Buchanan
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] This was a pro-slavery Kansas Constitution supported by Buchanan.
+[SAQ] This was a pro-slavery Kansas Constitution supported by Buchanan.
 [A] Lecompton
 [A] Lecompton Constitution
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] The Lecompton Constitution for Kansas was (pro/anti)-slavery.
+[SAQ] The Lecompton Constitution for Kansas was (pro/anti)-slavery.
 [A] Pro
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] This court case established that blacks were not citizens and could not sue.
+[SAQ] This court case established that blacks were not citizens and could not sue.
 [A] Dred Scott v. Sandford
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] This court case established that Congress could not exclude slavery from any federal territory.
+[SAQ] This court case established that Congress could not exclude slavery from any federal territory.
 [A] Dred Scott v. Sandford
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] Dred Scott v. Sandford declared this law unconstitutional.
+[SAQ] Dred Scott v. Sandford declared this law unconstitutional.
 [A] MO Compromise
 [A] Missouri Compromise
 [A] Compromise of 1820
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] This court case declared the Missouri Compromise unconstitutional.
+[SAQ] This court case declared the Missouri Compromise unconstitutional.
 [A] Dred Scott v. Sandford
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.6
-[Q] In the Lincoln-Douglass Debates, Douglass stated that slavery could not exist in states if laws did not maintain it. This stance was known as the:
+[SAQ] In the Lincoln-Douglass Debates, Douglass stated that slavery could not exist in states if laws did not maintain it. This stance was known as the:
 [A] Freeport Doctrine
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] This rebellion is significant in that it was led by a white man to aid slaves.
+[T] 5.7 - Election of 1860 & Secession
+-------------------------------------------
+[SAQ] This rebellion is significant in that it was led by a white man to aid slaves.
 [A] John Brown
 [A] Harpers Ferry
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] This event directly caused the secession of the Southern States.
+[SAQ] This event directly caused the secession of the Southern States.
 [A] Election of 1860
 [A] Lincoln Election
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] This party emerged in the Election of 1860 to try to combat a Republican sweep.
+[SAQ] This party emerged in the Election of 1860 to try to combat a Republican sweep.
 [A] Union Party
 [A] Constitutional Union Party
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] (True/False) Most Southerners supported secession.
+[SAQ] (True/False) Most Southerners supported secession.
 [A] False
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] After Lincoln's election, this act was a final attempt at compromise before secession.
+[SAQ] After Lincoln's election, this act was a final attempt at compromise before secession.
 [A] Crittenden Compromise
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] Lincoln was a (radical/moderate) abolitionist.
+[SAQ] Lincoln was a (radical/moderate) abolitionist.
 [A] Moderate
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] This battle marked the beginning of the Civil War.
+[SAQ] This battle marked the beginning of the Civil War.
 [A] Fort Sumter
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] Where (what city) was the Confederate Capital in?
+[SAQ] Where (what city) was the Confederate Capital in?
 [A] Richmond
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.7
-[Q] Though slave-holding, this group of states remained loyal to the Union & held military & political importance.
+[SAQ] Though slave-holding, this group of states remained loyal to the Union & held military & political importance.
 [A] Border
 [A] Border States
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] The Confederate strategy was to fight a(n) ______ war.
+[T] 5.8 - Military Conflict in the Civil War
+-------------------------------------------
+[SAQ] The Confederate strategy was to fight a(n) ______ war.
 [A] Defensive
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] Which side in the Civil War had higher morale at the start?
+[SAQ] Which side in the Civil War had higher morale at the start?
 [A] Confederate
 [A] Confederacy
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] Which side in the Civil War had more experienced generals?
+[SAQ] Which side in the Civil War had more experienced generals?
 [A] Confederate
 [A] Confederacy
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] Which side in the Civil War had more manpower?
+[SAQ] Which side in the Civil War had more manpower?
 [A] Union
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] Which side in the Civil War had the power of the navy?
+[SAQ] Which side in the Civil War had the power of the navy?
 [A] Union
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] The Confederacy tried to convince European countries to aid them based on "____ _______".
+[SAQ] The Confederacy tried to convince European countries to aid them based on "____ _______".
 [A] King Cotton
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] Who was the Confederate president?
+[SAQ] Who was the Confederate president?
 [A] Davis
 [A] Jefferson Davis
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] The Union strategy to "squeeze" the Confederacy was known as the ______ ____.
+[SAQ] The Union strategy to "squeeze" the Confederacy was known as the ______ ____.
 [A] Anaconda Plan
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] Who was the Confederate commander?
+[SAQ] Who was the Confederate commander?
 [A] Robert E Lee
 [A] Lee
 [A] Robert Lee
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] Who was the (most successful) Union commander?
+[SAQ] Who was the (most successful) Union commander?
 [A] Grant
 [A] Ulysses S Grant
 [A] Ulysses Grant
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] This battle in the Civil War lacked a decisive Confederate victory, leading to foreign countries turning away.
+[SAQ] This battle in the Civil War lacked a decisive Confederate victory, leading to foreign countries turning away.
 [A] Antietam
 [A] Battle of Antietam
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.8
-[Q] The Confederate Plan of "King Cotton" was (unsuccessfully) used to obtain _____ support.
+[SAQ] The Confederate Plan of "King Cotton" was (unsuccessfully) used to obtain _____ support.
 [A] Eurropean
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] The Battle of Antietam allowed for Lincoln to release the:
+[T] 5.9 - Government Policies During the Civil War
+-------------------------------------------
+[SAQ] The Battle of Antietam allowed for Lincoln to release the:
 [A] Emancipation Proclamation
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] Lincoln waited until this significant battle to release the Emancipation Proclamation.
+[SAQ] Lincoln waited until this significant battle to release the Emancipation Proclamation.
 [A] Battle of Antietam
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] The Emancipation Proclamation freed all slaves in (all/Confederate/border) states.
+[SAQ] The Emancipation Proclamation freed all slaves in (all/Confederate/border) states.
 [A] Confederate
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] Democrats in the North who wanted peace during the Civil War were called:
+[SAQ] Democrats in the North who wanted peace during the Civil War were called:
 [A] Copperheads
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] This court case ruled that arresting people without informing them of charges was unconstitutional.
+[SAQ] This court case ruled that arresting people without informing them of charges was unconstitutional.
 [A] Ex Parte Milligan
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] The Conscription Act of 1863 was one of the first times a _____ was used in a US War.
+[SAQ] The Conscription Act of 1863 was one of the first times a _____ was used in a US War.
 [A] Draft
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] The Conscription Act of 1863 caused controversy because people (didn't want to fight/could pay to opt out/couldn't leave after war)
+[SAQ] The Conscription Act of 1863 caused controversy because people (didn't want to fight/could pay to opt out/couldn't leave after war)
 [A] Could pay to opt out
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] The Conscription Act of 1863 caused outrage amongst the (lower/middle/upper) class.
+[SAQ] The Conscription Act of 1863 caused outrage amongst the (lower/middle/upper) class.
 [A] Lower
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] The Republican Party renamed to the _____ Party in 1864.
+[SAQ] The Republican Party renamed to the _____ Party in 1864.
 [A] Unionist
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] What party did Lincoln run for in 1864?
+[SAQ] What party did Lincoln run for in 1864?
 [A] Unionist
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.9
-[Q] Who assassinated Lincoln?
+[SAQ] Who assassinated Lincoln?
 [A] Booth
 [A] John Booth
 [A] John Wilkes Booth
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] Lincoln's plan to give newly freed slaves "40 acres and a mule" was cancelled by:
+[T] 5.10 - Reconstruction
+-------------------------------------------
+[SAQ] Lincoln's plan to give newly freed slaves "40 acres and a mule" was cancelled by:
 [A] Johnson
 [A] Andrew Johnson
 [A] President Johnson
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] The (Lincoln/Johnson/Radical) plan gave full presidential pardons to those who took an oath of allegiance.
+[SAQ] The (Lincoln/Johnson/Radical) plan gave full presidential pardons to those who took an oath of allegiance.
 [A] Lincoln
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] The (Lincoln/Johnson/Radical) plan allowed Confederate states to rejoin the Union once 10% of the population took an oath.
+[SAQ] The (Lincoln/Johnson/Radical) plan allowed Confederate states to rejoin the Union once 10% of the population took an oath.
 [A] Lincoln
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This bill raised the 10% oath rate for a Confederate state to rejoin the union up to a 50% rate.
+[SAQ] This bill raised the 10% oath rate for a Confederate state to rejoin the union up to a 50% rate.
 [A] Wade-Davis Bill
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This welfare agency helped newly freed blacks get a formal education and settle down after the Civil War.
+[SAQ] This welfare agency helped newly freed blacks get a formal education and settle down after the Civil War.
 [A] Freedmen's Bureau
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] The (Lincoln/Johnson/Radical) disenfranchised former Confederate leaders and rich Southerners, but allowed presidential pardons for them.
+[SAQ] The (Lincoln/Johnson/Radical) disenfranchised former Confederate leaders and rich Southerners, but allowed presidential pardons for them.
 [A] Johnson
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This event marked the end of the first round of Reconstruction.
+[SAQ] This event marked the end of the first round of Reconstruction.
 [A] Andrew Johnson
 [A] Johnson
 [A] Johnson's Election
 [A] Johnson's Vetoes
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] ____ ________ championed civil rights for black citizens after the Civil War.
+[SAQ] ____ ________ championed civil rights for black citizens after the Civil War.
 [A] Radical Republicans
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This amendment outlawed slavery or involuntary servitude in the US, except as a punishment for crime.
+[SAQ] This amendment outlawed slavery or involuntary servitude in the US, except as a punishment for crime.
 [A] 13th Amendment
 [A] 13
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] The 13th Amendment abolished what?
+[SAQ] The 13th Amendment abolished what?
 [A] Slavery
 [A] Involuntary Servitude
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This amendment declared all people born in the US as citizens.
+[SAQ] This amendment declared all people born in the US as citizens.
 [A] 14th Amendment
 [A] 14
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This law was a major factor in the impeachment of Andrew Johnson.
+[SAQ] This law was a major factor in the impeachment of Andrew Johnson.
 [A] Tenure of Office Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This played a major factor in the Republican victory in the Election of 1868.
+[SAQ] This played a major factor in the Republican victory in the Election of 1868.
 [A] Blacks
 [A] Freedmen
 [A] Black vote
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] Who won the Election of 1868?
+[SAQ] Who won the Election of 1868?
 [A] Ulysses S. Grant
 [A] Grant
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This amendment prohibited open racial discrimination in voting laws.
+[SAQ] This amendment prohibited open racial discrimination in voting laws.
 [A] 15th Amendment
 [A] 15
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] Despite the 15th Amendment, southern states employed methods such as _____ (name one) to prevent blacks from voting.
+[SAQ] Despite the 15th Amendment, southern states employed methods such as _____ (name one) to prevent blacks from voting.
 [A] Grandfather Clause
 [A] Poll Taxes
 [A] Literacy Tests
 [A] Property Requirements
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This derisive term described Southern Republicans during Reconstruction.
+[SAQ] This derisive term described Southern Republicans during Reconstruction.
 [A] Scalawags
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] Northern Republican newcomers to the South during Reconstruction were derisively called:
+[SAQ] Northern Republican newcomers to the South during Reconstruction were derisively called:
 [A] Carpetbaggers
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.10
-[Q] This term refers to the practice of giving jobs & favors to political supporters.
+[SAQ] This term refers to the practice of giving jobs & favors to political supporters.
 [A] Patronage
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.11
-[Q] Some whites organized secret societies to intimidate blacks during Reconstruction, the most prominent of these being the:
+[T] 5.11 - Failure of Reconstruction
+-------------------------------------------
+[SAQ] Some whites organized secret societies to intimidate blacks during Reconstruction, the most prominent of these being the:
 [A] KKK
 [A] Ku Klux Klan
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.11
-[Q] To stop KKK violence and other racial attacks, Congress passed the _____ ____ in 1870-1871.
+[SAQ] To stop KKK violence and other racial attacks, Congress passed the _____ ____ in 1870-1871.
 [A] Force Acts
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.11
-[Q] _____ _____ referred to laws restricting the rights and movements of African Americans.
+[SAQ] _____ _____ referred to laws restricting the rights and movements of African Americans.
 [A] Black Codes
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.11
-[Q] Involuntary servitude, after being abolished, evolved into the technically legal ______ system in the South.
+[SAQ] Involuntary servitude, after being abolished, evolved into the technically legal ______ system in the South.
 [A] Sharecropping
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.11
-[Q] The Compromise of 1877 led to the election of:
+[SAQ] The Compromise of 1877 led to the election of:
 [A] Hayes
 [A] Rutherford B. Hayes
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.11
-[Q] In return for winning the election in the Compromise of 1877, Hayes agreed to support (black codes/withdrawal of troops/planation rebu0ilding/reform movements) in the South.
+[SAQ] In return for winning the election in the Compromise of 1877, Hayes agreed to support (black codes/withdrawal of troops/planation rebu0ilding/reform movements) in the South.
 [A] Withdrawal of Troops
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 5.11
-[Q] The result of the Election of 1876 was determined by a special committee of (senators/representatives/party bosses/commoners).
+[SAQ] The result of the Election of 1876 was determined by a special committee of (senators/representatives/party bosses/commoners).
 [A] Party Bosses
 [END]
 -------------------------------------------

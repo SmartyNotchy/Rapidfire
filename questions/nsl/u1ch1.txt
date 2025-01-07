@@ -1,6 +1,6 @@
 [PRESET] (Unit 1) Chapter 1 - Founding Principles
 -------------------------------------------
-[T] NSL 1.1
+[T] NSL 1.1 - Ideals of Democracy
 -------------------------------------------
 [MCQ] What message did Hobbes & *The Leviathan* send?
 [CA] Everyone gives up rights so a leader can run for the good of society
@@ -71,7 +71,7 @@
 [A] Representative Republic
 [END]
 -------------------------------------------
-[T] NSL 1.2
+[T] NSL 1.2 - Types of Democracy
 -------------------------------------------
 [SAQ] Name the representative democracy that best fits the following description:\n*Emphasizes broad involvement of citizens in politics*
 [A] Participatory
@@ -182,7 +182,7 @@
 [A] Interest Groups
 [END]
 -------------------------------------------
-[T] NSL 1.3
+[T] NSL 1.3 - Government Power & Individual Rights
 -------------------------------------------
 [SAQ] Under the Articles of Confederation, the (state/federal) govt. was more powerful.
 [A] State

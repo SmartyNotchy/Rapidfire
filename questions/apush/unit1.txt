@@ -1,8 +1,8 @@
-[PRESET] Unit 1 (1491-1607)
+[PRESET] Unit 1 - 1491 to 1607
 -------------------------------------------
-[QT] SAQ
-[T] 1.2
-[Q] What were the three major early native civilizations in Central & South America?
+[T] 1.2 — Native Americans Before European Contact
+-------------------------------------------
+[SAQ] What were the three major early native civilizations in Central & South America?
 [A] Aztecs, Mayas, Incas
 [A] Aztecs, Incas, Mayas
 [A] Mayas, Aztecs, Incas
@@ -11,208 +11,156 @@
 [A] Incas, Mayas, Aztecs
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.2
-[Q] What important crop played a significant role in native societies?
+[SAQ] What important crop played a significant role in native societies?
 [A] Maize
 [A] Corn
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.2
-[Q] Which region in North America had natives who lived a sedentary lifestyle with adobe homes?
+[SAQ] Which region in North America had natives who lived a sedentary lifestyle with adobe homes?
 [A] Southwest
 [A] SW
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.2
-[Q] Which region in North America had nomadic natives & arid land?
+[SAQ] Which region in North America had nomadic natives & arid land?
 [A] Great Plains
 [A] Midwest
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.2
-[Q] Which region in North America had natives who depended on fishing & lived in permanent settlements?
+[SAQ] Which region in North America had natives who depended on fishing & lived in permanent settlements?
 [A] Pacific Northwest
 [A] Pacific NW
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.2
-[Q] Which region in North America had fertile soil allowing for natives to easily farm?
+[SAQ] Which region in North America had fertile soil allowing for natives to easily farm?
 [A] Mississippi
 [A] Mississippi River Valley
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.2
-[Q] Which region in North America was home to the Iriqouis?
+[SAQ] Which region in North America was home to the Iriqouis?
 [A] Northwest
 [A] NW
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.3
-[Q] This Portuguese navigator found a water route to Asia by going around Africa.
+[T] 1.3 — European Exploration in the Americas
+-------------------------------------------
+[SAQ] This Portuguese navigator found a water route to Asia by going around Africa.
 [A] Prince Henry
 [A] Henry
 [A] Henry the Navigator
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.3
-[Q] This maritime technological development allowed faster water travel, compared to using ships of war.
+[SAQ] This maritime technological development allowed faster water travel, compared to using ships of war.
 [A] Caravel
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.3
-[Q] Isabella & Ferdinand married to unite the country of ___.
+[SAQ] Isabella & Ferdinand married to unite the country of ___.
 [A] Spain
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.3
-[Q] In addition to economic motives, Spain wanted to _____ in the Americas.
+[SAQ] In addition to economic motives, Spain wanted to _____ in the Americas.
 [A] Spread Christianity
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.3
-[Q] The first major voyager that Spain funded to find a water route to Asia:
+[SAQ] The first major voyager that Spain funded to find a water route to Asia:
 [A] Columbus
 [A] Christopher Columbus
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.3
-[Q] Land routes to Asia in the 1400s & 1500s were blocked by the ___.
+[SAQ] Land routes to Asia in the 1400s & 1500s were blocked by the ___.
 [A] Muslims
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.3
-[Q] Columbus first arrived in the Americas on the island of ___.
+[SAQ] Columbus first arrived in the Americas on the island of ___.
 [A] San Salvador
 [A] Bahamas
 [A] West Indies
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.4
-[Q] This term describes the transfer of food, animals, and minerals between Africa, Europe, and the Americas.
+[T] 1.4 — The Columbian Exchange
+-------------------------------------------
+[SAQ] This term describes the transfer of food, animals, and minerals between Africa, Europe, and the Americas.
 [A] Columbian Exchange
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.4
-[Q] This part of the Columbian Exchange devastated native communities.
+[SAQ] This part of the Columbian Exchange devastated native communities.
 [A] Smallpox
 [A] Disease
 [A] Spread of Smallpox
 [A] Spread of Disease
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.4
-[Q] What part of the Columbian Exchange jumpstarted population growth in Europe?
+[SAQ] What part of the Columbian Exchange jumpstarted population growth in Europe?
 [A] Crops
 [A] New Crops
 [A] Maize
 [A] Potatoes
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.4
-[Q] This part of the Columbian Exchange revolutionized native warfare.
+[SAQ] This part of the Columbian Exchange revolutionized native warfare.
 [A] Horses
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.4
-[Q] What was a main commodity in the Americas that spurred further European exploration?
+[SAQ] What was a main commodity in the Americas that spurred further European exploration?
 [A] Minerals
 [A] Gold
 [A] Silver
 [A] Gold & Silver
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.4
-[Q] In this system, peasants worked on the land of a noble in return for food, shelter, and protection.
+[SAQ] In this system, peasants worked on the land of a noble in return for food, shelter, and protection.
 [A] Feudalism
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.4
-[Q] This economic system was based on private ownership & free trade between property owners.
+[SAQ] This economic system was based on private ownership & free trade between property owners.
 [A] Capitalism
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.5
-[Q] Europeans attempted to justify this by manipulating the Bible.
+[T] 1.5 — Labor, Slavery, and Caste in the Spanish Colonies
+-------------------------------------------
+[SAQ] Europeans attempted to justify this by manipulating the Bible.
 [A] slavery
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.5
-[Q] In this system, leading men were granted land and natives on the land became the labor source.
+[SAQ] In this system, leading men were granted land and natives on the land became the labor source.
 [A] Encomienda
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.5
-[Q] What document issued by the monarchs of Spain & the pope justified the encomienda system on religious grounds?
+[SAQ] What document issued by the monarchs of Spain & the pope justified the encomienda system on religious grounds?
 [A] Requerimiento
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.5
-[Q] Due to the ineffectiveness of native slaves, Spaniards switched to this labor source.
+[SAQ] Due to the ineffectiveness of native slaves, Spaniards switched to this labor source.
 [A] Africans
 [A] African Slaves
 [A] Black Slaves
 [A] slaves
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.5
-[Q] Due to the three main racial groups in the Americas, Spain developed this system to sort them out:
+[SAQ] Due to the three main racial groups in the Americas, Spain developed this system to sort them out:
 [A] Social Hierarchy
 [A] Caste
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.5
-[Q] In the Spanish caste system, what was the lowest group?
+[SAQ] In the Spanish caste system, what was the lowest group?
 [A] Natives
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.6
-[Q] Rather than conquering natives with violence, Spain switched to this system of converting natives.
+[T] 1.6 - Cultural Interactions in the early Americas
+-------------------------------------------
+[SAQ] Rather than conquering natives with violence, Spain switched to this system of converting natives.
 [A] Mission
 [A] Mission System
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.6
-[Q] Europeans secured access to this lucrative business by organizing marriages with natives.
+[SAQ] Europeans secured access to this lucrative business by organizing marriages with natives.
 [A] Fur Trade
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.6
-[Q] This major uprising occurred after Spanish Priests tried to force natives to only worship Christ.
+[SAQ] This major uprising occurred after Spanish Priests tried to force natives to only worship Christ.
 [A] Pueblo Revolt
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 1.6
-[Q] Name the famous Spaniard that attacked the encomienda system.
+[SAQ] Name the famous Spaniard that attacked the encomienda system.
 [A] Bartolome de Las Casas
 [A] Las Casas
 [END]
