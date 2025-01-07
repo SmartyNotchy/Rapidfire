@@ -103,7 +103,7 @@ function reset_session_div() {
     reset_scq_div();
     reset_sce_div();
 
-    SESSION_SETTINGS_BTN.onclick = fadein_settings_div;
+    SESSION_SETTINGS_BTN.onclick = open_settings_div;
 
     SESSION_MM_BTN.removeAttribute("disabled");
     SESSION_MM_BTN.onclick = close_session;
@@ -317,9 +317,7 @@ class MCQQuestion {
     }
 
     rerender(settings) {
-        let letterListener = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[this.correctIdx];
-
-        document.addEventListener('keydown', handleKeyPress);
+        document.addEventListener('keydown', handle_keypress);
     }
 
     process_input(event, session) {
@@ -460,6 +458,10 @@ class TriviaSession {
         }
     }
 
+    rerender() {
+        this.currentQuestion.rerender(this.settings);
+    }
+
     load_settings(settings) {
         this.settings = settings;
     }
@@ -516,16 +518,6 @@ function process_input(event) {
     CURRENT_SESSION.process_input(event);
 }
 
-/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
-/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
-/* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */ /* SETTINGS */
-
-class Settings {
-    constructor() {
-
-    }
-}
-
 /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */
 /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */
 /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */ /* SETTINGS MENU */
@@ -534,23 +526,72 @@ const SETTINGS_WRAPPER_DIV = document.getElementById("settings_wrapper");
 const SETTINGS_CLOSE_BTN = document.getElementById("settings_close_btn");
 
 var CURRENT_SETTINGS = {};
+var DEFAULT_SETTINGS = {
+    "checker": 2,
+    "showtopic": true,
+    "skipshortcut": false,
+    "mcqshortcut": true,
+    "redoskipped": true,
+    "redofailed": false,
+    "randomdoover": false,
+    "confetti": true
+}
 
-function reset_settings_div() {
-    SETTINGS_CLOSE_BTN.removeAttribute("disabled");
+function setup_settings_div() {
     SETTINGS_CLOSE_BTN.onclick = close_settings_div;
+    for (const key in CURRENT_SETTINGS) {
+        const ele = document.getElementById(`settings_inp_${key}`);
+        if (ele.tagName === "SELECT") {
+            ele.addEventListener("change", function() {
+                CURRENT_SETTINGS[key] = ele.value;
+                save_data("rapidfire_settings", CURRENT_SETTINGS);
+            });
+        } else {
+            ele.addEventListener("change", function() {
+                CURRENT_SETTINGS[key] = ele.checked;
+                save_data("rapidfire_settings", CURRENT_SETTINGS);
+            });
+        }
+    }
 }
 
 function render_settings_div() {
+    SETTINGS_CLOSE_BTN.removeAttribute("disabled");
 
+    for (const key in CURRENT_SETTINGS) {
+        const ele = document.getElementById(`settings_inp_${key}`);
+        const val = CURRENT_SETTINGS[key];
+        if (ele.tagName === "SELECT") {
+            ele.value = val;
+        } else {
+            ele.checked = val;
+        }
+    }
 }
 
 async function open_settings_div() {
-    reset_settings_div();
+    render_settings_div();
     await fadein_settings_div();
 }
 
+function reset_settings() {
+    for (const key in DEFAULT_SETTINGS) {
+        CURRENT_SETTINGS[key] = DEFAULT_SETTINGS[key];
+    }
+
+    save_data("rapidfire_settings", CURRENT_SETTINGS);   
+    render_settings_div();
+}
+
 function close_settings_div() {
-    // TODO: RE-RENDER SESSION
+    SETTINGS_CLOSE_BTN.setAttribute("disabled", "");
+
+    if (CURRENT_SESSION != undefined) {
+        CURRENT_SESSION.load_settings(CURRENT_SETTINGS);
+        CURRENT_SESSION.rerender();
+    }
+
+    save_data("rapidfire_settings", CURRENT_SETTINGS);
     fadeout_settings_div();
 }
 

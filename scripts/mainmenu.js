@@ -8,12 +8,12 @@ function setup_storage() {
         let tempSession = new TriviaSession();
         tempSession.save_progress();
     }
-
-    let settings = load_data("rapidfire_settings");
-    if (Object.keys(settings).length == 0) {
-        save_data("rapidfire_settings", {
-
-        });
+    
+    CURRENT_SETTINGS = load_data("rapidfire_settings");
+    for (const key in DEFAULT_SETTINGS) {
+        if (!CURRENT_SETTINGS.hasOwnProperty(key)) {
+            CURRENT_SETTINGS[key] = DEFAULT_SETTINGS[key];
+        }
     }
 }
 
@@ -32,7 +32,10 @@ async function resume_session() {
         let success = CURRENT_SESSION.load_progress(session);
 
         if (!success) {
-            alert("Oops! If you're reading this, something went horribly wrong while trying to load your session. Please report this on the Github!");
+            alert("Oops! Most likely due to a Rapidfire update, this session is no longer valid. Please start a new one! (If you are consistently getting this message, please file a bug report on the Github.)");
+            let tempSession = new TriviaSession();
+            tempSession.save_progress();
+
             return;
         } else {
             await fadeout_mm_div();
@@ -460,4 +463,5 @@ window.onload = async function() {
     if (window.innerWidth < 800 || navigator.userAgent.match(/Mobile/i) != null) { LD_WARNING_MOBILE = true; }
     
     attempt_load_mm();
+    setup_settings_div();
 }

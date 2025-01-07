@@ -821,7 +821,6 @@ a {
     gap: 40px;
 
     padding-top: 10px;
-
 }
 
 .settings_op {
@@ -925,7 +924,25 @@ input:checked + .settings_toggle_slider:before {
     transform: translateX(32px);
     background-color: white;
 }
-  
+
+#settings_reset {
+    width: 100%;
+    margin-bottom: 0px;
+
+    text-align: center;
+
+    color: gray;
+
+    user-select: none;
+    cursor: pointer;
+}
+
+#settings_reset:hover {
+    color: white;
+    
+    text-decoration: underline;
+}
+
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
