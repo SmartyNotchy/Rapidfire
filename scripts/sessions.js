@@ -125,14 +125,53 @@ function remove_letter_keybind(letter) { KEYS_LISTENING[letter] = false; }
 
 function handle_keypress(event) {
     const key = event.key.toLowerCase();
-    if (KEYS_LISTENING[key]) {
+    if (KEYS_LISTENING[key] && CURRENT_SESSION.settings.mcqshortcut) {
         process_input(["OPTION_SELECT", "abcdefghijklmnopqrstuvwxyz".indexOf(key)]);
+    }
+}
+
+var LAST_ENTER_PRESS = 0;
+var ENTER_DOWN = false;
+const DOUBLE_TAP_THRESHOLD = 300;
+
+function enter_press_listener(event) {
+    if (CURRENT_SESSION.settings.skipshortcut) {
+        if (event.key == "Enter" && !ENTER_DOWN) {
+            ENTER_DOWN = true;
+            const currentTime = Date.now();
+            if (!CURRENT_SESSION.currentQuestion.processingSubmit) {
+                if (currentTime - LAST_ENTER_PRESS <= DOUBLE_TAP_THRESHOLD) {
+                    event.preventDefault();
+                    process_input(["SKIP", ""]);
+                    LAST_ENTER_PRESS = 0;
+                } else {
+                    LAST_ENTER_PRESS = currentTime;
+                }
+            } else {
+                LAST_ENTER_PRESS = 0;
+            }
+        } else if (event.key != "Enter") {
+            LAST_ENTER_PRESS = 0;
+        }
+    }
+}
+
+function enter_release_listener(event) {
+    if (event.key == "Enter") {
+        ENTER_DOWN = false;
     }
 }
 
 /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */
 /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */
 /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */ /* QUESTION OBJECTS */
+
+const QUESTION_STATUS = {
+    UNSOLVED: 0,
+    CORRECT: 1,
+    INCORRECT: 2,
+    SKIPPED: 3
+}
 
 class SAQQuestion {
     constructor(q, topic, correctAnswers) {
@@ -141,6 +180,12 @@ class SAQQuestion {
         this.correctAnswers = correctAnswers;
 
         this.processingSubmit = false;
+
+        this.status = QUESTION_STATUS.UNSOLVED;
+    }
+    
+    get_status() {
+        return this.status;
     }
 
     render(settings) {
@@ -149,16 +194,19 @@ class SAQQuestion {
         reset_saq_div();
         hide_scq_div_except("saq");
 
-        SCQ_QTYPE.innerText = `Short Answer | ${this.topic}`;
+        if (settings.showtopic) SCQ_QTYPE.innerText = `Short Answer | ${this.topic}`;
+        else SCQ_QTYPE.innerText = `Short Answer`;
+
         SCQ_QDESC.innerHTML = this.q;
         SAQ_INPUT_BOX.focus();
     }
 
     rerender(settings) {
-
+        if (settings.showtopic) SCQ_QTYPE.innerText = `Short Answer | ${this.topic}`;
+        else SCQ_QTYPE.innerText = `Short Answer`;
     }
 
-    process_input(event, session) {
+    process_input(event, settings) {
         if (this.processingSubmit) { return; }
 
         if (event[0] == "SKIP") {
@@ -173,11 +221,12 @@ class SAQQuestion {
             SAQ_INPUT_BTN.removeAttribute("disabled", "");
             SAQ_INPUT_BTN.focus();
 
-            // TODO: FEEDBACK DIV
             SAQ_FEEDBACK_SVG.setAttribute("href", "#svg_mincirc");
             SAQ_FEEDBACK_DIV.className = "scq_feedback skipped";
             SAQ_FEEDBACK_TEXT.innerText = `Skipped! Accepted Answers: ${this.correctAnswers.join(", ")}`;
             SAQ_FEEDBACK_DIV.style.display = "flex";
+
+            this.status = QUESTION_STATUS.SKIPPED;
         } if (event[0] == "SUBMIT") {
             let ans = trim_lower(event[1]);
             if (ans != "") {
@@ -185,7 +234,7 @@ class SAQQuestion {
                 SAQ_INPUT_BTN.setAttribute("disabled", "");
 
                 let isCorrect = false;
-                let threshold = 0.77; // TODO: CORRECTNESS THRESHOLD
+                let threshold = [0.00, 0.65, 0.77, 0.85, 1.00][settings.checker];
                 for (const ca of this.correctAnswers) {
                     if (compare_strings(ans, trim_lower(ca)) >= threshold) {
                         isCorrect = true;
@@ -203,24 +252,26 @@ class SAQQuestion {
                     SAQ_INPUT_BTN.removeAttribute("disabled", "");
                     SAQ_INPUT_BTN.focus();
 
-                    // TODO: FEEDBACK DIV
                     SAQ_FEEDBACK_SVG.setAttribute("href", "#svg_check");
                     SAQ_FEEDBACK_DIV.className = "scq_feedback correct";
                     SAQ_FEEDBACK_TEXT.innerText = `Correct! (Accepted Answers: ${this.correctAnswers.join(", ")})`;
                     SAQ_FEEDBACK_DIV.style.display = "flex";
 
-                    // TODO: FIX CONFETTI
-                    toss_confetti_at_element(SAQ_INPUT_BTN, 10);
+                    if (this.status != QUESTION_STATUS.INCORRECT) {
+                        this.status = QUESTION_STATUS.CORRECT;
+                        if (settings.confetti) toss_confetti_at_element(SAQ_INPUT_BTN, 10);
+                    }
                 } else {
                     SAQ_INPUT_BOX.classList.add("incorrect");
                     SAQ_INPUT_BTN.removeAttribute("disabled");
                     this.processingSubmit = false;
 
-                    // TODO: FEEDBACK DIV
                     SAQ_FEEDBACK_SVG.setAttribute("href", "#svg_x");
                     SAQ_FEEDBACK_DIV.className = "scq_feedback incorrect";
                     SAQ_FEEDBACK_TEXT.innerText = "Incorrect";
                     SAQ_FEEDBACK_DIV.style.display = "flex";
+
+                    this.status = QUESTION_STATUS.INCORRECT;
                 }
             }      
         } else if (event[0] == "TYPED_KEY") {
@@ -289,6 +340,12 @@ class MCQQuestion {
         this.buttons = [];
 
         this.processingSubmit = false;
+
+        this.status = QUESTION_STATUS.UNSOLVED;
+    }
+
+    get_status() {
+        return this.status;
     }
     
     render(settings) {
@@ -307,20 +364,23 @@ class MCQQuestion {
             this.buttons.push(new MCQOption(i, alphabet[i], options[i], i == this.correctIdx));
             this.buttons[i].render(false, "");
             this.buttons[i].add_to_div();
-            add_letter_keybind(alphabet[i].toLowerCase()); // TODO SETTINGS
+            add_letter_keybind(alphabet[i].toLowerCase());
         }
 
         hide_scq_div_except("mcq");
 
-        SCQ_QTYPE.innerText = `Multiple Choice | ${this.topic}`;
+        if (settings.showtopic) SCQ_QTYPE.innerText = `Multiple Choice | ${this.topic}`;
+        else SCQ_QTYPE.innerText = `Multiple Choice`;
+        
         SCQ_QDESC.innerHTML = this.q;
     }
 
     rerender(settings) {
-        document.addEventListener('keydown', handle_keypress);
+        if (settings.showtopic) SCQ_QTYPE.innerText = `Multiple Choice | ${this.topic}`;
+        else SCQ_QTYPE.innerText = `Multiple Choice`;
     }
 
-    process_input(event, session) {
+    process_input(event, settings) {
         if (this.processingSubmit) { return; }
 
         if (event[0] == "SKIP") {
@@ -339,11 +399,12 @@ class MCQQuestion {
             MCQ_INPUT_BTN.removeAttribute("disabled", "");
             MCQ_INPUT_BTN.focus();
 
-            // TODO: FEEDBACK DIV
             MCQ_FEEDBACK_SVG.setAttribute("href", "#svg_mincirc");
             MCQ_FEEDBACK_DIV.className = "scq_feedback skipped";
             MCQ_FEEDBACK_TEXT.innerText = `Skipped! Correct Answer: ${this.buttons[this.correctIdx].letter}`;
             MCQ_FEEDBACK_DIV.style.display = "flex";
+
+            this.status = QUESTION_STATUS.SKIPPED;
         } else if (event[0] == "SUBMIT") {
             if (this.selected != undefined) {
                 this.processingSubmit = true;
@@ -362,25 +423,27 @@ class MCQQuestion {
                     MCQ_INPUT_BTN.removeAttribute("disabled", "");
                     MCQ_INPUT_BTN.focus();
 
-                    // TODO: FEEDBACK DIV
                     MCQ_FEEDBACK_SVG.setAttribute("href", "#svg_check");
                     MCQ_FEEDBACK_DIV.className = "scq_feedback correct";
                     MCQ_FEEDBACK_TEXT.innerText = `Correct!`;
                     MCQ_FEEDBACK_DIV.style.display = "flex";
                     
-                    // TODO: FIX CONFETTI
-                    toss_confetti_at_element(MCQ_INPUT_BTN, 10);
+                    if (this.status != QUESTION_STATUS.INCORRECT) {
+                        this.status = QUESTION_STATUS.CORRECT;
+                        if (settings.confetti) toss_confetti_at_element(MCQ_INPUT_BTN, 10);
+                    }
                 } else {
                     this.buttons[this.selected].render(false, "red");
                     this.buttons[this.selected].button.focus();
                     MCQ_INPUT_BTN.removeAttribute("disabled");
                     this.processingSubmit = false;
 
-                    // TODO: FEEDBACK DIV
                     MCQ_FEEDBACK_SVG.setAttribute("href", "#svg_x");
                     MCQ_FEEDBACK_DIV.className = "scq_feedback incorrect";
                     MCQ_FEEDBACK_TEXT.innerText = "Incorrect";
                     MCQ_FEEDBACK_DIV.style.display = "flex";
+
+                    this.status = QUESTION_STATUS.INCORRECT;
                 }
             }            
         } else if (event[0] == "OPTION_SELECT") {
@@ -429,8 +492,8 @@ class TriviaSession {
         }
 
         this.questionNum = 0;
-
         this.questionCount = this.questions.length;
+
         this.questionOrder = shuffle(Array.from({ length: this.questionCount }, (_, i) => i));
 
         this.currentQuestion = this.questions[this.questionOrder[this.questionNum]];
@@ -470,6 +533,8 @@ class TriviaSession {
         try {
             this.build(session.subject, session.topics);
             this.questionNum = session.questionNum;
+            this.questionOrder = session.questionOrder;
+            this.currentQuestion = this.questions[this.questionOrder[this.questionNum]];
             return true;
         } catch {
             return false;
@@ -487,18 +552,28 @@ class TriviaSession {
                 "inSession": true,
                 "subject": this.subject,
                 "topics": this.topics,
-                "questionNum": this.questionNum
+                "questionNum": this.questionNum,
+                "questionOrder": this.questionOrder
             };
         }
-
-        console.log(session);
 
         save_data("rapidfire_session", session);
     }
 
     process_input(event) {
         if (event[0] == "NEXT") {
-            this.questionNum += 1;
+            let qStatus = this.currentQuestion.get_status();
+
+            if ((qStatus == QUESTION_STATUS.SKIPPED && this.settings.redoskipped)
+                || (qStatus == QUESTION_STATUS.INCORRECT && this.settings.redofailed)) {
+                let from = this.questionNum;
+                let to = (this.settings.randomdoover ? (Math.floor(Math.random() * (this.questionCount - from) + from)) : this.questionCount - 1);
+                const [id] = this.questionOrder.splice(from, 1);
+                this.questionOrder.splice(to, 0, id);
+            } else {
+                this.questionNum += 1;
+            }
+            
             this.save_progress();
 
             if (this.questionNum >= this.questionCount) {
@@ -509,7 +584,7 @@ class TriviaSession {
 
             this.render();
         } else {
-            this.currentQuestion.process_input(event, CURRENT_SESSION);
+            this.currentQuestion.process_input(event, this.settings);
         }
     }
 }

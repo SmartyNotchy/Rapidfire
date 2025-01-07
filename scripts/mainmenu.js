@@ -23,12 +23,11 @@ function setup_storage() {
 
 async function resume_session() {
     let session = load_data("rapidfire_session");
-    let settings = load_data("rapidfire_settings");
     if (session.inSession) {
         MENU_BTN_RESUME.setAttribute("disabled", "");
 
         CURRENT_SESSION = new TriviaSession();
-        CURRENT_SESSION.load_settings(settings); // TODO
+        CURRENT_SESSION.load_settings(CURRENT_SETTINGS);
         let success = CURRENT_SESSION.load_progress(session);
 
         if (!success) {
@@ -324,7 +323,7 @@ async function create_new_session() {
     MMNS_CANCEL_BTN.setAttribute("disabled", "");
     MMNS_CREATE_BTN.setAttribute("disabled", "");
     CURRENT_SESSION = new TriviaSession();
-    CURRENT_SESSION.load_settings(undefined); // TODO
+    CURRENT_SESSION.load_settings(CURRENT_SETTINGS);
     CURRENT_SESSION.build(subject, topics);
 
     await fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 200);
@@ -450,6 +449,8 @@ async function attempt_load_mm() {
 
     // Set Event Listeners
     document.addEventListener("keydown", handle_keypress);
+    document.addEventListener("keydown", enter_press_listener);
+    document.addEventListener("keyup", enter_release_listener);
     
     // Fade In Main Menu
     await fade_in_element(MAINMENU_DIV, "long_fadein", "flex", 300)

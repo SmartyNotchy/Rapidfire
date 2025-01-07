@@ -10,7 +10,7 @@ const DIRECTORY = {
         "plaintext": "AP NSL/AP Gov.",
         "path": "./questions/nsl/",
         "files": [
-            "u1ch1", "u1ch2", "u1ch3", "u2ch4", "u2ch5", "u2ch6", "u2ch7"
+            "u1ch1", "u1ch2", "u1ch3", "u2ch4", "u2ch5", "u2ch6"
         ]
     },
     "ESS": {
@@ -25,13 +25,6 @@ const DIRECTORY = {
         "path": "./questions/bio/",
         "files": [
             "01_water", "02_carbs", "03_lipids"
-        ]
-    },
-    "Span4": {
-        "plaintext": "Spanish 4 (MD Curriculum)",
-        "path": "./questions/span4/",
-        "files": [
-            "bellasarte"
         ]
     }
     /*"DEBUG": {

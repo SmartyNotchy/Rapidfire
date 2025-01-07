@@ -850,7 +850,7 @@ a {
 }
 
 .settings_op_select {
-    margin-right: 30px;
+    margin-right: 40px;
     margin-left: 60px;
 
     display: flex;
@@ -881,6 +881,7 @@ a {
 
     outline: 1px solid gray;
     border-radius: 100px;
+    
 }
   
 .settings_toggle input { 
@@ -939,7 +940,7 @@ input:checked + .settings_toggle_slider:before {
 
 #settings_reset:hover {
     color: white;
-    
+
     text-decoration: underline;
 }
 
