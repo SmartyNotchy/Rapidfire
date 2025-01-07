@@ -1,525 +1,381 @@
-[PRESET] Unit 3 (1754-1800)
+[PRESET] Unit 3 - 1754 to 1800
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] The French & Indian War was between the French & the ______.
+[T] 3.2 - The French & Indian War
+-------------------------------------------
+[SAQ] The French & Indian War was between the French & the ______.
 [A] British
 [A] English
 [A] Britain
 [A] England
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] The French & Indian War was a small part of this larger war.
+[SAQ] The French & Indian War was a small part of this larger war.
 [A] Seven Year's War
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] The French & Indian War was caused by territorial disputes in this location.
+[SAQ] The French & Indian War was caused by territorial disputes in this location.
 [A] Ohio
 [A] Ohio River
 [A] Ohio River Valley
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] This convention of colonists during the French & Indian War was a precursor to the Revolutionary Congress.
+[SAQ] This convention of colonists during the French & Indian War was a precursor to the Revolutionary Congress.
 [A] Albany Congress
 [A] Albany Convention
 [A] Albany
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] This treaty ended the French & Indian War.
+[SAQ] This treaty ended the French & Indian War.
 [A] Peace of Paris
 [A] Treaty of Paris
 [A] Treaty of 1763
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] Which side benefited the most from the French & Indian War?
+[SAQ] Which side benefited the most from the French & Indian War?
 [A] England
 [A] Britain
 [A] Great Britain
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] As a result of the French & Indian War, this area was opened up to the colonists.
+[SAQ] As a result of the French & Indian War, this area was opened up to the colonists.
 [A] Ohio
 [A] Ohio River
 [A] Ohio River Valley
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] To protect colonists from native violence in the mid-1700s, Parliament passed the:
+[SAQ] To protect colonists from native violence in the mid-1700s, Parliament passed the:
 [A] Proclamation of 1763
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] This law outraged colonists because they felt they had a right to explore the land they'd won.
+[SAQ] This law outraged colonists because they felt they had a right to explore the land they'd won.
 [A] Proclamation of 1763
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] How did the colonists react to the Proclamation of 1763? (Supportive/indifferent/conflicted/outraged)
+[SAQ] How did the colonists react to the Proclamation of 1763? (Supportive/indifferent/conflicted/outraged)
 [A] Outraged
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.2
-[Q] This event directly led to Parliament passing the first of various tax acts.
+[SAQ] This event directly led to Parliament passing the first of various tax acts.
 [A] French & Indian War
 [A] Seven Years' War
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] This refers to Parliament's indifferent behavior to the colonies prior to the French & Indian War.
+[T] 3.3 - Taxation Without Representation
+-------------------------------------------
+[SAQ] This refers to Parliament's indifferent behavior to the colonies prior to the French & Indian War.
 [A] Salutary Neglect
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] What event directly led to the end of salutary neglect?
+[SAQ] What event directly led to the end of salutary neglect?
 [A] French & Indian War
 [A] Seven Years' War
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] This act kept British soldiers stationed in the colonies, and made the colonists feed & house them.
+[SAQ] This act kept British soldiers stationed in the colonies, and made the colonists feed & house them.
 [A] Quartering Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] To regain control of the colonies, the British prime minster suggested a three-part plan; who was he?
+[SAQ] To regain control of the colonies, the British prime minster suggested a three-part plan; who was he?
 [A] George Grenville
 [A] Grenville
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] Which tax act came significantly after the others? (Sugar Act/Tea Act/Stamp Act)
+[SAQ] Which tax act came significantly after the others? (Sugar Act/Tea Act/Stamp Act)
 [A] Tea Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] This act prevented colonists from making the money to pay the various tax acts.
+[SAQ] This act prevented colonists from making the money to pay the various tax acts.
 [A] Currency Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] The argument of no "______ ______ ______" was based on the lack of colonists in Parliament.
+[SAQ] The argument of no "______ ______ ______" was based on the lack of colonists in Parliament.
 [A] Taxation Without Representation
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] Britain responded to "no taxation without representation" by saying the colonists were ____ _______.
+[SAQ] Britain responded to "no taxation without representation" by saying the colonists were ____ _______.
 [A] Virtually Represented
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] Colonial groups were organized to protest the various tax acts (mainly Stamp Act); name one.
+[SAQ] Colonial groups were organized to protest the various tax acts (mainly Stamp Act); name one.
 [A] Sons of Liberty
 [A] Daughters of Liberty
 [A] Stamp Act Congress
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] During the Stamp Act Congress, colonists wanted (revolution/repeal of Stamp Act/nullification of Stamp Act).
+[SAQ] During the Stamp Act Congress, colonists wanted (revolution/repeal of Stamp Act/nullification of Stamp Act).
 [A] Repeal of Stamp Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] When Parliament repealed the Stamp Act & Sugar Act in 1766, they also passed this act to assert dominance.
+[SAQ] When Parliament repealed the Stamp Act & Sugar Act in 1766, they also passed this act to assert dominance.
 [A] Declaratory Act
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.3
-[Q] The Boston Tea Party led to the passage of these acts:
+[SAQ] The Boston Tea Party led to the passage of these acts:
 [A] Coercive Acts
 [A] Intolerable Acts
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.4
-[Q] During the Continental Congress of 1774, colonists (supported/were conflicted on/opposed) revolution.
+[T] 3.4 - Philosophical Foundations of the American Revolution 
+-------------------------------------------
+[SAQ] During the Continental Congress of 1774, colonists (supported/were conflicted on/opposed) revolution.
 [A] Opposed
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.4
-[Q] Ideals from this movement had a large influence on the Continental Congress of 1774.
+[SAQ] Ideals from this movement had a large influence on the Continental Congress of 1774.
 [A] Enlightenment
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.4
-[Q] This pamphlet used everyday language to swing public opinion to support revolution.
+[SAQ] This pamphlet used everyday language to swing public opinion to support revolution.
 [A] Common Sense
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.4
-[Q] Who wrote Common Sense?
+[SAQ] Who wrote Common Sense?
 [A] Thomas Paine
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.4
-[Q] Which of these people would have opposed colonial revolution? (Thomas Paine/John Locke/Charles Townshend/Kirabo Payne)
+[SAQ] Which of these people would have opposed colonial revolution? (Thomas Paine/John Locke/Charles Townshend/Kirabo Payne)
 [A] Charles Townshend
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.4
-[Q] The Second Continental Congress resulted in this document.
+[SAQ] The Second Continental Congress resulted in this document.
 [A] Declaration of Independence
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.5
-[Q] Which % is closest to the amount of Patriots at the start of the Revolution? (25/50/75/99)
+[T] 3.5 - The American Revolution
+-------------------------------------------
+[SAQ] Which % is closest to the amount of Patriots at the start of the Revolution? (25/50/75/99)
 [A] 50
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.5
-[Q] The Continental Congress appointed this person as commander in chief.
+[SAQ] The Continental Congress appointed this person as commander in chief.
 [A] George Washington
 [A] Washington
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.5
-[Q] Washington waged a war of ______, attempting to hold out long enough to tire the British.
+[SAQ] Washington waged a war of ______, attempting to hold out long enough to tire the British.
 [A] Attrition
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.5
-[Q] This battle in the Revolution convinced France to join the colonists' side.
+[SAQ] This battle in the Revolution convinced France to join the colonists' side.
 [A] Saratoga
 [A] Battle of Saratoga
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.5
-[Q] Which **best** describes why the Battle of Saratoga was important? (Final Victory/Convinced French/Lowered British Morale/Increased Colonial Morale)
+[SAQ] Which **best** describes why the Battle of Saratoga was important? (Final Victory/Convinced French/Lowered British Morale/Increased Colonial Morale)
 [A] Convinced French
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.5
-[Q] Which **best** describes why the Battle of Yorktown was important? (Final Victory/Convinced French/Lowered British Morale/Increased Colonial Morale)
+[SAQ] Which **best** describes why the Battle of Yorktown was important? (Final Victory/Convinced French/Lowered British Morale/Increased Colonial Morale)
 [A] Final Victory
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.5
-[Q] This treaty established America as an independent country.
+[SAQ] This treaty established America as an independent country.
 [A] Treaty of Paris
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.6
-[Q] This concept refers to the belief that women needed to be well-educated to raise sons with republican ideals.
+[T] 3.6 - Revolutionary Ideals
+-------------------------------------------
+[SAQ] This concept refers to the belief that women needed to be well-educated to raise sons with republican ideals.
 [A] Republican Motherhood
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.6
-[Q] The American Revolution kickstarted many other revolutions in the world; name the one that immediately followed in 1789.
+[SAQ] The American Revolution kickstarted many other revolutions in the world; name the one that immediately followed in 1789.
 [A] France
 [A] French
 [A] French Revolution
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] The first "Constitution" of the US were the:
+[T] 3.7 - The Articles of Confederation
+-------------------------------------------
+[SAQ] The first "Constitution" of the US were the:
 [A] Articles of Confederation
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] The Articles of Confederation invested most power in this branch.
+[SAQ] The Articles of Confederation invested most power in this branch.
 [A] Legislative
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] True/False; the Articles of Confederation appointed a Supreme Court.
+[SAQ] True/False; the Articles of Confederation appointed a Supreme Court.
 [A] False
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] To change the Articles of Confederation, _/13 states needed to approve.
+[SAQ] To change the Articles of Confederation, _/13 states needed to approve.
 [A] 9
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] How many votes did each state get under the Articles of Confederation? (0/1/Based on Population/Based on Size)
+[SAQ] How many votes did each state get under the Articles of Confederation? (0/1/Based on Population/Based on Size)
 [A] 1
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] This was the most important (perhaps only) accomplishment under the Articles of Confederation.
+[SAQ] This was the most important (perhaps only) accomplishment under the Articles of Confederation.
 [A] Northwest Ordinance
 [A] Northwest Ordinance of 1787
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] This law passed under the Articles of Confederation provided a statehood process for the Northwest states.
+[SAQ] This law passed under the Articles of Confederation provided a statehood process for the Northwest states.
 [A] Northwest Ordinance
 [A] Northwest Ordinance of 1787
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] This event exposed the weaknesses of the Articles of Confederation.
+[SAQ] This event exposed the weaknesses of the Articles of Confederation.
 [A] Shay's Rebellion
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.7
-[Q] Shay's Rebellion exposed the weaknesses in the:
+[SAQ] Shay's Rebellion exposed the weaknesses in the:
 [A] Articles
 [A] Articles of Confederation
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.8
-[Q] The Virginia & New Jersey Plans referred to the debate on (representation/slavery/federal power).
+[T] 3.8 - The Constitutional Convention
+-------------------------------------------
+[SAQ] The Virginia & New Jersey Plans referred to the debate on (representation/slavery/federal power).
 [A] Representation
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.8
-[Q] Under the (Virginia/New Jersey) Plan, each state got a single vote.
+[SAQ] Under the (Virginia/New Jersey) Plan, each state got a single vote.
 [A] New Jersey
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.8
-[Q] Under the (Virginia/New Jersey) Plan, states got votes based on population.
+[SAQ] Under the (Virginia/New Jersey) Plan, states got votes based on population.
 [A] Virginia
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.8
-[Q] The Three-Fifths Compromise referred to the debate on (representation/slavery/federal power).
+[SAQ] The Three-Fifths Compromise referred to the debate on (representation/slavery/federal power).
 [A] Slavery
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.8
-[Q] The Constitution (advocated for/didn't mention/delayed/opposed) the status of slavery.
+[SAQ] The Constitution (advocated for/didn't mention/delayed/opposed) the status of slavery.
 [A] Delayed
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.8
-[Q] The Bill of Rights appeased the (Federalists/Anti-Feds).
+[SAQ] The Bill of Rights appeased the (Federalists/Anti-Feds).
 [A] Federalists
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.8
-[Q] Anti-Federalists claimed the Constitution gave the fed. gov. (too much/too little) power.
+[SAQ] Anti-Federalists claimed the Constitution gave the fed. gov. (too much/too little) power.
 [A] Too Much
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.8
-[Q] Which of the following people would NOT support the Constitution? (Alexander Hamilton/James Madison/John Jay/Patrick Henry)
+[SAQ] Which of the following people would NOT support the Constitution? (Alexander Hamilton/James Madison/John Jay/Patrick Henry)
 [A] Patrick Henry
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.9
-[Q] Article VI of the Constitution, known as the _____ _____, stated that national laws trumped state laws in event of a contradiction.
+[T] 3.9 - The Constitution
+-------------------------------------------
+[SAQ] Article VI of the Constitution, known as the _____ _____, stated that national laws trumped state laws in event of a contradiction.
 [A] Supremacy Clause
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.9
-[Q] The Supremacy Clause only applied to certain national laws, known as _______ _____ (Article I Section 8).
+[SAQ] The Supremacy Clause only applied to certain national laws, known as _______ _____ (Article I Section 8).
 [A] Enumerated Powers
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.9
-[Q] This amendment reserved non-enumerated powers to state governments.
+[SAQ] This amendment reserved non-enumerated powers to state governments.
 [A] 10
 [A] Tenth
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.9
-[Q] This concept refers to the sharing of power between national & state governments.
+[SAQ] This concept refers to the sharing of power between national & state governments.
 [A] Federalism
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.9
-[Q] The system of _______ __ ______ ensured no one branch of government had too much power. (i.e. overriding vetoes)
+[SAQ] The system of _______ __ ______ ensured no one branch of government had too much power. (i.e. overriding vetoes)
 [A] Checks & Balances
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Under George Washington, the precedent of a _____ of secretaries of departments was established.
+[T] 3.10 - Shaping a New Republic
+-------------------------------------------
+[SAQ] Under George Washington, the precedent of a _____ of secretaries of departments was established.
 [A] Cabinet
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] _______ ______, Washington's Secretary of Treasury, established the first National Bank.
+[SAQ] _______ ______, Washington's Secretary of Treasury, established the first National Bank.
 [A] Alexander Hamilton
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] The National Bank was contested by (large/small/high debt/little debt) states.
+[SAQ] The National Bank was contested by (large/small/high debt/little debt) states.
 [A] Little Debt
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Hamilton justified the creation of the Bank by the ______ clause.
+[SAQ] Hamilton justified the creation of the Bank by the ______ clause.
 [A] Elastic
 [A] Necessary & Proper
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Washington decided to (support/stay neutral/oppose) the French Revolution.
+[SAQ] Washington decided to (support/stay neutral/oppose) the French Revolution.
 [A] Stay Neutral
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Due to British impressment of sailors, Washington sent his chief justice to Britain, negotiating this treaty.
+[SAQ] Due to British impressment of sailors, Washington sent his chief justice to Britain, negotiating this treaty.
 [A] Jay's Treaty
 [A] Jay
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Under Washington, this treaty allowed the US to use the port of New Orleans.
+[SAQ] Under Washington, this treaty allowed the US to use the port of New Orleans.
 [A] Pinckney
 [A] Pinckney Treaty
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] In the aftermath of this battle, Indians surrended all land in the Ohio River Valley to the US.
+[SAQ] In the aftermath of this battle, Indians surrended all land in the Ohio River Valley to the US.
 [A] Fallen Timbers
 [A] Battle of Fallen Timbers
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] The success in dealing with this incident proved the effectiveness of the Constitution.
+[SAQ] The success in dealing with this incident proved the effectiveness of the Constitution.
 [A] Whiskey Rebellion
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] In the first two-party system in the US, the two parties were the ______ and the ___ - _____.
+[SAQ] In the first two-party system in the US, the two parties were the ______ and the ___ - _____.
 [A] Federalists, Demo-Reps
 [A] Federalists, Democratic Republicans
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Who led the earliest Federalist party?
+[SAQ] Who led the earliest Federalist party?
 [A] Hamilton
 [A] Alexander Hamilton
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Who led the earliest Demo-Rep party?
+[SAQ] Who led the earliest Demo-Rep party?
 [A] Jefferson
 [A] Thomas Jefferson
 [A] Madison
 [A] James Madison
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] The (Feds/Demo-Reps) supported a strong central government.
+[SAQ] The (Feds/Demo-Reps) supported a strong central government.
 [A] Feds
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] The (Feds/Demo-Reps) favored the interests of the rich.
+[SAQ] The (Feds/Demo-Reps) favored the interests of the rich.
 [A] Feds
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] The (Feds/Demo-Reps) supported strate government rights.
+[SAQ] The (Feds/Demo-Reps) supported strate government rights.
 [A] Demo-Reps
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] The (Feds/Demo-Reps) favored the interests of yeomen farmers.
+[SAQ] The (Feds/Demo-Reps) favored the interests of yeomen farmers.
 [A] Demo-Reps
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Washington's Farewell Address covered all of the following topics EXCEPT (sectionalism/expansion/foreign policy/political parties).
+[SAQ] Washington's Farewell Address covered all of the following topics EXCEPT (sectionalism/expansion/foreign policy/political parties).
 [A] Expansion
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] When John Adams sent diplomats to France to stop the seizings of ships, French diplomats demanded a bribe, leading to this incident.
+[SAQ] When John Adams sent diplomats to France to stop the seizings of ships, French diplomats demanded a bribe, leading to this incident.
 [A] XYZ Affair
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] Adams pushed for this piece of legislation, which made it illegal to criticize the government and allowed deportation of immigrants.
+[SAQ] Adams pushed for this piece of legislation, which made it illegal to criticize the government and allowed deportation of immigrants.
 [A] Alien & Sedition Acts
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] As a result of the Alien & Sedition Acts, these "resolutions" were issued.
+[SAQ] As a result of the Alien & Sedition Acts, these "resolutions" were issued.
 [A] Virginia & Kentucky
 [A] Virginia & Kentucky Resolutions
 [END]
 -------------------------------------------
-[QT] SAQ
-[T] 3.10
-[Q] The Virginia & Kentucky Resolutions foreshadowed this crisis that would occur later on.
+[SAQ] The Virginia & Kentucky Resolutions foreshadowed this crisis that would occur later on.
 [A] Nullification
 [A] Nullification Crisis
 [END]

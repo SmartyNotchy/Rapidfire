@@ -1,6 +1,6 @@
 [PRESET] (Unit 1) Chapter 3 - Federalism
 -------------------------------------------
-[T] NSL 1.7
+[T] NSL 1.7 - Relationship Between the States & Federal Government
 -------------------------------------------
 [SAQ] ___________ refers to the sharing of power between national & state governments.
 [A] Federalism
@@ -109,7 +109,7 @@
 [A] Devolution
 [END]
 -------------------------------------------
-[T] NSL 1.8
+[T] NSL 1.8 - Constitutional Interpretations of Federalism
 -------------------------------------------
 [SAQ] Article 1 Section _ covers the enumerated powers of Congress.
 [EXA] 8
@@ -214,7 +214,7 @@
 [A] Commerce Clause
 [END]
 -------------------------------------------
-[T] NSL 1.9
+[T] NSL 1.9 - Federalism in Action
 -------------------------------------------
 [SAQ] Despite Trump withdrawing from the Paris Agreement (an international environmental agreement), many states decided to follow the guidelines anyways. This is an example of:
 [A] Separation of Powers

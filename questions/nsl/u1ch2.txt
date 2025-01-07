@@ -1,6 +1,6 @@
 [PRESET] (Unit 1) Chapter 2 - The Constitution
 -------------------------------------------
-[T] NSL 1.4
+[T] NSL 1.4 - Challenges of the Articles of Confederation
 -------------------------------------------
 [SAQ] Name the quickly-drafted government plan for the US while the Revolution was underway.
 [A] Articles of Confederation
@@ -53,7 +53,7 @@
 [A] Shay's Rebellion
 [END]
 -------------------------------------------
-[T] NSL 1.5
+[T] NSL 1.5 - Ratification of the Constitution
 -------------------------------------------
 [SAQ] To replace the Articles of Confederation, this meeting of 55 delegates was organized.
 [A] Constitutional Convention
@@ -219,7 +219,7 @@
 [A] Ten
 [END]
 -------------------------------------------
-[T] NSL 1.6
+[T] NSL 1.6 - Principles of American Government
 -------------------------------------------
 [SAQ] Both houses of Congress have _________, groups of 10-40 members that oversee certain topics of law or policy.
 [A] Committees

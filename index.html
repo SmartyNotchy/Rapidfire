@@ -105,10 +105,10 @@
               New Session
             </div>
           </button>
-          <button class="mainmenu_btn" id="mainmenu_btn_settings" disabled>
+          <button class="mainmenu_btn" id="mainmenu_btn_settings">
             <div class="mm_btn_content">
               <svg id="mm_svg_new" class="mm_svg"><use id="mm_svg_new_src" href="#svg_settings"></use></svg>
-              (Coming Soon)
+              Settings
             </div>
           </button>
           <button class="mainmenu_btn" id="mainmenu_btn_stats" disabled>
@@ -125,7 +125,7 @@
           </button>
         </div>
 
-        <p style="position: absolute; bottom: 25px; right: 10px; font-size: 14px; color: gray;">v1.0.0-alpha.7</p>
+        <p style="position: absolute; bottom: 25px; right: 10px; font-size: 14px; color: gray;">v1.0.0</p>
         <p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px; color: gray;">Logo by
           <a style="color: gray !important;" href="https://github.com/starlaxiia" target="_blank" rel="noopener noreferrer">@starlaxiia</a>
         </p>
@@ -195,24 +195,47 @@
           </button>
           
           <div id="settings_content_div">
-            <div id="settings_checker_threshold" class="settings_op">
+            <div class="settings_op">
               <div class="settings_op_info">
                 <p class="settings_op_title">Checker Strictness</p>
-                <p class="settings_op_subtitle"> Sets how close your input has to be to the actual answer for it to be accepted by the SAQ checker.<br>Lower settings are more forgiving with typos but may incorrectly accept some inputs.</p>
+                <p class="settings_op_subtitle">Sets how close your input has to be to the actual answer for it to be accepted by the SAQ checker. Lower settings are more forgiving with typos but may incorrectly accept some inputs.</p>
               </div>
               
-              <select id="mmns_subject_dropdown" name="dropdown">
-                <option value="1">Lenient (65%)</option>
-                <option value="2">Default (77%)</option>
-                <option value="3">Strict (85%)</option>
-                <option value="4">Exact (100%)</option>
-              </select>
+              <div class="settings_op_select">
+                <select class="settings_dropdown" id="settings_inp_checker">
+                  <option value=1>Lenient (65%)</option>
+                  <option value=2>Default (77%)</option>
+                  <option value=3>Strict (85%)</option>
+                  <option value=4>Exact (100%)</option>
+                </select>
+              </div>
+            </div>
+
+            <div id="settings_checker_skip" class="settings_op">
+              <div class="settings_op_info">
+                <p class="settings_op_title">Show Question Topic</p>
+                <p class="settings_op_subtitle">Display which topic set each question is drawn from.</p>
+              </div>
+
+              <div class="settings_op_select">
+                <label class="settings_toggle">
+                  <input type="checkbox" id="settings_inp_showtopic">
+                  <span class="settings_toggle_slider"></span>
+                </label>
+              </div>
             </div>
 
             <div id="settings_checker_skip" class="settings_op">
               <div class="settings_op_info">
                 <p class="settings_op_title">Skip Shortcut</p>
-                <p class="settings_op_subtitle">If enabled, pressing enter twice while no answer is selected/entered will automatically skip the problem.</p>
+                <p class="settings_op_subtitle">If enabled, double-tapping ENTER while no answer is selected will automatically skip the problem.</p>
+              </div>
+
+              <div class="settings_op_select">
+                <label class="settings_toggle">
+                  <input type="checkbox" id="settings_inp_skipshortcut">
+                  <span class="settings_toggle_slider"></span>
+                </label>
               </div>
             </div>
 
@@ -221,41 +244,85 @@
                 <p class="settings_op_title">MCQ Keybinds</p>
                 <p class="settings_op_subtitle">If enabled, pressing the letter keys (ABCD, etc.) corresponding to an MCQ option will automatically select it.</p>
               </div>
+
+              <div class="settings_op_select">
+                <label class="settings_toggle">
+                  <input type="checkbox" id="settings_inp_mcqshortcut">
+                  <span class="settings_toggle_slider"></span>
+                </label>
+              </div>
             </div>
 
             <div id="settings_checker_redo" class="settings_op">
               <div class="settings_op_info">
-                <p class="settings_op_title">Redo Incorrect Answers</p>
-                <p class="settings_op_subtitle">If enabled, questions that are answered incorrectly will be re-shuffled into the draw pool.</p>
+                <p class="settings_op_title">Redo Skipped Questions</p>
+                <p class="settings_op_subtitle">Add skipped questions to the back of the question queue.</p>
+              </div>
+
+              <div class="settings_op_select">
+                <label class="settings_toggle">
+                  <input type="checkbox" id="settings_inp_redoskipped">
+                  <span class="settings_toggle_slider"></span>
+                </label>
               </div>
             </div>
 
-            <div id="settings_checker_redostats" class="settings_op">
+            <div id="settings_checker_redo" class="settings_op">
               <div class="settings_op_info">
-                <p class="settings_op_title">Redos Affect Stats</p>
-                <p class="settings_op_subtitle">If enabled, re-attempts on already-seen questions in a session will still contribute to your stats.<br>Requires "Redo Incorrect Answers" to be enabled.</p>
+                <p class="settings_op_title">Redo Failed Questions</p>
+                <p class="settings_op_subtitle">Add failed questions (not answering correctly on the first attempt) to the back of the question queue.</p>
+              </div>
+
+              <div class="settings_op_select">
+                <label class="settings_toggle">
+                  <input type="checkbox" id="settings_inp_redofailed">
+                  <span class="settings_toggle_slider"></span>
+                </label>
+              </div>
+            </div>
+
+            <div id="settings_checker_redo" class="settings_op">
+              <div class="settings_op_info">
+                <p class="settings_op_title">Insert Do-Overs Randomly</p>
+                <p class="settings_op_subtitle">When a question is redone, add it in a random position in the question queue instead of at the back.</p>
+              </div>
+
+              <div class="settings_op_select">
+                <label class="settings_toggle">
+                  <input type="checkbox" id="settings_inp_randomdoover">
+                  <span class="settings_toggle_slider"></span>
+                </label>
               </div>
             </div>
             
             <div id="settings_checker_confetti" class="settings_op">
               <div class="settings_op_info">
                 <p class="settings_op_title">Confetti</p>
-                <p class="settings_op_subtitle">Yippee! Yippee! Yippee! Yippee! Yippee! Yippee!<br>(Tosses up a little confetti after every correct answer.)</p>
+                <p class="settings_op_subtitle">Yippee! Yippee! Yippee! Yippee! Yippee! Yippee!<br>(Toss up a little confetti after every correct answer.)</p>
+              </div>
+
+              <div class="settings_op_select">
+                <label class="settings_toggle">
+                  <input type="checkbox" id="settings_inp_confetti">
+                  <span class="settings_toggle_slider"></span>
+                </label>
               </div>
             </div>
+            
+            <p id="settings_reset" onclick="reset_settings()">Restore Default Settings</a>
           </div>
         </div>
       </div>
 
       <div id="session_div">
         <div id="session_corner_div">
-          <button id="session_settings_btn" class="session_corner_btn" disabled>
+          <button id="session_settings_btn" class="session_corner_btn">
             <svg id="session_svg_settings" class="session_svg"><use href="#svg_settingsalt"></use></svg>
           </button>
-          <button id="session_stats_btn" class="session_corner_btn" disabled>
+          <button id="session_stats_btn" class="session_corner_btn" disabled style="display: none;">
             <svg id="session_svg_stats" class="session_svg"><use href="#svg_stats"></use></svg>
           </button>
-          <button id="session_history_btn" class="session_corner_btn" disabled>
+          <button id="session_history_btn" class="session_corner_btn" disabled style="display: none;">
             <svg id="session_svg_history" class="session_svg"><use href="#svg_history"></use></svg>
           </button>
           <button id="session_mainmenu_btn" class="session_corner_btn">

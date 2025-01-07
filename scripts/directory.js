@@ -1,11 +1,11 @@
 const DIRECTORY = {
-    /*"APUSH": {
+    "APUSH": {
         "plaintext": "APUSH",
         "path": "./questions/apush/",
         "files": [
             "unit1", "unit2", "unit3", "unit4", "unit5", "unit6", "unit7", "unit8"
         ]
-    },*/
+    },
     "NSL": {
         "plaintext": "AP NSL/AP Gov.",
         "path": "./questions/nsl/",
@@ -26,13 +26,6 @@ const DIRECTORY = {
         "files": [
             "01_water", "02_carbs", "03_lipids"
         ]
-    },
-    "Span4": {
-        "plaintext": "Spanish 4 (MD Curriculum)",
-        "path": "./questions/span4/",
-        "files": [
-            "bellasarte"
-        ]
     }
     /*"DEBUG": {
         "plaintext": "Debug Question Sets",
@@ -43,7 +36,7 @@ const DIRECTORY = {
 
 var SUBJECTS = {"None": "-----------------------"}; // Used for dropdown
 var PRESETS = {"None": "-----------------------"}; // Used for dropdown
-var QUESTION_BANK = {}; // Subject: {Topic: [Question, Question, ...]}
+var QUESTIONS_BY_TOPIC = {}; // Subject: {Topic: [Question, Question, ...]}
 
 function trim_lower(str) {
     return str.trim().toLowerCase();
@@ -190,7 +183,7 @@ async function load_directory() {
         }
 
         PRESETS[subj[0]] = subjPresets;
-        QUESTION_BANK[subj[0]] = subjTopics;
+        QUESTIONS_BY_TOPIC[subj[0]] = subjTopics;
     }
     return errors;
 }

@@ -45,6 +45,22 @@ a {
     100% { opacity: 0; }
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+} 
+
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
 /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */ /* LOADING DIV */
@@ -792,16 +808,22 @@ a {
 }
 
 #settings_content_div {
-    width: 100%;
-    margin-top: 20px;
-    height: calc(80vh - 150px);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    height: calc(80vh - 180px);
 
     overflow-y: scroll;
     overflow-x: hidden;
+
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+    padding-top: 10px;
 }
 
 .settings_op {
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -812,33 +834,115 @@ a {
 }
 
 .settings_op_title {
-    font-size: 18px;
+    font-size: 20px;
+    margin: 0px;
+    user-select: none;
 }
 
 .settings_op_subtitle {
-    margin-top: -10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
 
-    font-size: 14px;
+    font-size: 16px;
     font-style: italic;
 
     color: gray;
 }
 
-::-webkit-scrollbar {
-    width: 10px;
+.settings_op_select {
+    margin-right: 40px;
+    margin-left: 60px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
 }
 
-::-webkit-scrollbar-track {
-    background: none;
+.settings_dropdown {
+    margin-left: 10px;
+    
+    width: 200px;
+    height: 40px;
+
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: #1f2937;
+    color: white;
+    padding-left: 10px;
+
+    font-size: 16px;
 }
 
-::-webkit-scrollbar-thumb {
-    background: #888;
+.settings_toggle {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 28px;
+
+    outline: 1px solid gray;
+    border-radius: 100px;
+    
+}
+  
+.settings_toggle input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+  
+.settings_toggle_slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #1f2937;
+    transition: .4s;
+
+    border-radius: 100px;
+}
+  
+.settings_toggle_slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 4px;
+    bottom: 4px;
+    background-color: gray;
+    transition: .4s;
+
+    border-radius: 100px;
+}
+  
+input:checked + .settings_toggle_slider {
+    background-color: #3366ff;
+    outline: 1px solid white;
+}
+  
+input:checked + .settings_toggle_slider:before {
+    transform: translateX(32px);
+    background-color: white;
 }
 
-::-webkit-scrollbar-thumb:hover {
-    background: #555;
-} 
+#settings_reset {
+    width: 100%;
+    margin-bottom: 0px;
+
+    text-align: center;
+
+    color: gray;
+
+    user-select: none;
+    cursor: pointer;
+}
+
+#settings_reset:hover {
+    color: white;
+
+    text-decoration: underline;
+}
 
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
 /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */ /* TRIVIA SESSIONS */
