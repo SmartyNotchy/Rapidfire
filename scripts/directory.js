@@ -10,7 +10,7 @@ const DIRECTORY = {
         "plaintext": "AP NSL/AP Gov.",
         "path": "./questions/nsl/",
         "files": [
-            "u1ch1", "u1ch2", "u1ch3", "u2ch4", "u2ch5", "u2ch6"
+            "u1ch1", "u1ch2", "u1ch3", "u2ch4", "u2ch5", "u2ch6", "u2ch7"
         ]
     },
     "ESS": {
@@ -43,7 +43,7 @@ const DIRECTORY = {
 
 var SUBJECTS = {"None": "-----------------------"}; // Used for dropdown
 var PRESETS = {"None": "-----------------------"}; // Used for dropdown
-var QUESTION_BANK = {}; // Subject: {Topic: [Question, Question, ...]}
+var QUESTIONS_BY_TOPIC = {}; // Subject: {Topic: [Question, Question, ...]}
 
 function trim_lower(str) {
     return str.trim().toLowerCase();
@@ -190,7 +190,7 @@ async function load_directory() {
         }
 
         PRESETS[subj[0]] = subjPresets;
-        QUESTION_BANK[subj[0]] = subjTopics;
+        QUESTIONS_BY_TOPIC[subj[0]] = subjTopics;
     }
     return errors;
 }

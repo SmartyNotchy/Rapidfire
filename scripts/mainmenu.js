@@ -1,18 +1,38 @@
+/* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */
+/* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */
+/* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */ /* LOCAL STORAGE SETUP */
+
+function setup_storage() {
+    let session = load_data("rapidfire_session");
+    if (Object.keys(session).length == 0) {
+        let tempSession = new TriviaSession();
+        tempSession.save_progress();
+    }
+
+    let settings = load_data("rapidfire_settings");
+    if (Object.keys(settings).length == 0) {
+        save_data("rapidfire_settings", {
+
+        });
+    }
+}
+
 /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
 /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
 /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */ /* SESSION RESUMING */
 
 async function resume_session() {
-    let saveObj = getCookie("rapidfire_saveObj");
-    if (saveObj.inSession) {
+    let session = load_data("rapidfire_session");
+    let settings = load_data("rapidfire_settings");
+    if (session.inSession) {
         MENU_BTN_RESUME.setAttribute("disabled", "");
 
         CURRENT_SESSION = new TriviaSession();
-        CURRENT_SESSION.load_settings(undefined); // TODO
-        let success = CURRENT_SESSION.load_progress(saveObj);
+        CURRENT_SESSION.load_settings(settings); // TODO
+        let success = CURRENT_SESSION.load_progress(session);
 
         if (!success) {
-            alert("Oops! If you're reading this, something went horribly wrong while trying to load your session. Please report this on the Github!\n\n" + error);
+            alert("Oops! If you're reading this, something went horribly wrong while trying to load your session. Please report this on the Github!");
             return;
         } else {
             await fadeout_mm_div();
@@ -37,7 +57,7 @@ class PresetMenuElement {
 
         for (let i = 0; i < this.numTopics; i++) {
             this.selected.push(false);
-            let tempQuestions = QUESTION_BANK[subject][this.topics[i]];
+            let tempQuestions = QUESTIONS_BY_TOPIC[subject][this.topics[i]];
             this.questionLengths.push(tempQuestions.length);
         }
 
@@ -302,7 +322,7 @@ async function create_new_session() {
     MMNS_CREATE_BTN.setAttribute("disabled", "");
     CURRENT_SESSION = new TriviaSession();
     CURRENT_SESSION.load_settings(undefined); // TODO
-    CURRENT_SESSION.build(subject, topics, 0, Math.floor(Math.random() * 2000000000000));
+    CURRENT_SESSION.build(subject, topics);
 
     await fade_out_element(MMNS_WRAPPER_DIV, "basic_fadeout", 200);
     CURRENT_SESSION.firstrender();
@@ -321,9 +341,9 @@ const MENU_BTN_CONTRIBUTE = document.getElementById("mainmenu_btn_contribute");
 const MAINMENU_DIV = document.getElementById("mainmenu_div");
 
 function reset_mm_div() {
-    let saveObj = getCookie("rapidfire_saveObj");
+    let session = load_data("rapidfire_session");
 
-    if (saveObj != undefined && saveObj.inSession) { MENU_BTN_RESUME.removeAttribute("disabled"); } 
+    if (session.inSession) { MENU_BTN_RESUME.removeAttribute("disabled"); } 
     else { MENU_BTN_RESUME.setAttribute("disabled", ""); }
 
     MENU_BTN_RESUME.onclick = resume_session;
@@ -335,8 +355,7 @@ function reset_mm_div() {
         await fadein_mmns_div();
     };
     MENU_BTN_SETTINGS.onclick = async function() {
-        reset_settings_div();
-        fadein_settings_div();
+        await open_settings_div();
     }
 }
 
@@ -434,6 +453,8 @@ async function attempt_load_mm() {
 }
 
 window.onload = async function() {
+    setup_storage();
+
     LD_ERRORS = await load_directory();
     if (LD_ERRORS.length > 0) { LD_WARNING_QSET = true; };
     if (window.innerWidth < 800 || navigator.userAgent.match(/Mobile/i) != null) { LD_WARNING_MOBILE = true; }

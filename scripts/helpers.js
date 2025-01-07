@@ -1,32 +1,7 @@
-// Seeded pseudo-random number generator using xorshift (ChatGPT)
-function seeded_random(seed) {
-    return function() {
-        seed ^= seed << 13;
-        seed ^= seed >> 17;
-        seed ^= seed << 5;
-        return (seed < 0 ? ~seed + 1 : seed) % 10000 / 10000;
-    };
-}
-
-// Fisher-Yates shuffle with seed (ChatGPT)
-function shuffle_with_seed(arr, seed) {
-    const random = seeded_random(seed);
-
-    for (let i = arr.length - 1; i > 0; i--) {
-        const j = Math.floor(random() * (i + 1)); // Random index based on seeded RNG
-        [arr[i], arr[j]] = [arr[j], arr[i]]; // Swap elements
-    }
-
-    return arr;
-}
-
-// Seedless shuffle algorithm (ChatGPT)
-function shuffle_seedless(array) {
+// Seedless shuffle algorithm
+function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
-        // Pick a random index from 0 to i
         const j = Math.floor(Math.random() * (i + 1));
-        
-        // Swap elements array[i] and array[j]
         [array[i], array[j]] = [array[j], array[i]];
     }
     return array;
@@ -87,28 +62,15 @@ function set_dropdown(dropdown, options) {
     });
 }
 
-// Cookie Helpers (w3schools)
-function setCookie(name, value) {
-    var expires = "";
-    var date = new Date();
-    date.setTime(date.getTime() + (365 * 24 * 60 * 60 * 1000));
-    expires = "; expires=" + date.toUTCString();
-    document.cookie = name + "=" + JSON.stringify(value) + expires + "; path=/";
+// Save JSON data to localStorage
+function save_data(key, value) {
+    localStorage.setItem(key, JSON.stringify(value));
 }
 
-function getCookie(name) {
-    var nameEQ = name + "=";
-    var cookies = document.cookie.split(';');
-    for (var i = 0; i < cookies.length; i++) {
-        var cookie = cookies[i];
-        while (cookie.charAt(0) == ' ') {
-            cookie = cookie.substring(1, cookie.length);
-        }
-        if (cookie.indexOf(nameEQ) == 0) {
-            return JSON.parse(cookie.substring(nameEQ.length, cookie.length));
-        }
-    }
-    return undefined;
+// Retrieve data from localStorage
+function load_data(key) {
+    const value = localStorage.getItem(key);
+    return value ? JSON.parse(value) : {}; // Return parsed data or null
 }
 
 // General functions to fade elements in & out

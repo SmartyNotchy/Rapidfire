@@ -299,7 +299,7 @@ class MCQQuestion {
         this.correctIdx = Math.floor(Math.random() * (this.wrongAnswers.length+1));
         this.buttons = [];
         
-        let waList = shuffle_seedless(this.wrongAnswers);
+        let waList = shuffle(this.wrongAnswers);
         let options = waList.slice(0, this.correctIdx).concat([this.correctAnswer]).concat(waList.slice(this.correctIdx));
         let alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
@@ -416,22 +416,24 @@ class MCQQuestion {
 var CURRENT_SESSION = undefined;
 
 class TriviaSession {
-    constructor() {}
+    constructor() {
+        this.questionNum = 0;
+        this.questionCount = -1;
+    }
     
-    build(subject, topics, qNum, seed) {
+    build(subject, topics) {
         this.subject = subject;
         this.topics = topics;
 
         this.questions = [];
         for (let topic of topics) {
-            this.questions = this.questions.concat(QUESTION_BANK[subject][topic]);
+            this.questions = this.questions.concat(QUESTIONS_BY_TOPIC[subject][topic]);
         }
 
-        this.questionNum = qNum;
-        this.seed = seed;
+        this.questionNum = 0;
 
         this.questionCount = this.questions.length;
-        this.questionOrder = shuffle_with_seed(Array.from({ length: this.questionCount }, (_, i) => i), this.seed);
+        this.questionOrder = shuffle(Array.from({ length: this.questionCount }, (_, i) => i));
 
         this.currentQuestion = this.questions[this.questionOrder[this.questionNum]];
     }
@@ -462,9 +464,10 @@ class TriviaSession {
         this.settings = settings;
     }
     
-    load_progress(saveObj) {
+    load_progress(session) {
         try {
-            this.build(saveObj.subject, saveObj.topics, saveObj.questionNum, saveObj.seed);
+            this.build(session.subject, session.topics);
+            this.questionNum = session.questionNum;
             return true;
         } catch {
             return false;
@@ -472,22 +475,23 @@ class TriviaSession {
     }
 
     save_progress() {
-        let saveObj;
+        let session;
         if (this.questionNum >= this.questionCount) {
-            saveObj = {
+            session = {
                 "inSession": false
             };
         } else {
-            saveObj = {
+            session = {
                 "inSession": true,
                 "subject": this.subject,
                 "topics": this.topics,
-                "questionNum": this.questionNum,
-                "seed": this.seed
+                "questionNum": this.questionNum
             };
         }
 
-        setCookie("rapidfire_saveObj", saveObj);
+        console.log(session);
+
+        save_data("rapidfire_session", session);
     }
 
     process_input(event) {
@@ -529,7 +533,7 @@ class Settings {
 const SETTINGS_WRAPPER_DIV = document.getElementById("settings_wrapper");
 const SETTINGS_CLOSE_BTN = document.getElementById("settings_close_btn");
 
-var CURRENT_SETTINGS = undefined;
+var CURRENT_SETTINGS = {};
 
 function reset_settings_div() {
     SETTINGS_CLOSE_BTN.removeAttribute("disabled");
@@ -540,13 +544,15 @@ function render_settings_div() {
 
 }
 
+async function open_settings_div() {
+    reset_settings_div();
+    await fadein_settings_div();
+}
+
 function close_settings_div() {
     // TODO: RE-RENDER SESSION
     fadeout_settings_div();
 }
-
-function hide_settings_div() { SETTINGS_WRAPPER_DIV.style.display = "none"; }
-function show_settings_div() { SETTINGS_WRAPPER_DIV.style.display = "flex"; }
 
 async function fadein_settings_div() { return fade_in_element(SETTINGS_WRAPPER_DIV, "basic_fadein", "flex", 200); }
 async function fadeout_settings_div() { return fade_out_element(SETTINGS_WRAPPER_DIV, "basic_fadeout", 200); }
