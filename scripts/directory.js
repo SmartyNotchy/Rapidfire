@@ -115,7 +115,7 @@ function parse_qset_lines(lines) {
                 if (currentQType == "SAQ") {
                     if (line[0] == "A" || line[0] == "EXA") { // TODO FIX
                         currentQObj.correctAnswers.push(line[1]);
-                    } else if (line[0] != "T" && line[0] != "EXP") { // TODO FIX
+                    } else if (line[0] != "EXP") { // TODO FIX
                         throw new Error(`[PARSE] Line ${lineNum}: Unrecognized identifier "${line[0]}" (with arg "${line[1]}")`);
                     }
                 } else if (currentQType == "MCQ") {
