@@ -1,0 +1,460 @@
+[PRESET] (Unit 2) Chapter 7 - The Bureaucracy
+-------------------------------------------
+[T] NSL 2.12 - The Bureaucracy
+-------------------------------------------
+[SAQ] The federal ___________ is the vast hierarchy of executive branch employees that take care of federal government business.
+[A] Bureaucracy
+[END]
+-------------------------------------------
+[MCQ] Which best describes the relationship between the size of the nation and the bureaucracy?
+[CA] As the nation grows, so does the bureaucracy in order to enforce Congress's laws
+[WA] The bureaucracy's size has stayed largely consistent since the signing of the Constitution
+[WA] The bureaucracy has shrunk in modern times due to desires for a smaller federal government
+[WA] The bureaucracy has fluctuated in size over the years to adapt to national emergencies
+[END]
+-------------------------------------------
+[MCQ] Many appointments to upper-level positions in the bureaucracy require Senate confirmation.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Executive departments contain ________ that divide the workload and goals of their respective departments.
+[A] Agencies
+[A] Bureaus
+[A] Divisions
+[A] Offices
+[END]
+-------------------------------------------
+[MCQ] Which statement best describes the scope of federal agencies?
+[CA] There are hundreds of agencies
+[WA] There are about 50 federal agencies (3-4 per executive department)
+[WA] There are exactly 15 federal agencies
+[END]
+-------------------------------------------
+[SAQ] Who appoints the head ("director") of each federal agency?
+[A] The President
+[A] President
+[END]
+-------------------------------------------
+[SAQ] The president appoints the head of each agency, typically referred to as the "____________".
+[A] Director
+[END]
+-------------------------------------------
+[SAQ] The FBI is an example of a federal ______, and is just one of hundreds of these in the bureaucracy.
+[A] Agency
+[END]
+-------------------------------------------
+[SAQ] ____________ ________ are included in the executive branch bureaucracy, but are not connected to a department.
+[A] Independent Agencies
+[END]
+-------------------------------------------
+[MCQ] Which is the most accurate reason behind Congress's creation of independent agencies?
+[CA] To avoid any one department from exerting too much influence on them
+[WA] To redistribute power from the federal government to the states
+[WA] Independent agencies are independently funded and aren't included in the federal budget
+[WA] All agencies are independent agencies, since they don't depend on laws passed by Congress
+[END]
+-------------------------------------------
+[MCQ] Cabinet agencies and executive agencies are run by:
+[CA] 1 head
+[WA] Boards of 5-7 members
+[END]
+-------------------------------------------
+[MCQ] Independent commissions are run by:
+[WA] 1 head
+[CA] Boards of 5-7 members
+[END]
+-------------------------------------------
+[SAQ] ____________ ____________ are hybrids of government agencies & private companies.
+[A] Government Corporations
+[END]
+-------------------------------------------
+[MCQ] Which best describes why government corporations are created?
+[CA] When the government wants to overlap with the private sector
+[WA] To raise more money for use in the federal budget
+[WA] When the government needs to sell products to enforce policy
+[WA] When Congress wants to create more federal job openings
+[END]
+-------------------------------------------
+[MCQ] Which best describes the relationship between Congress and agencies?
+[CA] Congress gives departments broad goals, and agencies focus on relevant specific goals
+[WA] Congress instructs agencies to focus on specific goals related to their department
+[END]
+-------------------------------------------
+[MCQ] Bureaucrats must enforce laws based on the strict regulations that Congress establishes.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] One key aspect of enforcement is _____________ ___________, making sure that firms and companies are following industry regulations.
+[A] Compliance Monitoring
+[END]
+-------------------------------------------
+[MCQ] Cabinet secretaries are often experts in their fields and frequently testify before Congressional committees.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] The relationship between agencies, congressional committees, and interest groups is called an _____ ___________.
+[A] Iron Triangle
+[END]
+-------------------------------------------
+[MCQ] Which of the following is not a part of an iron triangle?
+[CA] The President
+[WA] Federal Agencies
+[WA] Congressional Committees
+[WA] Outside Interest Groups
+[END]
+-------------------------------------------
+[MCQ] Which of the following is a common criticism of some iron triangles?
+[CA] Their goals are exclusively for their special benefits and not for the common good
+[WA] Interest groups have excessive influence on federal lawmaking
+[WA] Congress lacks the necessary checks and balances to control the bureaucracy
+[WA] Iron triangles add more red tape and make effective policymaking impossible
+[END]
+-------------------------------------------
+[SAQ] ________ __________ are groups of committee staffers, experts, and/or stakeholders who collaborate to bring about specific policy on an issue.
+[A] Issue Networks
+[END]
+-------------------------------------------
+[SAQ] ________ __________ are the main way to break apart iron triangles.
+[A] Issue Networks
+[END]
+-------------------------------------------
+[MCQ] In modern times, the policymaking web has shrunk due to excessive influence by the elite class & stakeholders.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] What does federal agencies typically receive from congressional committees in an iron triangle?<br><br><em>(Disclaimer: This question was written by ChatGPT due to time constraints and will likely be rewritten later.)</em>
+[CA] Legislative support and funding  
+[WA] Political endorsements and campaign donations  
+[WA] Voter mobilization and advocacy  
+[WA] Media coverage and public awareness  
+[END]  
+-------------------------------------------
+[MCQ] What do congressional committees usually get from interest groups in an iron triangle?<br><br><em>(Disclaimer: This question was written by ChatGPT due to time constraints and will likely be rewritten later.)</em>  
+[CA] Information and campaign contributions  
+[WA] Direct financial control and executive power  
+[WA] Regulatory authority and judicial influence  
+[WA] Voter turnout and electoral support  
+[END]  
+-------------------------------------------  
+[MCQ] What do interest groups typically receive from federal agencies in an iron triangle?<br><br><em>(Disclaimer: This question was written by ChatGPT due to time constraints and will likely be rewritten later.)</em>  
+[CA] Policy implementation that benefits their interests  
+[WA] Regulatory oversight and public scrutiny  
+[WA] Executive orders that limit their influence  
+[WA] Media coverage and public backlash  
+[END]  
+-------------------------------------------  
+[MCQ] What do federal agencies typically gain from interest groups in an iron triangle?<br><br><em>(Disclaimer: This question was written by ChatGPT due to time constraints and will likely be rewritten later.)</em>  
+[CA] Political support and lobbying for favorable policies  
+[WA] Increased regulatory restrictions and oversight  
+[WA] Public opposition and media criticism  
+[WA] Legal challenges and judicial intervention  
+[END]  
+-------------------------------------------  
+[MCQ] What do congressional committees typically gain from interest groups in an iron triangle?<br><br><em>(Disclaimer: This question was written by ChatGPT due to time constraints and will likely be rewritten later.)</em>  
+[CA] Campaign contributions and electoral support  
+[WA] Legal expertise and judicial appointments  
+[WA] Public opinion polling and media control  
+[WA] International trade agreements and diplomatic influence  
+[END]  
+-------------------------------------------  
+[MCQ] What do interest groups usually get from congressional committees in an iron triangle?<br><br><em>(Disclaimer: This question was written by ChatGPT due to time constraints and will likely be rewritten later.)</em>  
+[CA] Legislative actions or policies that favor their interests  
+[WA] Bureaucratic regulation and oversight  
+[WA] Judicial rulings that restrict their activities  
+[WA] Executive orders that limit their influence  
+[END]
+------------------------------------------- 
+[SAQ] The practice of rewarding loyal party leaders with federal jobs is known as ________.
+[A] Patronage
+[END]
+------------------------------------------- 
+[SAQ] The ______ _______ is a special type of patronage, where presidents appoint postmasters to bureaucracy positions in exchange for loyalty.
+[A] Spoils System
+[END]
+------------------------------------------- 
+[MCQ] Patronage and the spoils system have become more widespread as the government has grown.
+[CA] False
+[WA] True
+[END]
+------------------------------------------- 
+[SAQ] This event brought attention to extreme cases of patronage and encouraged reform in the bureaucracy.
+[A] Garfield Assassination
+[A] Assassination of Garfield
+[END]
+------------------------------------------- 
+[SAQ] Congress passed the __________________________ to effectively shut down the spoils system & patronage.
+[A] Pendleton
+[A] Pendleton Act
+[A] Pendleton Civil Service Act
+[END]
+------------------------------------------- 
+[SAQ] This law ultimately created the merit system, including competitive exams for many job applicants to the bureaucracy.
+[A] Pendleton
+[A] Pendleton Act
+[A] Pendleton Civil Service Act
+[END]
+------------------------------------------- 
+[SAQ] The Pendleton Civil Service Act created the _____ ______, effectively replacing the spoils system.
+[A] Merit System
+[END]
+------------------------------------------- 
+[SAQ] The Pendleton Civil Service Act created the __________________________ to oversee the process of bureaucratic hiring.
+[A] Civil Service Commission
+[END]
+------------------------------------------- 
+[SAQ] The Pure Food and Dug Act brought attention to various food industries, so Congress created various _______ to address these concerns.
+[A] Agencies
+[END]
+-------------------------------------------
+[SAQ] The __________________________ altered procedures for dismissal of a bureaucrat and promoted merit and performance among bureaucrats.
+[A] Civil Service Reform Act
+[END]
+-------------------------------------------
+[SAQ] This agency replaced the Civil Service Commission established by the Pendleton Act.
+[EXA] OPM
+[A] Office of Personnel Management
+[END]
+-------------------------------------------
+[SAQ] The Civil Service Commission and its successor, the OPM, are both examples of __________.
+[A] Agencies
+[END]
+-------------------------------------------
+[SAQ] The _________________________ was Clinton's key document in assessing the federal bureaucracy.
+[EXA] NPR
+[A] National Performance Review
+[END]
+-------------------------------------------
+[T] NSL 2.13 - Discretionary and Rule-Making Authority
+-------------------------------------------
+[MCQ] Congress tells members of the bureaucracy the specific regulations that they should enforce to implement policy.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Congress gives ___________________________ - the power to interpret legislation & create rules - to executive departments & agencies.
+[A] Delegated Discretionary Authority
+[END]
+-------------------------------------------
+[MCQ] Some laws are so vague that it is not clear whether an authority has been delegated to an agency. What is often the case?
+[CA] The agency can claim broad authority over the policy area
+[WA] The agency must inquire Congress to be more specific
+[WA] The agency cannot claim authority; it is only granted explicitly-stated authority
+[WA] The agency can claim any authority it wants due to discretionary authority
+[END]
+-------------------------------------------
+[MCQ] Agencies in the bureaucracy are clearly defined to avoid overlapping jurisdiction.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] The bureaucratic rule-making process is largely governed by the __________________________, passed by Congress in 1946.
+[EXA] APA
+[A] Administrative Procedures Act
+[END]
+-------------------------------------------
+[MCQ] Why might Congress members delegate more authority to the bureaucracy?
+[CA] To distance themselves from the blame for unpopular regulations
+[WA] To ensure that bureaucrats can make decisions without political interference
+[WA] To simplify the decision-making process for constituents
+[WA] To increase the power of Congress over specific policy areas
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a way that Congress has given the bureaucracy significant authority?
+[CA] Allowing bureaucrats to bypass congressional approval for major policy changes
+[WA] Creating agencies to pay subsidies for groups
+[WA] Creating a system to distribute federal dollars to the states
+[WA] Giving many federal offices the ability to device & enforce regulations
+[END]
+-------------------------------------------
+[MCQ] Agencies must identify their legal authority to create and enforce a regulation before it goes into effect.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Once an agency publishes information about a new regulation, it immediately goes into effect.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Once an agency publishes a new regulation, a final printing of the law is placed in the US ________________________.
+[EXA] CFR
+[A] Code of Federal Regulations
+[END]
+-------------------------------------------
+[SAQ] The __________ ___________ contains records of how every bureaucratic regulation started, was developed, and ended up in its final form.
+[A] Federal Register
+[END]
+-------------------------------------------
+[SAQ] Independent ___________ agencies & commissions have unique charges from Congress to enforce/regulate industry-specific law.
+[A] Regulatory
+[END]
+-------------------------------------------
+[MCQ] Presidents have ____ influence on regulatory agencies compared to other departments and agencies.
+[CA] Less
+[WA] More
+[END]
+-------------------------------------------
+[T] NSL 2.13 - Key Examples of Discretionary Authority
+-------------------------------------------
+[SAQ] The Department of _____________________ protects Americans from terrorism and maintains & controls borders.
+[A] Homeland Security
+[END]
+-------------------------------------------
+[SAQ] The Department of ______________ manages highways and air travel, among other things.
+[A] Transportation
+[END]
+-------------------------------------------
+[SAQ] The Department of ________________________ manages the general welfare of the nation's veterans.
+[A] Veteran Affairs
+[END]
+-------------------------------------------
+[SAQ] The Department of ____________ manages states and their implementation of federal educational standards.
+[A] Education
+[END]
+-------------------------------------------
+[SAQ] The ___________________________ protects human health through environmental regulations.
+[EXA] EPA
+[A] Environmental Protection Agency
+[END]
+-------------------------------------------
+[SAQ] The ___________________________ administers and enforces campaign finance laws.
+[EXA] FEC
+[A] Federal Elections Commission
+[END]
+-------------------------------------------
+[SAQ] The ___________________________ regulates the stock market and prevents fraud.
+[EXA] SEC
+[A] Securities & Exchange Commission
+[END]
+-------------------------------------------
+[T] NSL 2.14 - Holding the Bureaucracy Accountable
+-------------------------------------------
+[MCQ] The bureaucracy has to answer both the executive & legislative branches.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] ____________ ____________ is a major legislative check and balance on agencies.
+[A] Congressional Oversight
+[END]
+-------------------------------------------
+[SAQ] Congressional ___________ in both the House and Senate regularly hold oversight hearings with agencies to address issues.
+[A] committees
+[END]
+-------------------------------------------
+[MCQ] Which type of committee parallels a list of notable bureaucratic agencies?
+[CA] Standing Committee
+[WA] Joint Committee
+[WA] Conference Committee
+[WA] Select Committee
+[END]
+-------------------------------------------
+[SAQ] One main way Congress can check the power of bureaucracies is by controlling the _______ they receive.
+[A] Funding
+[A] Budget
+[A] Money
+[END]
+-------------------------------------------
+[SAQ] The _________________ allows Congress to use the state of success of an agency when it allocates money.
+[A] Power of the Purse
+[END]
+-------------------------------------------
+[MCQ] An agency cannot spend public funds unless a committee authorizes the spending of the money.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] A committee or subcommittee must pass a(n) _________________________ measure before an agency can spend public funds. This measure states the maximum amount the agency can spend on a program.
+[A] Authorization
+[A] Authorization of Spending
+[END]
+-------------------------------------------
+[MCQ] Once a committee passes an authorization of spending measure, the agency receives the funds and can spend it on programs as dictated.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] An agency does not receive funds until each house's ____________ committee and the full chamber approves of the spending.
+[A] Appropriations
+[END]
+-------------------------------------------
+[SAQ] Funds set aside for agencies (or any other specific purpose), called _____________, are typically made as part of the annual budget.
+[A] Appropriations
+[END]
+-------------------------------------------
+[SAQ] The ________________ administers the regulatory review process, closely inspecting all regulations with a significant impact on policy.
+[A] OIRA
+[A] Office of Information and Regulatory Affairs
+[END]
+-------------------------------------------
+[SAQ] The OIRA is part of the ____, which prepares the president's annual budget proposal.
+[A] OMB
+[END]
+-------------------------------------------
+[SAQ] One key aspect of enforcement for agencies is ___________ _____________, making sure that firms and companies are following the regulations.
+[A] Compliance Monitoring
+[END]
+-------------------------------------------
+[T] NSL 2.15 - Policy & Branches of Government
+-------------------------------------------
+[SAQ] ____________ _____________ allows some congressional committees to review & approve some agency actions in advance.
+[A] Committee Clearance
+[END]
+-------------------------------------------
+[SAQ] Congress used to use the _____________ ______ to control executive decisions, by requiring certain decisions to wait for a defined period (either 30 or 90 days).
+[A] Legislative Veto
+[END]
+-------------------------------------------
+[MCQ] The legislative veto is currently an implied power of Congress.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] This court case ruled that the use of a legislative veto to halt bureaucratic action was unconstitutional.
+[A] INS v. Chadha
+[END]
+-------------------------------------------
+[SAQ] The _____________________ gives the public the right to request access to records or information.
+[A] Freedom of Information Act
+[END]
+-------------------------------------------
+[SAQ] The _________________ requires most federal agencies to hold meetings in publicly accessible places.
+[A] Sunshine Act
+[END]
+-------------------------------------------
+[SAQ] The _________________________ protects federal workers who report or disclose evidence of federal wrongdoing.
+[A] Whistleblower Protection Act
+[END]
+-------------------------------------------
+[SAQ] An appointed bureaucrat can choose to "____ _________", siding with their department/agency instead of the president.
+[A] go native
+[END]
+-------------------------------------------
+[MCQ] Because the Supreme Court doesn't take many appeals from the circuit courts, the Court of Appeals is largely the final arbiter of agency decisions.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Generally, the Courts tend to uphold the idea that deference should go to the:
+[CA] Agency
+[WA] Plaintiff (usually the Public)
+[END]
+-------------------------------------------
+[MCQ] Appeals courts are more likely to uphold decisions from:
+[CA] Independent Commissions
+[WA] General Departments & Agencies
+[END]
+-------------------------------------------
+[MCQ] When federal courts examine bureaucratic disputes, they focus more on the:
+[CA] Decision-making Procedures
+[WA] Substance of the Rules/Decisions
+[END]
+-------------------------------------------
+[SAQ] The ______ _________ is a precedent under which courts defer to agencies when laws defining their responsibilities are vague.
+[A] Chevron Doctrine
+[END]
+-------------------------------------------
