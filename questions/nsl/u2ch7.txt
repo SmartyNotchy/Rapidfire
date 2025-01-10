@@ -109,7 +109,7 @@
 [MCQ] Which of the following is a common criticism of some iron triangles?
 [CA] Their goals are exclusively for their special benefits and not for the common good
 [WA] Interest groups have excessive influence on federal lawmaking
-[WA] Congress lacks the necessary checks and balances to controll the bureaucracy
+[WA] Congress lacks the necessary checks and balances to control the bureaucracy
 [WA] Iron triangles add more red tape and make effective policymaking impossible
 [END]
 -------------------------------------------
@@ -186,7 +186,7 @@
 [A] Assassination of Garfield
 [END]
 ------------------------------------------- 
-[SAQ] Congres passed the __________________________ to effectively shut down the spoils system & patronage.
+[SAQ] Congress passed the __________________________ to effectively shut down the spoils system & patronage.
 [A] Pendleton
 [A] Pendleton Act
 [A] Pendleton Civil Service Act
@@ -391,7 +391,70 @@
 [A] Office of Information and Regulatory Affairs
 [END]
 -------------------------------------------
-[SAQ] The OIRA is part of the ____, which prepares the president's annual bugdet proposal.
+[SAQ] The OIRA is part of the ____, which prepares the president's annual budget proposal.
 [A] OMB
+[END]
+-------------------------------------------
+[SAQ] One key aspect of enforcement for agencies is ___________ _____________, making sure that firms and companies are following the regulations.
+[A] Compliance Monitoring
+[END]
+-------------------------------------------
+[T] NSL 2.15 - Policy & Branches of Government
+-------------------------------------------
+[SAQ] ____________ _____________ allows some congressional committees to review & approve some agency actions in advance.
+[A] Committee Clearance
+[END]
+-------------------------------------------
+[SAQ] Congress used to use the _____________ ______ to control executive decisions, by requiring certain decisions to wait for a defined period (either 30 or 90 days).
+[A] Legislative Veto
+[END]
+-------------------------------------------
+[MCQ] The legislative veto is currently an implied power of Congress.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] This court case ruled that the use of a legislative veto to halt bureaucratic action was unconstitutional.
+[A] INS v. Chadha
+[END]
+-------------------------------------------
+[SAQ] The _____________________ gives the public the right to request access to records or information.
+[A] Freedom of Information Act
+[END]
+-------------------------------------------
+[SAQ] The _________________ requires most federal agencies to hold meetings in publicly accessible places.
+[A] Sunshine Act
+[END]
+-------------------------------------------
+[SAQ] The _________________________ protects federal workers who report or disclose evidence of federal wrongdoing.
+[A] Whistleblower Protection Act
+[END]
+-------------------------------------------
+[SAQ] An appointed bureaucrat can choose to "____ _________", siding with their department/agency instead of the president.
+[A] go native
+[END]
+-------------------------------------------
+[MCQ] Because the Supreme Court doesn't take many appeals from the circuit courts, the Court of Appeals is largely the final arbiter of agency decisions.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Generally, the Courts tend to uphold the idea that deference should go to the:
+[CA] Agency
+[WA] Plaintiff (usually the Public)
+[END]
+-------------------------------------------
+[MCQ] Appeals courts are more likely to uphold decisions from:
+[CA] Independent Commissions
+[WA] General Departments & Agencies
+[END]
+-------------------------------------------
+[MCQ] When federal courts examine bureaucratic disputes, they focus more on the:
+[CA] Decision-making Procedures
+[WA] Substance of the Rules/Decisions
+[END]
+-------------------------------------------
+[SAQ] The ______ _________ is a precedent under which courts defer to agencies when laws defining their responsibilities are vague.
+[A] Chevron Doctrine
 [END]
 -------------------------------------------
