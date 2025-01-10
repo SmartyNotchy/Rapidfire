@@ -331,3 +331,67 @@
 [A] Securities & Exchange Commission
 [END]
 -------------------------------------------
+[T] NSL 2.14 - Holding the Bureaucracy Accountable
+-------------------------------------------
+[MCQ] The bureaucracy has to answer both the executive & legislative branches.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] ____________ ____________ is a major legislative check and balance on agencies.
+[A] Congressional Oversight
+[END]
+-------------------------------------------
+[SAQ] Congressional ___________ in both the House and Senate regularly hold oversight hearings with agencies to address issues.
+[A] committees
+[END]
+-------------------------------------------
+[MCQ] Which type of committee parallels a list of notable bureaucratic agencies?
+[CA] Standing Committee
+[WA] Joint Committee
+[WA] Conference Committee
+[WA] Select Committee
+[END]
+-------------------------------------------
+[SAQ] One main way Congress can check the power of bureaucracies is by controlling the _______ they receive.
+[A] Funding
+[A] Budget
+[A] Money
+[END]
+-------------------------------------------
+[SAQ] The _________________ allows Congress to use the state of success of an agency when it allocates money.
+[A] Power of the Purse
+[END]
+-------------------------------------------
+[MCQ] An agency cannot spend public funds unless a committee authorizes the spending of the money.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] A committee or subcommittee must pass a(n) _________________________ measure before an agency can spend public funds. This measure states the maximum amount the agency can spend on a program.
+[A] Authorization
+[A] Authorization of Spending
+[END]
+-------------------------------------------
+[MCQ] Once a committee passes an authorization of spending measure, the agency receives the funds and can spend it on programs as dictated.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] An agency does not receive funds until each house's ____________ committee and the full chamber approves of the spending.
+[A] Appropriations
+[END]
+-------------------------------------------
+[SAQ] Funds set aside for agencies (or any other specific purpose), called _____________, are typically made as part of the annual budget.
+[A] Appropriations
+[END]
+-------------------------------------------
+[SAQ] The ________________ administers the regulatory review process, closely inspecting all regulations with a significant impact on policy.
+[A] OIRA
+[A] Office of Information and Regulatory Affairs
+[END]
+-------------------------------------------
+[SAQ] The OIRA is part of the ____, which prepares the president's annual bugdet proposal.
+[A] OMB
+[END]
+-------------------------------------------
