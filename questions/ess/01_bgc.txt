@@ -1,4 +1,4 @@
-[PRESET] Chapter 3 - BGC Cycles
+[PRESET] BGC Cycles
 -------------------------------------------
 [T] Carbon Cycle
 -------------------------------------------

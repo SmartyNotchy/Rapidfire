@@ -1,0 +1,161 @@
+[PRESET] Minerology & Magnetism
+-------------------------------------------
+[T] Silicate Basics
+-------------------------------------------
+[MCQ] Which of the following are the 8 most common elements in Earth's crust?
+[CA] O, Si, Al, Fe, Ca, Na, K, Mg
+[WA] C, H, O, N, P, S, Cl, Ar
+[WA] O, H, He, Ne, Ar, Kr, Xe, Rn
+[WA] Fe, Co, Ni, Cu, Zn, Pb, Au, Cr
+[END]
+-------------------------------------------
+[MCQ] The mnemonic "Oh see Al Fe cannot kiss Meg" refers to the most common elements in:
+[CA] Earth's crust
+[WA] Earth's atmosphere
+[WA] REEs
+[WA] Ferromagnetic compounds
+[END]
+-------------------------------------------
+[SAQ] What are the two most common elements in Earth's crust?
+[A] O & Si
+[A] Si & O
+[A] Oxygen & Silicon
+[A] Silicon & Oxygen
+[END]
+-------------------------------------------
+[MCQ] Silicates are called that because they only contain silicon.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] ___________ are minerals that mainly consist of Silicon and Oxygen.
+[A] Silicates
+[END]
+-------------------------------------------
+[SAQ] What is the charge on a silicon ion?<br><em>(Answer Format: +1, -2, etc.)</em>
+[EXA] +4
+[END]
+-------------------------------------------
+[SAQ] What is the charge on an oxygen ion?<br><em>(Answer format: +1, -2, etc.)</em>
+[EXA] -2
+[END]
+-------------------------------------------
+[MCQ] Silicon ions are:
+[CA] Cations
+[WA] Anions
+[END]
+-------------------------------------------
+[MCQ] Oxygen ions are:
+[CA] Anions
+[WA] Cations
+[END]
+-------------------------------------------
+[MCQ] In silicates, the bonds formed between silicon and oxygen are:
+[CA] Covalent
+[WA] Ionic
+[WA] Metallic
+[END]
+-------------------------------------------
+[SAQ] How many oxygen ions are bonded to each silicon ion in a silicate?
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[SAQ] The basic building blocks of silicates are the silicion-oxygen _________ (shape).
+[A] Tetrahedra
+[END]
+-------------------------------------------
+[T] Types of Silicates
+-------------------------------------------
+[SAQ] A silicate that is made of isolated tetrahedra is called a(n):
+[A] Orthosilicate
+[A] Nesosilicate
+[A] Island
+[A] Island Silicate
+[END]
+-------------------------------------------
+[SAQ] The basic structural unit of an orthosilicate contains __ silicon ions and __ oxygen ions.<br><em>(Answer format: 1,1)</em>
+[EXA] 1,4
+[END]
+-------------------------------------------
+[SAQ] A silicate that is made of two connected tetrahedra is called a(n):
+[A] Disilicate
+[A] Sorosilicate
+[A] Double Island
+[A] Double Island Silicate
+[END]
+-------------------------------------------
+[SAQ] The basic structural unit of a disilicate contains __ silicon ions and __ oxygen ions.<br><em>(Answer format: 1,1)</em>
+[EXA] 2,7
+[END]
+-------------------------------------------
+[MCQ] Why is the structural unit of a disilicate Si2O7 instead of Si2O8?
+[CA] One oxygen is shared by the two tetrahedra
+[WA] One additional oxygen is added to connect the two tetrahedra
+[WA] Each tetrahedra is made up of 3.5 oxygen, not 4
+[WA] One oxygen combines with every additional silicon past 1
+[END]
+-------------------------------------------
+[SAQ] A silicate that is made up of six connected tetrahedra arranged in a cycle is called a(n):
+[A] Ring Silicate
+[A] Cyclosilicate
+[END]
+-------------------------------------------
+[SAQ] In a ring silicate, how many oxygens per tetrahedral group are shared?
+[EXA] 2
+[EXA] Two
+[END]
+-------------------------------------------
+[SAQ] Single chain and double chain silicates are both types of _____________.
+[A] Inosilicates
+[END]
+-------------------------------------------
+[SAQ] In a single chain silicate, how many oxygens per tetrahedral group are shared?
+[EXA] 2
+[EXA] Two
+[END]
+-------------------------------------------
+[SAQ] In a double chain silicate, how many oxygens per tetrahedral group are shared?
+[EXA] 3
+[EXA] Three
+[END]
+-------------------------------------------
+[SAQ] A silicate that is made up of an infinite grid of 2-dimensionally connecting tetrahedra is called a(n):
+[A] Sheet Silicate
+[A] Phyllosilicate
+[END]
+-------------------------------------------
+[SAQ] In a sheet silicate, how many oxygens per tetrahedral group are shared?
+[EXA] 3
+[EXA] Three
+[END]
+-------------------------------------------
+[SAQ] A silicate that is made up of an infinite grid of 3-dimensionally connecting tetrahedra is called a(n):
+[A] Framework Silicate
+[A] Tectosilicate
+[END]
+-------------------------------------------
+[SAQ] In a framework silicate, how many oxygens per tetrahedral group are shared?
+[EXA] 4
+[EXA] Four
+[END]
+-------------------------------------------
+[SAQ] Of the seven major silicate groups, name the strongest of them.
+[A] Framework Silicate
+[A] Tectosilicate
+[END]
+-------------------------------------------
+[MCQ] The tetrahedra in silicates can have the central silicon substituted for other atoms, like aluminum.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Pure quartz is usually colorless or white. Which of the following explains the existance of different colors of quartz, like rosy quartz or smoky quartz?
+[CA] Atoms like iron substitute for the silicon in the tetrahedra, causing light diffraction
+[WA] Different isotopes of silicion in the tetrahedra create different color properties
+[WA] The randomized internal structure of quartz causes light diffraction
+[WA] Air bubbles trapped inside quartz during crystal formation causes light diffraction
+[END]
+-------------------------------------------
+[T] Minerals
+-------------------------------------------
