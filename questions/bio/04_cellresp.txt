@@ -460,10 +460,6 @@
 [A] Glycolysis
 [END]
 ------------------------------------------- 
-[SAQ] Fermentation contains what process?
-[A] Glycolysis
-[END]
-------------------------------------------- 
 [MCQ] What causes muscle soreness after intense exercise? (Hint: Recall back to the wall sit exercise)
 [CA] The accumulation of lactic acid from fermentation
 [WA] The buildup of ATP in muscle cells
@@ -493,3 +489,4 @@
 [SAQ] What primary molecule from glycolysis is used to form ethanol in alcohol fermentation?
 [A] Pyruvate
 [END]
+------------------------------------------- 
