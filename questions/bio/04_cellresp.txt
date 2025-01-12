@@ -1,0 +1,492 @@
+[PRESET] Cellular Respiration
+------------------------------------------- 
+[T] Cell Respiration Basics
+-------------------------------------------
+[MCQ] How much ATP is produced in aerobic cell respiration for humans (typically)?
+[CA] 38 ATP
+[WA] 32 ATP
+[WA] 2 ATP
+[WA] 36 ATP
+[END]
+------------------------------------------- 
+[MCQ] How much ATP is produced in anaerobic cell respiration?
+[CA] 2 ATP
+[WA] 4 ATP
+[WA] 36 ATP
+[WA] 38 ATP
+[END]
+------------------------------------------- 
+[MCQ] What is the advantage of the cristae structure in the mitochondria?
+[CA] They provide a large surface area for the electron transport chain and ATP synthesis
+[WA] They increase the volume of the mitochondria, allowing more storage of ATP
+[WA] They prevent the leakage of electrons from the electron transport chain
+[WA] They help in the conversion of glucose to pyruvate
+[END]
+------------------------------------------- 
+[MCQ] What is the advantage of a small volume of the intermembrane space in mitochondria?
+[CA] It facilitates a rapid buildup of proton gradients for more efficient ATP synthesis
+[WA] It increases the amount of glucose available for metabolism
+[WA] It allows for a larger volume of the matrix to store enzymes for the Krebs cycle
+[WA] It reduces the need for oxygen in the electron transport chain
+[END]
+------------------------------------------- 
+[MCQ] The mitochondria is the ______________?
+[CA] Powerhouse of the cell
+[WA] Holder of the cell’s genetic material
+[WA] Site of protein synthesis.
+[WA] The phospholipid bilayer that surrounds the cell
+[END]
+------------------------------------------- 
+[SAQ] The _______ are the folded inner membranes of the mitochondria.
+[A] Cristae
+[END]
+------------------------------------------- 
+[SAQ] The  ____________ space is the space between the inner membrane and the outer membrane of the mitochondria.
+[A] Intermembrane
+[END]
+------------------------------------------- 
+[SAQ] The ______  membrane of the mitochondrion is a highly folded membrane that lies inside the outer membrane.
+[A] Inner
+[END]
+------------------------------------------- 
+[SAQ] The ______ membrane is the outermost layer that surrounds the mitochondria. 
+[A] Outer
+[END]
+------------------------------------------- 
+[SAQ] The ______ is the innermost compartment of the mitochondria, enclosed by the inner membrane.
+[A] Matrix
+[END]
+------------------------------------------- 
+[SAQ] What is the process where a molecule loses electrons or gains oxygen.
+[A] Oxidation
+[END]
+------------------------------------------- 
+[SAQ] What is the process where a molecule gains electrons or loses oxygen.
+[A] Reduction
+[END]
+------------------------------------------- 
+[SAQ]  __________ is the addition of a phosphate group to a molecule.
+[A] Phosphorylation
+[END]
+------------------------------------------- 
+[SAQ]  Phosphorylation of molecules makes them ____ stable.
+[A] Less
+[END]
+------------------------------------------- 
+[SAQ]  __________ is the removal of a carbon dioxide group from a molecule.
+[A] Decarboxylation
+[END]
+------------------------------------------- 
+[SAQ]  When something is oxidized, something else is _______.
+[A] Reduced
+[END]
+------------------------------------------- 
+[SAQ] Energy released by oxidation reactions is carried to the _____ of the mitochondria by reduced NAD and FAD
+[A] Cristae
+[END]
+------------------------------------------- 
+[MCQ] What are the two main electron carriers in cellular respiration?
+[CA] NAD+ & FAD
+[WA] ADP & Pi
+[WA] Pyruvate & Acetyl-CoA
+[WA] Lactic Acid & Ethanol 
+[END]
+------------------------------------------- 
+[SAQ] How many electrons do each of the electron carriers (NADH and FADH2) accept during cellular respiration?
+[EXA] 2
+[A] Two
+[END]
+------------------------------------------- 
+[SAQ] Converting from NAD⁺ to NADH is a ________ reaction.
+[A] Reduction
+[END]
+------------------------------------------- 
+[SAQ] Converting from FAD to FADH2 is a ________ reaction.
+[A] Reduction
+[END]
+------------------------------------------- 
+[SAQ] Converting from NADH to NAD+ is a ________ reaction.
+[A] Oxidation
+[END]
+------------------------------------------- 
+[MCQ] Oxidizing NADH produces what products?
+[CA] NAD+ & H+ & 2e-
+[WA] NAD+ & 2e-
+[WA] NAD+ & H+
+[WA] NAD+
+[END]
+------------------------------------------- 
+[MCQ] Oxidizing FADH2 produces what products?
+[CA] FAD+ & 2H+ & 2e-
+[WA] FAD+ & 2H+
+[WA] FAD+ & 2e-
+[WA] FAD+
+[END]
+------------------------------------------- 
+[SAQ] How many phosphate groups does ATP have?
+[EXA] 3
+[A] Three
+[END]
+------------------------------------------- 
+[SAQ] How many phosphate groups does ADP have?
+[EXA] 2
+[A] Two
+[END]
+------------------------------------------- 
+[SAQ] ATP is immediately usable as a source of ______.
+[A] Energy
+[END]
+------------------------------------------- 
+[SAQ] Energy is released from ATP when the third phosphate group is  ______.
+[A] Hydrolyzed
+[A] Removed
+[END]
+------------------------------------------- 
+[SAQ] The conversion of ADP and a phosphate (Pi) into ATP is an _________ reaction.
+[A] Endergonic
+[END]
+------------------------------------------- 
+[SAQ] Anaerobic respiration is used by both prokaryotes and ________ (when oxygen isn’t available).
+[A] Eukaryotes
+[END]
+------------------------------------------- 
+[SAQ] Anaerobic respiration produces _____ ATP than aerobic respiration.
+[A] Less
+[A] Fewer
+[END]
+------------------------------------------- 
+[T] Glycolysis
+-------------------------------------------
+[MCQ] Where does glycolysis occur in the cell?
+[CA] Cytoplasm
+[WA] Outer Membrane
+[WA] Matrix
+[WA] Intermembrane Space
+[END]
+------------------------------------------- 
+[SAQ] What molecule is the primary reactant in glycolysis?
+[A] Glucose
+[END]
+------------------------------------------- 
+[MCQ] In what organisms does glycolysis occur?
+[CA] Both (Eukaryotes & Prokaryotes)
+[WA] Eukaryotes
+[WA] Prokaryotes
+[END]
+------------------------------------------- 
+[MCQ] Glycolysis is an ________ process.
+[CA] Anaerobic
+[WA] Aerobic
+[END]
+------------------------------------------- 
+[MCQ] Which of the following is NOT a byproduct of glycolysis?
+[CA] FADH2
+[WA] NADH
+[WA] Pyruvate
+[WA] ATP
+[END]
+------------------------------------------- 
+[SAQ] Glycolysis is an anaerobic process, meaning it doesn’t require _______.
+[A] Oxygen
+[END]
+------------------------------------------- 
+[MCQ] How many ATP molecules are produced in glycolysis?
+[CA] 2 ATP (net gain)
+[WA] 4 ATP (net gain)
+[WA] 6 ATP (net gain)
+[WA] 8 ATP (net gain)
+[END]
+------------------------------------------- 
+[MCQ] What is the primary function of glycolysis in cellular respiration?
+[CA] To break down glucose into pyruvate
+[WA] To convert pyruvate into acetyl-CoA
+[WA] To generate ATP and electron carriers for the electron transport chain (NADH & FADH2)
+[WA] To produce ATP using the proton gradient
+[END]
+------------------------------------------- 
+[MCQ] What happens during the investment stage of glycolysis?
+[CA] ATP is consumed to activate glucose and its intermediates
+[WA] Glucose is split into two pyruvate molecules
+[WA] NADH is produced
+[WA] ATP is produced from ADP and Pi
+[END]
+------------------------------------------- 
+[T] Link Reaction
+-------------------------------------------
+[MCQ] What is the primary purpose of the link reaction in cellular respiration?
+[CA] To convert pyruvate into acetyl-CoA
+[WA] To break down glucose into pyruvate
+[WA] To generate ATP and electron carriers for the electron transport chain (NADH & FADH2)
+[WA] To produce ATP using the proton gradient
+[END]
+------------------------------------------- 
+[MCQ] Where does the link reaction occur in the cell?
+[CA] Matrix
+[WA] Intermembrane Space
+[WA] Cristae
+[WA] Inner Membrane
+[END]
+------------------------------------------- 
+[MCQ] Which of these molecules is produced as a byproduct of the link reaction?
+[CA] Carbon Dioxide
+[WA] Oxygen
+[WA] Pyruvate
+[WA] Water
+[END]
+------------------------------------------- 
+[MCQ] What is the role of Coenzyme A in the link reaction?
+[CA] To help form acetyl-CoA by binding with acetate
+[WA] To carry electrons to the electron transport chain
+[WA] To assist in breaking apart the carbon atom from pyruvate
+[WA] To bond with pyruvate to from pyruvate-CoA
+[END]
+------------------------------------------- 
+[SAQ] The link reaction occurs __ times per glucose molecule.\n*(Answer with #)*
+[EXA] 2
+[A] Two
+[END]
+------------------------------------------- 
+[MCQ] What is the main electron acceptor in the link reaction?
+[CA] NAD⁺
+[WA] FAD
+[WA] ADP
+[WA] Pi
+[END]
+------------------------------------------- 
+[SAQ] Pyruvate is __________ during the link reaction.
+[A] Decarboxylated
+[END]
+------------------------------------------- 
+[MCQ] Coenzyme A is created by Vitamin B5 and is ________ within the cell to be used during the link reaction. 
+[CA] Free-floating
+[WA] Bound to the mitochondria
+[WA] Transported by pyruvate
+[WA] Bound to carbon dioxide
+[END]
+------------------------------------------- 
+[SAQ] ________  _________ is another name for the link reaction.
+[A] Pyruvate Oxidation
+[A] Pyruvate Decarboxylation
+[END]
+------------------------------------------- 
+[T] Krebs Cycle
+-------------------------------------------
+[SAQ] The ______  _____ cycle is another name for the Krebs Cycle.
+[A] Citric Acid
+[END]
+------------------------------------------- 
+[MCQ] What is the primary purpose of the Krebs Cycle in cellular respiration?
+[CA] To generate ATP and electron carriers for the electron transport chain (NADH & FADH2)
+[WA] To break down glucose into pyruvate
+[WA] To convert pyruvate into acetyl-CoA
+[WA] To produce ATP using the proton gradient
+[END]
+------------------------------------------- 
+[SAQ] The Krebs Cycle occurs in the ________.
+[A] Matrix
+[A] Mitochondrial Matrix
+[END]
+------------------------------------------- 
+[SAQ] Which molecule triggers the Krebs Cycle?
+[A] Acetyl-CoA
+[END]
+------------------------------------------- 
+[MCQ] Which of the following is a byproduct of the Krebs Cycle?
+[CA] Carbon Dioxide
+[WA] Oxygen
+[WA] Glucose
+[WA] Lactic Acid
+[END]
+------------------------------------------- 
+[MCQ] What happens to the carbon atoms from acetyl-CoA in the Krebs cycle?
+[CA] They are released as carbon dioxide
+[WA] They are used to form glucose
+[WA] They are used to make ATP
+[WA] They remain in citric acid
+[END]
+------------------------------------------- 
+[MCQ] Which molecule is regenerated at the end of the Krebs cycle, allowing the cycle to continue?
+[CA] Oxaloacetate
+[WA] NADH
+[WA] FADH2
+[WA] Acetyl-CoA
+[END]
+------------------------------------------- 
+[SAQ] The Krebs cycle occurs how many times for each glucose molecule?
+[EXA] 2
+[A] Two
+[END]
+------------------------------------------- 
+[T] Oxidative Phosphorylation
+-------------------------------------------
+[SAQ] How many ATP is roughly produced for each NADH in oxidative phosphorylation?
+[EXA] 3
+[A] Three
+[END]
+------------------------------------------- 
+[MCQ] Where does oxidative phosphorylation occur in the mitochondria?
+[CA] Inner Membrane
+[WA] Outer Membrane
+[WA] Cytoplasm
+[WA] Matrix
+[END]
+------------------------------------------- 
+[MCQ] What is the primary purpose of Oxidative Phosphorylation in cellular respiration?
+[CA] To produce ATP using the proton gradient
+[WA] To generate ATP and electron carriers for the electron transport chain (NADH & FADH2)
+[WA] To break down glucose into pyruvate
+[WA] To convert pyruvate into acetyl-CoA
+[END]
+------------------------------------------- 
+[MCQ] What molecule acts as the final electron acceptor in the electron transport chain?
+[CA] Oxygen
+[WA] H+
+[WA] FADH2
+[WA] NADH
+[END]
+------------------------------------------- 
+[MCQ] Which of the following occurs as electrons move down the electron transport chain?
+[CA] Protons (H⁺) are pumped into the intermembrane space
+[WA] Electrons lose energy and are stored in ATP
+[WA] ATP is directly synthesized
+[WA] Oxygen is produced
+[END]
+------------------------------------------- 
+[MCQ] Which molecule is reduced to form water at the end of the electron transport chain?
+[CA] Oxygen
+[WA] H+
+[WA] NADH
+[WA] FADH2
+[END]
+------------------------------------------- 
+[MCQ] Which protein complex in the electron transport chain directly synthesizes ATP?
+[CA] ATP Synthase
+[WA] Complex II
+[WA] Complex I
+[WA] Cytochrome c
+[END]
+------------------------------------------- 
+[MCQ] What happens to the proton gradient created by the electron transport chain?
+[CA] It is used to make ATP through chemiosmosis
+[WA] It is used to produce glucose
+[WA] It is used to reduce oxygen to water
+[WA] It is released into the cytoplasm
+[END]
+------------------------------------------- 
+[MCQ] What is the role of Complex I in the electron transport chain?
+[CA] To pump protons into the intermembrane space
+[WA] To transfer electrons from NADH to FAD
+[WA] To transfer electrons from NADH to oxygen
+[WA] To synthesize ATP from ADP and inorganic phosphate
+[END]
+------------------------------------------- 
+[MCQ] What is the function of Complex II in the electron transport chain?
+[CA] To transfer electrons from FADH₂ to further in the electron transport chain
+[WA] To transfer electrons from NADH to oxygen
+[WA] To pump protons into the intermembrane space
+[WA] To generate ATP from ADP
+[END]
+------------------------------------------- 
+[MCQ] What is the role of Complex IV in the electron transport chain?
+[CA] To transfer electrons from previously in the ETC to oxygen, reducing it to water
+[WA] To pump protons into the intermembrane space
+[WA] To accept electrons from NADH
+[WA] To generate ATP
+[END]
+------------------------------------------- 
+[MCQ] How does cyanide affect the electron transport chain?
+[CA] It inhibits Complex IV, preventing the transfer of electrons to oxygen, blocking ATP production
+[WA] It inhibits the activity of Complex I, preventing NADH from donating electrons
+[WA] It blocks the transfer of electrons from cytochrome c to Complex III
+[WA] It prevents protons from being pumped into the intermembrane space
+[END]
+------------------------------------------- 
+[MCQ] What is the proton concentration gradient?
+[CA] The difference in the concentration of protons across a membrane
+[WA] The difference in the concentration of oxygen across a membrane
+[WA] The difference in the concentration of glucose across a membrane
+[WA] The difference in the concentration of electrons across a membrane
+[END]
+------------------------------------------- 
+[SAQ] The energy used by ATP synthase to convert ADP into ATP is ______ ______.
+[A] Kinetic Energy
+[END]
+------------------------------------------- 
+[MCQ] What are the two main parts of oxidative phosphorylation?
+[CA] The electron transport chain and chemiosmosis
+[WA] Glycolysis and the citric acid cycle
+[WA] The Calvin cycle and the light reactions
+[WA] The Krebs cycle and fermentation
+[END]
+------------------------------------------- 
+[MCQ] What is the electron transport chain?
+[CA] A series of protein complexes that transfer electrons and pump protons to create a proton gradient
+[WA] A process that breaks down glucose to release energy
+[WA] A cycle where carbon dioxide is produced in the mitochondria
+[WA] A mechanism that synthesizes glucose from carbon dioxide
+[END]
+------------------------------------------- 
+[MCQ] What is chemiosmosis?
+[CA] The process where protons flow through ATP synthase to drive the synthesis of ATP
+[WA] The process where glucose is broken down into pyruvate
+[WA] The movement of oxygen through the mitochondrial membrane
+[WA] The diffusion of water across a membrane
+[END]
+------------------------------------------- 
+[T] Fermentation
+-------------------------------------------
+[MCQ] Where does fermentation occur in the cell?
+[CA] Cytoplasm
+[WA] Intermembrane Space
+[WA] Matrix
+[WA] Cristae
+[END]
+-------------------------------------------
+[MCQ] What happens to the pyruvate produced in glycolysis if oxygen is present?
+[CA] It remains in the cytoplasm
+[WA] It is converted to ethanol
+[WA] It is converted to lactic acid
+[WA] It enters the mitochondria
+[END]
+------------------------------------------- 
+[MCQ] What is fermentation?
+[CA] A metabolic process that produces energy without using oxygen
+[WA] A process that produces glucose from carbon dioxide
+[WA] A type of cellular respiration that requires oxygen
+[WA] A method of producing water during cellular respiration
+[END]
+------------------------------------------- 
+[SAQ] Fermentation contains what process?
+[A] Glycolysis
+[END]
+------------------------------------------- 
+[MCQ] What causes muscle soreness after intense exercise? (Hint: Recall back to the wall sit exercise)
+[CA] The accumulation of lactic acid from fermentation
+[WA] The buildup of ATP in muscle cells
+[WA] The breakdown of glucose into carbon dioxide
+[WA] The increase in oxygen consumption during exercise
+[END]
+------------------------------------------- 
+[MCQ] What type of process is fermentation?
+[CA] Anaerobic
+[WA] Aerobic
+[END]
+------------------------------------------- 
+[MCQ] What type of fermentation occurs in humans (when blood doesn’t supply enough oxygen)?
+[CA] Lactic Acid Fermentation
+[WA] Alcohol Fermentation (Ethanol)
+[WA] Pyruvate Fermentation
+[WA] Pyruvate-CoA Fermentation
+[END]
+------------------------------------------- 
+[MCQ] What type of fermentation occurs in bacteria and yeast?
+[CA] Alcohol Fermentation (Ethanol)
+[WA] Lactic Acid Fermentation
+[WA] Pyruvate Fermentation
+[WA] Pyruvate-CoA Fermentation
+[END]
+------------------------------------------- 
+[SAQ] What primary molecule from glycolysis is used to form ethanol in alcohol fermentation?
+[A] Pyruvate
+[END]
+------------------------------------------- 
