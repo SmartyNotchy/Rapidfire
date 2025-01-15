@@ -157,6 +157,56 @@
 [WA] Air bubbles trapped inside quartz during crystal formation causes light diffraction
 [END]
 -------------------------------------------
+[T] Mineral Groups
+-------------------------------------------
+[SAQ] This mineral group consists of minerals containing the (CO3)2- ion.
+[A] Carbonates
+[END]
+-------------------------------------------
+[SAQ] Calcite, CaCO3, belongs to this mineral group.
+[A] Carbonates
+[END]
+-------------------------------------------
+[SAQ] This mineral group consists of minerals containing the (SO4)2- ion.
+[A] Sulfates
+[END]
+-------------------------------------------
+[SAQ] Gypsum, CaSO4*2H2O, belongs to this mineral group.
+[A] Sulfates
+[END]
+-------------------------------------------
+[SAQ] This mineral group consists of minerals containing the (PO4)3- ion.
+[A] Phosphates
+[END]
+-------------------------------------------
+[SAQ] Fluorapatite, Ca5(PO4)3F, belongs to this mineral group.
+[A] Phosphates
+[END]
+-------------------------------------------
+[SAQ] This mineral group consists of compounds that are bonded to oxygen atoms.
+[A] Oxides
+[END]
+-------------------------------------------
+[SAQ] Magnetite, Fe2+Fe3+2O4, belongs to this mineral group.
+[A] Oxides
+[END]
+-------------------------------------------
+[SAQ] This mineral group consists of minerals containing the (OH)- ion.
+[A] Hydroxides
+[END]
+-------------------------------------------
+[SAQ] This mineral group consists of compounds that are bonded to sulfur atoms.
+[A] Sulfides
+[END]
+-------------------------------------------
+[SAQ] Molybdenite, MoS2, belongs to this mineral group.
+[A] Sulfides
+[END]
+-------------------------------------------
+[SAQ] _______ ___________ are minerals that, in their pure form, are made up of a singular unique atom.
+[A] Native Elements
+[END]
+-------------------------------------------
 [T] Mineral Properties
 -------------------------------------------
 [SAQ] ___________ are naturally occuring inorganic solids that have an ordered structure & definite chemical composition.
