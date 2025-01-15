@@ -252,6 +252,32 @@
 [A] Cleavage
 [END]
 -------------------------------------------
+[SAQ] ________ occurs due to a mineral's weak bonds along specific directions.
+[A] Cleavage
+[END]
+-------------------------------------------
+[SAQ] A mineral's _________ is its tendency to break irregularly and unpredictably (with no set pattern).
+[A] Fracture
+[END]
+-------------------------------------------
+[SAQ] ________ is demonstrated in a mineral if it lacks any planes of weakness in its structure.
+[A] Fracture
+[END]
+-------------------------------------------
+[MCQ] Biotite Mica demonstrates ________.
+[CA] Cleavage
+[WA] Fracture
+[END]
+-------------------------------------------
+[MCQ] Quartz demonstrates ________.
+[WA] Cleavage
+[CA] Fracture
+[END]
+-------------------------------------------
+[SAQ] ____________ fracture is a special type of fracture that occurs in minerals without any natural planes of separation.
+[A] Conchoidal
+[END]
+-------------------------------------------
 [SAQ] A mineral's _________ is measured on the Mohs scale.
 [A] Hardness
 [END]
@@ -328,7 +354,7 @@
 [A] Rare Earth Elements
 [END]
 -------------------------------------------
-[T] Magnetism
+[T] Ferromagnets
 -------------------------------------------
 [SAQ] _________ are groups of atoms with the same directional spin.
 [A] Domains
@@ -426,4 +452,58 @@
 [END]
 -------------------------------------------
 [T] Electromagnetism
+-------------------------------------------
+[SAQ] ________________ refers to the ability of an electrical current to induce a magnetic field.
+[A] Electromagnetism
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a critical part of an electromagnet?
+[CA] Permanent Magnet
+[WA] Ferromagnetic Core
+[WA] Coiled Wire
+[WA] Power Source
+[END]
+-------------------------------------------
+[MCQ] Which of the following does NOT increase the strength of an electromagnet?
+[CA] Increasing wire resistance
+[WA] Adding more wire coils
+[WA] Using a more ferromagnetic core
+[WA] Increasing the power voltage
+[END]
+-------------------------------------------
+[MCQ] Which is an accurate description of the right-hand rule regarding electromagnets?
+[CA] Curl your right hand; your curled fingers indicate the direction of the current, and your thumb points along the magnetic field lines
+[WA] Curl your right hand; your curled fingers indicate the magnetic field lines, and your thumb points along the current
+[WA] Point in the three axes with your thumb, middle and index fingers; your thumb indicates current, the two others indicate the magnetic field lines
+[END]
+-------------------------------------------
+[MCQ] In an electric motor, the current going through the coil of wire is:
+[CA] DC
+[WA] AC
+[END]
+-------------------------------------------
+[MCQ] In an electric motor, the coil of wire is constantly attracted to the permanent magnet, creating torque.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Why is one half of the wire's insulation stripped in a makeshift electric motor?
+[CA] To turn off the coil's magnetic field, allowing it to spin around
+[WA] To disable the permanent magnet, allowing the coil to make a full spin
+[WA] To double the current through the electromagnet when it is opposite the magnet
+[WA] To alternate the direction of the current (from left to right -> right to left)
+[END]
+-------------------------------------------
+[MCQ] What allows an electric motor to continue spinning instead of getting stuck?
+[CA] The current through the coil is broken when its magnetic pole is as close as possible to the permanent magnet
+[WA] The current is AC, meaning it constantly shifts direction
+[WA] The permanent magnet's magnetic field is temporarily shut off when the coil passes over it
+[WA] The torque of the coil constantly allows it to fight against the magnetic force pulling it back
+[END]
+-------------------------------------------
+[MCQ] What is the purpose of the power source in an electric motor?
+[CA] To induce an electromagnetic field in the coil of wire
+[WA] To induce an electromagnetic field through the permanent magnet
+[WA] To increase the inertia of the coil of wire
+[WA] To reduce the resistance of the coil of wire
 -------------------------------------------
