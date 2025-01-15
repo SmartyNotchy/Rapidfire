@@ -251,5 +251,129 @@
 [A] Triclinic
 [END]
 -------------------------------------------
+[T] Rare Earth Elements
+-------------------------------------------
+[MCQ] Rare Earth Elements aren't actually rare, they're just hard to extract.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] REEs are found in large ore veins; the hard part is figuring out where those actually are.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The main use of REEs is in jewelry and expensive cosmetic products.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] This REE is critical in technology (such as in making speakers) due to its powerful magnetic properties.
+[A] Neodynium
+[END]
+-------------------------------------------
+[SAQ] The main goal of theoretical "Asteroid Mining" is to obtain large amounts of __________________.
+[A] REE
+[A] REEs
+[A] Rare Earth Elements
+[END]
+-------------------------------------------
 [T] Magnetism
+-------------------------------------------
+[SAQ] _________ are groups of atoms with the same directional spin.
+[A] Domains
+[END]
+-------------------------------------------
+[SAQ] Magnetic moments in atoms exist due to their _________ _____.
+[A] Electron Spins
+[END]
+-------------------------------------------
+[SAQ] _____________ are materials that can readily form permanent magnetic fields.
+[A] Ferromagnets
+[END]
+-------------------------------------------
+[SAQ] Name a major ferromagnetic element.
+[A] Fe
+[A] Iron
+[A] Co
+[A] Cobalt
+[A] Ni
+[A] Nickel
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a major ferromagnetic element?
+[CA] Si
+[WA] Fe
+[WA] Co
+[WA] Ni
+[END]
+-------------------------------------------
+[MCQ] What makes the ferromagnetic elements unique (and gives them their magnetic properties)?
+[CA] Unpaired electrons in d-orbitals leads to net electron spin alignment, creating intrinsic magnetic moments.
+[WA] All electrons are paired in the d-orbitals, resulting in zero magnetic moment.
+[WA] Electrons in the s-orbitals align randomly, canceling each other's magnetic moments.
+[WA] Ferromagnetic elements have an equal number of protons and neutrons, leading to magnetic properties.
+[END]
+-------------------------------------------
+[MCQ] When domains line up ______ to one another, a magnet is created.
+[CA] Parallel
+[WA] Perpendicular
+[WA] Opposite
+[END]
+-------------------------------------------
+[MCQ] In a ferromagnetic material, all of the domains point in the exact same direction.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] __________ refers to the "lag time" between a material being brought into a magnetic field and the domains lining up with each other.
+[A] Hysteresis
+[END]
+-------------------------------------------
+[MCQ] Once a permanent magnetic field is created in an element, it cannot be removed.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] ___________ refers to the process of bringing a magnetic object into a powerful opposing magnetic field to remove its magnetic properties. (This process is often used to destroy electronic media or hide large military ships from magnetic radars.)
+[A] Degaussing
+[END]
+-------------------------------------------
+[MCQ] All magnets have a north and a south pole (even if you cut a magnet in half!).
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] In magnets, _____ poles attract.
+[CA] Opposite
+[WA] Like
+[END]
+-------------------------------------------
+[MCQ] Outside of a magnet, the magnetic field lines go from the ____ pole to the ____ pole.
+[CA] North -> South
+[WA] South -> North
+[END]
+-------------------------------------------
+[MCQ] When a neodynium bar magnet is snapped in half, what happens to its poles?
+[CA] Both halves gain a north pole and a south pole
+[WA] The two halves gain a temporary pole along the fractured edge, until the two halves are merged back together again
+[WA] The bar magnet gets split into a "north" half and a "south" half
+[WA] The bar magnet loses its magnetic properties
+[END]
+-------------------------------------------
+[MCQ] A magnetic field demonstration plate consists of dozens of tiny iron bars in glass circular cages. When a circular magnet is placed on top of this plate, the bars rotate to form a radial pattern around the magnet (pointing "away" from the circle's center). What does this indicate?
+[CA] The poles of the circle magnet are at the top and bottom of the disk (perpendicular to the plate)
+[WA] This circle magnet has no poles; instead, it has a point of attraction (rather than an axis)
+[WA] The poles of this magnet form a circle that runs tangent to the magnet's circumference
+[WA] The north and south poles of the circle magnet both run parallel to the plate and in the same direction
+[END]
+-------------------------------------------
+[MCQ] A magnetic viewing film visually highlights places of high magnetic field strength on a magnet. When a student places this film on top of a particular neodynium bar magnet, not only are both ends of the bar highlighted, but a line down the middle of the bar (parallel to the ends) is highlighted as well. What does this suggest?
+[CA] The bar magnet has four poles; it was probably broken into two pieces (each with two poles) and put back together
+[WA] The bar magnet has three poles; a north-south pole, and an east pole in the middle
+[WA] The bar magnet has two poles; the place with the highest magnetic field strength is exactly halfway between the two
+[WA] The bar magnet has one pole, running from one end of the bar to the other
+[END]
+-------------------------------------------
+[T] Electromagnetism
 -------------------------------------------
