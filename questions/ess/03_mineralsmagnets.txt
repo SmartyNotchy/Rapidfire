@@ -103,7 +103,7 @@
 -------------------------------------------
 [SAQ] In a ring silicate, how many oxygens per tetrahedral group are shared?
 [EXA] 2
-[EXA] Two
+[A] Two
 [END]
 -------------------------------------------
 [SAQ] Single chain and double chain silicates are both types of _____________.
@@ -112,12 +112,12 @@
 -------------------------------------------
 [SAQ] In a single chain silicate, how many oxygens per tetrahedral group are shared?
 [EXA] 2
-[EXA] Two
+[A] Two
 [END]
 -------------------------------------------
 [SAQ] In a double chain silicate, how many oxygens per tetrahedral group are shared?
 [EXA] 3
-[EXA] Three
+[A] Three
 [END]
 -------------------------------------------
 [SAQ] A silicate that is made up of an infinite grid of 2-dimensionally connecting tetrahedra is called a(n):
@@ -127,7 +127,7 @@
 -------------------------------------------
 [SAQ] In a sheet silicate, how many oxygens per tetrahedral group are shared?
 [EXA] 3
-[EXA] Three
+[A] Three
 [END]
 -------------------------------------------
 [SAQ] A silicate that is made up of an infinite grid of 3-dimensionally connecting tetrahedra is called a(n):
@@ -137,7 +137,7 @@
 -------------------------------------------
 [SAQ] In a framework silicate, how many oxygens per tetrahedral group are shared?
 [EXA] 4
-[EXA] Four
+[A] Four
 [END]
 -------------------------------------------
 [SAQ] Of the seven major silicate groups, name the strongest of them.
@@ -157,5 +157,99 @@
 [WA] Air bubbles trapped inside quartz during crystal formation causes light diffraction
 [END]
 -------------------------------------------
-[T] Minerals
+[T] Mineral Properties
+-------------------------------------------
+[SAQ] ___________ are naturally occuring inorganic solids that have an ordered structure & definite chemical composition.
+[A] Minerals
+[END]
+-------------------------------------------
+[SAQ] _____ are solid aggregates of minerals.
+[A] Rocks
+[END]
+-------------------------------------------
+[SAQ] ________ are the basic building blocks of minerals.
+[A] Elements
+[END]
+-------------------------------------------
+[MCQ] Color is an accurate tool for distinguishing between two minerals.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] ________ refers to the apperance of a mineral in reflected light.
+[A] Luster
+[END]
+-------------------------------------------
+[MCQ] What are the two main types of luster?
+[CA] Metallic & Nonmetallic
+[WA] Covalent & Ionic
+[WA] Shiny & Sparkly
+[WA] Greasy & Oily
+[END]
+-------------------------------------------
+[SAQ] ______ is the color of a mineral in its powdered form.
+[A] Streak
+[END]
+-------------------------------------------
+[MCQ] A mineral has a vibrant red color. What will its streak be?
+[CA] Cannot be determined
+[WA] Orange
+[WA] Clear
+[WA] Red
+[END]
+-------------------------------------------
+[SAQ] A mineral's _________ is its tendency to break along places of weak bonding.
+[A] Cleavage
+[END]
+-------------------------------------------
+[SAQ] A mineral's _________ is measured on the Mohs scale.
+[A] Hardness
+[END]
+-------------------------------------------
+[SAQ] Calcite crystals are notable for demonstrating __________ _____________ when light is shone through them.
+[A] Double Refraction
+[END]
+-------------------------------------------
+[SAQ] Halite is notable for having a distinct _____.
+[A] Taste
+[A] Salty
+[A] Salty Taste
+[END]
+-------------------------------------------
+[T] Crystal Systems
+-------------------------------------------
+[SAQ] This crystal system is characterized by three identical axes all meeting at right angles.
+[A] Cubic
+[A] Isometric
+[END]
+-------------------------------------------
+[SAQ] This crystal system is characterized by two identical axes and one third axis, all meeting at right angles.
+[A] Tetragonal
+[END]
+-------------------------------------------
+[SAQ] This crystal system is characterized by three unequal axes, all meeting at right angles.
+[A] Orthorhombic
+[END]
+-------------------------------------------
+[SAQ] This crystal system is characterized by two parallel hexagonal bases.
+[A] Hexagonal
+[END]
+-------------------------------------------
+[SAQ] This crystal system is characterized by three unequal axes, two of which are perpendicular to each other.
+[A] Monoclinic
+[END]
+-------------------------------------------
+[SAQ] This crystal system is characterized by three unequal axes, none of which are perpendicular to each other.
+[A] Triclinic
+[END]
+-------------------------------------------
+[SAQ] This crystal system has no "mirror planes" (you cannot reflect it across a plane to get the same crystal shape).
+[A] Triclinic
+[END]
+-------------------------------------------
+[SAQ] Name a crystal system that does not contain any rectangular (or square) faces.
+[A] Triclinic
+[END]
+-------------------------------------------
+[T] Magnetism
 -------------------------------------------
