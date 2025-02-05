@@ -1,0 +1,43 @@
+[PRESET] (Unit 3) Chapter 8 - The Bill of Rights & the First Amendment
+-------------------------------------------
+[T] NSL 3.1 - The Bill of Rights
+-------------------------------------------
+[MCQ] The original Constitution included many fundamental protections of people's civil liberties.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] To protect civil liberties, Anti-Federalists pushed for a ____________ to be added to the Constitution.
+[A] Bill of Rights
+[END]
+-------------------------------------------
+[SAQ] ______ _________ are personal freedoms that cannot be taken away by the government, as ensured by the Constitution.
+[A] Civil Liberties
+[END]
+-------------------------------------------
+[SAQ] Who is considered the "father" of the Bill of Rights?
+[A] James Madison
+[END]
+-------------------------------------------
+[SAQ] The ______________ is the set of the first ten amendments to the Constitution.
+[A] Bill of Rights
+[END]
+-------------------------------------------
+[MCQ] There are no limitations on civil liberties guaranteed by the Bill of Rights.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] Civil liberties are limited when they impinge on the ______ ________, another cherished democratic ideal.
+[A] Public Interest
+[END]
+-------------------------------------------
+[SAQ] _______ _________ is the welfare or well-being of the general public.
+[A] Public Interest
+[END]
+-------------------------------------------
+[MCQ] The Court's interpretation of civil liberties and the Bill of Rights changes very little over time.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
