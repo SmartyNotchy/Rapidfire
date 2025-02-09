@@ -41,3 +41,177 @@
 [WA] True
 [END]
 -------------------------------------------
+[MCQ] The Fourteenth Amendment's equal protection clause is an example of:
+[CA] Civil Rights
+[WA] Civil Liberties
+[END]
+-------------------------------------------
+[MCQ] The First Amendment's protection of free speech is an example of:
+[WA] Civil Rights
+[CA] Civil Liberties
+[END]
+-------------------------------------------
+[T] NSL 3.2 - I: Freedom of Religion
+-------------------------------------------
+[SAQ] As the US became more diverse and secular, the Supreme Court constructed a "______ ___ ___________" between church and state.
+[A] Wall of Separation
+[END]
+-------------------------------------------
+[MCQ] Which of the following does the "wall of separation" most closely relate to?
+[CA] Freedom of Religion
+[WA] Freedom of Speech
+[WA] Federalism
+[WA] The Monroe Doctrine
+[END]
+-------------------------------------------
+[SAQ] According to the First Amendment, "Congress shall make no law respecting a(n) ________ of religion or prohibiting the ____ _______ thereof."\n\n*(Answer Format: Apple,Banana)*
+[A] Establishment,Free Exercise
+[END]
+-------------------------------------------
+[SAQ] The ____________________ in the First Amendment prevents the federal government from endorsing a specific religion.
+[A] Establishment
+[A] Establishment Clause
+[END]
+-------------------------------------------
+[MCQ] The establishment clause also prevents governments from disregarding a specific religion over another.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] The ____________________ in the First Amendment prevents the federal government from stopping religious practices.
+[A] Free Exercise
+[A] Free Exercise Clause
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the establishment clause of the First Amendment?
+[CA] The Government cannot endorse a specific religion
+[WA] The Government generally cannot stop religious practices
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the free exercise clause of the First Amendment?
+[WA] The Government cannot endorse a specific religion
+[CA] The Government generally cannot stop religious practices
+[END]
+-------------------------------------------
+[MCQ] Can a state reimburse parents for transporting their children to school, even if the children attend parochial schools?
+[CA] Yes, school transportation is a nonreligious service available to all taxpayers
+[WA] Yes, giving money to parochial schools is allowed as long as the state does not publicly announce sponsorship
+[WA] No, providing funds to parochial schools would entangle the church & state
+[WA] No, the state is not allowed to provide any money towards religious schools
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Engel v. Vitale (1962)*?
+[CA] Is a state-created, nondenominational, and voluntary prayer recited in schools a violation of the First Amendment?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality of voluntary non-denominational prayers in public schools.
+[A] Engel v Vitale
+[END]
+-------------------------------------------
+[MCQ] What was the decision in *Engel v. Vitale (1962)*?
+[CA] School-sponsored prayers are **unconstitutional**, because they incorporate religion into public schools, and not all religions believe in God
+[WA] School-sponsored prayers are **unconstitutional**, because any mention of God in public education is a form of establishment
+[WA] School-sponsored prayers are **constitutional**, because the prayer in this case was voluntary (students could choose to opt-out)
+[WA] School-sponsored prayers are **constitutional**, because the prayer in this case did not endorse a specific God or religion
+[END]
+-------------------------------------------
+[MCQ] Can a public school sponsor a morning prayer, given that it is completely optional and does not mention a specific religion?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[SAQ] This court case established a similar-named test to identify excessive entanglement of church & state.
+[A] Lemon v Kurtzman
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Lemon v. Kurtzman (1971)*?
+[CA] Can states pass laws to pay teachers of secular subjects in religious schools using state funds?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] Can a state use state funds to pay teachers of secular subjects in religious schools?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] Which of the following does the Lemon Test concern?
+[CA] Entanglement of Church & State
+[WA] Legality of Obscenity
+[WA] Clear & Present Danger
+[WA] Malicious Intent
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a requirement for a policy to avoid excessive entanglement under the Lemon Test?
+[CA] Avoids using state funds to benefit any religious institutions
+[WA] Have a secular purpose that is neutral towards religion
+[WA] Have an effect that neither advances nor prohibits religion
+[WA] Avoids creating a relationship between religion & government that involves one in the others' internal affairs
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality of compulsory school attendance laws for children.
+[A] Wisconsin v Yoder
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Wisconsin v. Yoder (1972)*?
+[CA] Does a state's compulsory school attendance law for children violate the First Amendment's free exercise clause?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] What was the decision in *Wisconsin v. Yoder (1972)*?
+[CA] Compulsory school attendance is **unconstitutional**, because it went against Amish beliefs and did not burden society
+[WA] Compulsory school attendance is **unconstitutional**, because the state does not have the power to involve itself in public school
+[WA] Compulsory school attendance is **constitutional**, because it is necessary to avoid burdens on society
+[WA] Compulsory school attendance is **constitutional**, because deferring to Amish beliefs would violate the establishment clause
+[END]
+-------------------------------------------
+[MCQ] Can a state pass a law that enforces compulsory school attendance for children under 16, even if it goes against Amish beliefs?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[T] NSL 3.2 - I: Freedom of Religion (Modern Applications)
+-------------------------------------------
+[MCQ] Does a display of religious symbols on public grounds constitute an establishment of religion?
+[CA] It depends
+[WA] No, never
+[WA] Yes, always
+[WA] Engine, engine number nine, going down Chicago line, if the engine jumps the track, will I get my money back?
+[END]
+-------------------------------------------
+[MCQ] Generally, can a state government specifically contribute funds to religious schools?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] Can a state government issue vouchers for parents to pay tuition, even if most of them are spent on private religious schools?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Can students operate extracurricular activities supporting a specific religion in public schools?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Does the display of a nativity (birth of Jesus) scene in a shopping district alongside secular Christmas-related decorations violate the establishment clause?
+[CA] No (usually)
+[WA] Yes (usually)
+[END]
+-------------------------------------------
+[MCQ] Can the 10 Commandments be displayed at a courthouse alongside other historical American documents?
+[CA] No (usually)
+[WA] Yes (usually)
+[END]
+-------------------------------------------
+[MCQ] Can the 10 Commandments be displayed outdoors in front of a state capitol, alongside other historical and religions documents?
+[CA] Yes (usually)
+[WA] No (usually)
+[END]
+-------------------------------------------
