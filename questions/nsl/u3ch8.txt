@@ -411,3 +411,93 @@
 [WA] Standardized (No Change)
 [END]
 -------------------------------------------
+[T] NSL 3.4 - I: Freedom of Press
+-------------------------------------------
+[MCQ] The Court has not made much distinction between "speech" and "press", and often provides the same protection for both.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] A charge of _____ refers to false statements in print that demages a person's reputation.
+[A] Libel
+[END]
+-------------------------------------------
+[MCQ] American courts typically allow for a high standard of defamation before rewarding a suing party.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] This court case established the main decision that defended freedom of press against the charge of libel.
+[A] Times v Sullivan
+[A] NYT Co v Sullivan
+[A] New York Times Co v Sullivan
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *New York Times Co. v. Sullivan (1964)*?
+[CA] Do inaccuracies and false information in a newspaper listing qualify as libel?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the decision in *New York Times Co. v. Sullivan (1964)*?
+[CA] The ad was **not libel**, because the First Amendment protects against slight mistakes, which differ from intentional defamation
+[WA] The ad was **not libel**, because the First Amendment protects against intentional defamation due to free speech
+[WA] The ad was **libel**, because the First Amendment protects public officials from falsehoods being printed about them
+[WA] The ad was **libel**, because the First Amendment does not cover printed speech, only spoken words
+[END]
+-------------------------------------------
+[MCQ] If you publish an article on an online blog that contains some inaccuracies about the President, can you be convicted of libel?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[SAQ] The Supreme Court holds a high standard for libel, and gives freedoms of expression the "__________ _____" they need to survive.
+[A] Breathing Room
+[END]
+-------------------------------------------
+[MCQ] Public figures are _____ protected than laypeople in terms of defamatory falsehoods relating to their conduct.
+[CA] Less
+[WA] More
+[WA] Equally
+[END]
+-------------------------------------------
+[SAQ] In order to win a libel suit in court, the suing party often needs to prove the writer presented falsehoods with __________ _______ to defame.
+[A] Malicious Intent
+[END]
+-------------------------------------------
+[SAQ] The government has no exclusive privilege of _____ _________ - the right to stop spoken or printed expression in advance.
+[A] Prior Restraint
+[END]
+-------------------------------------------
+[SAQ] This 1971 court case reaffirmed that the government has no exclusive privilege of prior restraint.
+[A] Times v US
+[A] NYT Co v US
+[A] Times v United States
+[A] NYT Co v United States
+[A] New York Times Co v United States
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Times v US (1971)*?
+[CA] Can the executive branch constitutionally block the printing of reporter-obtained classified government information?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the decision in *Times v US (1971)*?
+[CA] The government **could not** block the printing, because the government could not justify imposing such a restraint
+[WA] The government **could not** block the printing, because suppressing any press was unconstitutional under the First Amendment
+[WA] The government **could** block the printing, because the government needed to protect national secrets
+[WA] The government **could** block the printing, because the government can suppress any press during a national conflict
+[END]
+-------------------------------------------
+[MCQ] Suppose a reporter at the Washington Post gains access to confidential documents about the US's involvement in Ukraine. Can they publish the documents & still be protected by the First Amendment?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[SAQ] This court case, which served as a background for *Times v US (1971)*, ruled that a state law preventing radical propoganda in the press violated the First Amendment.
+[A] Near v Minnesota
+[END]
+-------------------------------------------
