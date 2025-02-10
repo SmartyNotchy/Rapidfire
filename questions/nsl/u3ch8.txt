@@ -141,9 +141,13 @@
 -------------------------------------------
 [MCQ] Which of the following does the Lemon Test concern?
 [CA] Entanglement of Church & State
-[WA] Legality of Obscenity
+[WA] Defining Obscenity
 [WA] Clear & Present Danger
 [WA] Malicious Intent
+[END]
+-------------------------------------------
+[SAQ] The _______ ________ is a standard used by the Court to evaluate if excessive entanglement is present in a policy.
+[A] Lemon Test
 [END]
 -------------------------------------------
 [MCQ] Which of the following is NOT a requirement for a policy to avoid excessive entanglement under the Lemon Test?
@@ -213,5 +217,197 @@
 [MCQ] Can the 10 Commandments be displayed outdoors in front of a state capitol, alongside other historical and religions documents?
 [CA] Yes (usually)
 [WA] No (usually)
+[END]
+-------------------------------------------
+[T] NSL 3.3 - I: Freedom of Speech
+-------------------------------------------
+[MCQ] Free speech is absolutely protected under the First Amendment.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Free speech can only be limited if governments show ____________ ____________ _______________ - a purpose important enough to justify to curbing of free speech.
+[A] Significant Government Interest
+[A] Compelling Government Interest
+[A] Substantial Government Interest
+[END]
+-------------------------------------------
+[MCQ] When governments demonstrate compelling government interest, they can constitutionally limit free speech.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Was the burning of draft cards to protest the Vietnam War protected under the First Amendment?
+[CA] No, doing so was disrupting Congress's ability to raise an army
+[WA] No, free speech only protects words, not symbolic actions
+[WA] Yes, the government cannot limit any symbolic speech or actions, even if unpopular
+[WA] Yes, the government cannot limit the ability to protest the war through burning draft cards
+[END]
+-------------------------------------------
+[MCQ] Is wearing a shirt bearing "F--k the Draft" in a courthouse protected under the First Amendment?
+[CA] Yes, the shirt is not really inciting an illegal action
+[WA] Yes, any clothing displaying any message is protected under the First Amendment
+[WA] No, wearing such a shirt violates obscenity standards
+[WA] No, free speech only protects spoken & written words, not symbolic actions (like wearing a shirt with a message)
+[END]
+-------------------------------------------
+[SAQ] According to the time, place, and manner test, restrictions must be ________________ and not suppress the content of the expression itself.
+[A] Content-Neutral
+[A] Neutral
+[END]
+-------------------------------------------
+[SAQ] According to the time, place, and manner test, restrictions must serve a ________________, like the government needing to raise an army.
+[A] Significant Government Interest
+[A] Compelling Government Interest
+[A] Substantial Government Interest
+[END]
+-------------------------------------------
+[SAQ] According to the time, place, and manner test, restrictions must be ___________________; designed in the most specific way to avoid spillover into other areas.
+[A] Narrowly Tailored
+[A] Narrowly Made
+[A] Narrow
+[END]
+-------------------------------------------
+[SAQ] According to the time, place, and manner test, there must be adequate ______________________; the court cannot put a blanket ban on all ways of expressing a certain opinion.
+[A] Alternative Ways of Expression
+[A] Alternative Channels of Communication
+[A] Alternatives
+[END]
+-------------------------------------------
+[SAQ] _________ ___________ refers to physical acctions that express or advocate for a certain viewpoint.
+[A] Symbolic Speech
+[END]
+-------------------------------------------
+[MCQ] People cannot invoke symbolic speech to defend an act that is otherwise illegal.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Can you burn the US flag?
+[CA] Yes, laws banning flag burning serve no purpose other than ensuring a political idea (reverence of the flag)
+[WA] Yes, symbolic actions like flag burning or draft card burning are always protected under the First Amendment
+[WA] No, because local/state laws prohibit flag burning
+[WA] No, symbolic speech does not protect arson/setting things on fire
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality of wearing armbands to school in symbolic protest.
+[A] Tinker v Des Moines
+[A] Tinker v Des Moines Independent Community School District
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Tinker v. Des Moines (1969)*?
+[CA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] What was the decision in *Tinker v. Des Moines (1969)*?
+[CA] Wearing armbands to school in protest is **protected**, because it does not disrupt school proceedings
+[WA] Wearing armbands to school in protest is **protected**, because schools are not allowed to quiet any anti-war protest
+[WA] Wearing armbands to school in protest is **not protected**, because the school has the right to limit speech to uphold discipline
+[WA] Wearing armbands to school in protest is **not protected**, because symbolic speech is not protected under the First Amendment
+[END]
+-------------------------------------------
+[MCQ] Is wearing an armband to school to protest a war protected under the First Amendment?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Is giving a speech with sexual innuendos to a public school protected under the First Amendment?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] Is holding up a sign promoting drug usage at a school-sponsored event (outside school grounds) protected under the First Amendment?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[SAQ] _______ _______ is highly offensive speech that is neither protected under the First Amendment nor fully nationally defined.
+[A] Obscene Speech
+[END]
+-------------------------------------------
+[MCQ] All pornography is obscene and therefore is not protected by the First Amendment.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The definition of "obscene speech" is not set in stone and has changed with the times.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] This court case led to a similarly named test that serves as a modern standard in obscenity cases.
+[A] Miller v California
+[END]
+-------------------------------------------
+[SAQ] The _______ _______ is a standard used by the Court to evaluate if speech can be classified as obscenity.
+[A] Miller Test
+[END]
+-------------------------------------------
+[MCQ] Which of the following does the Miller Test concern?
+[WA] Entanglement of Church & State
+[CA] Defining Obscenity
+[WA] Clear & Present Danger
+[WA] Malicious Intent
+[END]
+-------------------------------------------
+[MCQ] Which of the following does NOT make a work obscene under the Miller Test?
+[CA] Classification as a pornographic work under local standards
+[WA] Average person views it as prurient according to contemporary community standards
+[WA] Depicts sexual conduct (as defined by state law) in a patently offensive way
+[WA] Lacks serious, artistic, political, or scientific value
+[WA] None of the above
+[END]
+-------------------------------------------
+[MCQ] A work is not considered as obscene unless it meets __________ of prongs of the Miller Test.
+[CA] all 3
+[WA] at least 2
+[WA] any of the
+[WA] none of the
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality of expressing opposition to a draft during wartime.
+[A] Schenck v United States
+[A] Schenck v US
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Schenck v. United States (1919)*?
+[CA] Can the government constitutionally punish the expression of opposition to the military draft during wartime?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] What was the decision in *Schenck v. United States (1919)*?
+[CA] Expressing opposition to the draft in this case is **not permitted**, because it incited unlawful action
+[WA] Expressing opposition to the draft in this case is **not permitted**, because criticism of constitutional government policies is not allowed
+[WA] Expressing opposition to the draft in this case is **permitted**, because it advocated for peaceful protest
+[WA] Expressing opposition to the draft in this case is **permitted**, because any criticism of government actions is protected by the First Amendment
+[END]
+-------------------------------------------
+[SAQ] *Schenck v. United States (1919)* established the ___________________ test, balancing free expression with the government's need to protect a free society.
+[A] Clear and Present Danger
+[END]
+-------------------------------------------
+[MCQ] The context of an expression needs to be considered to determine if it is constitutionally protected.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] The clear and present danger test was later replaced by the "_________________________" test in *Brandenburg v. Ohio (1969)*.
+[A] Imminent Lawless Action
+[END]
+-------------------------------------------
+[SAQ] This court case replaced the clear and present danger test in *Schenck v. US (1919)* with the "imminent lawless action" test.
+[A] Brandenburg
+[A] Brandenburg v Ohio
+[END]
+-------------------------------------------
+[MCQ] The protection of free speech under the First Amendment has become ________________ since the decision in *Schenck v. US (1919)*.
+[CA] More Protective
+[WA] More Restrictive
+[WA] Standardized (No Change)
 [END]
 -------------------------------------------
