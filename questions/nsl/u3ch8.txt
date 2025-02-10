@@ -1,0 +1,503 @@
+[PRESET] (Unit 3) Chapter 8 - The Bill of Rights & the First Amendment
+-------------------------------------------
+[T] NSL 3.1 - The Bill of Rights
+-------------------------------------------
+[MCQ] The original Constitution included many fundamental protections of people's civil liberties.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] To protect civil liberties, Anti-Federalists pushed for a ____________ to be added to the Constitution.
+[A] Bill of Rights
+[END]
+-------------------------------------------
+[SAQ] ______ _________ are personal freedoms that cannot be taken away by the government, as ensured by the Constitution.
+[A] Civil Liberties
+[END]
+-------------------------------------------
+[SAQ] Who is considered the "father" of the Bill of Rights?
+[A] James Madison
+[END]
+-------------------------------------------
+[SAQ] The ______________ is the set of the first ten amendments to the Constitution.
+[A] Bill of Rights
+[END]
+-------------------------------------------
+[MCQ] There are no limitations on civil liberties guaranteed by the Bill of Rights.
+[WA] True
+[CA] False
+[END]
+-------------------------------------------
+[SAQ] Civil liberties are limited when they impinge on the ______ ________, another cherished democratic ideal.
+[A] Public Interest
+[END]
+-------------------------------------------
+[SAQ] _______ _________ is the welfare or well-being of the general public.
+[A] Public Interest
+[END]
+-------------------------------------------
+[MCQ] The Court's interpretation of civil liberties and the Bill of Rights changes very little over time.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The Fourteenth Amendment's equal protection clause is an example of:
+[CA] Civil Rights
+[WA] Civil Liberties
+[END]
+-------------------------------------------
+[MCQ] The First Amendment's protection of free speech is an example of:
+[WA] Civil Rights
+[CA] Civil Liberties
+[END]
+-------------------------------------------
+[T] NSL 3.2 - I: Freedom of Religion
+-------------------------------------------
+[SAQ] As the US became more diverse and secular, the Supreme Court constructed a "______ ___ ___________" between church and state.
+[A] Wall of Separation
+[END]
+-------------------------------------------
+[MCQ] Which of the following does the "wall of separation" most closely relate to?
+[CA] Freedom of Religion
+[WA] Freedom of Speech
+[WA] Federalism
+[WA] The Monroe Doctrine
+[END]
+-------------------------------------------
+[SAQ] According to the First Amendment, "Congress shall make no law respecting a(n) ________ of religion or prohibiting the ____ _______ thereof."\n\n*(Answer Format: Apple,Banana)*
+[A] Establishment,Free Exercise
+[END]
+-------------------------------------------
+[SAQ] The ____________________ in the First Amendment prevents the federal government from endorsing a specific religion.
+[A] Establishment
+[A] Establishment Clause
+[END]
+-------------------------------------------
+[MCQ] The establishment clause also prevents governments from disregarding a specific religion over another.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] The ____________________ in the First Amendment prevents the federal government from stopping religious practices.
+[A] Free Exercise
+[A] Free Exercise Clause
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the establishment clause of the First Amendment?
+[CA] The Government cannot endorse a specific religion
+[WA] The Government generally cannot stop religious practices
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the free exercise clause of the First Amendment?
+[WA] The Government cannot endorse a specific religion
+[CA] The Government generally cannot stop religious practices
+[END]
+-------------------------------------------
+[MCQ] Can a state reimburse parents for transporting their children to school, even if the children attend parochial schools?
+[CA] Yes, school transportation is a nonreligious service available to all taxpayers
+[WA] Yes, giving money to parochial schools is allowed as long as the state does not publicly announce sponsorship
+[WA] No, providing funds to parochial schools would entangle the church & state
+[WA] No, the state is not allowed to provide any money towards religious schools
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Engel v. Vitale (1962)*?
+[CA] Is a state-created, nondenominational, and voluntary prayer recited in schools a violation of the First Amendment?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality of voluntary non-denominational prayers in public schools.
+[A] Engel v Vitale
+[END]
+-------------------------------------------
+[MCQ] What was the decision in *Engel v. Vitale (1962)*?
+[CA] School-sponsored prayers are **unconstitutional**, because they incorporate religion into public schools, and not all religions believe in God
+[WA] School-sponsored prayers are **unconstitutional**, because any mention of God in public education is a form of establishment
+[WA] School-sponsored prayers are **constitutional**, because the prayer in this case was voluntary (students could choose to opt-out)
+[WA] School-sponsored prayers are **constitutional**, because the prayer in this case did not endorse a specific God or religion
+[END]
+-------------------------------------------
+[MCQ] Can a public school sponsor a morning prayer, given that it is completely optional and does not mention a specific religion?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[SAQ] This court case established a similar-named test to identify excessive entanglement of church & state.
+[A] Lemon v Kurtzman
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Lemon v. Kurtzman (1971)*?
+[CA] Can states pass laws to pay teachers of secular subjects in religious schools using state funds?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] Can a state use state funds to pay teachers of secular subjects in religious schools?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] Which of the following does the Lemon Test concern?
+[CA] Entanglement of Church & State
+[WA] Defining Obscenity
+[WA] Clear & Present Danger
+[WA] Malicious Intent
+[END]
+-------------------------------------------
+[SAQ] The _______ ________ is a standard used by the Court to evaluate if excessive entanglement is present in a policy.
+[A] Lemon Test
+[END]
+-------------------------------------------
+[MCQ] Which of the following is NOT a requirement for a policy to avoid excessive entanglement under the Lemon Test?
+[CA] Avoids using state funds to benefit any religious institutions
+[WA] Have a secular purpose that is neutral towards religion
+[WA] Have an effect that neither advances nor prohibits religion
+[WA] Avoids creating a relationship between religion & government that involves one in the others' internal affairs
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality of compulsory school attendance laws for children.
+[A] Wisconsin v Yoder
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Wisconsin v. Yoder (1972)*?
+[CA] Does a state's compulsory school attendance law for children violate the First Amendment's free exercise clause?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] What was the decision in *Wisconsin v. Yoder (1972)*?
+[CA] Compulsory school attendance is **unconstitutional**, because it went against Amish beliefs and did not burden society
+[WA] Compulsory school attendance is **unconstitutional**, because the state does not have the power to involve itself in public school
+[WA] Compulsory school attendance is **constitutional**, because it is necessary to avoid burdens on society
+[WA] Compulsory school attendance is **constitutional**, because deferring to Amish beliefs would violate the establishment clause
+[END]
+-------------------------------------------
+[MCQ] Can a state pass a law that enforces compulsory school attendance for children under 16, even if it goes against Amish beliefs?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[T] NSL 3.2 - I: Freedom of Religion (Modern Applications)
+-------------------------------------------
+[MCQ] Does a display of religious symbols on public grounds constitute an establishment of religion?
+[CA] It depends
+[WA] No, never
+[WA] Yes, always
+[WA] Engine, engine number nine, going down Chicago line, if the engine jumps the track, will I get my money back?
+[END]
+-------------------------------------------
+[MCQ] Generally, can a state government specifically contribute funds to religious schools?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] Can a state government issue vouchers for parents to pay tuition, even if most of them are spent on private religious schools?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Can students operate extracurricular activities supporting a specific religion in public schools?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Does the display of a nativity (birth of Jesus) scene in a shopping district alongside secular Christmas-related decorations violate the establishment clause?
+[CA] No (usually)
+[WA] Yes (usually)
+[END]
+-------------------------------------------
+[MCQ] Can the 10 Commandments be displayed at a courthouse alongside other historical American documents?
+[CA] No (usually)
+[WA] Yes (usually)
+[END]
+-------------------------------------------
+[MCQ] Can the 10 Commandments be displayed outdoors in front of a state capitol, alongside other historical and religions documents?
+[CA] Yes (usually)
+[WA] No (usually)
+[END]
+-------------------------------------------
+[T] NSL 3.3 - I: Freedom of Speech
+-------------------------------------------
+[MCQ] Free speech is absolutely protected under the First Amendment.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Free speech can only be limited if governments show ____________ ____________ _______________ - a purpose important enough to justify to curbing of free speech.
+[A] Significant Government Interest
+[A] Compelling Government Interest
+[A] Substantial Government Interest
+[END]
+-------------------------------------------
+[MCQ] When governments demonstrate compelling government interest, they can constitutionally limit free speech.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Was the burning of draft cards to protest the Vietnam War protected under the First Amendment?
+[CA] No, doing so was disrupting Congress's ability to raise an army
+[WA] No, free speech only protects words, not symbolic actions
+[WA] Yes, the government cannot limit any symbolic speech or actions, even if unpopular
+[WA] Yes, the government cannot limit the ability to protest the war through burning draft cards
+[END]
+-------------------------------------------
+[MCQ] Is wearing a shirt bearing "F--k the Draft" in a courthouse protected under the First Amendment?
+[CA] Yes, the shirt is not really inciting an illegal action
+[WA] Yes, any clothing displaying any message is protected under the First Amendment
+[WA] No, wearing such a shirt violates obscenity standards
+[WA] No, free speech only protects spoken & written words, not symbolic actions (like wearing a shirt with a message)
+[END]
+-------------------------------------------
+[SAQ] According to the time, place, and manner test, restrictions must be ________________ and not suppress the content of the expression itself.
+[A] Content-Neutral
+[A] Neutral
+[END]
+-------------------------------------------
+[SAQ] According to the time, place, and manner test, restrictions must serve a ________________, like the government needing to raise an army.
+[A] Significant Government Interest
+[A] Compelling Government Interest
+[A] Substantial Government Interest
+[END]
+-------------------------------------------
+[SAQ] According to the time, place, and manner test, restrictions must be ___________________; designed in the most specific way to avoid spillover into other areas.
+[A] Narrowly Tailored
+[A] Narrowly Made
+[A] Narrow
+[END]
+-------------------------------------------
+[SAQ] According to the time, place, and manner test, there must be adequate ______________________; the court cannot put a blanket ban on all ways of expressing a certain opinion.
+[A] Alternative Ways of Expression
+[A] Alternative Channels of Communication
+[A] Alternatives
+[END]
+-------------------------------------------
+[SAQ] _________ ___________ refers to physical acctions that express or advocate for a certain viewpoint.
+[A] Symbolic Speech
+[END]
+-------------------------------------------
+[MCQ] People cannot invoke symbolic speech to defend an act that is otherwise illegal.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Can you burn the US flag?
+[CA] Yes, laws banning flag burning serve no purpose other than ensuring a political idea (reverence of the flag)
+[WA] Yes, symbolic actions like flag burning or draft card burning are always protected under the First Amendment
+[WA] No, because local/state laws prohibit flag burning
+[WA] No, symbolic speech does not protect arson/setting things on fire
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality of wearing armbands to school in symbolic protest.
+[A] Tinker v Des Moines
+[A] Tinker v Des Moines Independent Community School District
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Tinker v. Des Moines (1969)*?
+[CA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] What was the decision in *Tinker v. Des Moines (1969)*?
+[CA] Wearing armbands to school in protest is **protected**, because it does not disrupt school proceedings
+[WA] Wearing armbands to school in protest is **protected**, because schools are not allowed to quiet any anti-war protest
+[WA] Wearing armbands to school in protest is **not protected**, because the school has the right to limit speech to uphold discipline
+[WA] Wearing armbands to school in protest is **not protected**, because symbolic speech is not protected under the First Amendment
+[END]
+-------------------------------------------
+[MCQ] Is wearing an armband to school to protest a war protected under the First Amendment?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Is giving a speech with sexual innuendos to a public school protected under the First Amendment?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] Is holding up a sign promoting drug usage at a school-sponsored event (outside school grounds) protected under the First Amendment?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[SAQ] _______ _______ is highly offensive speech that is neither protected under the First Amendment nor fully nationally defined.
+[A] Obscene Speech
+[END]
+-------------------------------------------
+[MCQ] All pornography is obscene and therefore is not protected by the First Amendment.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The definition of "obscene speech" is not set in stone and has changed with the times.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] This court case led to a similarly named test that serves as a modern standard in obscenity cases.
+[A] Miller v California
+[END]
+-------------------------------------------
+[SAQ] The _______ _______ is a standard used by the Court to evaluate if speech can be classified as obscenity.
+[A] Miller Test
+[END]
+-------------------------------------------
+[MCQ] Which of the following does the Miller Test concern?
+[WA] Entanglement of Church & State
+[CA] Defining Obscenity
+[WA] Clear & Present Danger
+[WA] Malicious Intent
+[END]
+-------------------------------------------
+[MCQ] Which of the following does NOT make a work obscene under the Miller Test?
+[CA] Classification as a pornographic work under local standards
+[WA] Average person views it as prurient according to contemporary community standards
+[WA] Depicts sexual conduct (as defined by state law) in a patently offensive way
+[WA] Lacks serious, artistic, political, or scientific value
+[WA] None of the above
+[END]
+-------------------------------------------
+[MCQ] A work is not considered as obscene unless it meets __________ of prongs of the Miller Test.
+[CA] all 3
+[WA] at least 2
+[WA] any of the
+[WA] none of the
+[END]
+-------------------------------------------
+[SAQ] This court case concerned the constitutionality of expressing opposition to a draft during wartime.
+[A] Schenck v United States
+[A] Schenck v US
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Schenck v. United States (1919)*?
+[CA] Can the government constitutionally punish the expression of opposition to the military draft during wartime?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] What was the decision in *Schenck v. United States (1919)*?
+[CA] Expressing opposition to the draft in this case is **not permitted**, because it incited unlawful action
+[WA] Expressing opposition to the draft in this case is **not permitted**, because criticism of constitutional government policies is not allowed
+[WA] Expressing opposition to the draft in this case is **permitted**, because it advocated for peaceful protest
+[WA] Expressing opposition to the draft in this case is **permitted**, because any criticism of government actions is protected by the First Amendment
+[END]
+-------------------------------------------
+[SAQ] *Schenck v. United States (1919)* established the ___________________ test, balancing free expression with the government's need to protect a free society.
+[A] Clear and Present Danger
+[END]
+-------------------------------------------
+[MCQ] The context of an expression needs to be considered to determine if it is constitutionally protected.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] The clear and present danger test was later replaced by the "_________________________" test in *Brandenburg v. Ohio (1969)*.
+[A] Imminent Lawless Action
+[END]
+-------------------------------------------
+[SAQ] This court case replaced the clear and present danger test in *Schenck v. US (1919)* with the "imminent lawless action" test.
+[A] Brandenburg
+[A] Brandenburg v Ohio
+[END]
+-------------------------------------------
+[MCQ] The protection of free speech under the First Amendment has become ________________ since the decision in *Schenck v. US (1919)*.
+[CA] More Protective
+[WA] More Restrictive
+[WA] Standardized (No Change)
+[END]
+-------------------------------------------
+[T] NSL 3.4 - I: Freedom of Press
+-------------------------------------------
+[MCQ] The Court has not made much distinction between "speech" and "press", and often provides the same protection for both.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] A charge of _____ refers to false statements in print that demages a person's reputation.
+[A] Libel
+[END]
+-------------------------------------------
+[MCQ] American courts typically allow for a high standard of defamation before rewarding a suing party.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] This court case established the main decision that defended freedom of press against the charge of libel.
+[A] Times v Sullivan
+[A] NYT Co v Sullivan
+[A] New York Times Co v Sullivan
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *New York Times Co. v. Sullivan (1964)*?
+[CA] Do inaccuracies and false information in a newspaper listing qualify as libel?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the decision in *New York Times Co. v. Sullivan (1964)*?
+[CA] The ad was **not libel**, because the First Amendment protects against slight mistakes, which differ from intentional defamation
+[WA] The ad was **not libel**, because the First Amendment protects against intentional defamation due to free speech
+[WA] The ad was **libel**, because the First Amendment protects public officials from falsehoods being printed about them
+[WA] The ad was **libel**, because the First Amendment does not cover printed speech, only spoken words
+[END]
+-------------------------------------------
+[MCQ] If you publish an article on an online blog that contains some inaccuracies about the President, can you be convicted of libel?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[SAQ] The Supreme Court holds a high standard for libel, and gives freedoms of expression the "__________ _____" they need to survive.
+[A] Breathing Room
+[END]
+-------------------------------------------
+[MCQ] Public figures are _____ protected than laypeople in terms of defamatory falsehoods relating to their conduct.
+[CA] Less
+[WA] More
+[WA] Equally
+[END]
+-------------------------------------------
+[SAQ] In order to win a libel suit in court, the suing party often needs to prove the writer presented falsehoods with __________ _______ to defame.
+[A] Malicious Intent
+[END]
+-------------------------------------------
+[SAQ] The government has no exclusive privilege of _____ _________ - the right to stop spoken or printed expression in advance.
+[A] Prior Restraint
+[END]
+-------------------------------------------
+[SAQ] This 1971 court case reaffirmed that the government has no exclusive privilege of prior restraint.
+[A] Times v US
+[A] NYT Co v US
+[A] Times v United States
+[A] NYT Co v United States
+[A] New York Times Co v United States
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Times v US (1971)*?
+[CA] Can the executive branch constitutionally block the printing of reporter-obtained classified government information?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the decision in *Times v US (1971)*?
+[CA] The government **could not** block the printing, because the government could not justify imposing such a restraint
+[WA] The government **could not** block the printing, because suppressing any press was unconstitutional under the First Amendment
+[WA] The government **could** block the printing, because the government needed to protect national secrets
+[WA] The government **could** block the printing, because the government can suppress any press during a national conflict
+[END]
+-------------------------------------------
+[MCQ] Suppose a reporter at the Washington Post gains access to confidential documents about the US's involvement in Ukraine. Can they publish the documents & still be protected by the First Amendment?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[SAQ] This court case, which served as a background for *Times v US (1971)*, ruled that a state law preventing radical propoganda in the press violated the First Amendment.
+[A] Near v Minnesota
+[END]
+-------------------------------------------

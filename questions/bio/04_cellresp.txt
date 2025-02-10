@@ -30,10 +30,10 @@
 [WA] It reduces the need for oxygen in the electron transport chain
 [END]
 ------------------------------------------- 
-[MCQ] The mitochondria is the ______________?
+[MCQ] The mitochondria is the ______________.
 [CA] Powerhouse of the cell
 [WA] Holder of the cell’s genetic material
-[WA] Site of protein synthesis.
+[WA] Site of protein synthesis
 [WA] The phospholipid bilayer that surrounds the cell
 [END]
 ------------------------------------------- 
@@ -57,31 +57,32 @@
 [A] Matrix
 [END]
 ------------------------------------------- 
-[SAQ] What is the process where a molecule loses electrons or gains oxygen.
+[SAQ] What is the process where a molecule loses electrons or gains oxygen?
 [A] Oxidation
 [END]
 ------------------------------------------- 
-[SAQ] What is the process where a molecule gains electrons or loses oxygen.
+[SAQ] What is the process where a molecule gains electrons or loses oxygen?
 [A] Reduction
 [END]
 ------------------------------------------- 
-[SAQ]  __________ is the addition of a phosphate group to a molecule.
+[SAQ] __________ is the addition of a phosphate group to a molecule.
 [A] Phosphorylation
 [END]
 ------------------------------------------- 
-[SAQ]  Phosphorylation of molecules makes them ____ stable.
-[A] Less
+[MCQ] Phosphorylation of molecules makes them ____ stable.
+[CA] Less
+[WA] More
 [END]
 ------------------------------------------- 
-[SAQ]  __________ is the removal of a carbon dioxide group from a molecule.
+[SAQ] __________ is the removal of a carbon dioxide group from a molecule.
 [A] Decarboxylation
 [END]
 ------------------------------------------- 
-[SAQ]  When something is oxidized, something else is _______.
+[SAQ] When something is oxidized, something else must be _______.
 [A] Reduced
 [END]
 ------------------------------------------- 
-[SAQ] Energy released by oxidation reactions is carried to the _____ of the mitochondria by reduced NAD and FAD
+[SAQ] Energy released by oxidation reactions is carried to the _______ of the mitochondria by reduced NAD and FAD.
 [A] Cristae
 [END]
 ------------------------------------------- 
@@ -97,7 +98,7 @@
 [A] Two
 [END]
 ------------------------------------------- 
-[SAQ] Converting from NAD⁺ to NADH is a ________ reaction.
+[SAQ] Converting from NAD+ to NADH is a ________ reaction.
 [A] Reduction
 [END]
 ------------------------------------------- 
@@ -137,7 +138,7 @@
 [A] Energy
 [END]
 ------------------------------------------- 
-[SAQ] Energy is released from ATP when the third phosphate group is  ______.
+[SAQ] Energy is released from ATP when the third phosphate group is ______.
 [A] Hydrolyzed
 [A] Removed
 [END]
@@ -150,9 +151,9 @@
 [A] Eukaryotes
 [END]
 ------------------------------------------- 
-[SAQ] Anaerobic respiration produces _____ ATP than aerobic respiration.
-[A] Less
-[A] Fewer
+[MCQ] Anaerobic respiration produces _____ ATP than aerobic respiration.
+[CA] Less
+[WA] More 
 [END]
 ------------------------------------------- 
 [T] Glycolysis
@@ -247,7 +248,7 @@
 [END]
 ------------------------------------------- 
 [MCQ] What is the main electron acceptor in the link reaction?
-[CA] NAD⁺
+[CA] NAD+
 [WA] FAD
 [WA] ADP
 [WA] Pi
@@ -271,7 +272,7 @@
 ------------------------------------------- 
 [T] Krebs Cycle
 -------------------------------------------
-[SAQ] The ______  _____ cycle is another name for the Krebs Cycle.
+[SAQ] The ______ _____ cycle is another name for the Krebs Cycle.
 [A] Citric Acid
 [END]
 ------------------------------------------- 
@@ -442,7 +443,7 @@
 [WA] Cristae
 [END]
 -------------------------------------------
-[MCQ] What happens to the pyruvate produced in glycolysis if oxygen is present?
+[MCQ] What happens to the pyruvate produced in glycolysis if oxygen isn't present?
 [CA] It remains in the cytoplasm
 [WA] It is converted to ethanol
 [WA] It is converted to lactic acid
