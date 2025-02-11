@@ -140,12 +140,24 @@ function enter_press_listener(event) {
             ENTER_DOWN = true;
             const currentTime = Date.now();
             if (!CURRENT_SESSION.currentQuestion.processingSubmit) {
-                if (currentTime - LAST_ENTER_PRESS <= DOUBLE_TAP_THRESHOLD) {
-                    event.preventDefault();
-                    process_input(["SKIP", ""]);
-                    LAST_ENTER_PRESS = 0;
+                let type = CURRENT_SESSION.currentQuestion.type;
+                let blank = false;
+                if (type == "SAQ") {
+                    blank = (trim_lower(SAQ_INPUT_BOX.value) == "");
+                } else if (type == "MCQ") {
+                    blank = (CURRENT_SESSION.currentQuestion.selected == undefined);
+                }
+
+                if (blank) {
+                    if (currentTime - LAST_ENTER_PRESS <= DOUBLE_TAP_THRESHOLD) {
+                        event.preventDefault();
+                        process_input(["SKIP", ""]);
+                        LAST_ENTER_PRESS = 0;
+                    } else {
+                        LAST_ENTER_PRESS = currentTime;
+                    }
                 } else {
-                    LAST_ENTER_PRESS = currentTime;
+                    LAST_ENTER_PRESS = 0;
                 }
             } else {
                 LAST_ENTER_PRESS = 0;
@@ -175,6 +187,8 @@ const QUESTION_STATUS = {
 
 class SAQQuestion {
     constructor(q, topic, correctAnswers) {
+        this.type = "SAQ";
+        
         this.q = q;
         this.topic = topic;
         this.correctAnswers = correctAnswers;
@@ -330,6 +344,8 @@ class MCQOption {
 
 class MCQQuestion {
     constructor(q, topic, correct, wrongAnswers) {
+        this.type = "MCQ";
+
         this.q = q;
         this.topic = topic;
         this.correctAnswer = correct;

@@ -1,0 +1,128 @@
+[PRESET] (Unit 3) Chapter 9 - Balancing Liberty & Safety
+-------------------------------------------
+[T] NSL 3.5 - II: Right to Bear Arms
+-------------------------------------------
+[SAQ] Amendment #__ grants people the right to bear arms.
+[EXA] II
+[EXA] 2
+[A] Two
+[END]
+-------------------------------------------
+[MCQ] The Second Amendment is controversial due to difficulty in interpreting the founders' intentions.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Gun laws generally fall within the police powers of the ________ government.
+[CA] State
+[WA] Federal
+[END]
+-------------------------------------------
+[SAQ] This 1930s national law placed various regulations and restrictions on the sale and ownership of high-risk firearms.
+[A] National Firearms Act
+[END]
+-------------------------------------------
+[MCQ] The National Firearms Act placed many restrictions on "high-risk" firearms, and was soon challenged by the Supreme Court. Was it upheld?
+[CA] Yes (Constitutional)
+[WA] No (Unconstitutional)
+[END]
+-------------------------------------------
+[SAQ] Increased urban crime and assassinations involving guns in the 1960s influenced the passage of this national law.
+[A] Gun Control Act
+[END]
+-------------------------------------------
+[SAQ] After Reagan suffered an attempted assassination attempt in the 1980s, this law was passed in response to create a "waiting period" for handgun purchases.
+[A] Brady Handgun Violence Prevention Act
+[A] Brady Act
+[A] Brady
+[END]
+-------------------------------------------
+[SAQ] This court case established that the Second Amendment recognized the right to own a gun unrelated to militia service.
+[A] Heller
+[A] DC v Heller
+[A] District of Columbia v Heller
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *District of Columbia v. Heller (2008)*?
+[CA] Does a DC law that restricts the licensing of handguns violate the Second Amendment?
+[WA] Can the government constitutionally punish the expression of opposition to the military draft during wartime?
+[WA] Do inaccuracies and false information in a newspaper listing qualify as libel?
+[WA] Can the executive branch constitutionally block the printing of reporter-obtained classified government information?
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the decision in *District of Columbia v. Heller (2008)*?
+[CA] The DC law **is a violation**, because the Second Amendment protects the right to own a gun unrelated to militia service
+[WA] The DC law **is a violation**, because Heller's role as a security guard qualified as militia service
+[WA] The DC law **is not a violation**, because the Second Amendment restricts the right to own a gun for self-defense
+[WA] The DC law **is not a violation**, because the Second Amendment does not apply to those not in military service
+[END]
+-------------------------------------------
+[MCQ] As of 2024, does the Second Amendment recognize the right to own a gun unrelated to militia service?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[T] NSL 3.6 - Balancing Freedom with Safety
+-------------------------------------------
+[SAQ] Amendment #__ prevents cruel & unusual punishments and excessive bail.
+[EXA] VIII
+[EXA] 8
+[A] Eight
+[END]
+-------------------------------------------
+[MCQ] States can make the death penalty mandatory by law for certain severe crimes (i.e. mass murder or rape).
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] During colonial times, the British government issued ______ ___ ________________, or broad search warrants, allowing soldiers to search virtually anywhere they wanted.
+[A] Writs of Assistance
+[END]
+-------------------------------------------
+[SAQ] Bitterness over writs of assistance in colonial times were a major factor in creating Amendment #__.
+[EXA] IV
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ prevents unreasonable searches and seizures (i.e. without a warrant).
+[EXA] IV
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[SAQ] To issue a search warrant, the legal standard of a ________ ______ must be shown.
+[A] Probable Cause
+[END]
+-------------------------------------------
+[MCQ] If a police officer sees a crime in plain view, they still need to obtain a warrant retroactively to legally make an arrest.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The requirements to conduct a search in institutions like schools or public airports are lessened.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Police officers do not need a warrant before looking into the cell phone of an arrested defendant.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] _______ is the information about a cell phone conversation minus its actual contents - the duration, caller & recipient, etc.
+[A] Metadata
+[END]
+-------------------------------------------
+[MCQ] Can the government collect metadata on phone calls without violating the Fourth Amendment?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes how the balance of liberties & safety has been interpreted over time?
+[CA] Different courts in different times have found different balances
+[WA] The Supreme Court tends to lean towards protecting liberties over public safety
+[WA] The balance has been interpreted consistently over time
+[WA] Due to *stare decisis*, the Court must issue similar rulings on similar cases regarding individual liberties
+[END]
+-------------------------------------------

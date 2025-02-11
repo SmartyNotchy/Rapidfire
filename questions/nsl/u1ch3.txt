@@ -40,7 +40,7 @@
 [WA] Delivering fugitives back to their home state
 [END]
 -------------------------------------------
-[SAQ] Amendment _ reserves powers to the states that aren't delegated to the national govt.
+[SAQ] Amendment #__ reserves powers to the states that aren't delegated to the national govt.
 [EXA] X
 [EXA] 10
 [A] Ten
@@ -149,7 +149,7 @@
 [A] Ten
 [END]
 -------------------------------------------
-[SAQ] Amendment _ prevents states from denying citizens equal protection of the laws.
+[SAQ] Amendment #__ prevents states from denying citizens equal protection of the laws.
 [EXA] XIV
 [EXA] 14
 [A] Fourteen
