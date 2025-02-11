@@ -62,3 +62,67 @@
 [WA] No
 [END]
 -------------------------------------------
+[T] NSL 3.6 - Balancing Freedom with Safety
+-------------------------------------------
+[SAQ] Amendment #__ prevents cruel & unusual punishments and excessive bail.
+[EXA] VIII
+[EXA] 8
+[A] Eight
+[END]
+-------------------------------------------
+[MCQ] States can make the death penalty mandatory by law for certain severe crimes (i.e. mass murder or rape).
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] During colonial times, the British government issued ______ ___ ________________, or broad search warrants, allowing soldiers to search virtually anywhere they wanted.
+[A] Writs of Assistance
+[END]
+-------------------------------------------
+[SAQ] Bitterness over writs of assistance in colonial times were a major factor in creating Amendment #__.
+[EXA] IV
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ prevents unreasonable searches and seizures (i.e. without a warrant).
+[EXA] IV
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[SAQ] To issue a search warrant, the legal standard of a ________ ______ must be shown.
+[A] Probable Cause
+[END]
+-------------------------------------------
+[MCQ] If a police officer sees a crime in plain view, they still need to obtain a warrant retroactively to legally make an arrest.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] The requirements to conduct a search in institutions like schools or public airports are lessened.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[MCQ] Police officers do not need a warrant before looking into the cell phone of an arrested defendant.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] _______ is the information about a cell phone conversation minus its actual contents - the duration, caller & recipient, etc.
+[A] Metadata
+[END]
+-------------------------------------------
+[MCQ] Can the government collect metadata on phone calls without violating the Fourth Amendment?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes how the balance of liberties & safety has been interpreted over time?
+[CA] Different courts in different times have found different balances
+[WA] The Supreme Court tends to lean towards protecting liberties over public safety
+[WA] The balance has been interpreted consistently over time
+[WA] Due to *stare decisis*, the Court must issue similar rulings on similar cases regarding individual liberties
+[END]
+-------------------------------------------
