@@ -102,9 +102,9 @@
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *Engel v. Vitale (1962)*?
 [CA] Is a state-created, nondenominational, and voluntary prayer recited in schools a violation of the First Amendment?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Can states pass laws to pay teachers of secular subjects in religious schools using state funds?
+[WA] Does a state's compulsory school attendance law for children violate the First Amendment's free exercise clause?
+[WA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
 [END]
 -------------------------------------------
 [SAQ] This court case concerned the constitutionality of voluntary non-denominational prayers in public schools.
@@ -128,10 +128,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *Lemon v. Kurtzman (1971)*?
+[WA] Is a state-created, nondenominational, and voluntary prayer recited in schools a violation of the First Amendment?
 [CA] Can states pass laws to pay teachers of secular subjects in religious schools using state funds?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Does a state's compulsory school attendance law for children violate the First Amendment's free exercise clause?
+[WA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
 [END]
 -------------------------------------------
 [MCQ] Can a state use state funds to pay teachers of secular subjects in religious schools?
@@ -162,10 +162,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *Wisconsin v. Yoder (1972)*?
+[WA] Is a state-created, nondenominational, and voluntary prayer recited in schools a violation of the First Amendment?
+[WA] Can states pass laws to pay teachers of secular subjects in religious schools using state funds?
 [CA] Does a state's compulsory school attendance law for children violate the First Amendment's free exercise clause?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
 [END]
 -------------------------------------------
 [MCQ] What was the decision in *Wisconsin v. Yoder (1972)*?
@@ -297,9 +297,9 @@
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *Tinker v. Des Moines (1969)*?
 [CA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Can the government constitutionally punish the expression of opposition to the military draft during wartime?
+[WA] Do inaccuracies and false information in a newspaper listing qualify as libel?
+[WA] Can the executive branch constitutionally block the printing of reporter-obtained classified government information?
 [END]
 -------------------------------------------
 [MCQ] What was the decision in *Tinker v. Des Moines (1969)*?
@@ -374,10 +374,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *Schenck v. United States (1919)*?
+[WA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
 [CA] Can the government constitutionally punish the expression of opposition to the military draft during wartime?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Do inaccuracies and false information in a newspaper listing qualify as libel?
+[WA] Can the executive branch constitutionally block the printing of reporter-obtained classified government information?
 [END]
 -------------------------------------------
 [MCQ] What was the decision in *Schenck v. United States (1919)*?
@@ -434,10 +434,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *New York Times Co. v. Sullivan (1964)*?
+[WA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
+[WA] Can the government constitutionally punish the expression of opposition to the military draft during wartime?
 [CA] Do inaccuracies and false information in a newspaper listing qualify as libel?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Can the executive branch constitutionally block the printing of reporter-obtained classified government information?
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the decision in *New York Times Co. v. Sullivan (1964)*?
@@ -479,10 +479,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *Times v US (1971)*?
+[WA] Is a public school ban on armbands for symbolic speech a violation of the First Amendment?
+[WA] Can the government constitutionally punish the expression of opposition to the military draft during wartime?
+[WA] Do inaccuracies and false information in a newspaper listing qualify as libel?
 [CA] Can the executive branch constitutionally block the printing of reporter-obtained classified government information?
-[WA] TODO
-[WA] TODO
-[WA] TODO
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the decision in *Times v US (1971)*?

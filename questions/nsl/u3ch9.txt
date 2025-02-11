@@ -45,9 +45,9 @@
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *District of Columbia v. Heller (2008)*?
 [CA] Does a DC law that restricts the licensing of handguns violate the Second Amendment?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Can the government constitutionally punish the expression of opposition to the military draft during wartime?
+[WA] Do inaccuracies and false information in a newspaper listing qualify as libel?
+[WA] Can the executive branch constitutionally block the printing of reporter-obtained classified government information?
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the decision in *District of Columbia v. Heller (2008)*?
