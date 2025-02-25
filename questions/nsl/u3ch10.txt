@@ -1,0 +1,87 @@
+[PRESET] (Unit 3) Chapter 10 - Due Process
+-------------------------------------------
+[T] NSL 3.7 - Selective Incorporation
+-------------------------------------------
+[MCQ] The Bill of Rights was ratified to protect people from _______ government(s).
+[CA] Federal
+[WA] State
+[WA] All Levels Of
+[END]
+-------------------------------------------
+[MCQ] States did not originally have to follow the national Bill of Rights.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] _______ ____________ is the process of declaring only certain parts of the Bill of Rights applicable to the states.
+[A] Selective Incorporation
+[END]
+-------------------------------------------
+[SAQ] ____ ________ is the concept of fundamental fairness that ensures legitimate government in a democracy.
+[A] Due Process
+[END]
+-------------------------------------------
+[SAQ] ____ ________ prevents arbitrary government decisions that take life, liberty, or property from individuals without legal cause.
+[A] Due Process
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ strengthened due process.
+[EXA] XIV
+[EXA] 14
+[A] Fourteen
+[END]
+-------------------------------------------
+[SAQ] The _____ ___________ _______ of the Fifth Amednment compells states to reimburse individuals when taking private property for public use.
+[A] Just Compensation Clause
+[END]
+-------------------------------------------
+[MCQ] Do states have to adhere to the just compensation clause of the Fifth Amendment?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ defines the just compensation clause.
+[EXA] V
+[EXA] 5
+[A] Five
+[END]
+-------------------------------------------
+[SAQ] In *Near v. Minnesota*, the Court used the doctrine of _________ __________ to impose limitations on state regulations on the press.
+[A] Selective Incorporation
+[END]
+-------------------------------------------
+[MCQ] Which best describes the question in *Near v. Minnesota (1930)*?
+[CA] Doid the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[SAQ] This 2010 court case extended the decision in *DC v Heller* to apply to the states.
+[A] McDonald v Chicago
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *McDonald v. Chicago (2010)*?
+[CA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
+[WA] TODO
+[WA] TODO
+[WA] TODO
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the ruling in *McDonald v. Chicago (2010)*?
+[CA] The Second Amendment **does** apply to the states, because self-defense is a fundamental right that is protected under the Due Process Clause
+[WA] The Second Amendment **does** apply to the states, because any rights that are protected at the federal level are also protected under the state
+[WA] The Second Amendment **does not** apply to the states, because the right to bear arms is not a fundamental Constitutional right
+[WA] The Second Amendment **does not** apply to the states, because the circumstances in the *Heller* case differed from the modern context
+[END]
+-------------------------------------------
+[MCQ] As of 2024, does the Second Amendment protection of the right to bear arms extend to the states?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court rarely hears court cases regarding Second Amendment protections of the right to bear arms.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
