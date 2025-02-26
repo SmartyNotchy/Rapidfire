@@ -1,0 +1,341 @@
+[PRESET] (Unit 3) Chapter 10 - Due Process
+-------------------------------------------
+[T] NSL 3.7 - Selective Incorporation
+-------------------------------------------
+[MCQ] The Bill of Rights was ratified to protect people from _______ government(s).
+[CA] Federal
+[WA] State
+[WA] All Levels Of
+[END]
+-------------------------------------------
+[MCQ] States did not originally have to follow the national Bill of Rights.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] _______ ____________ is the process of declaring only certain parts of the Bill of Rights applicable to the states.
+[A] Selective Incorporation
+[END]
+-------------------------------------------
+[SAQ] ____ ________ is the concept of fundamental fairness that ensures legitimate government in a democracy.
+[A] Due Process
+[END]
+-------------------------------------------
+[SAQ] ____ ________ prevents arbitrary government decisions that take life, liberty, or property from individuals without legal cause.
+[A] Due Process
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ *strengthened* due process.
+[EXA] XIV
+[EXA] 14
+[A] Fourteen
+[END]
+-------------------------------------------
+[SAQ] The _____ ___________ _______ of the Fifth Amendment compels states to reimburse individuals when taking private property for public use.
+[A] Just Compensation Clause
+[END]
+-------------------------------------------
+[MCQ] Do states have to adhere to the just compensation clause of the Fifth Amendment?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[SAQ] Amendment #__ defines the just compensation clause.
+[EXA] V
+[EXA] 5
+[A] Five
+[END]
+-------------------------------------------
+[SAQ] In *Near v. Minnesota*, the Court used the doctrine of _________ __________ to impose limitations on state regulations on the press.
+[A] Selective Incorporation
+[END]
+-------------------------------------------
+[MCQ] Which best describes the question in *Near v. Minnesota (1930)*?
+[CA] Did the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
+[WA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
+[END]
+-------------------------------------------
+[SAQ] This 2010 court case extended the decision in *DC v Heller* to apply to the states.
+[A] McDonald v Chicago
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *McDonald v. Chicago (2010)*?
+[WA] Did the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
+[CA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the ruling in *McDonald v. Chicago (2010)*?
+[CA] The Second Amendment **does** apply to the states, because self-defense is a fundamental right that is protected under the Due Process Clause
+[WA] The Second Amendment **does** apply to the states, because any rights that are protected at the federal level are also protected under the state
+[WA] The Second Amendment **does not** apply to the states, because the right to bear arms is not a fundamental Constitutional right
+[WA] The Second Amendment **does not** apply to the states, because the circumstances in the *Heller* case differed from the modern context
+[END]
+-------------------------------------------
+[MCQ] As of 2024, does the Second Amendment protection of the right to bear arms extend to the states?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] The Supreme Court rarely hears court cases regarding Second Amendment protections of the right to bear arms.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[T] NSL 3.8 - Due Process & Rights of the Accused
+-------------------------------------------
+[MCQ] Phrases in the Bill of Rights are generally clearly defined and interpreted.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] Amendment #___ *established* due process.
+[EXA] V
+[EXA] 5
+[A] Five
+[END]
+-------------------------------------------
+[SAQ] __________ due process addresses the the manner in which the law is carried out.
+[A] Procedural
+[END]
+-------------------------------------------
+[MCQ] _____ due process applies to both levels of government through the Fifth and Fourteenth Amendments.
+[CA] Both types of
+[WA] Procedural
+[WA] Substantive
+[END]
+-------------------------------------------
+[MCQ] The government can take away life, liberty, and property if it acts in a highly specific and prescribed manner.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] Amendment #___ prevents law enforcement from conducting unreasonable searches and seizures.
+[EXA] IV
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[SAQ] *Weeks v. United States (1914)* established the _________ ______, stating that evidence obtained by the government illegally can be excluded from trial.
+[A] Exclusionary Rule
+[END]
+-------------------------------------------
+[SAQ] Due to the _________ ____, the justice system rejects evidence tainted by acquisition through illegal means.
+[A] Exclusionary Rule
+[END]
+-------------------------------------------
+[SAQ] This 1961 court case established selective incorporation for the Fourth Amendment.
+[A] Mapp
+[A] Mapp v Ohio
+[END]
+-------------------------------------------
+[SAQ] *Mapp v Ohio (1961)* established selective incorporation for Amendment #___.
+[EXA] IV
+[EXA] 4
+[A] Four
+[END]
+-------------------------------------------
+[MCQ] Which best describes the question in *Mapp v. Ohio (1961)*?
+[WA] Did the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
+[WA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
+[CA] Were obscene materials confiscated from an illegal search protected from seizure?
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
+[END]
+-------------------------------------------
+[MCQ] If an officer illegally searches your home for a fugitive and discovers obscene materials, can said evidence be used against you in court?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] An officer conducts an illegal search of a suspect's backpack and finds a stolen laptop. Soon after, a separate police officer stumbles upon the same backpack after following witness testimony of the stolen laptop. Can the evidence be used in court?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] An officer presents a warrant to search a house for drugs, and succeeds in finding various packets of cocaine. It is later found out that the warrant was issued improperly (and was therefore invalid). Can the evidence still be used in court?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Students have fewer protections against searches than the average citizen does in their home/in public.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] This 1985 court case gave school administrators a greater degree of leeway than police in conducting searches.
+[A] NJ v TLO
+[A] New Jersey v TLO
+[END]
+-------------------------------------------
+[SAQ] According to the ruling in *New Jersey v. TLO (1985)*, school administrators only need __________ ________ to perform a search, not full probable cause.
+[A] Reasonable Cause
+[A] Reasonable Suspicion
+[END]
+-------------------------------------------
+[MCQ] Which best describes the question in *New Jersey v. TLO (1985)*?
+[WA] Did the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
+[WA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
+[CA] Does the exclusionary rule apply to searches conducted in public schools?
+[END]
+-------------------------------------------
+[MCQ] After a student tip-off, an assistant principal searches a student's purse and finds marijuana and rolling papers. Is this evidence permissible in court?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] A backpack is left behind on a school bus. Upon further searching, school officials discover bullets inside the backpack. Is this evidence permissible in court?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] While a student goes to the bathroom, a teacher searches their unattended bag on a whim. Would any found evidence be permissible in court?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] Can a GPS tracker be used to monitor a suspected drug dealer's movement if they spend most of their activity in broad daylight?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[MCQ] As of 2024, can a drug-sniffing dog be taken onto resident porches without the obtaining of a warrant?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[SAQ] This 2015 law limited the government's access to metadata by requiring the Executive Branch to acquire a warrant.
+[A] USA FREEDOM Act
+[END]
+-------------------------------------------
+[MCQ] As of 2024, does the executive branch need a warrant to examine metadata?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[MCQ] Due Process can be ignored in the state of war or other national crisis.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] This 1966 court case declared that police must inform suspects of their rights before an interrogation.
+[A] Miranda
+[A] Miranda v Arizona
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Miranda v. Arizona (1966)*?
+[CA] Does the Fifth Amendment's protection against self-incrimination extend to police interrogations?
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
+[WA] Does the Sixth Amendment's right to legal counsel in criminal cases extend to state courts?
+[END]
+-------------------------------------------
+[MCQ] During a police interrogation in a controlled environment, an officer fails to inform a suspect of their right to remain silent. Would a confession by the suspect be valid evidence in court?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[SAQ] *Miranda v. Arizona (1966)* extended a provision in Amendment #__ to apply to police interrogations.
+[EXA] V
+[EXA] 5
+[A] Five
+[END]
+-------------------------------------------
+[MCQ] Failure to read a suspect their Miranda Rights automatically disqualifies any evidence or confessions obtained from being used in court.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] The ______________ approach puts the protection of people before procedural protections for suspects.
+[A] Public Safety Exception
+[END]
+-------------------------------------------
+[MCQ] During a search, police find an empty gun holster in a car. After asking the owner of the car where the gun is, it is quickly located. Even though the suspect was not informed of their Miranda rights, can the gun still be used as evidence in court?
+[CA] Yes
+[WA] No
+[END]
+-------------------------------------------
+[SAQ] *Gideon v. Wainwright (1963)* incorporated one of the provisions of Amendment #__ to apply to the states.
+[EXA] VI
+[EXA] 6
+[A] Six
+[END]
+-------------------------------------------
+[SAQ] This 1963 court case incorporated the Sixth Amendment's right to legal counsel to the states.
+[A] Gideon
+[A] Wainwright
+[A] Gideon v Wainwright
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the question in *Gideon v. Wainwright (1963)*?
+[WA] Does the Fifth Amendment's protection against self-incrimination extend to police interrogations?
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
+[CA] Does the Sixth Amendment's right to legal counsel in criminal cases extend to state courts?
+[END]
+-------------------------------------------
+[MCQ] Which of the following best describes the ruling in *Gideon v. Wainwright (1963)*?
+[CA] The Sixth Amendment's guarantee to legal counsel **does** apply to the states, because the assistance of counsel is a fundamental right
+[WA] The Sixth Amendment's guarantee to legal counsel **does** apply to the states, because defendants cannot disrupt court proceedings by waiving their right to counsel
+[WA] The Sixth Amendment's guarantee to legal counsel **does not** apply to the states, because the assistance of counsel is only needed for federal-level cases
+[WA] The Sixth Amendment's guarantee to legal counsel **does not** apply to the states, because the defendant in this case waived their right to a lawyer
+[END]
+-------------------------------------------
+[MCQ] As of 2024, can a state refuse to appoint defense counsel for a suspect in criminal cases?
+[CA] No
+[WA] Yes
+[END]
+-------------------------------------------
+[T] NSL 3.9 - Due Process & Rights to Privacy
+-------------------------------------------
+[MCQ] The "right to privacy" is not explicitly stated in the Constitution.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] ___________ due process places limits on the "substance" of the law - what liberties the government can take away from a citizen.
+[A] Substantive
+[END]
+-------------------------------------------
+[MCQ] Government policies cannot violate substantive due process under any circumstances.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Substantive Due Process absolutely protects the fundamental rights of citizens.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] *Griswold v. Connecticut (1965)* established an inherent _____________________ that could be found in the "penumbras" of various Bill of Rights Amendments.
+[A] Right to Privacy
+[A] Privacy
+[END]
+-------------------------------------------
+[SAQ] This court case established (for the first time) an inherent right to privacy based on the penumbras of multiple other Amendments.
+[A] Griswold
+[A] Griswold v Connecticut
+[END]
+-------------------------------------------
+[SAQ] Although the right to privacy is not expressly mentioned in the Bill of Rights, the Court has ruled that it can be found in the _______ of the First, Third, Fourth, and Ninth Amendments.
+[A] Penumbras
+[A] Zones
+[A] Shadows
+[END]
+-------------------------------------------
+[SAQ] The right to privacy was further bolstered in this 1973 court case.
+[A] Roe v Wade
+[A] Roe
+[END]
+-------------------------------------------
+[SAQ] Griswold v Connecticut combined with Roe v Wade revived the ______________________ doctrine.
+[A] Substantive Due Process
+[END]
+-------------------------------------------
+[SAQ] The ____ _________ prevents federal funding that might contribute to an abortion.
+[A] Hyde Amendment
+[END]
+-------------------------------------------
