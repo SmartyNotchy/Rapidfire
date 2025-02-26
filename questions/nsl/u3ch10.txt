@@ -31,7 +31,7 @@
 [A] Fourteen
 [END]
 -------------------------------------------
-[SAQ] The _____ ___________ _______ of the Fifth Amendment compells states to reimburse individuals when taking private property for public use.
+[SAQ] The _____ ___________ _______ of the Fifth Amendment compels states to reimburse individuals when taking private property for public use.
 [A] Just Compensation Clause
 [END]
 -------------------------------------------
@@ -52,9 +52,9 @@
 -------------------------------------------
 [MCQ] Which best describes the question in *Near v. Minnesota (1930)*?
 [CA] Did the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
 [END]
 -------------------------------------------
 [SAQ] This 2010 court case extended the decision in *DC v Heller* to apply to the states.
@@ -62,10 +62,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *McDonald v. Chicago (2010)*?
+[WA] Did the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
 [CA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the ruling in *McDonald v. Chicago (2010)*?
@@ -139,10 +139,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which best describes the question in *Mapp v. Ohio (1961)*?
+[WA] Did the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
+[WA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
 [CA] Were obscene materials confiscated from an illegal search protected from seizure?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
 [END]
 -------------------------------------------
 [MCQ] If an officer illegally searches your home for a fugitive and discovers obscene materials, can said evidence be used against you in court?
@@ -176,10 +176,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which best describes the question in *New Jersey v. TLO (1985)*?
+[WA] Did the Minnesota "gag law" on newspapers violate the First Amendment's freedom of press?
+[WA] Does the Second Amendment apply to the states by the Fourteenth Amendment's Due Process Clause?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
 [CA] Does the exclusionary rule apply to searches conducted in public schools?
-[WA] TODO
-[WA] TODO
-[WA] TODO
 [END]
 -------------------------------------------
 [MCQ] After a student tip-off, an assistant principal searches a student's purse and finds marijuana and rolling papers. Is this evidence permissible in court?
@@ -228,9 +228,9 @@
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *Miranda v. Arizona (1966)*?
 [CA] Does the Fifth Amendment's protection against self-incrimination extend to police interrogations?
-[WA] TODO
-[WA] TODO
-[WA] TODO
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
+[WA] Does the Sixth Amendment's right to legal counsel in criminal cases extend to state courts?
 [END]
 -------------------------------------------
 [MCQ] During a police interrogation in a controlled environment, an officer fails to inform a suspect of their right to remain silent. Would a confession by the suspect be valid evidence in court?
@@ -271,10 +271,10 @@
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the question in *Gideon v. Wainwright (1963)*?
+[WA] Does the Fifth Amendment's protection against self-incrimination extend to police interrogations?
+[WA] Does the exclusionary rule apply to searches conducted in public schools?
+[WA] Were obscene materials confiscated from an illegal search protected from seizure?
 [CA] Does the Sixth Amendment's right to legal counsel in criminal cases extend to state courts?
-[WA] TODO
-[WA] TODO
-[WA] TODO
 [END]
 -------------------------------------------
 [MCQ] Which of the following best describes the ruling in *Gideon v. Wainwright (1963)*?
