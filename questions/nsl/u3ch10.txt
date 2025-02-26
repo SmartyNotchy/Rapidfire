@@ -31,7 +31,7 @@
 [A] Fourteen
 [END]
 -------------------------------------------
-[SAQ] The _____ ___________ _______ of the Fifth Amednment compells states to reimburse individuals when taking private property for public use.
+[SAQ] The _____ ___________ _______ of the Fifth Amendment compells states to reimburse individuals when taking private property for public use.
 [A] Just Compensation Clause
 [END]
 -------------------------------------------
@@ -287,5 +287,55 @@
 [MCQ] As of 2024, can a state refuse to appoint defense counsel for a suspect in criminal cases?
 [CA] No
 [WA] Yes
+[END]
+-------------------------------------------
+[T] NSL 3.9 - Due Process & Rights to Privacy
+-------------------------------------------
+[MCQ] The "right to privacy" is not explicitly stated in the Constitution.
+[CA] True
+[WA] False
+[END]
+-------------------------------------------
+[SAQ] ___________ due process places limits on the "substance" of the law - what liberties the government can take away from a citizen.
+[A] Substantive
+[END]
+-------------------------------------------
+[MCQ] Government policies cannot violate substantive due process under any circumstances.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[MCQ] Substantive Due Process absolutely protects the fundamental rights of citizens.
+[CA] False
+[WA] True
+[END]
+-------------------------------------------
+[SAQ] *Griswold v. Connecticut (1965)* established an inherent _____________________ that could be found in the "penumbras" of various Bill of Rights Amendments.
+[A] Right to Privacy
+[A] Privacy
+[END]
+-------------------------------------------
+[SAQ] This court case established (for the first time) an inherent right to privacy based on the penumbras of multiple other Amendments.
+[A] Griswold
+[A] Griswold v Connecticut
+[END]
+-------------------------------------------
+[SAQ] Although the right to privacy is not expressly mentioned in the Bill of Rights, the Court has ruled that it can be found in the _______ of the First, Third, Fourth, and Ninth Amendments.
+[A] Penumbras
+[A] Zones
+[A] Shadows
+[END]
+-------------------------------------------
+[SAQ] The right to privacy was further bolstered in this 1973 court case.
+[A] Roe v Wade
+[A] Roe
+[END]
+-------------------------------------------
+[SAQ] Griswold v Connecticut combined with Roe v Wade revived the ______________________ doctrine.
+[A] Substantive Due Process
+[END]
+-------------------------------------------
+[SAQ] The ____ _________ prevents federal funding that might contribute to an abortion.
+[A] Hyde Amendment
 [END]
 -------------------------------------------
