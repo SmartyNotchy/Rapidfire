@@ -1,0 +1,865 @@
+[PRESET] AP Calc BC Flashcards
+------------------------------------------- 
+[T] Trigonometry 
+-------------------------------------------
+[SAQ] What is sin(0)?  (When necessary use the √ symbol)
+[A] 0  
+[END]  
+-------------------------------------------  
+[SAQ] What is sin(π/6)?  (When necessary use the √ symbol)
+[A] 1/2  
+[END]  
+-------------------------------------------  
+[SAQ] What is sin(π/4)?  (When necessary use the √ symbol)
+[A] √2/2  
+[END]  
+-------------------------------------------  
+[SAQ] What is sin(π/3)?  (When necessary use the √ symbol)
+[A] √3/2  
+[END]  
+-------------------------------------------  
+[SAQ] What is sin(π/2)?  (When necessary use the √ symbol)
+[A] 1  
+[END]  
+-------------------------------------------  
+[SAQ] What is cos(0)?  (When necessary use the √ symbol)
+[A] 1  
+[END]  
+-------------------------------------------  
+[SAQ] What is cos(π/6)?  (When necessary use the √ symbol)
+[A] √3/2  
+[END]  
+-------------------------------------------  
+[SAQ] What is cos(π/4)?  (When necessary use the √ symbol)
+[A] √2/2  
+[END]  
+-------------------------------------------  
+[SAQ] What is cos(π/3)?  (When necessary use the √ symbol)
+[A] 1/2  
+[END]  
+-------------------------------------------  
+[SAQ] What is cos(π/2)?  (When necessary use the √ symbol)
+[A] 0  
+[END]  
+-------------------------------------------  
+[SAQ] What is tan(0)?  (When necessary use the √ symbol)
+[A] 0  
+[END]  
+-------------------------------------------  
+[SAQ] What is tan(π/6)?  (When necessary use the √ symbol)
+[A] 1/√3  
+[END]  
+-------------------------------------------  
+[SAQ] What is tan(π/4)?  (When necessary use the √ symbol)
+[A] 1  
+[END]  
+-------------------------------------------  
+[SAQ] What is tan(π/3)?  (When necessary use the √ symbol)
+[A] √3  
+[END]  
+-------------------------------------------  
+[SAQ] What is tan(π/2)?  (When necessary use the √ symbol)
+[A] Undefined  
+[END]  
+------------------------------------------- 
+[T] Logarithms
+-------------------------------------------
+[MCQ] What is the domain of the function y = ln(x)?  
+[CA] x > 0  
+[WA] x ≥ 0  
+[WA] x < 0  
+[WA] x ≠ 0  
+[END]  
+-------------------------------------------  
+[MCQ] What is the range of the function y = ln(x)?  
+[CA] All real numbers  
+[WA] x ≥ 0  
+[WA] x > 0  
+[WA] x < 0  
+[END]  
+-------------------------------------------  
+[MCQ] What is the property of ln(ab)?  
+[CA] ln(ab) = ln(a) + ln(b)  
+[WA] ln(ab) = ln(a) - ln(b)  
+[WA] ln(ab) = a + b  
+[WA] ln(ab) = ab  
+[END]  
+-------------------------------------------  
+
+[MCQ] What is the property of ln(a/b)?  
+[CA] ln(a/b) = ln(a) - ln(b)  
+[WA] ln(a/b) = ln(a) + ln(b)  
+[WA] ln(a/b) = a + b  
+[WA] ln(a/b) = ab  
+[END]  
+-------------------------------------------  
+[MCQ] What is the property of ln(a^r)?  
+[CA] ln(a^r) = r ln(a)  
+[WA] ln(a^r) = a^r ln(r)  
+[WA] ln(a^r) = r/a  
+[WA] ln(a^r) = r + ln(a)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the formula for the change of base of logarithms?  
+[CA] log_b(x) = ln(x) / ln(b)  
+[WA] log_b(x) = ln(b) / ln(x)  
+[WA] log_b(x) = ln(x) * ln(b)  
+[WA] log_b(x) = ln(x) + ln(b)  
+[END]  
+------------------------------------------- 
+[T] Derivatives
+------------------------------------------- 
+[MCQ] What is the limit definition of the derivative?  
+[CA] lim(h→0) [f(x+h) - f(x)] / h  
+[WA] lim(h→∞) [f(x+h) - f(x)] / h  
+[WA] lim(h→0) [f(x+h) + f(x)] / h  
+[WA] lim(h→0) [f(x-h) - f(x)] / h  
+[END]  
+-------------------------------------------  
+[MCQ] What is the alternative definition of the derivative?  
+[CA] f'(x) = lim(x→a) [f(x) - f(a)] / [x-a]  
+[WA] f'(x) = lim(x→a) [f(x) - f(a)] / x 
+[WA] f'(x) = lim(x→a) [f(x) + f(a)] / a  
+[WA] f'(x) = lim(x→∞) [f(x) - f(a)] / [x-a]  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of sinx?  
+[CA] cosx  
+[WA] -cosx  
+[WA] sec²x  
+[WA] -sec²x  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of cosx?  
+[CA] -sinx  
+[WA] sinx  
+[WA] sec²x  
+[WA] -sec²x  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of tanx?  
+[CA] sec²x  
+[WA] tan²x  
+[WA] secx  
+[WA] -sec²x  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of cotx?  
+[CA] -csc²x  
+[WA] csc²x  
+[WA] sec²x  
+[WA] -sec²x  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of secx?  
+[CA] secxtanx  
+[WA] -secxtanx  
+[WA] sec²x  
+[WA] -sec²x  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of cscx?  
+[CA] -cscx * cotx  
+[WA] cscx * cotx  
+[WA] -csc²x  
+[WA] csc²x  
+[END]  
+-------------------------------------------
+[MCQ] What is the derivative of sin^-1x?  
+[CA] 1/√(1 - x²)  
+[WA] -1/√(1 - x²)  
+[WA] 1/√(x² - 1)  
+[WA] -1/√(x² - 1)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of cos^-1x?  
+[CA] -1/√(1 - x²)  
+[WA] 1/√(1 - x²)  
+[WA] -1/√(x² - 1)  
+[WA] 1/√(x² - 1)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of tan^-1x?  
+[CA] 1/(1 + x²)  
+[WA] 1/(1 - x²)  
+[WA] -1/(1 + x²)  
+[WA] -1/(1 - x²)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of cot^-1x?  
+[CA] -1/(1 + x²)  
+[WA] 1/(1 + x²)  
+[WA] 1/(1 - x²)  
+[WA] -1/(1 - x²)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of sec^-1x?  
+[CA] 1/(|x|√(x² - 1))  
+[WA] -1/(|x|√(x² - 1))  
+[WA] 1/(x√(x² - 1))  
+[WA] -1/(x√(x² - 1))  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of csc^-1x?  
+[CA] -1/(|x|√(x² - 1))  
+[WA] 1/(|x|√(x² - 1))  
+[WA] -1/(x√(x² - 1))  
+[WA] 1/(x√(x² - 1))  
+[END]  
+-------------------------------------------
+[MCQ] What is the derivative of eˣ?  
+[CA] eˣ  
+[WA] xᵉ  
+[WA] e^(x+1)  
+[WA] e^(x-1)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of aˣ?  
+[CA] aˣ ln(a)  
+[WA] aˣ  
+[WA] ln(x)  
+[WA] xᵃ  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of ln(x)?  
+[CA] 1/x  
+[WA] x  
+[WA] ln(x)  
+[WA] 1/x²  
+[END]  
+-------------------------------------------  
+[MCQ] What is the derivative of log_b(x)?  
+[CA] 1/(x * ln(b))  
+[WA] 1/x  
+[WA] ln(x)  
+[WA] x * ln(b)  
+[END]  
+-------------------------------------------
+[MCQ] What is the Power Rule for derivatives?  
+[CA] d/dx [xⁿ] = n * x^(n-1)  
+[WA] d/dx [xⁿ] = n * xⁿ  
+[WA] d/dx [xⁿ] = x^(n-1)  
+[WA] d/dx [xⁿ] = n * x^(n+1)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the Product Rule for derivatives?  
+[CA] d/dx [f(x) * g(x)] = f'(x) * g(x) + f(x) * g'(x)  
+[WA] d/dx [f(x) * g(x)] = f'(x) + g'(x)  
+[WA] d/dx [f(x) * g(x)] = f'(x) * g'(x)  
+[WA] d/dx [f(x) * g(x)] = f(x) * g(x)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the Quotient Rule for derivatives?  
+[CA] d/dx [f(x) / g(x)] = (f'(x) * g(x) - f(x) * g'(x)) / g(x)²  
+[WA] d/dx [f(x) / g(x)] = (f'(x) * g(x) + f(x) * g'(x)) / g(x)²  
+[WA] d/dx [f(x) / g(x)] = (f'(x) * g'(x)) / g(x)²  
+[WA] d/dx [f(x) / g(x)] = (f(x) * g(x)) / g(x)²  
+[END]  
+-------------------------------------------  
+[MCQ] What is the Chain Rule for derivatives?  
+[CA] d/dx [f(g(x))] = f'(g(x)) * g'(x)  
+[WA] d/dx [f(g(x))] = f'(g(x)) * g(x)  
+[WA] d/dx [f(g(x))] = f(x) * g'(x)  
+[WA] d/dx [f(g(x))] = f'(x) * g'(x)  
+[END]  
+-------------------------------------------
+[MCQ] If g(x) is the inverse of f(x) and f(a) = b, then g'(b) is equal to ____.  
+[CA] 1 / f'(a)  
+[WA] f'(a)  
+[WA] 1 / f(a)  
+[WA] f(b)  
+[END] 
+------------------------------------------- 
+[T] Theorems of Continuous Functions
+------------------------------------------- 
+[MCQ] The Mean Value Theorem states that if a function f(x) is continuous on [a, b] and differentiable on (a, b), then there exists at least one number c in (a, b) such that ____.  
+[CA] f'(c) = (f(b) - f(a)) / (b - a)  
+[WA] f'(c) = f(b) - f(a)  
+[WA] f'(c) = (b - a) / (f(b) - f(a))  
+[WA] f'(c) = (a - b) / (f(a) - f(b))  
+[END]  
+-------------------------------------------  
+[MCQ] The Intermediate Value Theorem states that if f(x) is continuous on the interval [a, b] and k is a value between f(a) and f(b), then there exists at least one number c in [a, b] such that ____.  
+[CA] f(c) = k  
+[WA] f(c) = f(a) + f(b)  
+[WA] f(c) = k²  
+[WA] f(c) = a + b  
+[END]  
+-------------------------------------------  
+[MCQ] The Extreme Value Theorem states that if a function f(x) is continuous on the closed interval [a, b], then f(x) has ____.  
+[CA] both a maximum and a minimum value on [a, b]  
+[WA] a maximum value only  
+[WA] a minimum value only  
+[WA] no maximum or minimum value  
+[END]  
+-------------------------------------------
+[MCQ] The Mean Value Theorem applies when a function f(x) is ____.  
+[CA] continuous on [a, b] and differentiable on (a, b)  
+[WA] continuous on [a, b]  
+[WA] differentiable on [a, b]  
+[WA] continuous on (a, b)  
+[END]  
+-------------------------------------------  
+[MCQ] The Intermediate Value Theorem applies when a function f(x) is ____.  
+[CA] continuous on [a, b]  
+[WA] differentiable on [a, b]  
+[WA] continuous on (a, b)  
+[WA] differentiable on (a, b)  
+[END]  
+-------------------------------------------  
+[MCQ] The Extreme Value Theorem applies when a function f(x) is ____.  
+[CA] continuous on the closed interval [a, b]  
+[WA] differentiable on the closed interval [a, b]  
+[WA] continuous on the open interval (a, b)  
+[WA] continuous on (a, b)  
+[END]  
+------------------------------------------- 
+[T] Integrals
+------------------------------------------- 
+[MCQ] The integral of cosx is ____.  
+[CA] sinx  
+[WA] -sinx  
+[WA] tanx  
+[WA] -tanx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of sinx is ____.  
+[CA] -cosx  
+[WA] cosx  
+[WA] -tanx  
+[WA] tanx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of sec²x is ____.  
+[CA] tanx  
+[WA] -tanx  
+[WA] secx  
+[WA] -secx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of csc²x is ____.  
+[CA] -cotx  
+[WA] cotx  
+[WA] -secx  
+[WA] secx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of secxtanx is ____.  
+[CA] secx  
+[WA] -secx  
+[WA] tanx  
+[WA] -tanx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of cscxcotx is ____.  
+[CA] -cscx  
+[WA] cscx  
+[WA] -cotx  
+[WA] cotx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of eˣ is ____.  
+[CA] eˣ  
+[WA] xeˣ  
+[WA] -eˣ  
+[WA] xᵉ  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of aˣ is ____.  
+[CA] aˣ / ln(a)  
+[WA] aˣ  
+[WA] xᵃ  
+[WA] ln(aˣ)  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of 1/x is ____.  
+[CA] ln|x|  
+[WA] ln(x)  
+[WA] x  
+[WA] 1/x²  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of xⁿ (where n ≠ -1) is ____.  
+[CA] (x^(n+1)) / (n+1)  
+[WA] xⁿ  
+[WA] n * xⁿ  
+[WA] (x^(n-1)) / (n-1)  
+[END]  
+------------------------------------------- 
+[MCQ] The integral of tanx is ____.  
+[CA] -ln|cosx|  
+[WA] ln|cosx|  
+[WA] secx  
+[WA] -secx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of secx is ____.  
+[CA] ln|secx + tanx|  
+[WA] ln|secx - tanx|  
+[WA] secx  
+[WA] tanx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of cscx is ____.  
+[CA] -ln|cscx + cotx|  
+[WA] ln|cscx + cotx|  
+[WA] cscx  
+[WA] cotx  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of cotx is ____.  
+[CA] ln|sinx|  
+[WA] -ln|sinx|  
+[WA] secx  
+[WA] -secx  
+[END]  
+-------------------------------------------
+[MCQ] The integral of 1 / (a² + x²) is ____.  
+[CA] (1 / a) tan⁻¹(x / a) + C  
+[WA] (1 / a) ln(x / a) + C  
+[WA] tan⁻¹(x) + C  
+[WA] ln(x² + a²) + C  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of 1 / (x√(x² - a²)) is ____.  
+[CA] sec⁻¹(|x| / a) + C  
+[WA] ln(x² - a²) + C  
+[WA] (1 / a) ln(x² - a²) + C  
+[WA] tan⁻¹(x / a) + C  
+[END]  
+-------------------------------------------  
+[MCQ] The integral of 1 / √(a² - x²) is ____.  
+[CA] sin⁻¹(x / a) + C  
+[WA] -sin⁻¹(x / a) + C  
+[WA] ln(x / a) + C  
+[WA] -ln(x / a) + C  
+[END]  
+-------------------------------------------
+[MCQ] The average value of a function f(x) on the interval [a, b] is given by ____.  
+[CA] (1 / (b - a)) ∫[a, b] f(x) dx  
+[WA] (1 / (b + a)) ∫[a, b] f(x) dx  
+[WA] ∫[a, b] f(x) dx  
+[WA] (b - a) ∫[a, b] f(x) dx  
+[END]  
+-------------------------------------------  
+[MCQ] The Fundamental Theorem of Calculus Part 1 states that if f is continuous on [a, b], then ____.  
+[CA] ∫[a, b] f(x) dx = F(b) - F(a)  
+[WA] ∫[a, b] f(x) dx = F(a) - F(b)  
+[WA] ∫[a, b] f(x) dx = F(b) + F(a)  
+[WA] ∫[a, b] f(x) dx = 0  
+[END]  
+-------------------------------------------  
+[MCQ] The Fundamental Theorem of Calculus Part 2 states that if F is an antiderivative of f on [a, b], then ____.  
+[CA] ∫[a, b] f(x) dx = F(b) - F(a)  
+[WA] ∫[a, b] f(x) dx = F(a) - F(b)  
+[WA] ∫[a, b] f(x) dx = F(a) + F(b)  
+[WA] ∫[a, b] f(x) dx = 0  
+[END]  
+-------------------------------------------
+[MCQ] The criteria for finding the average value of a function f(x) on the interval [a, b] is that the function must be ____.  
+[CA] integrable on [a, b]  
+[WA] continuous on [a, b]  
+[WA] differentiable on [a, b]  
+[WA] increasing on [a, b]  
+[END]  
+-------------------------------------------  
+[MCQ] The criteria for applying the Fundamental Theorem of Calculus is that the function f(x) must be ____.  
+[CA] continuous on [a, b]  
+[WA] differentiable on [a, b]  
+[WA] integrable on [a, b]  
+[WA] decreasing on [a, b]  
+[END]  
+------------------------------------------- 
+[MCQ] The formula for integration by parts is ____.  
+[CA] ∫u dv = uv - ∫v du  
+[WA] ∫u dv = uv + ∫v du  
+[WA] ∫u dv = u²v - ∫v du  
+[WA] ∫u dv = uv - ∫u dv  
+[END]  
+------------------------------------------- 
+[MCQ] The integral ∫₁^∞ 1 / xᵖ dx converges when ____.  
+[CA] p > 1  
+[WA] p = 1  
+[WA] p < 1  
+[WA] p = 0  
+[END]  
+-------------------------------------------  
+[MCQ] The integral ∫₁^∞ 1 / xᵖ dx diverges when ____.  
+[CA] p ≤ 1  
+[WA] p > 1  
+[WA] p = 0  
+[WA] p = 2  
+[END]  
+-------------------------------------------  
+[MCQ] For the integral ∫₁^∞ 1 / xᵖ dx, when p = 1, the integral ____.  
+[CA] Diverges  
+[WA] Converges  
+[WA] Equals 1  
+[WA] Equals 0  
+[END]  
+-------------------------------------------
+[MCQ] The rectangular arc length is calculated using the formula ____.  
+[CA] ∫ from a to b √(1 + (dy/dx)²) dx  
+[WA] ∫ from a to b √(1 - (dy/dx)²) dx  
+[WA] ∫ from a to b √(1 + (dx/dy)²) dx  
+[WA] ∫ from a to b √(1 + (dy/dx))² dx  
+[END]  
+------------------------------------------- 
+[T] Differential Equations
+------------------------------------------- 
+[MCQ] The differential equation for exponential growth or decay is ____.  
+[CA] dy/dt = ky  
+[WA] dy/dt = k / y  
+[WA] dy/dt = kx  
+[WA] dy/dt = ky²  
+[END]  
+-------------------------------------------  
+[MCQ] The general solution to the differential equation dy/dt = ky is ____.  
+[CA] y = Ae^(kt)  
+[WA] y = Ae^(k/t)  
+[WA] y = A + e^(kt)  
+[WA] y = A * k^t  
+[END]  
+-------------------------------------------
+[MCQ] The differential equation for logistic growth is ____.  
+[CA] dp/dt = (k / M) * P(M - P)  
+[WA] dp/dt = k * P  
+[WA] dp/dt = (k / M) * P²  
+[WA] dp/dt = P * (M - P)  
+[END]  
+-------------------------------------------  
+[MCQ] The general solution to the logistic differential equation is ____.  
+[CA] P = M / (1 + A * e^(-kt))  
+[WA] P = M * (1 + A * e^(kt))  
+[WA] P = M / (1 + A * e^(kt))  
+[WA] P = M / (1 + A * e^(kt))  
+[END]  
+------------------------------------------- 
+[T] Tests for Convergence and Divergence
+------------------------------------------- 
+[MCQ] Does the harmonic series ∑ 1/n converge or diverge?  
+[CA] Diverges  
+[WA] Converges  
+[END]  
+------------------------------------------- 
+[MCQ] The geometric series ∑ arⁿ converges when ____.  
+[CA] |r| < 1  
+[WA] |r| ≥ 1  
+[END]  
+-------------------------------------------  
+[MCQ] The geometric series ∑ arⁿ diverges when ____.  
+[CA] |r| ≥ 1  
+[WA] |r| < 1  
+[END]  
+-------------------------------------------  
+[MCQ] The sum of the geometric series ∑ arⁿ (n=0 to ∞) is ____.  
+[CA] a / (1 - r)  
+[WA] a / (1 + r)  
+[WA] a / r  
+[WA] 1 / (1 - r)  
+[END]  
+-------------------------------------------
+[MCQ] The p-series ∑ 1/nᵖ (n=1 to ∞) converges when ____.  
+[CA] p > 1  
+[WA] p = 1  
+[WA] p < 1  
+[WA] p = 0  
+[END]  
+-------------------------------------------  
+[MCQ] The p-series ∑ 1/nᵖ (n=1 to ∞) diverges when ____.  
+[CA] p ≤ 1  
+[WA] p > 1  
+[WA] p = 0  
+[WA] p = 2  
+[END]  
+-------------------------------------------
+[MCQ] The limit comparison test can be used to determine the convergence of ____.  
+[CA] Two positive series  
+[WA] One negative and one positive series  
+[WA] Only alternating series  
+[WA] A series with terms that tend to infinity  
+[END]  
+-------------------------------------------  
+[MCQ] The limit comparison test requires you to compare the limit of ____.  
+[CA] aₙ / bₙ  
+[WA] aₙ * bₙ  
+[WA] aₙ + bₙ  
+[WA] aₙ - bₙ  
+[END]  
+-------------------------------------------
+[MCQ] The limit comparison test can be used to determine the convergence of two series when ____.  
+[CA] Both series are positive and the limit of aₙ / bₙ as n → ∞ exists and is finite and non-zero  
+[WA] One of the series has negative terms  
+[WA] The limit of aₙ / bₙ as n → ∞ equals 0  
+[WA] The series must have the same exact terms  
+[END]  
+-------------------------------------------  
+[MCQ] The limit comparison test states that if the limit of aₙ / bₙ as n → ∞ is a finite, non-zero number, then ____.  
+[CA] Either both series converge or both series diverge  
+[WA] One series converges and the other diverges  
+[WA] The series must both converge  
+[WA] The test is inconclusive  
+[END]  
+-------------------------------------------  
+[MCQ] The alternating series ∑ (-1)ⁿ aₙ converges when ____.  
+[CA] aₙ → 0 and aₙ is decreasing  
+[WA] aₙ → ∞ and aₙ is decreasing  
+[WA] aₙ is constant  
+[WA] aₙ → 0 and aₙ is increasing  
+[END]  
+-------------------------------------------  
+[MCQ] The alternating series ∑ (-1)ⁿ aₙ converges absolutely if ____.  
+[CA] ∑ aₙ converges absolutely  
+[WA] ∑ aₙ diverges  
+[WA] ∑ aₙ converges conditionally  
+[WA] The terms are increasing  
+[END]  
+-------------------------------------------
+[MCQ] The remainder of an alternating series is less than or equal to ____.  
+[CA] The first neglected term  
+[WA] The first term of the series  
+[WA] The last term of the series  
+[WA] The second term of the series  
+[END]  
+-------------------------------------------
+[MCQ] The nth-term test for divergence states that a series diverges if ____.  
+[CA] lim (aₙ) ≠ 0  
+[WA] lim (aₙ) = 0  
+[WA] lim (aₙ) = ∞  
+[WA] lim (aₙ) = 1  
+[END]  
+-------------------------------------------  
+[MCQ] If the nth-term test for divergence gives lim (aₙ) = 0, then ____.  
+[CA] The series may converge or diverge  
+[WA] The series converges  
+[WA] The series diverges  
+[WA] The series definitely converges  
+[END]  
+-------------------------------------------  
+[MCQ] The direct comparison test can be used to determine the convergence of ____.  
+[CA] Two series where one is greater than the other  
+[WA] Two series with the same terms  
+[WA] Series with negative terms  
+[WA] Series with terms that are not comparable  
+[END]  
+-------------------------------------------  
+[MCQ] In the direct comparison test, if 0 ≤ aₙ ≤ bₙ and ∑ bₙ converges, then ____.  
+[CA] ∑ aₙ converges  
+[WA] ∑ aₙ diverges  
+[WA] ∑ aₙ oscillates  
+[WA] The test is inconclusive  
+[END]  
+-------------------------------------------
+[MCQ] According to the direct comparison test, if aₙ ≥ bₙ and the series bₙ diverges, then ____.  
+[CA] The series aₙ diverges  
+[WA] The series aₙ converges  
+[WA] The series aₙ is inconclusive  
+[END]  
+------------------------------------------- 
+[MCQ] The integral test can be used to determine the convergence of a series if ____.  
+[CA] The function is continuous, positive, and decreasing  
+[WA] The function is continuous, positive, and increasing
+[WA] The function is continuous, negative, and decreasing
+[WA] The function is continuous, negative, and increasing
+[END]  
+-------------------------------------------  
+[MCQ] The integral test states that if the integral of f(x) from 1 to ∞ converges, then ____.  
+[CA] The series ∑ f(n) converges  
+[WA] The series ∑ f(n) diverges  
+[WA] The series ∑ f(n) oscillates  
+[WA] The series ∑ f(n) does not have a limit  
+[END]  
+-------------------------------------------
+[MCQ] The integral test states that if the integral of f(x) from 1 to ∞ diverges, then ____.  
+[CA] The series ∑ f(n) diverges
+[WA] The series ∑ f(n) converges  
+[WA] The series ∑ f(n) oscillates  
+[WA] The series ∑ f(n) does not have a limit  
+[END]  
+-------------------------------------------  
+[MCQ] The ratio test for convergence involves finding the limit of ____.  
+[CA] lim (|aₙ₊₁ / aₙ|)  
+[WA] lim (aₙ₊₁ / aₙ)  
+[WA] lim (|aₙ₊₁ * aₙ|)  
+[WA] lim (aₙ - aₙ₊₁)  
+[END]  
+-------------------------------------------  
+[MCQ] If the ratio test gives lim (|aₙ₊₁ / aₙ|) = L, and L < 1, then ____.  
+[CA] The series converges absolutely  
+[WA] The series diverges  
+[WA] The series converges conditionally  
+[WA] The series oscillates  
+[END]  
+-------------------------------------------  
+[MCQ] If the ratio test gives lim (|aₙ₊₁ / aₙ|) = L, and L > 1, then ____.  
+[CA] The series diverges  
+[WA] The series converges absolutely  
+[WA] The series converges conditionally  
+[WA] The series oscillates  
+[END]  
+-------------------------------------------  
+[MCQ] If the ratio test gives lim (|aₙ₊₁ / aₙ|) = 1, then ____.  
+[CA] The test is inconclusive  
+[WA] The series converges  
+[WA] The series diverges  
+[WA] The series oscillates  
+[END]  
+------------------------------------------- 
+[T] Taylor Series / Power Series
+------------------------------------------- 
+[MCQ] The Taylor series formula for a function f(x) centered at a point c is given by ____.  
+[CA] f(x) = Σ [f^(n)(c) / n!] * (x - c)^n  
+[WA] f(x) = Σ [f(x) * (x - c)]  
+[WA] f(x) = Σ [f^(n)(x) / n!] * (x - c)^n  
+[WA] f(x) = Σ [f^(n)(c) * (x - c)]  
+[END]  
+-------------------------------------------  
+[MCQ] The Lagrange Error Bound for a Taylor series approximation tells you ____.  
+[CA] The maximum possible error between the actual function value and the Taylor series approximation  
+[WA] The exact error in the Taylor series approximation  
+[WA] The sum of the first n terms in the series  
+[WA] The radius of convergence for the series  
+[END]  
+-------------------------------------------  
+[MCQ] The Lagrange Error Bound formula for the nth degree Taylor polynomial for a function f(x) centered at c is ____.  
+[CA] |Rₙ(x)| ≤ M * |x - c|^(n+1) / (n+1)! where M is the maximum value of |f^(n+1)(z)| for z in the interval  
+[WA] |Rₙ(x)| = M * |x - c|^n / n! where M is the minimum value of |f^(n+1)(z)| for z in the interval  
+[WA] |Rₙ(x)| = f(x) - Pₙ(x) where Pₙ(x) is the nth degree Taylor polynomial  
+[WA] |Rₙ(x)| = M * (x - c)^n / n!  
+[END]  
+-------------------------------------------  
+[MCQ] The series Σ (x^n) / n! is the Taylor series expansion of ____.  
+[CA] e^x  
+[WA] sinx  
+[WA] cosx  
+[WA] ln(x)  
+[END]  
+-------------------------------------------  
+[MCQ] The interval of convergence for the Taylor series of e^x is ____.  
+[CA] (-∞, ∞)  
+[WA] (-1, 1)  
+[WA] [0, ∞)  
+[WA] (-∞, 0)  
+[END]  
+-------------------------------------------  
+[MCQ] The Taylor series for sinx converges on the interval ____.  
+[CA] (-∞, ∞)  
+[WA] (-π, π)  
+[WA] (-1, 1)  
+[WA] [0, ∞)  
+[END]  
+-------------------------------------------  
+[MCQ] The Taylor series for cosx converges on the interval ____.  
+[CA] (-∞, ∞)  
+[WA] (-π, π)  
+[WA] (-1, 1)  
+[WA] [0, ∞)  
+[END]  
+-------------------------------------------  
+[MCQ] The Taylor series for ln(1 + x) converges on the interval ____.  
+[CA] (-1, 1]  
+[WA] (-∞, ∞)  
+[WA] [0, ∞)  
+[WA] (-1, 0)  
+[END]  
+-------------------------------------------  
+[MCQ] The Taylor series for 1 / (1 - x) converges on the interval ____.  
+[CA] (-1, 1)  
+[WA] (-∞, ∞)  
+[WA] [0, ∞)  
+[WA] (-1, 0)  
+[END]  
+-------------------------------------------  
+[MCQ] The Taylor series for 1/(1-x) is ____.  
+[CA] 1 + x + x^2 + x^3 + x^4 + ...  
+[WA] 1 - x + x^2 - x^3 + ...  
+[WA] 1 + x + 2x^2 + 3x^3 + ...  
+[WA] 1 + 2x + 3x^2 + 4x^3 + ...  
+[END]  
+-------------------------------------------  
+[MCQ] The Taylor series for e^x is ____.  
+[CA] 1 + x + x^2/2! + x^3/3! + x^4/4! + ...  
+[WA] 1 - x + x^2/2! - x^3/3! + x^4/4! + ...  
+[WA] 1 + x + x^2 + x^3 + x^4 + ...  
+[WA] 1 + x + x^2/2 + x^3/3 + ...  
+[END]  
+-------------------------------------------  
+[MCQ] The Taylor series for sinx is ____.  
+[CA] x - x^3/3! + x^5/5! - x^7/7! + ...  
+[WA] x + x^3/3! + x^5/5! + ...  
+[WA] x - x^2/2! + x^3/3! + ...  
+[WA] x + x^2/2! - x^3/3! + ...  
+[END]  
+-------------------------------------------  
+[MCQ] The Taylor series for cosx is ____.  
+[CA] 1 - x^2/2! + x^4/4! - x^6/6! + ...  
+[WA] 1 + x^2/2! - x^4/4! + x^6/6! + ...  
+[WA] 1 - x^3/3! + x^5/5! + ...  
+[WA] 1 + x^3/3! - x^5/5! + ...  
+[END]  
+------------------------------------------- 
+[T] Parametrics and Polar
+------------------------------------------- 
+[MCQ] The derivative of a parametric equation x(t) and y(t) is given by ____.  
+[CA] dy/dx = (dy/dt) / (dx/dt)  
+[WA] dy/dx = (dx/dt) / (dy/dt)  
+[WA] dy/dx = (dx/dt) + (dy/dt)  
+[WA] dy/dx = (dx/dt) * (dy/dt)  
+[END]  
+-------------------------------------------  
+[MCQ] The double derivative of a parametric equation x(t) and y(t) is given by ____.  
+[CA] d²y/dx² = (d/dt(dy/dx)) / (dx/dt)  
+[WA] d²y/dx² = (d/dt(dy/dt)) * (dx/dt)  
+[WA] d²y/dx² = (dx/dt) / (dy/dt)  
+[WA] d²y/dx² = (dy/dt) / (dx/dt)  
+[END]  
+-------------------------------------------  
+[MCQ] The parametric arc length is calculated using the formula ____.  
+[CA] ∫ from a to b √((dx/dt)² + (dy/dt)²) dt  
+[WA] ∫ from a to b √((dx/dt) + (dy/dt)) dt  
+[WA] ∫ from a to b (dx/dt)² + (dy/dt)² dt  
+[WA] ∫ from a to b (dx/dt + dy/dt) dt  
+[END]  
+-------------------------------------------  
+[MCQ] What is the equation for x in polar coordinates?  
+[CA] x = rcos(θ)  
+[WA] x = rsin(θ)  
+[WA] x = r²cos(θ)  
+[WA] x = r²sin(θ)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the equation for y in polar coordinates?  
+[CA] y = r sin(θ)  
+[WA] y = r cos(θ)  
+[WA] y = r² sin(θ)  
+[WA] y = r² cos(θ)  
+[END]  
+-------------------------------------------  
+[MCQ] What is the equation for the relationship between x, y, and r in polar coordinates?  
+[CA] x² + y² = r²  
+[WA] x² + y² = r  
+[WA] x + y = r²  
+[WA] x² + y² = r³  
+[END]  
+-------------------------------------------  
+[MCQ] What is the equation for the relationship between θ, x, and y in polar coordinates?  
+[CA] tan(θ) = y/x  
+[WA] tan(θ) = x/y  
+[WA] tan(θ) = x²/y  
+[WA] tan(θ) = y²/x  
+[END]  
+------------------------------------------- 
+[MCQ] The slope of a curve in polar coordinates, dy/dx, is given by ____.  
+[CA] (dy/dθ) / (dx/dθ)  
+[WA] (dx/dθ) / (dy/dθ)  
+[WA] (dy/dθ) * (dx/dθ)  
+[WA] (dx/dθ) * (dy/dθ)  
+[END]  
+-------------------------------------------  
+[MCQ] The area enclosed by a curve in polar coordinates is given by ____.  
+[CA] A = ∫ from α to β ½ r² dθ  
+[WA] A = ∫ from α to β r dθ  
+[WA] A = ∫ from α to β r² dθ  
+[WA] A = ∫ from α to β ½ r dθ  
+[END]  
+------------------------------------------- 
