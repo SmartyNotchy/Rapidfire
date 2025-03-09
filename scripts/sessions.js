@@ -198,6 +198,11 @@ class SAQQuestion {
         this.status = QUESTION_STATUS.UNSOLVED;
     }
     
+    reset() {
+        this.status = QUESTION_STATUS.UNSOLVED;
+        this.processingSubmit = false;
+    }
+
     get_status() {
         return this.status;
     }
@@ -358,6 +363,11 @@ class MCQQuestion {
         this.processingSubmit = false;
 
         this.status = QUESTION_STATUS.UNSOLVED;
+    }
+
+    reset() {
+        this.status = QUESTION_STATUS.UNSOLVED;
+        this.processingSubmit = false;
     }
 
     get_status() {
@@ -532,7 +542,8 @@ class TriviaSession {
             SCQ_QNUM.innerText = `Question #${this.questionNum+1}/${this.questionCount}`;
             SCQ_SKIP_BTN.onclick = function() { process_input(["SKIP", ""]) };
             SCQ_SKIP_BTN.removeAttribute("disabled");
-
+            
+            this.currentQuestion.reset();
             this.currentQuestion.render(this.settings);
         }
     }

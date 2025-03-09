@@ -103,7 +103,7 @@
 [MCQ] What is the formula for the change of base of logarithms?  
 [CA] log_b(x) = ln(x) / ln(b)  
 [WA] log_b(x) = ln(b) / ln(x)  
-[WA] log_b(x) = ln(x) * ln(b)  
+[WA] log_b(x) = ln(x) ⋅ ln(b)  
 [WA] log_b(x) = ln(x) + ln(b)  
 [END]  
 ------------------------------------------- 
@@ -159,8 +159,8 @@
 [END]  
 -------------------------------------------  
 [MCQ] What is the derivative of cscx?  
-[CA] -cscx * cotx  
-[WA] cscx * cotx  
+[CA] -cscx ⋅ cotx  
+[WA] cscx ⋅ cotx  
 [WA] -csc²x  
 [WA] csc²x  
 [END]  
@@ -229,38 +229,38 @@
 [END]  
 -------------------------------------------  
 [MCQ] What is the derivative of log_b(x)?  
-[CA] 1/(x * ln(b))  
+[CA] 1/(x ⋅ ln(b))  
 [WA] 1/x  
 [WA] ln(x)  
-[WA] x * ln(b)  
+[WA] x ⋅ ln(b)  
 [END]  
 -------------------------------------------
 [MCQ] What is the Power Rule for derivatives?  
-[CA] d/dx [xⁿ] = n * x^(n-1)  
-[WA] d/dx [xⁿ] = n * xⁿ  
+[CA] d/dx [xⁿ] = n ⋅ x^(n-1)  
+[WA] d/dx [xⁿ] = n ⋅ xⁿ  
 [WA] d/dx [xⁿ] = x^(n-1)  
-[WA] d/dx [xⁿ] = n * x^(n+1)  
+[WA] d/dx [xⁿ] = n ⋅ x^(n+1)  
 [END]  
 -------------------------------------------  
 [MCQ] What is the Product Rule for derivatives?  
-[CA] d/dx [f(x) * g(x)] = f'(x) * g(x) + f(x) * g'(x)  
-[WA] d/dx [f(x) * g(x)] = f'(x) + g'(x)  
-[WA] d/dx [f(x) * g(x)] = f'(x) * g'(x)  
-[WA] d/dx [f(x) * g(x)] = f(x) * g(x)  
+[CA] d/dx [f(x) ⋅ g(x)] = f'(x) ⋅ g(x) + f(x) ⋅ g'(x)  
+[WA] d/dx [f(x) ⋅ g(x)] = f'(x) + g'(x)  
+[WA] d/dx [f(x) ⋅ g(x)] = f'(x) ⋅ g'(x)  
+[WA] d/dx [f(x) ⋅ g(x)] = f(x) ⋅ g(x)  
 [END]  
 -------------------------------------------  
 [MCQ] What is the Quotient Rule for derivatives?  
-[CA] d/dx [f(x) / g(x)] = (f'(x) * g(x) - f(x) * g'(x)) / g(x)²  
-[WA] d/dx [f(x) / g(x)] = (f'(x) * g(x) + f(x) * g'(x)) / g(x)²  
-[WA] d/dx [f(x) / g(x)] = (f'(x) * g'(x)) / g(x)²  
-[WA] d/dx [f(x) / g(x)] = (f(x) * g(x)) / g(x)²  
+[CA] d/dx [f(x) / g(x)] = (f'(x) ⋅ g(x) - f(x) ⋅ g'(x)) / g(x)²  
+[WA] d/dx [f(x) / g(x)] = (f'(x) ⋅ g(x) + f(x) ⋅ g'(x)) / g(x)²  
+[WA] d/dx [f(x) / g(x)] = (f'(x) ⋅ g'(x)) / g(x)²  
+[WA] d/dx [f(x) / g(x)] = (f(x) ⋅ g(x)) / g(x)²  
 [END]  
 -------------------------------------------  
 [MCQ] What is the Chain Rule for derivatives?  
-[CA] d/dx [f(g(x))] = f'(g(x)) * g'(x)  
-[WA] d/dx [f(g(x))] = f'(g(x)) * g(x)  
-[WA] d/dx [f(g(x))] = f(x) * g'(x)  
-[WA] d/dx [f(g(x))] = f'(x) * g'(x)  
+[CA] d/dx [f(g(x))] = f'(g(x)) ⋅ g'(x)  
+[WA] d/dx [f(g(x))] = f'(g(x)) ⋅ g(x)  
+[WA] d/dx [f(g(x))] = f(x) ⋅ g'(x)  
+[WA] d/dx [f(g(x))] = f'(x) ⋅ g'(x)  
 [END]  
 -------------------------------------------
 [MCQ] If g(x) is the inverse of f(x) and f(a) = b, then g'(b) is equal to ____.  
@@ -382,7 +382,7 @@
 [MCQ] The integral of xⁿ (where n ≠ -1) is ____.  
 [CA] (x^(n+1)) / (n+1)  
 [WA] xⁿ  
-[WA] n * xⁿ  
+[WA] n ⋅ xⁿ  
 [WA] (x^(n-1)) / (n-1)  
 [END]  
 ------------------------------------------- 
@@ -518,21 +518,21 @@
 [CA] y = Ae^(kt)  
 [WA] y = Ae^(k/t)  
 [WA] y = A + e^(kt)  
-[WA] y = A * k^t  
+[WA] y = A ⋅ k^t  
 [END]  
 -------------------------------------------
 [MCQ] The differential equation for logistic growth is ____.  
-[CA] dp/dt = (k / M) * P(M - P)  
-[WA] dp/dt = k * P  
-[WA] dp/dt = (k / M) * P²  
-[WA] dp/dt = P * (M - P)  
+[CA] dp/dt = (k / M) ⋅ P(M - P)  
+[WA] dp/dt = k ⋅ P  
+[WA] dp/dt = (k / M) ⋅ P²  
+[WA] dp/dt = P ⋅ (M - P)  
 [END]  
 -------------------------------------------  
 [MCQ] The general solution to the logistic differential equation is ____.  
-[CA] P = M / (1 + A * e^(-kt))  
-[WA] P = M * (1 + A * e^(kt))  
-[WA] P = M / (1 + A * e^(kt))  
-[WA] P = M / (1 + A * e^(kt))  
+[CA] P = M / (1 + A ⋅ e^(-kt))  
+[WA] P = M ⋅ (1 + A ⋅ e^(kt))  
+[WA] P = M / (1 + A ⋅ e^(kt))  
+[WA] P = M / (1 + A ⋅ e^(kt))  
 [END]  
 ------------------------------------------- 
 [T] Tests for Convergence and Divergence
@@ -582,7 +582,7 @@
 -------------------------------------------  
 [MCQ] The limit comparison test requires you to compare the limit of ____.  
 [CA] aₙ / bₙ  
-[WA] aₙ * bₙ  
+[WA] aₙ ⋅ bₙ  
 [WA] aₙ + bₙ  
 [WA] aₙ - bₙ  
 [END]  
@@ -680,7 +680,7 @@
 [MCQ] The ratio test for convergence involves finding the limit of ____.  
 [CA] lim (|aₙ₊₁ / aₙ|)  
 [WA] lim (aₙ₊₁ / aₙ)  
-[WA] lim (|aₙ₊₁ * aₙ|)  
+[WA] lim (|aₙ₊₁ ⋅ aₙ|)  
 [WA] lim (aₙ - aₙ₊₁)  
 [END]  
 -------------------------------------------  
@@ -708,10 +708,10 @@
 [T] Taylor Series / Power Series
 ------------------------------------------- 
 [MCQ] The Taylor series formula for a function f(x) centered at a point c is given by ____.  
-[CA] f(x) = Σ [f^(n)(c) / n!] * (x - c)^n  
-[WA] f(x) = Σ [f(x) * (x - c)]  
-[WA] f(x) = Σ [f^(n)(x) / n!] * (x - c)^n  
-[WA] f(x) = Σ [f^(n)(c) * (x - c)]  
+[CA] f(x) = Σ [f^(n)(c) / n!] ⋅ (x - c)^n  
+[WA] f(x) = Σ [f(x) ⋅ (x - c)]  
+[WA] f(x) = Σ [f^(n)(x) / n!] ⋅ (x - c)^n  
+[WA] f(x) = Σ [f^(n)(c) ⋅ (x - c)]  
 [END]  
 -------------------------------------------  
 [MCQ] The Lagrange Error Bound for a Taylor series approximation tells you ____.  
@@ -722,10 +722,10 @@
 [END]  
 -------------------------------------------  
 [MCQ] The Lagrange Error Bound formula for the nth degree Taylor polynomial for a function f(x) centered at c is ____.  
-[CA] |Rₙ(x)| ≤ M * |x - c|^(n+1) / (n+1)! where M is the maximum value of |f^(n+1)(z)| for z in the interval  
-[WA] |Rₙ(x)| = M * |x - c|^n / n! where M is the minimum value of |f^(n+1)(z)| for z in the interval  
+[CA] |Rₙ(x)| ≤ M ⋅ |x - c|^(n+1) / (n+1)! where M is the maximum value of |f^(n+1)(z)| for z in the interval  
+[WA] |Rₙ(x)| = M ⋅ |x - c|^n / n! where M is the minimum value of |f^(n+1)(z)| for z in the interval  
 [WA] |Rₙ(x)| = f(x) - Pₙ(x) where Pₙ(x) is the nth degree Taylor polynomial  
-[WA] |Rₙ(x)| = M * (x - c)^n / n!  
+[WA] |Rₙ(x)| = M ⋅ (x - c)^n / n!  
 [END]  
 -------------------------------------------  
 [MCQ] The series Σ (x^n) / n! is the Taylor series expansion of ____.  
@@ -804,12 +804,12 @@
 [CA] dy/dx = (dy/dt) / (dx/dt)  
 [WA] dy/dx = (dx/dt) / (dy/dt)  
 [WA] dy/dx = (dx/dt) + (dy/dt)  
-[WA] dy/dx = (dx/dt) * (dy/dt)  
+[WA] dy/dx = (dx/dt) ⋅ (dy/dt)  
 [END]  
 -------------------------------------------  
 [MCQ] The double derivative of a parametric equation x(t) and y(t) is given by ____.  
 [CA] d²y/dx² = (d/dt(dy/dx)) / (dx/dt)  
-[WA] d²y/dx² = (d/dt(dy/dt)) * (dx/dt)  
+[WA] d²y/dx² = (d/dt(dy/dt)) ⋅ (dx/dt)  
 [WA] d²y/dx² = (dx/dt) / (dy/dt)  
 [WA] d²y/dx² = (dy/dt) / (dx/dt)  
 [END]  
@@ -852,8 +852,8 @@
 [MCQ] The slope of a curve in polar coordinates, dy/dx, is given by ____.  
 [CA] (dy/dθ) / (dx/dθ)  
 [WA] (dx/dθ) / (dy/dθ)  
-[WA] (dy/dθ) * (dx/dθ)  
-[WA] (dx/dθ) * (dy/dθ)  
+[WA] (dy/dθ) ⋅ (dx/dθ)  
+[WA] (dx/dθ) ⋅ (dy/dθ)  
 [END]  
 -------------------------------------------  
 [MCQ] The area enclosed by a curve in polar coordinates is given by ____.  
