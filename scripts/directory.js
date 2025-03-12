@@ -18,7 +18,7 @@ const DIRECTORY = {
         "plaintext": "Adv. Earth & Space Systems",
         "path": "./questions/ess/",
         "files": [
-            "01_bgc", "02_river", "03_mineralsmagnets"
+            "01_bgc", "02_river", "03_mineralsmagnets", "04_surfacefeatures"
         ]
     },
     "Bio": {
