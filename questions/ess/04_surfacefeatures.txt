@@ -1,0 +1,958 @@
+[PRESET] Planetary Surface Features
+------------------------------------------- 
+[T] Volcanoes, Lava Tubes, Igneous Rocks
+-------------------------------------------
+[MCQ] Which type of volcano is characterized by steep sides and explosive eruptions?  
+[CA] Composite volcano  
+[WA] Cinder cone  
+[WA] Shield volcano  
+[WA] Lava dome  
+[END]  
+-------------------------------------------  
+[SAQ] Which type of volcano is typically the largest and has broad, gentle slopes?  
+[A] Shield 
+[END]  
+-------------------------------------------  
+[MCQ] Which type of volcano is primarily built up by the accumulation of pyroclastic material?  
+[CA] Cinder cone  
+[WA] Shield volcano  
+[WA] Composite volcano  
+[WA] Lava dome  
+[END]  
+-------------------------------------------  
+[SAQ] Which volcano type has alternating layers of lava flow and ash, resulting in a symmetrical cone?  
+[A] Composite 
+[END]  
+-------------------------------------------  
+[MCQ] Which type of volcano is most commonly found in areas with non-explosive eruptions and produces basaltic lava flows?  
+[CA] Shield volcano  
+[WA] Cinder cone  
+[WA] Composite volcano  
+[WA] Stratovolcano  
+[END]  
+-------------------------------------------  
+[SAQ] Which volcano is typically the smallest, often appearing as a steep, conical mound near a larger volcano?  
+[A] Cinder
+[END]  
+-------------------------------------------  
+[MCQ] What is the primary material erupted by cinder cone volcanoes?  
+[CA] Pyroclastic fragments  
+[WA] Lava flows  
+[WA] Ash clouds  
+[WA] Volcanic gases  
+[END]  
+-------------------------------------------  
+[SAQ] What type of volcano forms from the eruption of highly viscous magma, resulting in steep slopes and explosive eruptions?  
+[A] Composite volcano  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of volcano is known for its massive size and gentle slopes, often covering large areas?  
+[CA] Shield volcano  
+[WA] Cinder cone  
+[WA] Composite volcano  
+[WA] Lava dome  
+[END]  
+-------------------------------------------  
+[SAQ] Which type of volcano is most associated with the eruption of andesitic magma?  
+[A] Composite
+[END]  
+-------------------------------------------  
+[MCQ] What type of eruption is characterized by periodic bursts of lava fountains?  
+[CA] Strombolian eruption  
+[WA] Plinian eruption  
+[WA] Hawaiian eruption  
+[WA] Vulcanian eruption  
+[END]  
+-------------------------------------------  
+[SAQ] What organism is commonly found on rocks in early stages of primary succession after volcanic activity?  
+[A] Lichen  
+[END]  
+-------------------------------------------  
+[MCQ] Which of the following describes the resistance to flow of a fluid, such as magma?  
+[CA] Viscosity  
+[WA] Density  
+[WA] Pressure  
+[WA] Conductivity  
+[END]  
+-------------------------------------------  
+[SAQ] What is the term for the hollow tubes formed by lava flow that allow lava to continue flowing beneath the surface?  
+[A] Lava tubes  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of lava has a rough, jagged surface, and is typically found in more viscous eruptions?  
+[CA] Aa lava  
+[WA] Pahoehoe lava  
+[WA] Basaltic lava  
+[WA] Andesitic lava  
+[END]  
+-------------------------------------------  
+[SAQ] Which type of lava flow has a smooth, ropy surface and is found in low-viscosity eruptions?  
+[A] Pahoehoe lava  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of volcano tends to have more silica and higher viscosity in its magma?  
+[CA] Composite volcano  
+[WA] Shield volcano  
+[WA] Cinder cone  
+[WA] Lava dome  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of volcano is typically associated with low-viscosity, basaltic lava?  
+[CA] Shield volcano  
+[WA] Composite volcano  
+[WA] Cinder cone  
+[WA] Lava dome  
+[END]  
+-------------------------------------------  
+[SAQ] Which type of lava is typically associated with highly viscous eruptions and higher silica content?  
+[A] Aa lava  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of volcano is most likely to produce Strombolian eruptions?  
+[CA] Cinder cone  
+[WA] Shield volcano  
+[WA] Composite volcano  
+[WA] Lava dome  
+[END]  
+-------------------------------------------
+[MCQ] Which of the following describes rocks that are rich in silica and light in color, typically forming from slow cooling at depth?  
+[CA] Felsic  
+[WA] Mafic  
+[WA] Ultramafic  
+[WA] Intermediate  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of rock is rich in iron and magnesium, dark in color, and forms from rapid cooling near the surface?  
+[CA] Mafic  
+[WA] Felsic  
+[WA] Intermediate  
+[WA] Ultramafic  
+[END]  
+-------------------------------------------  
+[SAQ] What type of rock is formed from explosive volcanic eruptions and contains fragmented materials such as ash and pumice?  
+[A] Pyroclastic  
+[END]  
+-------------------------------------------  
+[MCQ] Which of the following cooling rates results in the formation of intrusive (plutonic) rocks?  
+[CA] Slow cooling underground  
+[WA] Rapid cooling at the surface  
+[WA] Moderate cooling at the surface  
+[WA] Cooling under pressure  
+[END]  
+-------------------------------------------  
+[SAQ] Which type of rock is typically formed from slow cooling and can be found in the Earth's crust?  
+[A] Intrusive  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of igneous rock is formed when magma cools quickly at the Earth's surface, resulting in small crystals or a vitreous texture?  
+[CA] Extrusive  
+[WA] Intrusive  
+[WA] Sedimentary  
+[WA] Metamorphic  
+[END]  
+-------------------------------------------  
+[SAQ] Which type of texture is associated with rocks that cool so rapidly that no crystals form, resulting in a glassy appearance?  
+[A] Vitreous  
+[END]  
+-------------------------------------------  
+[MCQ] Which of the following is a characteristic of mafic rocks compared to felsic rocks?  
+[CA] Higher iron and magnesium content  
+[WA] Higher silica content  
+[WA] Lighter color  
+[WA] Higher potassium content  
+[END]  
+-------------------------------------------  
+[MCQ] Which of the following is a common feature of felsic rocks?  
+[CA] Light color and high silica content  
+[WA] Dark color and low silica content  
+[WA] High iron content  
+[WA] High magnesium content  
+[END]  
+-------------------------------------------  
+[SAQ] Which type of rock forms when magma cools slowly underground, resulting in large visible crystals?  
+[A] Intrusive  
+[END]  
+-------------------------------------------  
+[MCQ] Which of the following types of igneous rocks cools rapidly and forms fine-grained crystals or no crystals at all?  
+[CA] Extrusive  
+[WA] Intrusive  
+[WA] Metamorphic  
+[WA] Sedimentary  
+[END]  
+-------------------------------------------
+[T] Geysers
+-------------------------------------------
+[MCQ] What is the primary source of heat that powers a geyser?  
+[CA] Magma beneath the Earth's surface.  
+[WA] Solar radiation.  
+[WA] Wind energy.  
+[WA] Tidal forces.  
+[END]  
+-------------------------------------------  
+[MCQ] What happens to the water in a geyser before it erupts?  
+[CA] It heats up and builds pressure until it is forcefully expelled.  
+[WA] It cools down and remains in the ground.  
+[WA] It evaporates slowly into the atmosphere.  
+[WA] It flows out gently as a stream.  
+[END]  
+-------------------------------------------  
+[MCQ] What is the role of underground chambers in geyser formation?  
+[CA] They store water and allow it to heat up, building pressure until eruption.  
+[WA] They filter the water and reduce its temperature.  
+[WA] They collect minerals from the water.  
+[WA] They create space for magma to rise to the surface.  
+[END]  
+-------------------------------------------  
+[MCQ] What is the process that causes the eruption of a geyser?  
+[CA] Build-up of steam and pressure within an underground chamber.  
+[WA] Earthquake activity near the geyser.  
+[WA] A change in water temperature from the surface.  
+[WA] Volcanic eruption directly beneath the geyser.  
+[END]  
+-------------------------------------------  
+[SAQ] What causes water to erupt from a geyser in a sudden burst?  
+[A] Pressure  
+[END]  
+-------------------------------------------  
+[MCQ] Which of the following features is often found near geysers?  
+[CA] Hot springs  
+[WA] Glaciers  
+[WA] Sand dunes  
+[WA] Volcanic craters  
+[END]  
+-------------------------------------------  
+[MCQ] What is the mineral olivine commonly associated with in geothermal environments?  
+[CA] Volcanic rocks and high-temperature conditions  
+[WA] Ice formations in polar regions  
+[WA] Sedimentary deposits in lakes  
+[WA] Crystalline structures formed by wind erosion  
+[END]  
+-------------------------------------------  
+[MCQ] What process involves the alteration of rocks through interaction with hot fluids in geothermal areas?  
+[CA] Metasomatism  
+[WA] Weathering  
+[WA] Sedimentation  
+[WA] Erosion  
+[END]  
+-------------------------------------------  
+[SAQ] What is the term for the features formed when minerals like silica crystallize on the surface of geysers, often seen as dripping formations?  
+[A] Dripstones  
+[END]  
+-------------------------------------------  
+[MCQ] Which feature is a vertical passage in a geyser that allows heated water to rise and erupt?  
+[CA] Vertical shaft  
+[WA] Sinkhole  
+[WA] Lava tube  
+[WA] Water reservoir  
+[END]  
+-------------------------------------------  
+[MCQ] What is a term used to describe the hard, crust-like mineral deposits formed by water evaporation around geysers?  
+[CA] Sinter  
+[WA] Lichen  
+[WA] Ice sheet  
+[WA] Sediment  
+[END]  
+-------------------------------------------  
+[SAQ] What do we call a source of groundwater where heated water is expelled through vents in geothermal areas?  
+[A] Geyser  
+[END]  
+-------------------------------------------  
+[MCQ] What geological material is often found in the formation of geothermal grout, which helps seal off fractures in geothermal systems?  
+[CA] Silicates  
+[WA] Carbonates  
+[WA] Sulfates  
+[WA] Halides  
+[END]  
+-------------------------------------------  
+[SAQ] What type of water circulates in geothermal systems where cold water from the surface moves down and hot water rises?  
+[A] Groundwater  
+[END]  
+-------------------------------------------  
+[MCQ] What occurs when water from the surface enters a geothermal system and cools down, eventually creating a pressure build-up?  
+[CA] Increased pressure  
+[WA] Water evaporation  
+[WA] Erosion of minerals  
+[WA] Decreased temperature  
+[END]  
+-------------------------------------------  
+[SAQ] What is formed in geothermal environments when groundwater interacts with heated rocks, creating hot, bubbling features?  
+[A] Mudpots  
+[END]  
+-------------------------------------------  
+[MCQ] In geothermal areas, which group of minerals, primarily associated with volcanic rocks, are commonly dissolved by hot, circulating water?  
+[CA] Silicates  
+[WA] Carbonates  
+[WA] Phosphates  
+[WA] Chlorides  
+[END]  
+-------------------------------------------  
+[MCQ] What happens when silicates are dissolved in geothermal water?  
+[CA] They form various minerals that are deposited in the surrounding area.  
+[WA] They reduce the temperature of the water.  
+[WA] They increase the acidity of the water.  
+[WA] They make the geothermal area more acidic.  
+[END]  
+-------------------------------------------  
+[SAQ] What term refers to the process where the dissolution of minerals like silicates in water leads to the formation of new deposits?  
+[A] Metasomatism  
+[END]  
+-------------------------------------------  
+[MCQ] How are hydrothermal pools considered a potential source of life?  
+[CA] They provide unique conditions that may support extremophiles.  
+[WA] They create acidic environments that limit life.  
+[WA] They lead to increased water evaporation, reducing life potential.  
+[WA] They are only suitable for plant growth, not animal life.  
+[END]  
+-------------------------------------------  
+[SAQ] What type of rock is typically altered by hot fluids in geothermal systems to form new mineral deposits?  
+[A] Granite  
+[END]  
+-------------------------------------------  
+[MCQ] What chemical compound, often found in geothermal systems, can be created through the dissolution of silicates?  
+[CA] Bicarbonates  
+[WA] Sulfates  
+[WA] Phosphates  
+[WA] Nitrates  
+[END]  
+-------------------------------------------  
+[SAQ] What type of mineral is commonly formed as a result of dissolved silicates in geothermal environments?  
+[A] Bicarbonates  
+[END]  
+-------------------------------------------  
+[MCQ] What is considered a potential source of life in geothermal environments?  
+[CA] Hydrothermal pools  
+[WA] Ice caps  
+[WA] Sedimentary basins  
+[WA] Coastal estuaries  
+[END]  
+-------------------------------------------  
+[SAQ] What is the term for the material used to seal fractures in geothermal systems?  
+[A] Grout  
+[END]  
+-------------------------------------------  
+[MCQ] What is another name for geyserite, the mineral often associated with geysers?  
+[CA] Sinter  
+[WA] Limestone  
+[WA] Basalt  
+[WA] Granite  
+[END]  
+------------------------------------------- 
+[MCQ] What happens to the temperature of water as it moves through a geothermal system?  
+[CA] Hot water rises and cold water sinks, creating a cycle.  
+[WA] Cold water rises and hot water sinks.  
+[WA] Both hot and cold water move uniformly.  
+[WA] Hot water becomes cooler as it rises.  
+[END]  
+-------------------------------------------  
+[MCQ] What is typically the main driving force behind the movement of hot water in geothermal systems?  
+[CA] Heat from beneath the Earth's surface  
+[WA] Wind movement  
+[WA] Tidal forces  
+[WA] Atmospheric pressure  
+[END]  
+-------------------------------------------  
+[T] Dunes
+-------------------------------------------
+[MCQ] How does the roundness of a dune relate to its distance from the source?  
+[CA] The farther the dune is, the rounder it becomes due to abrasion.  
+[WA] The closer the dune is, the rounder it becomes due to deposition.  
+[WA] Distance has no effect on the roundness of a dune.  
+[WA] Dunes closer to the source are more rounded due to wind velocity.  
+[END]  
+-------------------------------------------  
+[MCQ] Why do dunes become more spherical over time?  
+[CA] Abrasion wears down sharp edges as particles collide.  
+[WA] Wind deposits uniform layers, shaping a sphere.  
+[WA] Water erosion smooths the surface of dunes.  
+[WA] Gravitational settling pulls sand into a spherical shape.  
+[END]  
+-------------------------------------------  
+[SAQ] What property of a dune increases as its edges are worn down due to repeated collisions with other particles?  
+[A] Roundness  
+[END]  
+-------------------------------------------  
+[SAQ] What term describes how closely a dune's shape resembles a sphere as it undergoes abrasion over time?  
+[A] Sphericity  
+[END]  
+-------------------------------------------  
+[MCQ] What is the gently sloping side of a dune that faces the wind called?  
+[CA] Windward face  
+[WA] Slip face  
+[WA] Leeward face  
+[WA] Stoss face  
+[END]  
+-------------------------------------------  
+[MCQ] What is the steep, downwind side of a dune where sand is deposited called?  
+[CA] Slip face  
+[WA] Windward face  
+[WA] Stoss face  
+[WA] Crest  
+[END]  
+-------------------------------------------  
+[MCQ] What is the primary force responsible for the movement and formation of sand dunes?  
+[CA] Wind  
+[WA] Water currents  
+[WA] Gravity alone  
+[WA] Earthquakes  
+[END]  
+-------------------------------------------  
+[MCQ] What happens when sand particles are carried up the windward side of a dune and then deposited on the slip face?  
+[CA] The dune migrates in the direction of the wind  
+[WA] The dune becomes smaller over time  
+[WA] The dune moves against the wind direction  
+[WA] The dune stops moving entirely  
+[END]  
+-------------------------------------------  
+[MCQ] What is the term for the process of sand being lifted and bounced by the wind, contributing to dune movement?  
+[CA] Saltation  
+[WA] Deposition  
+[WA] Erosion  
+[WA] Deflation  
+[END]  
+-------------------------------------------  
+[MCQ] The leeward side of a dune is also called the:  
+[CA] Slip face  
+[WA] Stoss face  
+[WA] Windward side  
+[WA] Crest  
+[END]  
+-------------------------------------------  
+[SAQ] What is the term for the upwind side of a dune where sand is picked up and transported?  
+[A] Windward face  
+[END]  
+-------------------------------------------  
+[SAQ] What is the name of the steeper side of a dune where sand is deposited after being carried over the crest?  
+[A] Slip face  
+[END]  
+-------------------------------------------  
+[MCQ] How does cross-bedding form in sand dunes?  
+[CA] Wind moves sand up the windward side, depositing layers on the slip face at an angle  
+[WA] Wind carves deep channels into the dunes, creating angled layers  
+[WA] Sand particles settle in horizontal layers due to gravity alone  
+[WA] Water deposition causes sediment to stack in even, horizontal layers  
+[END]  
+-------------------------------------------  
+[MCQ] What does the angle of cross-bedding within a dune indicate?  
+[CA] The direction the wind was moving when the dune formed  
+[WA] The direction water was flowing over the dune  
+[WA] That the dune is formed by tectonic activity  
+[WA] That the dune has been undisturbed for millions of years  
+[END]  
+-------------------------------------------  
+[MCQ] What happens to cross-bedding when a dune migrates?  
+[CA] Older layers get buried as new layers form on top  
+[WA] The cross-bedding remains unchanged as dunes do not move  
+[WA] The slip face moves up the dune instead of down  
+[WA] Cross-bedding only forms after the dune stops moving  
+[END]  
+-------------------------------------------  
+[MCQ] What can cross-bedding in ancient sandstone tell geologists about past dune environments?  
+[CA] The direction and strength of past winds  
+[WA] The presence of earthquakes in the area  
+[WA] The amount of plant life that once covered the dunes  
+[WA] That the dunes formed under water rather than in the desert  
+[END]  
+-------------------------------------------  
+[SAQ] What sedimentary structure forms when sand is deposited at an angle on the slip face of a dune?  
+[A] Cross-bedding  
+[END]  
+-------------------------------------------  
+[MCQ] What is the primary process that moves sand grains in dune migration?  
+[CA] Saltation  
+[WA] Suspension  
+[WA] Creep  
+[WA] Erosion by water  
+[END]  
+-------------------------------------------  
+[MCQ] How does saltation contribute to dune migration?  
+[CA] Wind lifts sand grains, which bounce and dislodge other grains as they land  
+[WA] Sand grains roll slowly along the ground without becoming airborne  
+[WA] Sand remains suspended in the air and settles far from its original location  
+[WA] Large rocks hit the dune and break it apart into smaller grains  
+[END]  
+-------------------------------------------  
+[MCQ] What role does suspension play in sand transport?  
+[CA] Very fine sand and dust remain airborne and travel long distances  
+[WA] Larger sand grains roll along the ground due to wind energy  
+[WA] Sand particles move in short jumps, dislodging other grains  
+[WA] Wind carries entire dunes intact to new locations  
+[END]  
+-------------------------------------------  
+[MCQ] What happens to sand grains that are too large to be lifted by the wind?  
+[CA] They move slowly by creep along the surface  
+[WA] They are carried away in suspension  
+[WA] They dissolve in water and form new minerals  
+[WA] They are immediately broken into smaller pieces by wind pressure  
+[END]  
+-------------------------------------------  
+[MCQ] Where does sand deposition primarily occur during dune migration?  
+[CA] On the slip face of the dune  
+[WA] On the windward side of the dune  
+[WA] In the upper atmosphere before falling back to Earth  
+[WA] At the base of mountains, forming new dunes  
+[END]  
+-------------------------------------------  
+[MCQ] What happens to a dune when wind velocity decreases?  
+[CA] Sand is deposited, contributing to dune migration  
+[WA] The dune stops migrating permanently  
+[WA] Sand is eroded, making the dune smaller  
+[WA] The dune collapses and disappears  
+[END]  
+-------------------------------------------  
+[MCQ] What process causes dunes to migrate in the direction of prevailing winds?  
+[CA] Erosion on the windward side and deposition on the slip face  
+[WA] Uniform erosion on all sides of the dune  
+[WA] Sand moving downhill due to gravity  
+[WA] Wind pushing the entire dune as a solid mass  
+[END]  
+-------------------------------------------  
+[SAQ] What is the process where sand grains roll along the surface due to wind?  
+[A] Creep  
+[END]  
+-------------------------------------------  
+[SAQ] What is the name for the process where sand is lifted into the air and carried over long distances?  
+[A] Suspension  
+[END]  
+-------------------------------------------  
+[SAQ] What is the primary cause of sand dune migration?  
+[A] Wind-driven erosion and deposition  
+[END]  
+-------------------------------------------  
+[MCQ] What process leads to the formation of desert pavement?  
+[CA] Wind removes smaller particles, leaving larger clasts behind  
+[WA] Water carries larger rocks away, leaving behind fine sand  
+[WA] Plants bind sand and gravel together, preventing erosion  
+[WA] Volcanic activity deposits layers of rock fragments over time  
+[END]  
+-------------------------------------------  
+[MCQ] Why do smaller particles get removed from desert surfaces more easily than larger ones?  
+[CA] They are lighter and more easily carried by wind or water  
+[WA] They dissolve into the soil more quickly  
+[WA] They absorb more heat and break down faster  
+[WA] They chemically bond to larger clasts, making them unstable  
+[END]  
+-------------------------------------------  
+[MCQ] What happens to the surface of a desert over time as fine particles are removed?  
+[CA] It becomes covered with tightly packed larger clasts  
+[WA] It turns into a sand dune  
+[WA] It erodes away completely, exposing bedrock  
+[WA] It becomes fertile soil due to increased mineral exposure  
+[END]  
+-------------------------------------------  
+[MCQ] Why do larger clasts tend to remain in place on desert pavements?  
+[CA] They are too heavy to be moved by wind easily  
+[WA] They dissolve more quickly than smaller particles  
+[WA] They are chemically bound to the surface  
+[WA] They repel wind and prevent erosion  
+[END]  
+-------------------------------------------  
+[SAQ] Desert pavement is an example of a surface feature formed primarily by __________ erosion.  
+[A] Wind
+[END]  
+-------------------------------------------  
+[MCQ] What type of dune is characterized by crescent-shaped ridges with horns pointing downwind, commonly found in deserts with limited vegetation?  
+[CA] Barchan  
+[WA] Transverse  
+[WA] Parabolic  
+[WA] Linear  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of dune is typically long, linear, and forms in areas with strong, unidirectional winds and little vegetation?  
+[CA] Linear  
+[WA] Barchan  
+[WA] Parabolic  
+[WA] Star  
+[END]  
+-------------------------------------------  
+[MCQ] How do transverse dunes form?  
+[CA] They form perpendicular to the wind direction in areas with abundant sand supply and moderate winds.  
+[WA] They form parallel to the wind direction in areas with sparse sand supply.  
+[WA] They form in areas with high vegetation cover.  
+[WA] They form from the combination of barchan and parabolic dunes.  
+[END]  
+-------------------------------------------  
+[MCQ] What is a distinguishing feature of parabolic dunes compared to barchan dunes?  
+[CA] Parabolic dunes have their horns pointing upwind, often influenced by vegetation.  
+[WA] Parabolic dunes have their horns pointing downwind, similar to barchan dunes.  
+[WA] Parabolic dunes form in the same conditions as linear dunes.  
+[WA] Parabolic dunes form in areas with little to no sand supply.  
+[END]  
+-------------------------------------------  
+[MCQ] Which type of dune consists of multiple ridges and appears star-shaped, commonly found in areas with variable wind directions?  
+[CA] Star  
+[WA] Barchan  
+[WA] Linear  
+[WA] Parabolic  
+[END]  
+-------------------------------------------  
+[MCQ] What is the main factor contributing to the formation of parabolic dunes?  
+[CA] Vegetation stabilizing the horns and causing the dune to form in a U-shape  
+[WA] High wind speeds causing sand to pile up in a linear formation  
+[WA] The lack of vegetation, allowing dunes to shift freely  
+[WA] Consistent, unidirectional winds over a long period  
+[END]  
+------------------------------------------- 
+[SAQ] What type of dune forms when the wind direction is predominantly unidirectional and moderate?  
+[A] Barchan  
+[END]  
+-------------------------------------------  
+[SAQ] What type of dune forms when the wind direction is consistent and strong, causing long, parallel ridges?  
+[A] Linear  
+[END]  
+-------------------------------------------  
+[SAQ] What type of dune forms when the wind blows from a variety of directions, creating a star-like shape?  
+[A] Star  
+[END]  
+-------------------------------------------  
+[SAQ] What type of dune forms when the wind direction is mainly perpendicular, with abundant sand supply?  
+[A] Transverse  
+[END]  
+-------------------------------------------  
+[SAQ] What type of dune forms when the wind direction is variable and vegetation stabilizes the horns, forming a U-shape?  
+[A] Parabolic  
+[END]  
+-------------------------------------------  
+[SAQ] What type of dune is formed when the wind direction is variable, but the dune is influenced by both unidirectional winds and sand supply?  
+[A] Barchan w/ Trans  
+[END]  
+-------------------------------------------
+[MCQ] What is a placer deposit?  
+[CA] A concentration of valuable minerals formed by gravity separation during sediment transport  
+[WA] A type of sedimentary rock formed by the compression of organic material  
+[WA] A deposit of minerals formed through volcanic activity  
+[WA] A type of glacial deposit formed by ice melting  
+[END]  
+------------------------------------------- 
+[T] Craters
+-------------------------------------------
+[MCQ] What is a characteristic of a simple crater?  
+[CA] A bowl-shaped depression with a raised rim and no central peak  
+[WA] A large, deep depression with a central peak and surrounding ring  
+[WA] A crater formed by volcanic activity  
+[WA] A crater that occurs in the middle of a mountain range  
+[END]  
+-------------------------------------------  
+[SAQ] What type of crater has a central peak and terraces?  
+[A] Complex Crater  
+[END]  
+-------------------------------------------  
+[MCQ] What is a key difference between simple and complex craters?  
+[CA] Complex craters have a central peak and terraces, while simple craters are bowl-shaped  
+[WA] Simple craters are larger and deeper than complex craters  
+[WA] Complex craters are formed by volcanic activity, while simple craters are not  
+[WA] Simple craters are caused by meteorite impact, and complex craters are formed by water erosion  
+[END]  
+-------------------------------------------  
+[SAQ] What type of crater is bowl-shaped and has no central peak?  
+[A] Simple Crater  
+[END]  
+-------------------------------------------
+[MCQ] What is the primary difference between impact craters and volcanic craters?  
+[CA] Impact craters are formed by meteorite impacts, while volcanic craters are formed by volcanic activity  
+[WA] Impact craters are formed by volcanic eruptions, while volcanic craters are formed by meteorite impacts  
+[WA] Volcanic craters are typically larger than impact craters  
+[WA] Impact craters are found only on Earth, while volcanic craters are found only on the Moon  
+[END]  
+-------------------------------------------  
+[SAQ] Which type of crater is formed by a meteorite impact?  
+[A] Impact Crater  
+[END]  
+-------------------------------------------  
+[MCQ] What is a common feature of volcanic craters that is not found in impact craters?  
+[CA] A lava vent or magma chamber  
+[WA] A raised rim formed by debris ejected during the impact  
+[WA] A central peak  
+[WA] A bowl-shaped depression with no surrounding ring  
+[END]  
+-------------------------------------------  
+[SAQ] What type of crater is formed by volcanic eruptions?  
+[A] Volcanic Crater  
+[END]  
+-------------------------------------------
+[MCQ] What is the primary difference between explosive and effusive volcanic eruptions?  
+[CA] Explosive eruptions are violent and eject materials into the atmosphere, while effusive eruptions involve slow, steady lava flow  
+[WA] Explosive eruptions involve slow, steady lava flow, while effusive eruptions are violent and eject materials into the atmosphere  
+[WA] Explosive eruptions only occur in certain locations, while effusive eruptions occur everywhere  
+[WA] Explosive eruptions result in the formation of volcanic craters, while effusive eruptions do not  
+[END]  
+-------------------------------------------  
+[SAQ] What type of volcanic eruption involves violent ejection of materials into the atmosphere?  
+[A] Explosive
+[END]  
+-------------------------------------------  
+[MCQ] Which type of volcanic eruption is characterized by slow, steady lava flow?  
+[CA] Effusive Eruption  
+[WA] Explosive Eruption  
+[WA] Pyroclastic Flow  
+[WA] Leong Crashout at Avadhut
+[END]  
+-------------------------------------------  
+[SAQ] What type of eruption involves lava flows rather than violent explosions?  
+[A] Effusive 
+[END]  
+-------------------------------------------
+[MCQ] Which of the following is a connection between impact and volcanic craters?  
+[CA] Both have craters, rims, and ejecta  
+[WA] Only impact craters have craters and rims  
+[WA] Only volcanic craters have ejecta and rims  
+[WA] Impact craters do not have ejecta  
+[END]  
+-------------------------------------------  
+[SAQ] What type of crater has more symmetrical features and evenly distributed ejecta?  
+[A] Impact Crater  
+[END]  
+-------------------------------------------  
+[MCQ] Which of the following best describes the features of an effusive volcanic crater compared to an explosive volcanic crater?  
+[CA] Effusive volcanic craters are more symmetrical than explosive volcanic craters and less destructive  
+[WA] Effusive volcanic craters are less symmetrical than explosive volcanic craters  
+[WA] Explosive volcanic craters are more symmetrical and less destructive than effusive volcanic craters  
+[WA] Effusive volcanic craters are steeper and more irregular than explosive volcanic craters  
+[END]  
+-------------------------------------------  
+[MCQ] What is a characteristic of a vertical impact crater?  
+[CA] Equal distribution of ejecta and symmetrical features  
+[WA] Irregular distribution of ejecta and asymmetrical features  
+[WA] More destructive with steeper crater walls  
+[WA] Shallower and wider than other impact craters  
+[END]  
+-------------------------------------------  
+[MCQ] What happens in a crater formed by a shallower impact angle?  
+[CA] The ejecta distribution is more uneven, and the crater is less symmetrical  
+[WA] The ejecta is evenly distributed and the crater is more symmetrical  
+[WA] The crater has steeper walls and a more circular shape  
+[WA] The crater is deeper and has more regular features  
+[END]  
+-------------------------------------------  
+[MCQ] Which of the following describes the characteristics of a crater formed by a vertical impact angle?  
+[CA] The crater is symmetrical with evenly distributed ejecta  
+[WA] The crater has irregular features with uneven ejecta  
+[WA] The crater has steeper walls and is more destructive  
+[WA] The crater is wider and less deep than a shallower impact crater  
+[END]  
+-------------------------------------------  
+[SAQ] What is the material that is thrown out during an impact and settles around the crater?  
+[A] Ejecta  
+[END]  
+-------------------------------------------  
+[SAQ] What part of the crater refers to the raised area surrounding the impact site?  
+[A] Rim  
+[END]  
+-------------------------------------------  
+[SAQ] What term describes the streaks or rays of material that radiate outward from a crater?  
+[A] Ejecta Ray  
+[END]  
+-------------------------------------------  
+[SAQ] What method is used to determine the relative age of a crater by comparing its position to surrounding features?  
+[A] Relative Dating  
+[END]  
+-------------------------------------------
+[SAQ] What is the limiting factor for the formation of simple craters?  
+[A] Impacted Material  
+[END]  
+-------------------------------------------  
+[SAQ] What is the limiting factor for the formation of complex craters?  
+[A] Surface Gravity  
+[END]  
+-------------------------------------------
+[SAQ] What determines the size of the feature in impact craters?  
+[A] Velocity
+[END]  
+-------------------------------------------  
+[SAQ] What is the concept where younger layers are found above older layers in a sequence of rock?  
+[A] Reverse Stratigraphy  
+[END]  
+-------------------------------------------  
+[SAQ] What type of rock consists of angular fragments of rocks and minerals fused together due to intense pressure?  
+[A] Breccia  
+[END]  
+-------------------------------------------  
+[SAQ] What is the term for the physical changes in minerals caused by high pressure and temperature during an impact event?  
+[A] Shock Metamorphism  
+[END]  
+-------------------------------------------  
+[SAQ] What are small, glassy fragments formed by the rapid cooling of molten material during an impact event?  
+[A] Tektites  
+[END]  
+-------------------------------------------
+[T] Cryovolcanoes
+-------------------------------------------
+[MCQ] What types of surfaces are most commonly associated with cryovolcanic activity?  
+[CA] Icy or frozen surfaces with potential subsurface water  
+[WA] Rocky surfaces with active lava flow  
+[WA] Hot, molten surfaces with active volcanic eruptions  
+[WA] Forested surfaces with significant rainfall  
+[END]  
+-------------------------------------------
+[MCQ] What is the connection between cryovolcanoes and aqueous solutions?  
+[CA] Cryovolcanoes involve the eruption of icy or watery solutions instead of molten rock.  
+[WA] Cryovolcanoes involve molten rock erupting instead of water.  
+[WA] Cryovolcanoes are similar to traditional volcanoes but without any liquids.  
+[WA] Cryovolcanoes are found only on Earth.  
+[END]  
+-------------------------------------------  
+[MCQ] Where have cryovolcanoes NOT been found?  
+[CA] Earth  
+[WA] Europa  
+[WA] Titan  
+[WA] Triton  
+[END]  
+-------------------------------------------  
+[MCQ] What is one of the primary driving forces behind cryovolcanism?  
+[CA] Internal heat source  
+[WA] Solar radiation  
+[WA] Wind erosion  
+[WA] Gravitational pull from Earth  
+[END]  
+-------------------------------------------  
+[MCQ] How does low surface gravity contribute to cryovolcanism?  
+[CA] It allows the eruption of icy materials more easily.  
+[WA] It increases the heat required for eruptions.  
+[WA] It prevents any volcanic activity from occurring.  
+[WA] It causes the icy materials to sink back into the surface.  
+[END]  
+-------------------------------------------  
+[MCQ] How do liquids that can become buoyant affect cryovolcanism?  
+[CA] They help push icy materials to the surface due to pressure differences.  
+[WA] They cool down and prevent eruptions.  
+[WA] They freeze at the surface, blocking volcanic activity.  
+[WA] They absorb heat from the surroundings, stopping eruptions.  
+[END]  
+-------------------------------------------  
+[MCQ] What role does low temperature play in cryovolcanism?  
+[CA] It allows for the existence of icy materials and lower melting points.  
+[WA] It causes volcanic activity to cease completely.  
+[WA] It prevents any solid material from forming in cryovolcanoes.  
+[WA] It increases the rate of surface erosion, preventing eruptions.  
+[END]  
+-------------------------------------------  
+[MCQ] What is the relationship between an internal heat source and cryovolcanism?  
+[CA] An internal heat source provides the necessary heat to melt icy materials beneath the surface.  
+[WA] It cools the icy materials, preventing volcanic activity.  
+[WA] It causes the cryovolcanic materials to become denser and unable to erupt.  
+[WA] It stops cryovolcanic eruptions by creating a solid crust over the surface.  
+[END]  
+-------------------------------------------  
+[T] Glaciation
+-------------------------------------------
+[MCQ] Why are glaciers considered dynamic?  
+[CA] They are constantly moving and changing over time.  
+[WA] They remain stationary and do not change.  
+[WA] They are only affected by temperature but not by pressure.  
+[WA] They only change when subjected to human activity.  
+[END]  
+-------------------------------------------  
+[MCQ] How do atmospheric gases become trapped in ice crystals during glaciation?  
+[CA] Gases are trapped as air bubbles during the freezing process.  
+[WA] Gases are absorbed into the ice only during extreme heat.  
+[WA] Gases are dissolved into the water before it freezes.  
+[WA] Gases cannot be trapped in ice crystals at all.  
+[END]  
+-------------------------------------------  
+[MCQ] What is one way that the trapped gases in ice cores are useful in studying climate change?  
+[CA] They show variations in greenhouse gases over time.  
+[WA] They provide data on ocean salinity changes.  
+[WA] They track ocean current speeds.  
+[WA] They indicate volcanic eruption frequencies.  
+[END]  
+-------------------------------------------  
+[MCQ] What isotopes are often used to study past climate changes in glacial ice?  
+[CA] Oxygen isotopes (O-16 and O-18).  
+[WA] Nitrogen isotopes (N-14 and N-15).  
+[WA] Carbon isotopes (C-12 and C-14).  
+[WA] Hydrogen isotopes (H-1 and H-2).  
+[END]  
+-------------------------------------------  
+[MCQ] How do oxygen isotopes indicate climate changes in glacial ice cores?  
+[CA] The ratio of O-16 to O-18 changes with temperature variations.  
+[WA] The oxygen isotopes remain constant regardless of temperature.  
+[WA] Oxygen isotopes only reflect solar radiation levels.  
+[WA] Oxygen isotopes provide information about ocean currents but not temperature.  
+[END]  
+-------------------------------------------  
+[MCQ] What can the presence of specific isotopes in ice cores indicate?  
+[CA] Past temperatures and climate conditions.  
+[WA] The amount of sunlight received by the Earth.  
+[WA] The depth of the ocean at the time.  
+[WA] The presence of volcanic ash during the period.  
+[END]  
+-------------------------------------------  
+[MCQ] What is internal flow in a glacier?  
+[CA] The movement of ice within the glacier itself, typically due to deformation.  
+[WA] The movement of water beneath the glacier.  
+[WA] The movement of rock debris carried by the glacier.  
+[WA] The movement of air pockets trapped in the ice.  
+[END]  
+-------------------------------------------  
+[MCQ] What causes internal flow in glaciers?  
+[CA] The pressure of the ice and the weight of the glacier causing deformation.  
+[WA] The wind pushing the glacier along the surface.  
+[WA] The melting of ice at the base due to temperature rise.  
+[WA] The freezing of water at the glacier's surface.  
+[END]  
+-------------------------------------------  
+[MCQ] What is basal sliding in glaciers?  
+[CA] The movement of a glacier along its base due to meltwater lubrication.  
+[WA] The movement of ice flowing from the top of the glacier to the bottom.  
+[WA] The melting of the glacier's surface due to solar heating.  
+[WA] The process of ice turning into water at the surface.  
+[END]  
+-------------------------------------------  
+[MCQ] What role does meltwater play in basal sliding?  
+[CA] It reduces friction between the glacier and the ground, allowing the glacier to slide.  
+[WA] It causes the glacier to freeze to the ground.  
+[WA] It evaporates, making the glacier lighter and easier to move.  
+[WA] It increases the friction between the glacier and the ground, preventing movement.  
+[END]  
+-------------------------------------------  
+[MCQ] How does the slope of the terrain affect glacier movement?  
+[CA] A steeper slope generally increases the rate of glacier movement.  
+[WA] A steeper slope causes glaciers to freeze in place.  
+[WA] The slope has no effect on glacier movement.  
+[WA] A steeper slope causes glaciers to move more slowly.  
+[END]  
+-------------------------------------------  
+[MCQ] What is the primary mechanism for glacier movement on flat terrain?  
+[CA] Internal flow, where the ice deforms and moves.  
+[WA] Basal sliding, which requires a steeper slope.  
+[WA] Wind erosion, which pushes the glacier forward.  
+[WA] Volcanic activity that melts the glacier from underneath.  
+[END]  
+-------------------------------------------  
+[SAQ] What is the process by which a glacier moves along its base?  
+[A] Basal sliding  
+[END]  
+-------------------------------------------  
+[SAQ] What causes ice to deform and flow within a glacier?  
+[A] Internal flow  
+[END]  
+-------------------------------------------  
+
+[SAQ] What is the process by which ice directly changes from a solid to a gas without becoming a liquid?  
+[A] Sublimation  
+[END]  
+-------------------------------------------  
+[SAQ] What are the scratches or grooves found on rocks that are caused by glacier movement?  
+[A] Glacial striations  
+[END]  
+-------------------------------------------  
+[MCQ] What feature is formed by the deposition of debris at the edge of a glacier?  
+[CA] Moraine  
+[WA] Drumlins  
+[WA] Erratics  
+[WA] Striations  
+[END]  
+-------------------------------------------  
+[MCQ] What type of landform is a large boulder carried by glacial ice from one area to another?  
+[CA] Erratic  
+[WA] Drumlins  
+[WA] Moraine  
+[WA] Glacier  
+[END]  
+-------------------------------------------  
+[MCQ] What is the shape of a drumlin typically associated with?  
+[CA] A smooth, elongated hill.  
+[WA] A large crater.  
+[WA] A sharp, jagged mountain.  
+[WA] A flat plain.  
+[END]  
+-------------------------------------------  
